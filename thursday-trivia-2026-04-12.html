@@ -38,10 +38,26 @@
     margin-bottom: 20px;
     text-align: center;
     box-shadow: var(--card-shadow);
+    position: relative;
   }
   header h1 { font-size: 2em; letter-spacing: 1px; }
   header .date { font-size: 1.1em; color: var(--gold); margin-top: 4px; }
   header .subtitle { font-size: 0.95em; opacity: 0.8; margin-top: 4px; }
+  header .tribond-link {
+    display: inline-block;
+    margin-top: 12px;
+    background: var(--gold);
+    color: var(--blue);
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    font-size: 0.95em;
+    letter-spacing: 2px;
+    text-decoration: none;
+    padding: 6px 20px;
+    border-radius: 20px;
+    transition: opacity 0.2s;
+  }
+  header .tribond-link:hover { opacity: 0.85; }
 
   .card {
     border-radius: 10px;
@@ -240,6 +256,7 @@
   <h1>🎉 Thursday Trivia Night</h1>
   <div class="date">April 12, 2026</div>
   <div class="subtitle">Your weekly reference sheet — sports · news · history · fun facts</div>
+  <a class="tribond-link" href="https://delbraeth.github.io/tribond/" target="_blank">TRIBOND</a>
 </header>
 
 <!-- ======================== CINCINNATI REDS ======================== -->
