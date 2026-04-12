@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thursday Trivia Sheet – March 19, 2026</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f4f1eb;
+      color: #222;
+      padding: 16px;
+      font-size: 13.5px;
+      line-height: 1.45;
+    }
+    header {
+      background: #1a1a2e;
+      color: white;
+      border-radius: 10px;
+      padding: 14px 18px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+    header h1 { font-size: 20px; letter-spacing: 1px; }
+    header .date { font-size: 13px; color: #aac; }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 12px 14px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+    .card.full { grid-column: 1 / -1; }
+    .card h2 {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      padding-bottom: 5px;
+      border-bottom: 2px solid currentColor;
+    }
+    .card ul { list-style: none; padding: 0; }
+    .card ul li {
+      padding: 5px 0;
+      border-bottom: 1px solid #f0f0f0;
+      display: flex;
+      gap: 8px;
+    }
+    .card ul li:last-child { border-bottom: none; }
+    .label {
+      font-weight: 700;
+      min-width: 28px;
+      flex-shrink: 0;
+    }
+    .answer {
+      color: #555;
+    }
+    /* Section colors */
+    .reds h2 { color: #c6011f; border-color: #c6011f; }
+    .boxoffice h2 { color: #f5a623; border-color: #f5a623; }
+    .deaths h2 { color: #555; border-color: #555; }
+    .history h2 { color: #5b4fcf; border-color: #5b4fcf; }
+    .news h2 { color: #1a7abf; border-color: #1a7abf; }
+    .capitals h2 { color: #2a9d8f; border-color: #2a9d8f; }
+    .sports h2 { color: #1a6b1a; border-color: #1a6b1a; }
+    .tv h2 { color: #7b2d8b; border-color: #7b2d8b; }
+    .arts h2 { color: #b5451b; border-color: #b5451b; }
+    .trivia h2 { color: #e76f51; border-color: #e76f51; }
+
+    .big-stat {
+      text-align: center;
+      padding: 10px 0 4px;
+    }
+    .big-stat .number { font-size: 32px; font-weight: 900; color: #c6011f; }
+    .big-stat .sublabel { font-size: 11px; color: #888; margin-top: 2px; }
+    .streak { font-size: 12px; color: #888; margin-top: 4px; }
+
+    .movie-title { font-size: 16px; font-weight: 800; color: #f5a623; margin-bottom: 4px; }
+    .movie-gross { font-size: 13px; color: #333; margin-bottom: 4px; }
+    .movie-fact { font-size: 12px; color: #666; font-style: italic; }
+
+    @media (max-width: 480px) {
+      .grid { grid-template-columns: 1fr; }
+      .card.full { grid-column: 1; }
+    }
+    @media print {
+      body { background: white; padding: 0; }
+      .card { box-shadow: none; border: 1px solid #ddd; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div>
+      <h1>🎯 Thursday Trivia Night</h1>
+      <div class="date">Reference Sheet — March 19, 2026</div>
+    </div>
+    <div style="font-size: 24px;">🍺</div>
+  </header>
+
+  <div class="grid">
+
+    <!-- REDS -->
+    <div class="card reds">
+      <h2>⚾ Cincinnati Reds</h2>
+      <div class="big-stat">
+        <div class="number">13–12</div>
+        <div class="sublabel">2026 Spring Training Record</div>
+        <div class="streak">Lost last 3 · Played LAA on 3/18</div>
+      </div>
+    </div>
+
+    <!-- BOX OFFICE -->
+    <div class="card boxoffice">
+      <h2>🎬 #1 Box Office</h2>
+      <div class="movie-title">Hoppers</div>
+      <div class="movie-gross">$28.5M this weekend &nbsp;·&nbsp; $86.8M total (10 days)</div>
+      <div class="movie-fact">Held the #1 spot for its second consecutive weekend.</div>
+    </div>
+
+    <!-- MAJOR SPORTS NEWS -->
+    <div class="card sports full">
+      <h2>🏆 Major Sports — Past 7 Days</h2>
+      <ul>
+        <li><span class="label">🏈 NFL</span><span class="answer">Free agency frenzy: <strong>Kyler Murray</strong> signs with the Vikings · <strong>Tua Tagovailoa</strong> heads to the Falcons · <strong>Mike Evans</strong> joins the 49ers · <strong>Trent McDuffie</strong> traded to the Rams for a 1st-round pick + 4-year, $124M extension.</span></li>
+        <li><span class="label">🏀 NBA</span><span class="answer"><strong>LeBron James</strong> recorded a historic stat line in a Lakers win; <strong>Luke Kennard</strong> hit a game-winning 3-pointer in the final seconds.</span></li>
+        <li><span class="label">🏒 NHL</span><span class="answer"><strong>Panthers blanked the Oilers 4–0</strong> · Blue Jackets beat the Rangers 6–3, moving into a playoff spot · Bruins won 6–1 over the Jets in <strong>Reichel's</strong> Boston debut.</span></li>
+        <li><span class="label">⚾ MLB</span><span class="answer">Spring Training underway. <strong>Astros</strong> lose reliever Sousa to an oblique strain for an extended period. <strong>Mets</strong> experimenting with dugout-relayed pitch calls to catcher.</span></li>
+        <li><span class="label">🏀 NCAA</span><span class="answer"><strong>March Madness First Round</strong> (Mar 19): Big upsets early — (9) Iowa knocked out defending champ (1) Florida · (10) Texas beat a play-in game to stun (2) Gonzaga · Big Ten leads with <strong>6 teams</strong> advancing to the Sweet 16. Selection Sunday was Mar 15; First Four played Mar 17–18.</span></li>
+      </ul>
+    </div>
+
+    <!-- THIS DAY IN HISTORY -->
+    <div class="card history">
+      <h2>📅 This Day in History — March 19</h2>
+      <ul>
+        <li><span class="label">2003</span><span class="answer">President George W. Bush ordered air strikes on Baghdad, launching the Iraq War.</span></li>
+        <li><span class="label">1918</span><span class="answer">US Congress approved Daylight Saving Time and established official time zones.</span></li>
+        <li><span class="label">1882</span><span class="answer">Construction began on the Sagrada Família in Barcelona. Antoni Gaudí later took over as architect.</span></li>
+        <li><span class="label">1979</span><span class="answer">C-SPAN began broadcasting US House of Representatives proceedings live on cable TV.</span></li>
+        <li><span class="label">🎉</span><span class="answer"><strong>National Days:</strong> National Poultry Day · National Let's Laugh Day · National Chocolate Caramel Day · Absolutely Incredible Kid Day</span></li>
+      </ul>
+    </div>
+
+    <!-- CURRENT EVENTS & AWARDS -->
+    <div class="card news">
+      <h2>📰 Current Events</h2>
+      <ul>
+        <li><span class="label">🏆</span><span class="answer"><strong>98th Oscars</strong> (Mar 15): <em>One Battle After Another</em> won Best Picture. Michael B. Jordan won Best Actor for <em>Sinners</em>. Jessie Buckley won Best Actress for <em>Hamnet</em>. Conan O'Brien hosted.</span></li>
+        <li><span class="label">🎵</span><span class="answer"><strong>iHeartRadio Music Awards</strong> coming March 26.</span></li>
+        <li><span class="label">🆕</span><span class="answer">The Oscars debuted a brand new category this year: <strong>Best Achievement in Casting</strong> — first new competitive category since Best Animated Feature in 2001.</span></li>
+      </ul>
+    </div>
+
+    <!-- CELEBRITY DEATHS -->
+    <div class="card deaths full">
+      <h2>🕯️ Notable Passings (Past 7 Days)</h2>
+      <ul>
+        <li><span class="label">3/19</span><span class="answer"><strong>Chuck Norris</strong>, 86 — martial artist & action icon, star of <em>Walker, Texas Ranger</em> and countless action films. Also famous for "Chuck Norris facts" memes.</span></li>
+        <li><span class="label">3/17</span><span class="answer"><strong>Kiki Shepard</strong>, 74 — beloved co-host of <em>Showtime at the Apollo</em>. Died of a heart attack in Los Angeles.</span></li>
+        <li><span class="label">3/13</span><span class="answer"><strong>Phil Campbell</strong>, 64 — guitarist for heavy metal legends <strong>Motörhead</strong> from 1984 until the band's end in 2015.</span></li>
+      </ul>
+    </div>
+
+    <!-- CAPITALS -->
+    <div class="card capitals">
+      <h2>🌍 Capitals Quiz</h2>
+      <ul>
+        <li><span class="label">Q:</span><span class="answer">What is the capital of Australia? <strong>→ Canberra</strong> (not Sydney!)</span></li>
+        <li><span class="label">Q:</span><span class="answer">What is the capital of Montana? <strong>→ Helena</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">What is the capital of Kazakhstan? <strong>→ Astana</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">What is the capital of Vermont? <strong>→ Montpelier</strong> (smallest US state capital by population)</span></li>
+      </ul>
+    </div>
+
+    <!-- CLASSIC TV -->
+    <div class="card tv full">
+      <h2>📺 Classic TV — Actors &amp; Roles (70s–90s)</h2>
+      <ul>
+        <li><span class="label">Q:</span><span class="answer">Who played Sam Malone, the bar owner on <em>Cheers</em>? (1982–1993) <strong>→ Ted Danson</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">Who played Al Bundy on <em>Married... with Children</em>? (1987–1997) <strong>→ Ed O'Neill</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">What actress played private investigator Remington Steele's partner Laura Holt? (1982–1987) <strong>→ Stephanie Zimbalist</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">Who played Hawkeye Pierce on <em>M*A*S*H</em>? (1972–1983) <strong>→ Alan Alda</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">Who played the Lone Ranger's sidekick Tonto in the 1970s TV revival? <strong>→ Michael Horse</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">Who played bookstore owner Rob Petrie's TV-writer boss Alan Brady on <em>The Dick Van Dyke Show</em>? (1961–1966) <strong>→ Carl Reiner</strong></span></li>
+      </ul>
+    </div>
+
+    <!-- ARTS & LITERATURE -->
+    <div class="card arts full">
+      <h2>📚 Arts &amp; Literature</h2>
+      <ul>
+        <li><span class="label">Q:</span><span class="answer">Who wrote <em>To Kill a Mockingbird</em>? <strong>→ Harper Lee</strong> (published 1960; won the Pulitzer Prize in 1961)</span></li>
+        <li><span class="label">Q:</span><span class="answer">What novel begins with the line "Call me Ishmael"? <strong>→ Moby-Dick</strong> by Herman Melville (1851)</span></li>
+        <li><span class="label">Q:</span><span class="answer">Who painted the <em>Starry Night</em>? <strong>→ Vincent van Gogh</strong> (1889, now at MoMA in New York)</span></li>
+        <li><span class="label">Q:</span><span class="answer">What poet wrote "The Road Not Taken"? <strong>→ Robert Frost</strong> (1916)</span></li>
+        <li><span class="label">Q:</span><span class="answer">In what novel would you find the character Atticus Finch? <strong>→ To Kill a Mockingbird</strong> — but also: who is his daughter? <strong>→ Scout Finch</strong></span></li>
+        <li><span class="label">Q:</span><span class="answer">Who composed "The Four Seasons"? <strong>→ Antonio Vivaldi</strong> (written c. 1720, first published 1725)</span></li>
+      </ul>
+    </div>
+
+    <!-- GENERAL TRIVIA -->
+    <div class="card trivia">
+      <h2>🧠 General Trivia</h2>
+      <ul>
+        <li><span class="label">🔬</span><span class="answer">A group of flamingos is called a <strong>flamboyance</strong>.</span></li>
+        <li><span class="label">🍕</span><span class="answer">The world's first pizzeria, <strong>Antica Pizzeria Port'Alba</strong>, opened in Naples, Italy in 1830.</span></li>
+        <li><span class="label">🌊</span><span class="answer">The Pacific Ocean is larger than all of Earth's landmasses <strong>combined</strong>.</span></li>
+        <li><span class="label">🎮</span><span class="answer">The best-selling video game of all time is <strong>Minecraft</strong>, with over 300 million copies sold.</span></li>
+        <li><span class="label">📺</span><span class="answer">The first Academy Awards ceremony in 1929 lasted only <strong>15 minutes</strong>.</span></li>
+        <li><span class="label">🐘</span><span class="answer">Elephants are the only animals that <strong>cannot jump</strong>.</span></li>
+        <li><span class="label">🌍</span><span class="answer">Vatican City is the world's smallest country at just <strong>0.44 square kilometers</strong>.</span></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div style="text-align:center; margin-top:12px; font-size:11px; color:#aaa;">
+    Generated for Thursday Trivia Night · March 19, 2026
+  </div>
+
+</body>
+</html>
