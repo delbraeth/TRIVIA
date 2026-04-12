@@ -5,548 +5,709 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thursday Trivia Night — April 12, 2026</title>
 <style>
-  :root {
-    --red: #e63946;
-    --blue: #1d3557;
-    --lightblue: #457b9d;
-    --cream: #f1faee;
-    --green: #2d6a4f;
-    --purple: #6a0572;
-    --orange: #e76f51;
-    --teal: #118ab2;
-    --gold: #e9c46a;
-    --pink: #e07a5f;
-    --dark: #1a1a2e;
-    --text: #22223b;
-    --card-shadow: 0 4px 12px rgba(0,0,0,0.12);
-  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    font-family: 'Georgia', serif;
-    background: #f5f0eb;
-    color: var(--text);
-    line-height: 1.6;
-    padding: 16px;
-    max-width: 900px;
-    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #f0f2f5;
+    color: #222;
+    font-size: 15px;
+    line-height: 1.5;
   }
   header {
-    background: var(--blue);
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
     color: white;
-    border-radius: 12px;
-    padding: 20px 24px;
-    margin-bottom: 20px;
-    text-align: center;
-    box-shadow: var(--card-shadow);
-    position: relative;
-  }
-  header h1 { font-size: 2em; letter-spacing: 1px; }
-  header .date { font-size: 1.1em; color: var(--gold); margin-top: 4px; }
-  header .subtitle { font-size: 0.95em; opacity: 0.8; margin-top: 4px; }
-  header .tribond-link {
-    display: inline-block;
-    margin-top: 12px;
-    background: var(--gold);
-    color: var(--blue);
-    font-family: 'Georgia', serif;
-    font-weight: bold;
-    font-size: 0.95em;
-    letter-spacing: 2px;
-    text-decoration: none;
-    padding: 6px 20px;
-    border-radius: 20px;
-    transition: opacity 0.2s;
-  }
-  header .tribond-link:hover { opacity: 0.85; }
-
-  .card {
-    border-radius: 10px;
-    padding: 18px 20px;
-    margin-bottom: 18px;
-    box-shadow: var(--card-shadow);
-    page-break-inside: avoid;
-  }
-  .card h2 {
-    font-size: 1.2em;
-    letter-spacing: 0.5px;
-    margin-bottom: 12px;
-    padding-bottom: 8px;
-    border-bottom: 2px solid rgba(255,255,255,0.4);
+    padding: 18px 24px;
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    gap: 8px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.3);
   }
-  .card-reds     { background: #fff0f0; border-left: 5px solid var(--red); }
-  .card-reds h2  { color: var(--red); border-bottom-color: #fcc; }
-  .card-boxoffice { background: #fff9e6; border-left: 5px solid var(--gold); }
-  .card-boxoffice h2 { color: #b8860b; border-bottom-color: #ffe4a0; }
-  .card-sports   { background: #eaf4fb; border-left: 5px solid var(--teal); }
-  .card-sports h2 { color: var(--teal); border-bottom-color: #b0daf0; }
-  .card-deaths   { background: #f3f0fb; border-left: 5px solid var(--purple); }
-  .card-deaths h2 { color: var(--purple); border-bottom-color: #d0bdf4; }
-  .card-history  { background: #f0f7f4; border-left: 5px solid var(--green); }
-  .card-history h2 { color: var(--green); border-bottom-color: #a8d8c8; }
-  .card-news     { background: #fff5f2; border-left: 5px solid var(--orange); }
-  .card-news h2  { color: var(--orange); border-bottom-color: #fcd0c0; }
-  .card-capitals { background: #fef6fb; border-left: 5px solid var(--pink); }
-  .card-capitals h2 { color: var(--pink); border-bottom-color: #f5bdb0; }
-  .card-tv       { background: #f0f4ff; border-left: 5px solid var(--lightblue); }
-  .card-tv h2    { color: var(--lightblue); border-bottom-color: #b0c8e8; }
-  .card-arts     { background: #fff8f0; border-left: 5px solid var(--orange); }
-  .card-arts h2  { color: #c45e22; border-bottom-color: #f5d0a8; }
-  .card-general  { background: #f0fbf4; border-left: 5px solid var(--green); }
-  .card-general h2 { color: var(--green); border-bottom-color: #a0d8b8; }
+  header h1 { font-size: 1.6em; font-weight: 800; letter-spacing: -0.5px; }
+  header .date { font-size: 0.85em; opacity: 0.8; margin-top: 2px; }
 
-  .record-badge {
-    display: inline-block;
-    background: var(--red);
-    color: white;
-    border-radius: 20px;
-    padding: 3px 14px;
-    font-weight: bold;
-    font-size: 1.05em;
-    margin-bottom: 8px;
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px 16px;
   }
-  .form-row {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-top: 8px;
-  }
-  .form-pill {
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 0.85em;
-    font-weight: bold;
-    color: white;
-  }
-  .pill-w  { background: #2d6a4f; }
-  .pill-l  { background: #c1121f; }
 
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.93em;
-    margin-top: 6px;
-  }
-  td, th {
-    padding: 7px 10px;
-    border: 1px solid #ddd;
-    vertical-align: top;
-  }
-  th { background: rgba(0,0,0,0.07); font-weight: bold; }
-  tr:nth-child(even) td { background: rgba(0,0,0,0.025); }
-
-  .qa-list { list-style: none; }
-  .qa-list li {
-    padding: 8px 0;
-    border-bottom: 1px dotted #ddd;
-    font-size: 0.95em;
-  }
-  .qa-list li:last-child { border-bottom: none; }
-  .qa-list .q { font-weight: bold; color: var(--dark); }
-  .qa-list .a { color: #444; margin-top: 2px; }
-  .qa-list .a::before { content: "→ "; color: #999; }
-
-  .fact-list { list-style: none; }
-  .fact-list li {
-    padding: 7px 0;
-    border-bottom: 1px dotted #ddd;
-    font-size: 0.93em;
-  }
-  .fact-list li:last-child { border-bottom: none; }
-  .fact-list li::before { content: "• "; color: #999; }
-
-  .two-col {
+  .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
   }
-  .league-section { margin-bottom: 12px; }
-  .league-section h3 {
-    font-size: 0.95em;
-    color: #555;
-    font-style: italic;
+
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+    header h1 { font-size: 1.2em; }
+  }
+
+  .card {
+    background: white;
+    border-radius: 12px;
+    padding: 16px 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    break-inside: avoid;
+  }
+
+  .card.full-width {
+    grid-column: 1 / -1;
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid;
+  }
+
+  .card-header h2 {
+    font-size: 1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .card-header .icon { font-size: 1.2em; }
+
+  /* Color themes per section */
+  .reds .card-header { border-color: #c6011f; }
+  .reds .card-header h2 { color: #c6011f; }
+
+  .boxoffice .card-header { border-color: #e67e22; }
+  .boxoffice .card-header h2 { color: #e67e22; }
+
+  .sports .card-header { border-color: #2980b9; }
+  .sports .card-header h2 { color: #2980b9; }
+
+  .deaths .card-header { border-color: #7f8c8d; }
+  .deaths .card-header h2 { color: #7f8c8d; }
+
+  .history .card-header { border-color: #8e44ad; }
+  .history .card-header h2 { color: #8e44ad; }
+
+  .news .card-header { border-color: #27ae60; }
+  .news .card-header h2 { color: #27ae60; }
+
+  .capitals .card-header { border-color: #16a085; }
+  .capitals .card-header h2 { color: #16a085; }
+
+  .tv .card-header { border-color: #d35400; }
+  .tv .card-header h2 { color: #d35400; }
+
+  .arts .card-header { border-color: #c0392b; }
+  .arts .card-header h2 { color: #c0392b; }
+
+  .general .card-header { border-color: #2c3e50; }
+  .general .card-header h2 { color: #2c3e50; }
+
+  /* Reds record display */
+  .reds-record {
+    text-align: center;
+    padding: 10px 0 6px;
+  }
+  .reds-record .record-big {
+    font-size: 2.8em;
+    font-weight: 900;
+    color: #c6011f;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  .reds-record .record-label {
+    font-size: 0.75em;
+    color: #888;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 4px;
+    margin-top: 2px;
   }
-  .league-section p { font-size: 0.92em; }
-
-  .death-item {
-    padding: 8px 0;
-    border-bottom: 1px dotted #ddd;
-    font-size: 0.93em;
-  }
-  .death-item:last-child { border-bottom: none; }
-  .death-item .name { font-weight: bold; }
-  .death-item .detail { color: #555; }
-
-  .history-item {
-    padding: 8px 0;
-    border-bottom: 1px dotted #ddd;
-    font-size: 0.93em;
-  }
-  .history-item:last-child { border-bottom: none; }
-  .history-item .year {
-    display: inline-block;
-    background: var(--green);
-    color: white;
-    border-radius: 4px;
-    padding: 1px 8px;
-    font-size: 0.85em;
-    margin-right: 6px;
-    font-weight: bold;
-  }
-  .national-day {
-    font-size: 0.9em;
-    margin-top: 4px;
-    color: #555;
-  }
-
-  .film-hero {
+  .reds-form {
     display: flex;
-    gap: 16px;
-    align-items: flex-start;
+    gap: 5px;
+    justify-content: center;
+    margin: 8px 0;
     flex-wrap: wrap;
   }
-  .film-stats {
-    flex: 1;
-    min-width: 160px;
-  }
-  .stat-line {
-    display: flex;
-    justify-content: space-between;
-    padding: 4px 0;
-    border-bottom: 1px dotted #ddd;
-    font-size: 0.92em;
-  }
-  .stat-line .label { color: #888; }
-  .stat-line .value { font-weight: bold; }
-  .fun-fact {
-    background: rgba(0,0,0,0.04);
-    border-radius: 6px;
-    padding: 8px 12px;
+  .form-badge {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 28px;
+    font-weight: 800;
     font-size: 0.9em;
-    margin-top: 8px;
-    flex: 1;
-    min-width: 180px;
+    color: white;
   }
-  .fun-fact strong { display: block; margin-bottom: 4px; }
+  .form-badge.W { background: #27ae60; }
+  .form-badge.L { background: #e74c3c; }
+  .form-badge.T { background: #95a5a6; }
+  .reds-game-row {
+    background: linear-gradient(135deg, #c6011f, #8b0010);
+    color: white;
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .reds-game-row .game-label {
+    font-size: 0.7em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    opacity: 0.85;
+    margin-bottom: 3px;
+  }
+  .reds-game-row .game-detail {
+    font-weight: 700;
+    font-size: 1em;
+  }
+  .reds-game-row .game-time {
+    font-size: 0.85em;
+    opacity: 0.9;
+    margin-top: 2px;
+  }
+
+  /* Q&A items */
+  .qa-item {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .qa-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+
+  .question {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 3px;
+  }
+  .answer {
+    color: #555;
+    padding-left: 12px;
+    border-left: 3px solid #e0e0e0;
+    font-size: 0.93em;
+  }
+  .answer strong {
+    color: #1a1a2e;
+  }
+
+  /* Fact items */
+  .fact-item {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .fact-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .fact-bullet {
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #f0f2f5;
+    text-align: center;
+    line-height: 22px;
+    font-size: 0.75em;
+    font-weight: 700;
+    color: #555;
+    margin-top: 1px;
+  }
+  .fact-text { font-size: 0.93em; }
+  .fact-text strong { color: #1a1a2e; }
+
+  /* Death items */
+  .death-item {
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .death-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .death-name { font-weight: 700; color: #333; }
+  .death-detail { font-size: 0.88em; color: #666; }
+
+  /* History items */
+  .history-item {
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .history-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .history-year {
+    display: inline-block;
+    background: #8e44ad;
+    color: white;
+    font-weight: 700;
+    font-size: 0.8em;
+    padding: 1px 7px;
+    border-radius: 4px;
+    margin-bottom: 3px;
+  }
+  .history-text { font-size: 0.93em; color: #444; }
+
+  .national-days {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #ddd;
+    font-size: 0.88em;
+    color: #666;
+  }
+  .national-days strong { color: #8e44ad; }
+
+  /* News items */
+  .news-item {
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .news-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .news-tag {
+    display: inline-block;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 1px 6px;
+    border-radius: 4px;
+    background: #e8f5e9;
+    color: #27ae60;
+    margin-bottom: 3px;
+  }
+  .news-text { font-size: 0.93em; color: #444; }
+
+  /* Sports items */
+  .sport-item {
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .sport-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .sport-tag {
+    display: inline-block;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 1px 6px;
+    border-radius: 4px;
+    background: #e3f2fd;
+    color: #2980b9;
+    margin-bottom: 3px;
+  }
+  .sport-text { font-size: 0.93em; color: #444; }
+
+  /* Box office card */
+  .bo-title {
+    font-size: 1.3em;
+    font-weight: 800;
+    color: #e67e22;
+    margin-bottom: 2px;
+  }
+  .bo-gross {
+    font-size: 1.1em;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  .bo-fact {
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    border-left: 3px solid #f0c070;
+  }
+
+  /* General trivia */
+  .trivia-item {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 0.93em;
+  }
+  .trivia-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .trivia-cat {
+    flex-shrink: 0;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #888;
+    background: #f5f5f5;
+    border-radius: 4px;
+    padding: 2px 5px;
+    margin-top: 1px;
+    min-width: 60px;
+    text-align: center;
+  }
+  .trivia-text { color: #444; }
+  .trivia-text strong { color: #1a1a2e; }
 
   footer {
     text-align: center;
+    padding: 20px;
+    color: #aaa;
     font-size: 0.8em;
-    color: #999;
-    margin-top: 24px;
-    padding-top: 12px;
-    border-top: 1px solid #ddd;
-  }
-
-  @media (max-width: 600px) {
-    .two-col { grid-template-columns: 1fr; }
-    header h1 { font-size: 1.5em; }
-    .film-hero { flex-direction: column; }
   }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>🎉 Thursday Trivia Night</h1>
-  <div class="date">April 12, 2026</div>
-  <div class="subtitle">Your weekly reference sheet — sports · news · history · fun facts</div>
-  <a class="tribond-link" href="https://delbraeth.github.io/tribond/" target="_blank">TRIBOND</a>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — April 12, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
 </header>
 
-<!-- ======================== CINCINNATI REDS ======================== -->
-<div class="card card-reds">
-  <h2>⚾ Cincinnati Reds</h2>
-  <div class="record-badge">8–6 · 4th NL Central</div>
-  <p style="font-size:0.93em; margin-bottom:8px;">The Reds have shown better road form (5-1) than home (3-3) so far in 2026.</p>
-  <div class="form-row">
-    <span style="font-size:0.85em; color:#666; align-self:center;">Recent form:</span>
-    <span class="form-pill pill-w">W 2–1 vs TEX (Apr 5)</span>
-    <span class="form-pill pill-l">L 1–8 vs MIA (Apr 9)</span>
-    <span class="form-pill pill-l">L 4–7 vs MIA (Apr 11)</span>
-  </div>
-  <p style="font-size:0.88em; margin-top:10px; color:#666;">Notable: Elly De La Cruz singled home the winning run in the 8th inning of their 2-1 win over Texas on April 5.</p>
-</div>
+<div class="container">
+  <div class="grid">
 
-<!-- ======================== BOX OFFICE ======================== -->
-<div class="card card-boxoffice">
-  <h2>🎬 #1 at the Box Office</h2>
-  <p style="font-size:1.1em; font-weight:bold; margin-bottom:10px;">The Super Mario Galaxy Movie</p>
-  <div class="film-hero">
-    <div class="film-stats">
-      <div class="stat-line"><span class="label">Opening Weekend (Dom.)</span><span class="value">$130.9M</span></div>
-      <div class="stat-line"><span class="label">5-Day Domestic</span><span class="value">$191M</span></div>
-      <div class="stat-line"><span class="label">Global Opening</span><span class="value">$372.6M</span></div>
-      <div class="stat-line"><span class="label">Opening Day</span><span class="value">$34.5M (biggest of 2026)</span></div>
-      <div class="stat-line"><span class="label">IMAX Share</span><span class="value">8% of tickets ($15M)</span></div>
+    <!-- REDS CARD -->
+    <div class="card reds">
+      <div class="card-header">
+        <span class="icon">⚾</span>
+        <h2>Cincinnati Reds</h2>
+      </div>
+      <div class="reds-record">
+        <div class="record-big">8–4</div>
+        <div class="record-label">2026 Season Record</div>
+      </div>
+      <div style="text-align:center; font-size:0.8em; color:#888; margin-bottom:6px;">Recent Form (last 5)</div>
+      <div class="reds-form">
+        <span class="form-badge W">W</span>
+        <span class="form-badge W">W</span>
+        <span class="form-badge W">W</span>
+        <span class="form-badge L">L</span>
+        <span class="form-badge L">L</span>
+      </div>
+      <div style="font-size:0.78em; color:#999; text-align:center; margin-bottom:6px;">
+        Swept Texas Rangers (3-game) → Lost 2 to Miami Marlins
+      </div>
+      <div class="reds-game-row">
+        <div class="game-label">🏠 Today's Game — Home</div>
+        <div class="game-detail">vs. Los Angeles Angels</div>
+        <div class="game-time">⏰ 1:40 PM ET — Great American Ball Park</div>
+      </div>
     </div>
-    <div class="fun-fact">
-      <strong>🍄 Fun Facts</strong>
-      Only animated franchise to have TWO titles open over $350M globally (Mario Bros. was first). Bowser's cauldron popcorn bucket earned a Guinness World Record for the smallest popcorn container. IMAX & 3D screens drove 44% of the North American opening weekend.
+
+    <!-- BOX OFFICE CARD -->
+    <div class="card boxoffice">
+      <div class="card-header">
+        <span class="icon">🎬</span>
+        <h2>#1 Box Office</h2>
+      </div>
+      <div class="bo-title">The Super Mario Galaxy Movie</div>
+      <div class="bo-gross">$130.9M domestic opening weekend · $372M+ worldwide</div>
+      <div class="bo-fact">🎮 Sequel to the 2023 Super Mario Bros. Movie — same directors (Horvath &amp; Jelenic)</div>
+      <div class="bo-fact">🌟 Biggest opening weekend of 2026; already the #2 grossing film of the year</div>
+      <div class="bo-fact">🚀 New cast additions: Brie Larson as Rosalina, Glen Powell as Fox McCloud (Star Fox), Donald Glover as Yoshi</div>
+      <div class="bo-fact">📺 OG cast returns: Chris Pratt (Mario), Anya Taylor-Joy (Peach), Jack Black (Bowser), Charlie Day (Luigi)</div>
     </div>
-  </div>
-</div>
 
-<!-- ======================== SPORTS NEWS ======================== -->
-<div class="card card-sports">
-  <h2>🏆 Sports News Roundup</h2>
+    <!-- SPORTS NEWS CARD -->
+    <div class="card sports full-width">
+      <div class="card-header">
+        <span class="icon">🏆</span>
+        <h2>Sports News — This Week</h2>
+      </div>
 
-  <div class="league-section">
-    <h3>🏀 NBA — Playoffs Around the Corner</h3>
-    <p>The regular season wraps TODAY (April 12). The <strong>SoFi NBA Play-In Tournament</strong> runs April 14–17, with the full Playoffs beginning April 18. Play-In matchups: East — Magic vs. 76ers &amp; Hornets vs. Heat; West — Suns vs. Trail Blazers &amp; Clippers vs. Warriors. Game 1 of the NBA Finals is June 3.</p>
-  </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px;">
+        <div>
+          <div class="sport-item">
+            <div><span class="sport-tag">MLB</span></div>
+            <div class="sport-text">Pirates SS <strong>Konnor Griffin</strong> signed a <strong>$140M extension</strong> — the largest contract ever for a player with so little MLB experience.</div>
+          </div>
+          <div class="sport-item">
+            <div><span class="sport-tag">MLB</span></div>
+            <div class="sport-text">Nine MLB teams terminated contracts with <strong>Main Street Sports Group</strong> due to missed payments, moving to <strong>MLB Local Media</strong> for regional broadcasts.</div>
+          </div>
+          <div class="sport-item">
+            <div><span class="sport-tag">NBA</span></div>
+            <div class="sport-text"><strong>NBA Play-In Tournament</strong> begins April 14. <strong>Detroit Pistons</strong> hold the #1 seed in the East; <strong>OKC Thunder</strong> are #1 in the West. NBA Finals: June 3 on ABC.</div>
+          </div>
+          <div class="sport-item">
+            <div><span class="sport-tag">NBA</span></div>
+            <div class="sport-text"><strong>Boston Celtics</strong> tied the NBA record for made 3-pointers in a single game — going 29-for-59 from deep, with Sam Hauser hitting 8 triples.</div>
+          </div>
+        </div>
+        <div>
+          <div class="sport-item">
+            <div><span class="sport-tag">NHL</span></div>
+            <div class="sport-text">Regular season ends <strong>April 16</strong>; Stanley Cup Playoffs begin <strong>April 18</strong>. Boston Bruins &amp; Ottawa Senators have already clinched berths. Defending champs: <strong>Florida Panthers</strong> (2-peat in 2025).</div>
+          </div>
+          <div class="sport-item">
+            <div><span class="sport-tag">NHL</span></div>
+            <div class="sport-text">Playoff matchups shaping up: East features Bruins, Senators, Leafs. West features Panthers, Jets, and others still being seeded.</div>
+          </div>
+          <div class="sport-item">
+            <div><span class="sport-tag">NCAA 🏀</span></div>
+            <div class="sport-text"><strong>UCLA Bruins</strong> defeated South Carolina Gamecocks <strong>79–51</strong> to win the 2026 NCAA Women's Basketball Championship.</div>
+          </div>
+          <div class="sport-item">
+            <div><span class="sport-tag">MLS</span></div>
+            <div class="sport-text">MLS regular season underway. The league entered a strong spring stretch with multiple <strong>rivalry matchups</strong> across Eastern and Western conferences this weekend.</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-  <div class="league-section">
-    <h3>🏒 NHL — Playoff Race Heating Up</h3>
-    <p><strong>Colorado Avalanche</strong> clinched the Presidents' Trophy (52-16-10); Nathan MacKinnon scored his league-leading 52nd goal of the season. <strong>Pittsburgh Penguins</strong> clinched a playoff berth for the first time since 2022. <strong>Utah Mammoth</strong> clinched their FIRST-EVER playoff berth. Connor McDavid leads the NHL with 133 points (47G, 86A). Regular season ends April 16; playoffs start April 18.</p>
-  </div>
+    <!-- CELEBRITY DEATHS -->
+    <div class="card deaths">
+      <div class="card-header">
+        <span class="icon">🕯️</span>
+        <h2>Recent Passings</h2>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Afrika Bambaataa</div>
+        <div class="death-detail">Age 67 · Apr 10 · Pioneer rapper, DJ, and hip-hop founding father; founder of the Universal Zulu Nation and creator of "Planet Rock"</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Jim Whittaker</div>
+        <div class="death-detail">Apr 7 · The first American to summit <strong>Mount Everest</strong> (1963); mountaineering legend and longtime REI CEO</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Michael Patrick</div>
+        <div class="death-detail">Age 35 · Apr 9 · Irish actor and writer; appeared in Game of Thrones Season 6</div>
+      </div>
+    </div>
 
-  <div class="league-section">
-    <h3>⚾ MLB — Early Season Buzz</h3>
-    <p>Pirates SS <strong>Konnor Griffin</strong> signed a $140M extension — the largest ever for a player with so little MLB experience. <strong>Mets' Juan Soto</strong> (right calf strain) exited in the first inning vs. the Giants. <strong>LAFC</strong> leads MLS's Western Conference unbeaten at 5-0-1. MLB Mexico City Series set for April 25–26 (Diamondbacks vs. Padres).</p>
-  </div>
+    <!-- THIS DAY IN HISTORY -->
+    <div class="card history">
+      <div class="card-header">
+        <span class="icon">📅</span>
+        <h2>This Day in History — April 12</h2>
+      </div>
+      <div class="history-item">
+        <span class="history-year">1961</span>
+        <div class="history-text">Soviet cosmonaut <strong>Yuri Gagarin</strong> became the first human in space, orbiting Earth in 108 minutes aboard Vostok-3KA.</div>
+      </div>
+      <div class="history-item">
+        <span class="history-year">1981</span>
+        <div class="history-text">First launch of <strong>Space Shuttle Columbia</strong> on the STS-1 mission — the beginning of the shuttle era.</div>
+      </div>
+      <div class="history-item">
+        <span class="history-year">1955</span>
+        <div class="history-text"><strong>Jonas Salk's polio vaccine</strong> was declared safe and licensed after a 2-year trial proved it 80–90% effective.</div>
+      </div>
+      <div class="history-item">
+        <span class="history-year">1983</span>
+        <div class="history-text"><strong>Harold Washington</strong> was elected as the first Black mayor of Chicago.</div>
+      </div>
+      <div class="history-item">
+        <span class="history-year">1980</span>
+        <div class="history-text"><strong>Terry Fox</strong> began his Marathon of Hope — his cross-Canada run to raise funds for cancer research.</div>
+      </div>
+      <div class="national-days">
+        <strong>🎉 National Days:</strong> International Day of Human Space Flight · National Grilled Cheese Sandwich Day 🧀 · National Licorice Day · Drop Everything and Read Day 📚 · Big Wind Day · National Only Child Day
+      </div>
+    </div>
 
-  <div class="league-section">
-    <h3>⚽ MLS — Early Season</h3>
-    <p><strong>LAFC</strong> is the only unbeaten team in MLS (5-0-1), with goalkeeper Hugo Lloris recording 6 clean sheets. <strong>Miami Freedom Park (Nu Stadium)</strong> opened April 4 as the new home of Inter Miami CF. <strong>Orlando City</strong> fired longtime manager Oscar Pareja after an 0-3-0 start.</p>
-  </div>
+    <!-- CURRENT EVENTS -->
+    <div class="card news full-width">
+      <div class="card-header">
+        <span class="icon">🌎</span>
+        <h2>Current Events — This Week</h2>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px;">
+        <div>
+          <div class="news-item">
+            <div><span class="news-tag">Middle East</span></div>
+            <div class="news-text">Iran launched major missile/drone attacks on the UAE and Kuwait. The <strong>Strait of Hormuz</strong> was closed, shrinking global oil supply by ~13% and spiking fertilizer prices, hurting U.S. spring planting season.</div>
+          </div>
+          <div class="news-item">
+            <div><span class="news-tag">Diplomacy</span></div>
+            <div class="news-text">Pakistan proposed the <strong>"Islamabad Accord"</strong> — a ceasefire plan calling for an immediate halt to Iran-US hostilities, reopening of the Strait of Hormuz, and 15–20 days of negotiations. President Trump threatened to decimate Iranian infrastructure if a deal wasn't reached by his deadline.</div>
+          </div>
+          <div class="news-item">
+            <div><span class="news-tag">Space</span></div>
+            <div class="news-text">NASA's <strong>Artemis II mission</strong> carried astronauts farther from Earth than any humans have ever traveled — a historic milestone in deep space exploration.</div>
+          </div>
+        </div>
+        <div>
+          <div class="news-item">
+            <div><span class="news-tag">Labor</span></div>
+            <div class="news-text">~3,800 workers at <strong>JBS</strong> (world's largest meat processor) returned to work after the first major U.S. meatpacking strike in over 40 years ended when JBS agreed to new contract talks.</div>
+          </div>
+          <div class="news-item">
+            <div><span class="news-tag">Environment</span></div>
+            <div class="news-text"><strong>Colorado drought</strong> is spreading fast — major cities declared their earliest water restrictions in recorded history this week.</div>
+          </div>
+          <div class="news-item">
+            <div><span class="news-tag">Entertainment</span></div>
+            <div class="news-text">The <strong>Super Mario Galaxy Movie</strong> obliterated the box office with a $190M domestic/$372M global opening — biggest debut of 2026 and the year's largest animated opening ever.</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-  <div class="league-section">
-    <h3>🏈 NFL — Draft Season</h3>
-    <p>2026 NFL Draft kicks off <strong>April 23 in Pittsburgh</strong>. Round 1 is Thursday 8 PM ET. Major free agency moves: CB Trent McDuffie (Rams), OT Laremy Tunsil (Commanders), EDGE Jaelan Phillips (Panthers). The Bengals signed Boye Mafe, Bryan Cook, and Jonathan Allen. Five teams have no first-round pick: Jaguars, Falcons, Colts, Packers, Broncos.</p>
-  </div>
+    <!-- STATE & COUNTRY CAPITALS QUIZ -->
+    <div class="card capitals">
+      <div class="card-header">
+        <span class="icon">🗺️</span>
+        <h2>Capitals Quiz</h2>
+      </div>
 
-  <div class="league-section">
-    <h3>🏀 NCAA — National Champions!</h3>
-    <p><strong>Michigan Wolverines</strong> beat UConn 69–63 to win the 2026 men's basketball national championship — Michigan became the first team to beat UConn past the Sweet 16 since Michigan State in 2009. <strong>UCLA Bruins</strong> defeated South Carolina 79–51 to win the women's national title.</p>
-  </div>
-</div>
+      <div class="qa-item">
+        <div class="question">Q: What is the capital of Montana?</div>
+        <div class="answer"><strong>Helena</strong> (not Billings, which is bigger)</div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: What is the capital of Australia?</div>
+        <div class="answer"><strong>Canberra</strong> (not Sydney or Melbourne)</div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: What is the capital of New Hampshire?</div>
+        <div class="answer"><strong>Concord</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: What is the capital of Kazakhstan?</div>
+        <div class="answer"><strong>Astana</strong> (renamed from Nur-Sultan in 2022; previously Astana)</div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: What is the capital of Oregon?</div>
+        <div class="answer"><strong>Salem</strong> (not Portland)</div>
+      </div>
+    </div>
 
-<!-- ======================== CELEBRITY DEATHS ======================== -->
-<div class="card card-deaths">
-  <h2>🕊️ Celebrity Deaths — Past 7 Days</h2>
+    <!-- CLASSIC TV CARD -->
+    <div class="card tv">
+      <div class="card-header">
+        <span class="icon">📺</span>
+        <h2>Classic TV — Actors &amp; Roles</h2>
+      </div>
 
-  <div class="death-item">
-    <span class="name">Gwendolyn "Blondy" Chisolm</span> — <span class="detail">Age 66 · Died April 6, 2026 in Atlanta. Co-founder of <em>The Sequence</em>, widely credited as the first female hip-hop group.</span>
-  </div>
-  <div class="death-item">
-    <span class="name">Jim Whittaker</span> — <span class="detail">Age 97 · Died April 7, 2026 in Port Townsend, WA. The first American to summit Mount Everest (1963).</span>
-  </div>
-  <div class="death-item">
-    <span class="name">Michael Patrick</span> — <span class="detail">Age 35 · Died April 9, 2026. Irish actor and writer; appeared in <em>Game of Thrones</em> Season 6; known for stage role as Richard III.</span>
-  </div>
-  <div class="death-item">
-    <span class="name">Afrika Bambaataa</span> — <span class="detail">Age 67 · Died April 10, 2026. Pioneering rapper and DJ widely considered one of the founding fathers of hip-hop culture and the electro-funk genre.</span>
-  </div>
-  <p style="font-size:0.8em; color:#888; margin-top:8px;">⚠️ Note: Michael J. Fox is <em>still alive</em> — CNN incorrectly aired a "Remembering..." segment on April 8; Fox publicly refuted it on social media.</p>
-</div>
+      <div class="qa-item">
+        <div class="question">Q: Who played Sam Malone, the bar owner in <em>Cheers</em>?</div>
+        <div class="answer"><strong>Ted Danson</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who played Capt. Benjamin "Hawkeye" Pierce in <em>M*A*S*H</em>?</div>
+        <div class="answer"><strong>Alan Alda</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who played Crockett's partner Det. Ricardo Tubbs in <em>Miami Vice</em>?</div>
+        <div class="answer"><strong>Philip Michael Thomas</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who played Alexis Colby on <em>Dynasty</em> (1981–1989)?</div>
+        <div class="answer"><strong>Joan Collins</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who played Lt. Columbo in the classic detective series <em>Columbo</em>?</div>
+        <div class="answer"><strong>Peter Falk</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who played Spock in the original <em>Star Trek</em> (1966–1969)?</div>
+        <div class="answer"><strong>Leonard Nimoy</strong></div>
+      </div>
+    </div>
 
-<!-- ======================== THIS DAY IN HISTORY ======================== -->
-<div class="card card-history">
-  <h2>📅 This Day in History — April 12</h2>
+    <!-- ARTS & LITERATURE -->
+    <div class="card arts">
+      <div class="card-header">
+        <span class="icon">📖</span>
+        <h2>Arts &amp; Literature</h2>
+      </div>
 
-  <div class="history-item">
-    <span class="year">1861</span> Confederate forces open fire on Fort Sumter, South Carolina — the first shots of the American Civil War.
-  </div>
-  <div class="history-item">
-    <span class="year">1945</span> President Franklin D. Roosevelt dies in Warm Springs, GA, during his fourth term. VP Harry Truman is sworn in.
-  </div>
-  <div class="history-item">
-    <span class="year">1955</span> The Salk polio vaccine is declared safe and effective after a massive two-year trial involving ~2 million children. Immediately licensed.
-  </div>
-  <div class="history-item">
-    <span class="year">1961</span> <strong>Yuri Gagarin</strong> becomes the first human in space, orbiting Earth in Vostok 1 in a 108-minute flight. 🚀
-  </div>
-  <div class="history-item">
-    <span class="year">1980</span> Terry Fox begins his <em>Marathon of Hope</em> — a cross-Canada run to raise money for cancer research.
-  </div>
-  <div class="history-item">
-    <span class="year">1981</span> Space Shuttle <em>Columbia</em> launches on its maiden flight (STS-1), the first orbital space shuttle mission.
-  </div>
-  <div class="history-item">
-    <span class="year">1983</span> Harold Washington elected as Chicago's first Black mayor.
-  </div>
+      <div class="qa-item">
+        <div class="question">Q: "Call me Ishmael" is the famous opening line of which novel?</div>
+        <div class="answer"><strong>Moby-Dick</strong> by Herman Melville (1851)</div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who painted the ceiling of the Sistine Chapel?</div>
+        <div class="answer"><strong>Michelangelo</strong> — completed in 1512</div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Which poet wrote "The Road Not Taken" (1916)?</div>
+        <div class="answer"><strong>Robert Frost</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: Who won the Nobel Prize in Literature in 2016, controversially, for his song lyrics?</div>
+        <div class="answer"><strong>Bob Dylan</strong></div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: In which Dickens novel does the character Miss Havisham appear?</div>
+        <div class="answer"><strong>Great Expectations</strong> (1861)</div>
+      </div>
+      <div class="qa-item">
+        <div class="question">Q: What composer wrote "The Four Seasons" (1725)?</div>
+        <div class="answer"><strong>Antonio Vivaldi</strong></div>
+      </div>
+    </div>
 
-  <p style="margin-top: 12px; font-size: 0.88em; font-weight: bold; color: var(--green);">🎉 National Days Today:</p>
-  <p class="national-day">🎉 National Grilled Cheese Sandwich Day &nbsp;|&nbsp; 🎉 National Licorice Day &nbsp;|&nbsp; 🎉 International Day of Human Space Flight (Gagarin Day) &nbsp;|&nbsp; 🎉 Drop Everything and Read Day &nbsp;|&nbsp; 🎉 National Only Child Day &nbsp;|&nbsp; 🎉 Big Wind Day &nbsp;|&nbsp; 🎉 Walk on Your Wild Side Day</p>
-</div>
+    <!-- GENERAL TRIVIA -->
+    <div class="card general full-width">
+      <div class="card-header">
+        <span class="icon">🧠</span>
+        <h2>General Trivia — Did You Know?</h2>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px;">
+        <div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Science</span>
+            <div class="trivia-text">A day on <strong>Venus</strong> is longer than a year on Venus — it rotates so slowly that its day (243 Earth days) exceeds its year (225 Earth days).</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Food</span>
+            <div class="trivia-text"><strong>Cashews</strong> are always sold shelled because their shells contain urushiol — the same toxic chemical found in poison ivy.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Geography</span>
+            <div class="trivia-text"><strong>Canada</strong> has more lakes than the rest of the world combined — over 3 million of them, holding about 20% of the world's fresh water.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Sports</span>
+            <div class="trivia-text">The <strong>Boston Marathon</strong> was first run in 1897 — making it the world's oldest annual marathon. It's held every Patriots' Day (3rd Monday of April).</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">History</span>
+            <div class="trivia-text"><strong>Cleopatra</strong> lived closer in time to the Moon landing (1969) than to the construction of the Great Pyramid (~2560 BC). She was born ~69 BC.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Pop Culture</span>
+            <div class="trivia-text">The TV show <em>Seinfeld</em> was originally pitched as a show about "nothing" — but the actual NBC pitch title was <strong>"The Seinfeld Chronicles."</strong></div>
+          </div>
+        </div>
+        <div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Animals</span>
+            <div class="trivia-text">A group of flamingos is called a <strong>flamboyance</strong>. Their pink color comes entirely from the carotenoid pigments in the shrimp and algae they eat.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Oddity</span>
+            <div class="trivia-text"><strong>Oxford University</strong> is older than the Aztec Empire. Teaching began there around 1096–1167 AD; the Aztec Empire was founded in 1428.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Language</span>
+            <div class="trivia-text">The word <strong>"quiz"</strong> has no clear etymology — it appeared suddenly in Dublin around 1791. Some say a theater owner bet he could introduce a new nonsense word to the language overnight.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Music</span>
+            <div class="trivia-text"><strong>"Happy Birthday to You"</strong> was the first song performed in outer space — sung by the Gemini 9 astronauts in 1966 for fellow astronaut Gene Cernan's birthday.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Drink</span>
+            <div class="trivia-text"><strong>Champagne</strong> must come from the Champagne region of France; otherwise it's called <em>crémant</em>, <em>prosecco</em>, or <em>cava</em> depending on where it's made.</div>
+          </div>
+          <div class="trivia-item">
+            <span class="trivia-cat">Anatomy</span>
+            <div class="trivia-text">The <strong>human nose</strong> can detect over 1 trillion distinct scents — far more than the ~10 million colors and ~340,000 tones the eye and ear can distinguish, respectively.</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<!-- ======================== CURRENT EVENTS ======================== -->
-<div class="card card-news">
-  <h2>📰 Current Events — This Week</h2>
-  <ul class="fact-list">
-    <li><strong>NASA Artemis II:</strong> Four astronauts (incl. Christina Koch) completed a 10-day journey around the Moon aboard the Orion spacecraft — breaking the record for furthest distance from Earth (surpassing Apollo 13's 248,655 miles).</li>
-    <li><strong>US–Iran Talks:</strong> High-level ceasefire talks held in Islamabad — the highest-level US–Iran engagement since the Iranian Revolution. VP JD Vance led the US delegation; Iranian FM Abbas Araghchi led Iran's.</li>
-    <li><strong>Middle East Tensions:</strong> Iran fired drones at Kuwait International Airport fuel storage, causing a major fire. Three Iranian ballistic missiles targeted Qatar; two were intercepted, one struck a QatarEnergy oil tanker.</li>
-    <li><strong>Hungary Election:</strong> Viktor Orbán faces a pivotal test as challenger Péter Magyar mobilized voter frustration — stakes for Europe, NATO, and transatlantic relations.</li>
-    <li><strong>Peru Election:</strong> Peru heading to polls with 35 candidates to elect its 9th president in under a decade, amid rising corruption and crime concerns.</li>
-    <li><strong>Kanye West UK Ban:</strong> Wireless Festival (London) cancelled after headliner Kanye West was banned from entering the UK on grounds his "presence would not be conducive to the public good," citing past antisemitic statements. All tickets refunded.</li>
-  </ul>
-</div>
-
-<!-- ======================== CAPITALS QUIZ ======================== -->
-<div class="card card-capitals">
-  <h2>🗺️ State &amp; Country Capitals Quiz</h2>
-  <ul class="qa-list">
-    <li>
-      <div class="q">Q: What is the capital of Montana?</div>
-      <div class="a">Helena</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the capital of New Hampshire?</div>
-      <div class="a">Concord</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the capital of Kazakhstan?</div>
-      <div class="a">Astana (formerly Nur-Sultan, formerly Almaty)</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the capital of Sri Lanka?</div>
-      <div class="a">Sri Jayawardenepura Kotte (official legislative capital); Colombo is the commercial capital — both are accepted</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the capital of Nebraska?</div>
-      <div class="a">Lincoln</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the capital of Mozambique?</div>
-      <div class="a">Maputo</div>
-    </li>
-  </ul>
-</div>
-
-<!-- ======================== CLASSIC TV ======================== -->
-<div class="card card-tv">
-  <h2>📺 Classic TV Actors &amp; Roles (70s–90s)</h2>
-  <ul class="qa-list">
-    <li>
-      <div class="q">Q: Who played Sam Malone, the bar owner on <em>Cheers</em> (1982–1993)?</div>
-      <div class="a">Ted Danson</div>
-    </li>
-    <li>
-      <div class="q">Q: Who played Columbo in the long-running 70s–90s mystery series?</div>
-      <div class="a">Peter Falk</div>
-    </li>
-    <li>
-      <div class="q">Q: On <em>The Facts of Life</em> (1979–1988), who played the wisecracking Jo Polniaczek?</div>
-      <div class="a">Nancy McKeon</div>
-    </li>
-    <li>
-      <div class="q">Q: Who played Captain Jean-Luc Picard on <em>Star Trek: The Next Generation</em> (1987–1994)?</div>
-      <div class="a">Patrick Stewart</div>
-    </li>
-    <li>
-      <div class="q">Q: In <em>Dallas</em> (1978–1991), who famously played the scheming J.R. Ewing?</div>
-      <div class="a">Larry Hagman</div>
-    </li>
-    <li>
-      <div class="q">Q: Who played Deputy Barney Fife on <em>The Andy Griffith Show</em> (1960–1968)?</div>
-      <div class="a">Don Knotts</div>
-    </li>
-    <li>
-      <div class="q">Q: On <em>St. Elsewhere</em> (1982–1988), who played the young intern Dr. Wayne Fiscus?</div>
-      <div class="a">Howie Mandel</div>
-    </li>
-  </ul>
-</div>
-
-<!-- ======================== ARTS & LITERATURE ======================== -->
-<div class="card card-arts">
-  <h2>📚 Arts &amp; Literature</h2>
-  <ul class="qa-list">
-    <li>
-      <div class="q">Q: What is the opening line of <em>A Tale of Two Cities</em> by Charles Dickens?</div>
-      <div class="a">"It was the best of times, it was the worst of times…"</div>
-    </li>
-    <li>
-      <div class="q">Q: Who wrote <em>The Grapes of Wrath</em>, which won the Pulitzer Prize in 1940?</div>
-      <div class="a">John Steinbeck</div>
-    </li>
-    <li>
-      <div class="q">Q: In Shakespeare's plays, who is Ophelia's father in <em>Hamlet</em>?</div>
-      <div class="a">Polonius</div>
-    </li>
-    <li>
-      <div class="q">Q: Which Spanish painter is known for the "Blue Period" and co-founded Cubism?</div>
-      <div class="a">Pablo Picasso</div>
-    </li>
-    <li>
-      <div class="q">Q: The poem "Do not go gentle into that good night" was written by which Welsh poet?</div>
-      <div class="a">Dylan Thomas</div>
-    </li>
-    <li>
-      <div class="q">Q: Who wrote <em>Beloved</em>, which won both the Pulitzer Prize and helped earn its author the Nobel Prize in Literature (1993)?</div>
-      <div class="a">Toni Morrison</div>
-    </li>
-    <li>
-      <div class="q">Q: What composer wrote <em>The Four Seasons</em>, a set of four violin concertos?</div>
-      <div class="a">Antonio Vivaldi</div>
-    </li>
-  </ul>
-</div>
-
-<!-- ======================== GENERAL TRIVIA ======================== -->
-<div class="card card-general">
-  <h2>🧠 General Trivia</h2>
-  <ul class="qa-list">
-    <li>
-      <div class="q">Q: What is the only US state that borders only one other state?</div>
-      <div class="a">Maine (borders only New Hampshire)</div>
-    </li>
-    <li>
-      <div class="q">Q: How many hearts does an octopus have?</div>
-      <div class="a">Three — two branchial hearts pump blood through the gills; one systemic heart pumps it to the body.</div>
-    </li>
-    <li>
-      <div class="q">Q: What's the world's smallest country by area?</div>
-      <div class="a">Vatican City (0.44 km²)</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the chemical symbol for Gold?</div>
-      <div class="a">Au (from the Latin <em>aurum</em>)</div>
-    </li>
-    <li>
-      <div class="q">Q: Which planet in our solar system has the most moons?</div>
-      <div class="a">Saturn (currently tallying 146 confirmed moons, edging out Jupiter)</div>
-    </li>
-    <li>
-      <div class="q">Q: In food &amp; drink: What grain is used to make bourbon whiskey?</div>
-      <div class="a">Corn — by law, bourbon must be at least 51% corn mash.</div>
-    </li>
-    <li>
-      <div class="q">Q: What is the name of the deepest lake in the world?</div>
-      <div class="a">Lake Baikal, Siberia, Russia (1,642 m / ~5,387 ft deep)</div>
-    </li>
-    <li>
-      <div class="q">Q: What element has the atomic number 1?</div>
-      <div class="a">Hydrogen</div>
-    </li>
-    <li>
-      <div class="q">Q: In what year did the Berlin Wall fall?</div>
-      <div class="a">1989</div>
-    </li>
-    <li>
-      <div class="q">Q: Did you know? A group of flamingos is called a…</div>
-      <div class="a">"Flamboyance" 🦩</div>
-    </li>
-    <li>
-      <div class="q">Q: Which country produces the most coffee in the world?</div>
-      <div class="a">Brazil — by a wide margin, producing about one-third of the world's coffee.</div>
-    </li>
-    <li>
-      <div class="q">Q: What was the first video game to feature a character named Mario?</div>
-      <div class="a"><em>Donkey Kong</em> (1981) — he appeared as "Jumpman."</div>
-    </li>
-  </ul>
-</div>
+  </div><!-- /grid -->
+</div><!-- /container -->
 
 <footer>
-  Generated Thursday, April 12, 2026 · Thursday Trivia Night Reference Sheet · Live at <a href="https://delbraeth.github.io/TRIVIA/" style="color:#aaa;">delbraeth.github.io/TRIVIA</a>
+  🎯 Thursday Trivia Night · April 12, 2026 · Generated fresh for trivia nerds everywhere
 </footer>
 
 </body>
