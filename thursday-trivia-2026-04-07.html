@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thursday Trivia Night — April 7, 2026</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Georgia', serif;
+    background: #f5f0e8;
+    color: #2c2c2c;
+    font-size: 13.5px;
+    line-height: 1.45;
+  }
+  header {
+    background: linear-gradient(135deg, #1a2e4a 0%, #2d5016 100%);
+    color: white;
+    text-align: center;
+    padding: 14px 20px 10px;
+  }
+  header h1 { font-size: 1.7em; letter-spacing: 1px; margin-bottom: 2px; }
+  header p { font-size: 0.85em; opacity: 0.85; letter-spacing: 0.5px; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .card {
+    background: white;
+    border-radius: 8px;
+    padding: 11px 13px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+    break-inside: avoid;
+  }
+  .card.full-width { grid-column: 1 / -1; }
+  .card.two-col { grid-column: span 2; }
+
+  .card-title {
+    font-size: 0.72em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+    border-bottom: 2px solid currentColor;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .reds    { color: #c6011f; border-color: #c6011f; }
+  .movies  { color: #7b2d8b; border-color: #7b2d8b; }
+  .sports  { color: #1a5276; border-color: #1a5276; }
+  .deaths  { color: #555; border-color: #888; }
+  .history { color: #7d5a00; border-color: #c9940a; }
+  .news    { color: #1a4731; border-color: #27ae60; }
+  .trivia  { color: #1a3a6b; border-color: #2980b9; }
+  .tv      { color: #6c3483; border-color: #9b59b6; }
+  .arts    { color: #7d2d00; border-color: #c0392b; }
+  .capitals { color: #154360; border-color: #2e86c1; }
+
+  .fact { margin-bottom: 7px; }
+  .fact:last-child { margin-bottom: 0; }
+  .fact strong { font-weight: bold; }
+  .ans { color: #1a5276; font-style: italic; font-weight: bold; }
+  .q   { font-weight: bold; }
+
+  .record-badge {
+    display: inline-block;
+    background: #c6011f;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 3px 12px;
+    border-radius: 20px;
+    margin: 3px 0 5px;
+    letter-spacing: 0.5px;
+  }
+  .form-pills { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
+  .pill {
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: bold;
+    padding: 1px 8px;
+    border-radius: 10px;
+    color: white;
+  }
+  .pill.W { background: #27ae60; }
+  .pill.L { background: #c0392b; }
+
+  .box-office-num {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #7b2d8b;
+  }
+  .tag {
+    display: inline-block;
+    background: #eee;
+    border-radius: 4px;
+    padding: 0 5px;
+    font-size: 0.8em;
+    color: #555;
+    margin-left: 3px;
+  }
+
+  .league-head {
+    font-size: 0.75em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: #1a5276;
+    margin: 7px 0 3px;
+  }
+  .league-head:first-child { margin-top: 0; }
+
+  .nat-day { margin-top: 6px; border-top: 1px dashed #ddd; padding-top: 5px; }
+
+  footer {
+    text-align: center;
+    font-size: 0.72em;
+    color: #888;
+    padding: 8px 10px 12px;
+  }
+
+  @media print {
+    body { background: white; font-size: 11px; }
+    .card { box-shadow: none; border: 1px solid #ddd; }
+    header { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🎯 Thursday Trivia Night</h1>
+  <p>April 7, 2026 &nbsp;·&nbsp; Reference Sheet &nbsp;·&nbsp; All answers included</p>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./thursday-trivia-2026-03-27.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Mar 27</a>
+      <a href="./thursday-trivia-2026-03-26.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Mar 26</a>
+      <a href="./thursday-trivia-2026-03-25.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Mar 25</a>
+      <a href="./thursday-trivia-2026-03-24.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Mar 24</a>
+</div>
+
+<div class="grid">
+
+  <!-- REDS -->
+  <div class="card">
+    <div class="card-title reds">⚾ Cincinnati Reds</div>
+    <div class="record-badge">7–3</div>
+    <div class="fact">2nd in NL Central · Early 2026 season</div>
+    <div class="fact" style="margin-top:6px;"><strong>Recent Form:</strong></div>
+    <div class="form-pills">
+      <span class="pill W">W</span>
+      <span class="pill W">W</span>
+      <span class="pill W">W</span>
+      <span class="pill L">L</span>
+      <span class="pill W">W</span>
+    </div>
+    <div class="fact" style="margin-top:6px;"><strong>Notable:</strong> Reds beat the Texas Rangers 5–3 on a Tyler Stephenson tiebreaking two-run homer in the 9th, then followed with a 2–0 shutout win. One of the hotter starts in the NL.</div>
+  </div>
+
+  <!-- BOX OFFICE -->
+  <div class="card">
+    <div class="card-title movies">🎬 #1 Box Office</div>
+    <div class="fact"><strong>The Super Mario Galaxy Movie</strong></div>
+    <div class="box-office-num">$191M</div>
+    <div class="fact" style="font-size:0.82em; color:#555;">5-day gross · $130.9M Fri–Sun · Biggest opening of 2026</div>
+    <div class="fact" style="margin-top:5px;"><strong>Fun Facts:</strong></div>
+    <div class="fact">• Sequel to the 2023 <em>Super Mario Bros. Movie</em> — directed by Aaron Horvath &amp; Michael Jelenic</div>
+    <div class="fact">• Brie Larson joins as Rosalina; Donald Glover voices Yoshi; Fox McCloud from <em>Star Fox</em> appears</div>
+    <div class="fact">• Score performed by a 70-piece orchestra with Galaxy game themes. Released April 1, 2026.</div>
+    <div class="fact" style="margin-top:4px;"><strong>#2:</strong> Project Hail Mary (wk 3, ~$30M) &nbsp; <strong>#3:</strong> The Drama (Zendaya, ~$14.5M)</div>
+  </div>
+
+  <!-- SPORTS -->
+  <div class="card">
+    <div class="card-title sports">🏆 Sports News</div>
+
+    <div class="league-head">⚾ MLB</div>
+    <div class="fact">Brewers (8-2) lead NL Central; Reds (7-3) hot on their heels. Dodgers SS Mookie Betts hit IL with right oblique strain after 8-6 comeback win over Nationals.</div>
+
+    <div class="league-head">🏀 NBA</div>
+    <div class="fact">OKC Thunder (61-16) &amp; Spurs (59-18) locked up top West seeds. Pistons (56-21) lead East. Regular season ends <strong>April 12</strong>; Play-In starts <strong>April 14</strong>.</div>
+
+    <div class="league-head">🏒 NHL</div>
+    <div class="fact">Buffalo Sabres clinched first playoff berth since 2011. Montreal Canadiens also in. Colorado Avalanche can clinch Western Conference. Final games April 16.</div>
+
+    <div class="league-head">⚽ MLS</div>
+    <div class="fact">Vancouver Whitecaps (5-0-1) perfect start; LAFC (5-1-0) lead West. FC Cincinnati hosts Toronto FC on April 11.</div>
+
+    <div class="league-head">🎓 NCAA</div>
+    <div class="fact"><strong>Michigan wins it all!</strong> Wolverines beat UConn 69–63 on April 6 in Indianapolis — Michigan's first national title since 1989. UConn beat Illinois in the Final Four, Michigan routed Arizona 91–73.</div>
+  </div>
+
+  <!-- CELEBRITY DEATHS -->
+  <div class="card">
+    <div class="card-title deaths">🕯️ In Memoriam — Past 7 Days</div>
+    <div class="fact"><strong>Christopher North</strong> — Founding keyboardist of the '70s–'80s rock band <em>Ambrosia</em>, known for hits like "How Much I Feel." Remembered for his fiery stage presence.</div>
+    <div class="fact"><strong>Misua</strong> — Popular drag performer connected to <em>Drag Race Philippines</em>; passed away in her sleep. Announced by the show's official channels.</div>
+    <div class="fact"><strong>Marquay Collins</strong> ("Marquay the Goat") — TikTok creator; death attributed to an enlarged heart, ruled natural causes.</div>
+  </div>
+
+  <!-- THIS DAY IN HISTORY -->
+  <div class="card">
+    <div class="card-title history">📅 This Day in History — April 7</div>
+    <div class="fact"><strong>1927</strong> — AT&amp;T completes the first successful transatlantic telephone call between New York and London, opening a new era in global communications.</div>
+    <div class="fact"><strong>1948</strong> — The <strong>World Health Organization</strong> is formally established as a specialized agency of the United Nations. (Today is World Health Day!)</div>
+    <div class="fact"><strong>1994</strong> — Rwanda's genocide begins following the assassination of President Habyarimana; over one million Tutsi and moderate Hutu would be killed in 100 days.</div>
+    <div class="fact"><strong>2022</strong> — <strong>Ketanji Brown Jackson</strong> confirmed to the U.S. Supreme Court — first Black woman to serve as a Justice.</div>
+
+    <div class="nat-day">
+      <div class="fact">🎉 <strong>National Days Today:</strong> National Beer Day · National Cheddar Fries Day · World Health Day · National No Housework Day · International Beaver Day · Orthodox Easter 2026</div>
+    </div>
+  </div>
+
+  <!-- CURRENT EVENTS -->
+  <div class="card">
+    <div class="card-title news">📰 Current Events</div>
+    <div class="fact"><strong>Iran War (Wk 6):</strong> U.S.-Israeli strikes on Iran continue. Trump issued a deadline to reopen the Strait of Hormuz, threatening Iran's civilian infrastructure. Iran struck a U.S. base in Kuwait injuring 15 soldiers.</div>
+    <div class="fact"><strong>Artemis II:</strong> NASA astronauts broke Apollo 13's distance record, looping about 4,000 miles from the lunar surface — the farthest humans have traveled from Earth since 1970.</div>
+    <div class="fact"><strong>Turkey:</strong> Gunfight near Israeli Consulate in Istanbul; one attacker killed, two wounded by police.</div>
+    <div class="fact"><strong>Economy:</strong> Markets on edge as tariff tensions and trade uncertainty dominate headlines heading into a key week of economic data.</div>
+  </div>
+
+  <!-- GENERAL TRIVIA -->
+  <div class="card two-col">
+    <div class="card-title trivia">🧠 General Trivia</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0 16px;">
+      <div>
+        <div class="fact">🔬 <span class="q">Science:</span> What is the fastest punch in the animal kingdom? <span class="ans">The mantis shrimp — strikes with the force of a bullet.</span></div>
+        <div class="fact">🌿 <span class="q">Nature:</span> A group of flamingos has a name as flamboyant as they are. What is it? <span class="ans">A flamboyance.</span></div>
+        <div class="fact">🍯 <span class="q">Food &amp; Drink:</span> True or false — honey found in ancient Egyptian tombs is still edible after 3,000+ years. <span class="ans">TRUE. Honey never spoils.</span></div>
+        <div class="fact">🌶️ <span class="q">Food:</span> Sriracha sauce is named after what city? <span class="ans">Si Racha, Thailand.</span></div>
+        <div class="fact">📺 <span class="q">Pop Culture:</span> What franchise's second movie just became the highest-grossing opening of 2026 (as of this week)? <span class="ans">The Super Mario Galaxy Movie ($191M 5-day).</span></div>
+        <div class="fact">🏒 <span class="q">Sports:</span> Wayne Gretzky holds the NHL record for most career goals. How many? <span class="ans">894 goals.</span></div>
+      </div>
+      <div>
+        <div class="fact">🎓 <span class="q">Sports:</span> Michigan just won March Madness — who did they beat in the championship? <span class="ans">UConn, 69–63 (April 6, 2026).</span></div>
+        <div class="fact">🤯 <span class="q">Wildcard:</span> Cleopatra lived closer in time to which event — the Moon landing or the building of the Great Pyramid? <span class="ans">The Moon landing (1969). The pyramids were built ~2560 BC; Cleopatra lived ~30 BC.</span></div>
+        <div class="fact">🐰 <span class="q">History Oddity:</span> After which military victory did Napoleon reportedly get attacked by a swarm of rabbits? <span class="ans">After the Treaty of Tilsit (1807) — he ordered a rabbit hunt that went horribly wrong.</span></div>
+        <div class="fact">🌌 <span class="q">Space:</span> Which NASA mission just broke the record for farthest humans from Earth since Apollo 13? <span class="ans">Artemis II (April 2026).</span></div>
+        <div class="fact">⚾ <span class="q">Baseball:</span> What year did the Cincinnati Reds last win the World Series? <span class="ans">1990, defeating the Oakland A's in a sweep.</span></div>
+        <div class="fact">🎬 <span class="q">Movies:</span> The "Star Trek" phrase "to boldly go" is a classic example of what grammatical "error"? <span class="ans">A split infinitive.</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CAPITAL CITIES -->
+  <div class="card">
+    <div class="card-title capitals">🗺️ Capital Cities</div>
+    <div class="fact"><span class="q">Q: What is the capital of Australia?</span><br><span class="ans">A: Canberra</span> <span class="tag">not Sydney or Melbourne</span></div>
+    <div class="fact"><span class="q">Q: What is the capital of Canada?</span><br><span class="ans">A: Ottawa</span> <span class="tag">not Toronto</span></div>
+    <div class="fact"><span class="q">Q: What is the capital of Montana?</span><br><span class="ans">A: Helena</span> <span class="tag">not Billings</span></div>
+    <div class="fact"><span class="q">Q: What is the capital of Myanmar (Burma)?</span><br><span class="ans">A: Naypyidaw</span> <span class="tag">moved from Yangon in 2006</span></div>
+    <div class="fact"><span class="q">Q: What is the capital of South Africa?</span><br><span class="ans">A: Pretoria (executive) / Cape Town (legislative) / Bloemfontein (judicial)</span> <span class="tag">3 capitals!</span></div>
+  </div>
+
+  <!-- TV SHOWS 70s-90s -->
+  <div class="card two-col">
+    <div class="card-title tv">📺 Classic TV — '70s, '80s &amp; '90s</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0 16px;">
+      <div>
+        <div class="fact"><span class="q">Who played Hawkeye Pierce on <em>M*A*S*H</em> (1972–1983)?</span><br><span class="ans">Alan Alda</span></div>
+        <div class="fact"><span class="q">Who played the title character on <em>MacGyver</em> (1985–1992)?</span><br><span class="ans">Richard Dean Anderson</span></div>
+        <div class="fact"><span class="q">What actress played Roseanne Conner on <em>Roseanne</em> (1988–1997)?</span><br><span class="ans">Roseanne Barr</span></div>
+      </div>
+      <div>
+        <div class="fact"><span class="q">Who played Cosmo Kramer on <em>Seinfeld</em> (1989–1998)?</span><br><span class="ans">Michael Richards</span></div>
+        <div class="fact"><span class="q">Who voiced Bart Simpson on <em>The Simpsons</em> (1989–present)?</span><br><span class="ans">Nancy Cartwright</span></div>
+        <div class="fact"><span class="q">Who played Xena on <em>Xena: Warrior Princess</em> (1995–2001)?</span><br><span class="ans">Lucy Lawless</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ARTS & LITERATURE -->
+  <div class="card two-col">
+    <div class="card-title arts">📚 Arts &amp; Literature</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0 16px;">
+      <div>
+        <div class="fact"><span class="q">What novel begins: "It was a bright cold day in April, and the clocks were striking thirteen"?</span><br><span class="ans">1984 by George Orwell (1949)</span></div>
+        <div class="fact"><span class="q">Who painted the ceiling of the Sistine Chapel (1508–1512)?</span><br><span class="ans">Michelangelo</span></div>
+        <div class="fact"><span class="q">Who wrote the poem "The Road Not Taken" (1916)?</span><br><span class="ans">Robert Frost</span></div>
+      </div>
+      <div>
+        <div class="fact"><span class="q">What Shakespeare play features the villain Iago?</span><br><span class="ans">Othello</span></div>
+        <div class="fact"><span class="q">Who wrote <em>One Hundred Years of Solitude</em> (1967)?</span><br><span class="ans">Gabriel García Márquez (Nobel Prize 1982)</span></div>
+        <div class="fact"><span class="q">What novel opens with "Call me Ishmael"?</span><br><span class="ans">Moby-Dick by Herman Melville (1851)</span></div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- end grid -->
+
+<footer>
+  Thursday Trivia Night · April 7, 2026 · For entertainment purposes · Good luck out there! 🍀
+</footer>
+
+</body>
+</html>
