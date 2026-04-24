@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🇺🇸 USA States & Territories Infographic</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --northeast: #3B82F6;
+      --southeast: #22C55E;
+      --midwest:   #F59E0B;
+      --southwest: #EF4444;
+      --west:      #A855F7;
+      --territory: #14B8A6;
+    }
+
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: #EEF2FF;
+      color: #1e293b;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 45%, #991b1b 100%);
+      color: white;
+      text-align: center;
+      padding: 2.5rem 1.5rem 2rem;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★';
+      display: block;
+      font-size: 0.75rem;
+      letter-spacing: 0.4rem;
+      opacity: 0.35;
+      margin-bottom: 1rem;
+    }
+    header::after {
+      content: '★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★  ★';
+      display: block;
+      font-size: 0.75rem;
+      letter-spacing: 0.4rem;
+      opacity: 0.35;
+      margin-top: 1rem;
+    }
+    header h1 {
+      font-size: clamp(1.7rem, 4.5vw, 3.2rem);
+      font-weight: 900;
+      letter-spacing: -0.5px;
+      text-shadow: 0 3px 12px rgba(0,0,0,0.4);
+    }
+    header p {
+      font-size: 1rem;
+      opacity: 0.8;
+      margin-top: 0.4rem;
+      font-weight: 600;
+    }
+
+    /* ── CONTROLS ── */
+    .controls {
+      background: white;
+      padding: 0.85rem 1.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 180px;
+      max-width: 300px;
+    }
+    .search-wrap::before {
+      content: '🔍';
+      position: absolute;
+      left: 0.8rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.9rem;
+      pointer-events: none;
+    }
+    .search-wrap input {
+      width: 100%;
+      padding: 0.55rem 1rem 0.55rem 2.4rem;
+      border: 2px solid #e2e8f0;
+      border-radius: 100px;
+      font-family: 'Nunito', sans-serif;
+      font-size: 0.92rem;
+      font-weight: 600;
+      outline: none;
+      transition: border-color 0.2s;
+      color: #1e293b;
+    }
+    .search-wrap input:focus { border-color: #3B82F6; }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      justify-content: center;
+    }
+    .filter-btn {
+      padding: 0.38rem 0.85rem;
+      border-radius: 100px;
+      border: 2px solid;
+      font-family: 'Nunito', sans-serif;
+      font-weight: 800;
+      font-size: 0.75rem;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      background: transparent;
+      line-height: 1;
+    }
+    .filter-btn[data-r="all"]       { border-color:#334155; color:#334155; }
+    .filter-btn[data-r="northeast"] { border-color:var(--northeast); color:var(--northeast); }
+    .filter-btn[data-r="southeast"] { border-color:var(--southeast); color:var(--southeast); }
+    .filter-btn[data-r="midwest"]   { border-color:var(--midwest);   color:var(--midwest); }
+    .filter-btn[data-r="southwest"] { border-color:var(--southwest); color:var(--southwest); }
+    .filter-btn[data-r="west"]      { border-color:var(--west);      color:var(--west); }
+    .filter-btn[data-r="territory"] { border-color:var(--territory); color:var(--territory); }
+
+    .filter-btn.active,
+    .filter-btn:hover { color: white !important; }
+    .filter-btn[data-r="all"].active,       .filter-btn[data-r="all"]:hover       { background:#334155; }
+    .filter-btn[data-r="northeast"].active, .filter-btn[data-r="northeast"]:hover { background:var(--northeast); }
+    .filter-btn[data-r="southeast"].active, .filter-btn[data-r="southeast"]:hover { background:var(--southeast); }
+    .filter-btn[data-r="midwest"].active,   .filter-btn[data-r="midwest"]:hover   { background:var(--midwest); }
+    .filter-btn[data-r="southwest"].active, .filter-btn[data-r="southwest"]:hover { background:var(--southwest); }
+    .filter-btn[data-r="west"].active,      .filter-btn[data-r="west"]:hover      { background:var(--west); }
+    .filter-btn[data-r="territory"].active, .filter-btn[data-r="territory"]:hover { background:var(--territory); }
+
+    .count-badge {
+      background: #f1f5f9;
+      color: #475569;
+      border-radius: 100px;
+      padding: 0.35rem 0.85rem;
+      font-weight: 800;
+      font-size: 0.82rem;
+      white-space: nowrap;
+    }
+
+    /* ── GRID ── */
+    main {
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+      gap: 1.2rem;
+    }
+
+    /* ── CARD ── */
+    .card {
+      background: white;
+      border-radius: 18px;
+      box-shadow: 0 3px 14px rgba(0,0,0,0.08);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.14);
+    }
+
+    .card-header {
+      padding: 1rem 1.2rem 0.85rem;
+      color: white;
+      position: relative;
+    }
+    .region-tag {
+      font-size: 0.65rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      opacity: 0.82;
+      margin-bottom: 0.2rem;
+    }
+    .card-name {
+      font-size: 1.25rem;
+      font-weight: 900;
+      line-height: 1.2;
+    }
+    .year-badge {
+      position: absolute;
+      top: 0.85rem;
+      right: 1rem;
+      background: rgba(255,255,255,0.22);
+      color: white;
+      border-radius: 8px;
+      padding: 0.2rem 0.55rem;
+      font-size: 0.72rem;
+      font-weight: 800;
+      backdrop-filter: blur(4px);
+    }
+
+    .card-body {
+      padding: 0.85rem 1.2rem 0.7rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+    .info-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      font-size: 0.86rem;
+      flex-wrap: wrap;
+    }
+    .info-icon { flex-shrink: 0; font-size: 0.95rem; }
+    .info-label {
+      font-weight: 800;
+      color: #94a3b8;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      white-space: nowrap;
+    }
+    .info-val {
+      font-weight: 700;
+      color: #1e293b;
+      line-height: 1.3;
+    }
+
+    /* ── TRIVIA ── */
+    .trivia {
+      background: #f8fafc;
+      border-top: 1px solid #e2e8f0;
+      border-radius: 0 0 18px 18px;
+      padding: 0.75rem 1.2rem 0.9rem;
+    }
+    .trivia-label {
+      font-size: 0.64rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #94a3b8;
+      margin-bottom: 0.3rem;
+    }
+    .trivia-text {
+      font-size: 0.82rem;
+      color: #475569;
+      line-height: 1.55;
+      font-weight: 600;
+    }
+
+    .no-results {
+      text-align: center;
+      grid-column: 1/-1;
+      padding: 4rem 1rem;
+      color: #94a3b8;
+      font-size: 1.15rem;
+      font-weight: 700;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: #94a3b8;
+      font-size: 0.82rem;
+      font-weight: 700;
+    }
+
+    @media (max-width: 600px) {
+      main { padding: 1rem; }
+      .grid { grid-template-columns: 1fr; gap: 1rem; }
+      .controls { gap: 0.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🇺🇸 States &amp; Territories of the USA</h1>
+  <p>50 States · 5 Territories · Searchable &amp; Filterable</p>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <input type="text" id="search" placeholder="Search states, birds, capitals…" oninput="render()">
+  </div>
+  <div class="filters">
+    <button class="filter-btn active" data-r="all"       onclick="setFilter('all')">All</button>
+    <button class="filter-btn"        data-r="northeast" onclick="setFilter('northeast')">Northeast</button>
+    <button class="filter-btn"        data-r="southeast" onclick="setFilter('southeast')">Southeast</button>
+    <button class="filter-btn"        data-r="midwest"   onclick="setFilter('midwest')">Midwest</button>
+    <button class="filter-btn"        data-r="southwest" onclick="setFilter('southwest')">Southwest</button>
+    <button class="filter-btn"        data-r="west"      onclick="setFilter('west')">West</button>
+    <button class="filter-btn"        data-r="territory" onclick="setFilter('territory')">Territories</button>
+  </div>
+  <span class="count-badge" id="badge">55 entries</span>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>Data current as of 2025 &nbsp;·&nbsp; Made with ❤️ for American geography lovers</footer>
+
+<script>
+const COLORS = {
+  northeast: '#3B82F6',
+  southeast: '#22C55E',
+  midwest:   '#F59E0B',
+  southwest: '#EF4444',
+  west:      '#A855F7',
+  territory: '#14B8A6'
+};
+
+const REGION_LABEL = {
+  northeast: 'Northeast',
+  southeast: 'Southeast',
+  midwest:   'Midwest',
+  southwest: 'Southwest',
+  west:      'West',
+  territory: 'U.S. Territory'
+};
+
+// Fields: name, capital, nickname, bird, year, yearLabel, trivia, region
+const DATA = [
+  // ── NORTHEAST ──────────────────────────────────────────────────────────────
+  {
+    name:"Connecticut", capital:"Hartford", nickname:"The Constitution State",
+    bird:"American Robin", year:"1788", yearLabel:"Joined Union",
+    trivia:"Connecticut was home to the nation's first written constitution — the 1638 Fundamental Orders — earning it the 'Constitution State' nickname.",
+    region:"northeast"
+  },
+  {
+    name:"Delaware", capital:"Dover", nickname:"The First State",
+    bird:"Delaware Blue Hen", year:"1787", yearLabel:"Joined Union",
+    trivia:"Delaware was the first state to ratify the U.S. Constitution on December 7, 1787 — just five days after it was presented for approval.",
+    region:"northeast"
+  },
+  {
+    name:"Maine", capital:"Augusta", nickname:"The Pine Tree State",
+    bird:"Black-capped Chickadee", year:"1820", yearLabel:"Joined Union",
+    trivia:"Maine is the only U.S. state in the contiguous 48 that borders just one other state — New Hampshire.",
+    region:"northeast"
+  },
+  {
+    name:"Maryland", capital:"Annapolis", nickname:"The Old Line State",
+    bird:"Baltimore Oriole", year:"1788", yearLabel:"Joined Union",
+    trivia:"The U.S. Naval Academy has been located in Annapolis since 1845, and its iconic chapel dome is a landmark visible for miles.",
+    region:"northeast"
+  },
+  {
+    name:"Massachusetts", capital:"Boston", nickname:"The Bay State",
+    bird:"Black-capped Chickadee", year:"1788", yearLabel:"Joined Union",
+    trivia:"The first public library in the United States opened in Boston in 1653, setting a precedent for free public education.",
+    region:"northeast"
+  },
+  {
+    name:"New Hampshire", capital:"Concord", nickname:"The Granite State",
+    bird:"Purple Finch", year:"1788", yearLabel:"Joined Union",
+    trivia:"New Hampshire holds the nation's first presidential primary every four years, giving it outsized influence in U.S. elections.",
+    region:"northeast"
+  },
+  {
+    name:"New Jersey", capital:"Trenton", nickname:"The Garden State",
+    bird:"American Goldfinch", year:"1787", yearLabel:"Joined Union",
+    trivia:"New Jersey has more diners per square mile than any other state and is often called the 'Diner Capital of the World.'",
+    region:"northeast"
+  },
+  {
+    name:"New York", capital:"Albany", nickname:"The Empire State",
+    bird:"Eastern Bluebird", year:"1788", yearLabel:"Joined Union",
+    trivia:"The Statue of Liberty, a gift from France, arrived in New York Harbor in 1886 and stands 305 feet tall from base to torch.",
+    region:"northeast"
+  },
+  {
+    name:"Pennsylvania", capital:"Harrisburg", nickname:"The Keystone State",
+    bird:"Ruffed Grouse", year:"1787", yearLabel:"Joined Union",
+    trivia:"Philadelphia served as the nation's capital from 1790 to 1800, before Washington, D.C. was completed.",
+    region:"northeast"
+  },
+  {
+    name:"Rhode Island", capital:"Providence", nickname:"The Ocean State",
+    bird:"Rhode Island Red", year:"1790", yearLabel:"Joined Union",
+    trivia:"The smallest U.S. state by area, Rhode Island was the last of the original 13 colonies to ratify the Constitution — holding out for two years.",
+    region:"northeast"
+  },
+  {
+    name:"Vermont", capital:"Montpelier", nickname:"The Green Mountain State",
+    bird:"Hermit Thrush", year:"1791", yearLabel:"Joined Union",
+    trivia:"Montpelier is the smallest U.S. state capital by population and famously the only one without a McDonald's.",
+    region:"northeast"
+  },
+
+  // ── SOUTHEAST ──────────────────────────────────────────────────────────────
+  {
+    name:"Alabama", capital:"Montgomery", nickname:"Heart of Dixie",
+    bird:"Northern Flicker (Yellowhammer)", year:"1819", yearLabel:"Joined Union",
+    trivia:"Montgomery launched the world's first electric streetcar system in 1886, changing urban transportation forever.",
+    region:"southeast"
+  },
+  {
+    name:"Arkansas", capital:"Little Rock", nickname:"The Natural State",
+    bird:"Northern Mockingbird", year:"1836", yearLabel:"Joined Union",
+    trivia:"Crater of Diamonds State Park in Arkansas is the only active diamond mine in the world open to the public — and visitors keep what they find!",
+    region:"southeast"
+  },
+  {
+    name:"Florida", capital:"Tallahassee", nickname:"The Sunshine State",
+    bird:"Northern Mockingbird", year:"1845", yearLabel:"Joined Union",
+    trivia:"Florida is the only U.S. state that borders both the Gulf of Mexico and the Atlantic Ocean simultaneously.",
+    region:"southeast"
+  },
+  {
+    name:"Georgia", capital:"Atlanta", nickname:"The Peach State",
+    bird:"Brown Thrasher", year:"1788", yearLabel:"Joined Union",
+    trivia:"Coca-Cola was invented in Atlanta, Georgia in 1886 by pharmacist John Pemberton, who sold it for 5 cents a glass.",
+    region:"southeast"
+  },
+  {
+    name:"Kentucky", capital:"Frankfort", nickname:"The Bluegrass State",
+    bird:"Northern Cardinal", year:"1792", yearLabel:"Joined Union",
+    trivia:"Mammoth Cave in Kentucky is the world's longest known cave system, with over 400 mapped miles of passages.",
+    region:"southeast"
+  },
+  {
+    name:"Louisiana", capital:"Baton Rouge", nickname:"The Pelican State",
+    bird:"Brown Pelican", year:"1812", yearLabel:"Joined Union",
+    trivia:"Louisiana is the only U.S. state divided into 'parishes' instead of counties — a legacy of French and Spanish Catholic governance.",
+    region:"southeast"
+  },
+  {
+    name:"Mississippi", capital:"Jackson", nickname:"The Magnolia State",
+    bird:"Northern Mockingbird", year:"1817", yearLabel:"Joined Union",
+    trivia:"The iconic teddy bear was inspired by a 1902 cartoon showing President Theodore Roosevelt refusing to shoot a bear on a Mississippi hunting trip.",
+    region:"southeast"
+  },
+  {
+    name:"North Carolina", capital:"Raleigh", nickname:"The Tar Heel State",
+    bird:"Northern Cardinal", year:"1789", yearLabel:"Joined Union",
+    trivia:"The Wright Brothers made history's first successful powered airplane flight at Kitty Hawk, North Carolina on December 17, 1903.",
+    region:"southeast"
+  },
+  {
+    name:"South Carolina", capital:"Columbia", nickname:"The Palmetto State",
+    bird:"Carolina Wren", year:"1788", yearLabel:"Joined Union",
+    trivia:"The first shots of the American Civil War were fired at Fort Sumter, South Carolina in April 1861.",
+    region:"southeast"
+  },
+  {
+    name:"Tennessee", capital:"Nashville", nickname:"The Volunteer State",
+    bird:"Northern Mockingbird", year:"1796", yearLabel:"Joined Union",
+    trivia:"Nashville's Grand Ole Opry has been broadcasting live country music every week since 1925 — making it the longest-running radio show in history.",
+    region:"southeast"
+  },
+  {
+    name:"Virginia", capital:"Richmond", nickname:"The Old Dominion",
+    bird:"Northern Cardinal", year:"1788", yearLabel:"Joined Union",
+    trivia:"Eight U.S. presidents were born in Virginia — more than any other state — earning it the title 'Mother of Presidents.'",
+    region:"southeast"
+  },
+  {
+    name:"West Virginia", capital:"Charleston", nickname:"The Mountain State",
+    bird:"Northern Cardinal", year:"1863", yearLabel:"Joined Union",
+    trivia:"West Virginia is the only U.S. state formed by seceding from a Confederate state — it broke away from Virginia during the Civil War.",
+    region:"southeast"
+  },
+
+  // ── MIDWEST ──────────────────────────────────────────────────────────────
+  {
+    name:"Illinois", capital:"Springfield", nickname:"The Prairie State",
+    bird:"Northern Cardinal", year:"1818", yearLabel:"Joined Union",
+    trivia:"Chicago's Willis Tower (formerly Sears Tower) was the world's tallest building from 1973 to 1998, standing 1,450 feet tall.",
+    region:"midwest"
+  },
+  {
+    name:"Indiana", capital:"Indianapolis", nickname:"The Hoosier State",
+    bird:"Northern Cardinal", year:"1816", yearLabel:"Joined Union",
+    trivia:"The Indianapolis 500 is considered the world's largest single-day sporting event, drawing over 300,000 spectators each May.",
+    region:"midwest"
+  },
+  {
+    name:"Iowa", capital:"Des Moines", nickname:"The Hawkeye State",
+    bird:"American Goldfinch", year:"1846", yearLabel:"Joined Union",
+    trivia:"Iowa hosts the nation's first presidential caucuses every four years, giving this Midwestern state outsized political influence.",
+    region:"midwest"
+  },
+  {
+    name:"Kansas", capital:"Topeka", nickname:"The Sunflower State",
+    bird:"Western Meadowlark", year:"1861", yearLabel:"Joined Union",
+    trivia:"The geographic center of the contiguous United States is a quiet field near Lebanon, Kansas — marked with a small monument.",
+    region:"midwest"
+  },
+  {
+    name:"Michigan", capital:"Lansing", nickname:"The Great Lakes State",
+    bird:"American Robin", year:"1837", yearLabel:"Joined Union",
+    trivia:"Michigan is the only U.S. state made up of two separate peninsulas, surrounded by four of the five Great Lakes.",
+    region:"midwest"
+  },
+  {
+    name:"Minnesota", capital:"Saint Paul", nickname:"The North Star State",
+    bird:"Common Loon", year:"1858", yearLabel:"Joined Union",
+    trivia:"Minnesota actually has 11,842 lakes — nearly 2,000 more than its famous 'Land of 10,000 Lakes' slogan suggests!",
+    region:"midwest"
+  },
+  {
+    name:"Missouri", capital:"Jefferson City", nickname:"The Show-Me State",
+    bird:"Eastern Bluebird", year:"1821", yearLabel:"Joined Union",
+    trivia:"St. Louis's Gateway Arch stands 630 feet tall — taller than the Washington Monument and the tallest man-made monument in the Western Hemisphere.",
+    region:"midwest"
+  },
+  {
+    name:"Nebraska", capital:"Lincoln", nickname:"The Cornhusker State",
+    bird:"Western Meadowlark", year:"1867", yearLabel:"Joined Union",
+    trivia:"Nebraska is the only U.S. state with a unicameral (single-chamber) legislature, a structure adopted in 1934.",
+    region:"midwest"
+  },
+  {
+    name:"North Dakota", capital:"Bismarck", nickname:"The Peace Garden State",
+    bird:"Western Meadowlark", year:"1889", yearLabel:"Joined Union",
+    trivia:"North Dakota and South Dakota were admitted to the Union on the exact same day — November 2, 1889 — and which state was officially 'first' was deliberately kept secret.",
+    region:"midwest"
+  },
+  {
+    name:"Ohio", capital:"Columbus", nickname:"The Buckeye State",
+    bird:"Northern Cardinal", year:"1803", yearLabel:"Joined Union",
+    trivia:"Ohio's state flag is the only U.S. flag that is not rectangular — it has a distinctive swallowtail pennant shape.",
+    region:"midwest"
+  },
+  {
+    name:"South Dakota", capital:"Pierre", nickname:"The Mount Rushmore State",
+    bird:"Ring-necked Pheasant", year:"1889", yearLabel:"Joined Union",
+    trivia:"Mount Rushmore's four presidential faces were carved by sculptor Gutzon Borglum over 14 years (1927–1941), using dynamite and jackhammers.",
+    region:"midwest"
+  },
+  {
+    name:"Wisconsin", capital:"Madison", nickname:"The Badger State",
+    bird:"American Robin", year:"1848", yearLabel:"Joined Union",
+    trivia:"Wisconsin produces over 3 billion pounds of cheese each year — more than any other state — earning it the nickname 'America's Dairyland.'",
+    region:"midwest"
+  },
+
+  // ── SOUTHWEST ──────────────────────────────────────────────────────────────
+  {
+    name:"Arizona", capital:"Phoenix", nickname:"The Grand Canyon State",
+    bird:"Cactus Wren", year:"1912", yearLabel:"Joined Union",
+    trivia:"The Grand Canyon is 277 miles long, up to 18 miles wide, and over a mile deep — carved by the Colorado River over millions of years.",
+    region:"southwest"
+  },
+  {
+    name:"New Mexico", capital:"Santa Fe", nickname:"Land of Enchantment",
+    bird:"Greater Roadrunner", year:"1912", yearLabel:"Joined Union",
+    trivia:"Santa Fe, founded around 1610, is the oldest state capital in the United States — more than a decade older than Plymouth Colony.",
+    region:"southwest"
+  },
+  {
+    name:"Oklahoma", capital:"Oklahoma City", nickname:"The Sooner State",
+    bird:"Scissor-tailed Flycatcher", year:"1907", yearLabel:"Joined Union",
+    trivia:"Oklahoma City is the only U.S. state capital that sits atop an active oil field — there are working oil derricks on the Capitol grounds.",
+    region:"southwest"
+  },
+  {
+    name:"Texas", capital:"Austin", nickname:"The Lone Star State",
+    bird:"Northern Mockingbird", year:"1845", yearLabel:"Joined Union",
+    trivia:"Texas is the only U.S. state that was previously a fully recognized independent country — the Republic of Texas — from 1836 to 1845.",
+    region:"southwest"
+  },
+
+  // ── WEST ──────────────────────────────────────────────────────────────────
+  {
+    name:"Alaska", capital:"Juneau", nickname:"The Last Frontier",
+    bird:"Willow Ptarmigan", year:"1959", yearLabel:"Joined Union",
+    trivia:"Alaska is so vast that if it were a country, it would be the 18th largest in the world — bigger than Texas, California, and Montana combined.",
+    region:"west"
+  },
+  {
+    name:"California", capital:"Sacramento", nickname:"The Golden State",
+    bird:"California Quail", year:"1850", yearLabel:"Joined Union",
+    trivia:"California's economy is the largest of any U.S. state and would rank roughly 5th in the world if it were an independent country.",
+    region:"west"
+  },
+  {
+    name:"Colorado", capital:"Denver", nickname:"The Centennial State",
+    bird:"Lark Bunting", year:"1876", yearLabel:"Joined Union",
+    trivia:"Denver is nicknamed 'The Mile High City' — the 13th step of its State Capitol building is precisely 5,280 feet above sea level.",
+    region:"west"
+  },
+  {
+    name:"Hawaii", capital:"Honolulu", nickname:"The Aloha State",
+    bird:"Nēnē (Hawaiian Goose)", year:"1959", yearLabel:"Joined Union",
+    trivia:"Hawaii is the only U.S. state composed entirely of islands — 137 in total — stretching 1,500 miles across the Pacific Ocean.",
+    region:"west"
+  },
+  {
+    name:"Idaho", capital:"Boise", nickname:"The Gem State",
+    bird:"Mountain Bluebird", year:"1890", yearLabel:"Joined Union",
+    trivia:"Idaho grows approximately one-third of all potatoes produced in the United States, making it the country's top potato-growing state.",
+    region:"west"
+  },
+  {
+    name:"Montana", capital:"Helena", nickname:"Big Sky Country",
+    bird:"Western Meadowlark", year:"1889", yearLabel:"Joined Union",
+    trivia:"Montana has roughly 2.6 million cattle — more than double its human population of about 1.1 million people.",
+    region:"west"
+  },
+  {
+    name:"Nevada", capital:"Carson City", nickname:"The Silver State",
+    bird:"Mountain Bluebird", year:"1864", yearLabel:"Joined Union",
+    trivia:"Nevada is the driest state in the U.S. and receives less average annual precipitation than any other state in the country.",
+    region:"west"
+  },
+  {
+    name:"Oregon", capital:"Salem", nickname:"The Beaver State",
+    bird:"Western Meadowlark", year:"1859", yearLabel:"Joined Union",
+    trivia:"Crater Lake in Oregon is the deepest lake in the United States at 1,943 feet — formed when a massive volcano collapsed 7,700 years ago.",
+    region:"west"
+  },
+  {
+    name:"Utah", capital:"Salt Lake City", nickname:"The Beehive State",
+    bird:"California Gull", year:"1896", yearLabel:"Joined Union",
+    trivia:"Utah is home to five national parks — Arches, Bryce Canyon, Canyonlands, Capitol Reef, and Zion — collectively known as 'The Mighty Five.'",
+    region:"west"
+  },
+  {
+    name:"Washington", capital:"Olympia", nickname:"The Evergreen State",
+    bird:"Willow Goldfinch", year:"1889", yearLabel:"Joined Union",
+    trivia:"Washington state grows about 70% of all the apples produced in the United States each year.",
+    region:"west"
+  },
+  {
+    name:"Wyoming", capital:"Cheyenne", nickname:"The Equality State",
+    bird:"Western Meadowlark", year:"1890", yearLabel:"Joined Union",
+    trivia:"Wyoming was the first U.S. territory to grant women the right to vote in 1869 — a full 51 years before the 19th Amendment was ratified nationally.",
+    region:"west"
+  },
+
+  // ── TERRITORIES ────────────────────────────────────────────────────────────
+  {
+    name:"Puerto Rico", capital:"San Juan", nickname:"La Isla del Encanto",
+    bird:"Reinita Mora (Puerto Rican Spindalis)", year:"1898", yearLabel:"U.S. Territory Since",
+    trivia:"Puerto Rico has three bioluminescent bays — among the brightest in the world — where microscopic organisms make the water glow blue-green at night.",
+    region:"territory"
+  },
+  {
+    name:"Guam", capital:"Hagåtña", nickname:"Where America's Day Begins",
+    bird:"Ko'ko' (Guam Rail)", year:"1898", yearLabel:"U.S. Territory Since",
+    trivia:"Guam is the westernmost U.S. territory, meaning it is literally the first place under the American flag to greet each new day.",
+    region:"territory"
+  },
+  {
+    name:"U.S. Virgin Islands", capital:"Charlotte Amalie", nickname:"American Paradise",
+    bird:"Bananaquit", year:"1917", yearLabel:"U.S. Territory Since",
+    trivia:"The United States purchased the Virgin Islands from Denmark in 1917 for $25 million — roughly $580 million in today's dollars.",
+    region:"territory"
+  },
+  {
+    name:"American Samoa", capital:"Pago Pago", nickname:"Motu o Fiafiaga (Island of Joy)",
+    bird:"Tooth-billed Pigeon (Manumea)", year:"1900", yearLabel:"U.S. Territory Since",
+    trivia:"American Samoa is the only U.S. territory located south of the equator and has one of the highest per-capita rates of military enlistment in the nation.",
+    region:"territory"
+  },
+  {
+    name:"Northern Mariana Islands", capital:"Saipan", nickname:"Micronesia's Gem",
+    bird:"Mariana Fruit Dove (Totot)", year:"1978", yearLabel:"Commonwealth Since",
+    trivia:"The Mariana Trench — the deepest point on Earth at approximately 36,000 feet below sea level — lies in the waters just east of these islands.",
+    region:"territory"
+  }
+];
+
+// ── APP LOGIC ────────────────────────────────────────────────────────────────
+let currentFilter = 'all';
+
+function setFilter(region) {
+  currentFilter = region;
+  document.querySelectorAll('.filter-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.r === region);
+  });
+  render();
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  const grid = document.getElementById('grid');
+
+  const results = DATA.filter(d => {
+    const matchRegion = currentFilter === 'all' || d.region === currentFilter;
+    const matchSearch = !q
+      || d.name.toLowerCase().includes(q)
+      || d.capital.toLowerCase().includes(q)
+      || d.nickname.toLowerCase().includes(q)
+      || d.bird.toLowerCase().includes(q)
+      || d.trivia.toLowerCase().includes(q)
+      || d.year.includes(q);
+    return matchRegion && matchSearch;
+  });
+
+  document.getElementById('badge').textContent =
+    results.length + (results.length === 1 ? ' entry' : ' entries');
+
+  if (results.length === 0) {
+    grid.innerHTML = '<div class="no-results">😢 No results found — try a different search!</div>';
+    return;
+  }
+
+  grid.innerHTML = results.map(d => {
+    const c = COLORS[d.region];
+    // Slightly darken the color for gradient
+    return `
+      <div class="card">
+        <div class="card-header" style="background:linear-gradient(135deg,${c}ee,${c}bb);">
+          <div class="region-tag">${REGION_LABEL[d.region]}</div>
+          <div class="card-name">${d.name}</div>
+          <div class="year-badge">${d.year}</div>
+        </div>
+        <div class="card-body">
+          <div class="info-row">
+            <span class="info-icon">🏛️</span>
+            <span class="info-label">Capital</span>
+            <span class="info-val">${d.capital}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-icon">⭐</span>
+            <span class="info-label">Nickname</span>
+            <span class="info-val">${d.nickname}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-icon">🐦</span>
+            <span class="info-label">State Bird</span>
+            <span class="info-val">${d.bird}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-icon">📅</span>
+            <span class="info-label">${d.yearLabel}</span>
+            <span class="info-val">${d.year}</span>
+          </div>
+        </div>
+        <div class="trivia">
+          <div class="trivia-label">💡 Did You Know?</div>
+          <div class="trivia-text">${d.trivia}</div>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+render();
+</script>
+</body>
+</html>
