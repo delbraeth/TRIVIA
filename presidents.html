@@ -90,7 +90,13 @@
   .party-dr   { --party: var(--dr);  --party-lt: var(--dr-lt);  }
   .party-nu   { --party: var(--nu);  --party-lt: var(--nu-lt);  }
   .party-none { --party: #555;       --party-lt: #888;          }
-  @media (max-width: 500px) { .grid { padding: 20px 12px 40px; gap: 12px; } .hero { padding: 40px 16px 28px; } }
+  .death-badge { position: absolute; top: 10px; right: 10px; display: inline-flex; align-items: center; gap: 5px; padding: 3px 8px; border-radius: 3px; font-family: 'Oswald', sans-serif; font-size: 0.55rem; font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; z-index: 3; backdrop-filter: blur(4px); }
+  .death-badge.assassinated { background: rgba(180,20,20,0.85); color: #FFE5E5; border: 1px solid #D4172A; box-shadow: 0 0 12px rgba(200,30,30,0.35); }
+  .death-badge.natural { background: rgba(10,10,10,0.85); color: var(--gold-lt); border: 1px solid var(--gold-dim); }
+  .death-icon { font-size: 0.85rem; line-height: 1; font-weight: 700; }
+  .death-badge.assassinated .death-icon { color: #FF6A6A; }
+  .death-badge.natural .death-icon { color: var(--gold-lt); }
+  @media (max-width: 500px) { .grid { padding: 20px 12px 40px; gap: 12px; } .hero { padding: 40px 16px 28px; } .death-badge { font-size: 0.5rem; padding: 2px 6px; } }
 </style>
 </head>
 <body>
@@ -107,6 +113,8 @@
     <div class="legend-item"><div class="legend-dot" style="background:var(--whi)"></div><span style="color:var(--grey)">Whig</span></div>
     <div class="legend-item"><div class="legend-dot" style="background:var(--nu)"></div><span style="color:var(--grey)">National Union</span></div>
     <div class="legend-item"><div class="legend-dot" style="background:#555"></div><span style="color:var(--grey)">Nonpartisan</span></div>
+    <div class="legend-item"><span style="color:#FF6A6A;font-size:0.95rem;font-weight:700">✕</span><span style="color:var(--grey)">Assassinated</span></div>
+    <div class="legend-item"><span style="color:var(--gold-lt);font-size:1.05rem;font-weight:700">†</span><span style="color:var(--grey)">Died in office</span></div>
   </div>
 </header>
 <main class="grid" id="grid"></main>
@@ -264,12 +272,27 @@ const PORTRAIT_KEY = {
   "Joe Biden": "Joe Biden",
 };
 
+const DEATHS_IN_OFFICE = {
+  "William H. Harrison":   "natural",
+  "Zachary Taylor":        "natural",
+  "Abraham Lincoln":       "assassinated",
+  "James A. Garfield":     "assassinated",
+  "William McKinley":      "assassinated",
+  "Warren G. Harding":     "natural",
+  "Franklin D. Roosevelt": "natural",
+  "John F. Kennedy":       "assassinated",
+};
+
 const grid = document.getElementById('grid');
 
 PRESIDENTS.forEach(([num, name, dates, party, partyClass, initials, facts]) => {
   const abbr = PARTY_ABBR[party] || '???';
   const portraitKey = PORTRAIT_KEY[name] || name;
   const imgSrc = PORTRAITS[portraitKey] || '';
+  const death = DEATHS_IN_OFFICE[name];
+  const deathBadge = death
+    ? `<div class="death-badge ${death}" title="${death === 'assassinated' ? 'Assassinated in office' : 'Died in office (natural causes)'}"><span class="death-icon">${death === 'assassinated' ? '✕' : '†'}</span>${death === 'assassinated' ? 'Assassinated' : 'Died in Office'}</div>`
+    : '';
 
   const card = document.createElement('article');
   card.className = `card party-${partyClass}`;
@@ -279,6 +302,7 @@ PRESIDENTS.forEach(([num, name, dates, party, partyClass, initials, facts]) => {
   card.innerHTML = `
     <div class="card-stripe"></div>
     <div class="card-topline"></div>
+    ${deathBadge}
     <div class="card-header">
       <div class="portrait-wrap" id="${pwId}">
         ${imgSrc
