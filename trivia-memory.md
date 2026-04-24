@@ -30,6 +30,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23 | Capital of Nebraska | Lincoln |
 | Apr 23 | Capital of Kazakhstan | Astana |
 | Apr 23 | Capital of Vermont | Montpelier |
+| Apr 23b | Capital of Bhutan | Thimphu |
+| Apr 23b | Capital of Idaho | Boise |
+| Apr 23b | Capital of Suriname | Paramaribo |
+| Apr 23b | Capital of Louisiana | Baton Rouge |
 
 ---
 
@@ -50,13 +54,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 20 | Cheers | Sam Malone | Ted Danson |
 | Apr 20 | The X-Files | Fox Mulder | David Duchovny |
 | Apr 21 | Magnum, P.I. | Thomas Magnum | Tom Selleck |
-| Apr 21 | WKRP in Cincinnati | (partial — check file) | (unknown) |
+| Apr 21 | WKRP in Cincinnati | (partial) | (unknown) |
 | Apr 23 | M*A*S*H | Hawkeye Pierce | Alan Alda |
 | Apr 23 | Magnum, P.I. | Thomas Magnum | Tom Selleck |
 | Apr 23 | Married... with Children | Al Bundy | Ed O'Neill |
 | Apr 23 | Star Trek: The Next Generation | Data | Brent Spiner |
 | Apr 23 | Northern Exposure | Dr. Joel Fleischman | Rob Morrow |
 | Apr 23 | Remington Steele | Remington Steele | Pierce Brosnan |
+| Apr 23b | Miami Vice | Sonny Crockett | Don Johnson |
+| Apr 23b | Family Ties | Alex P. Keaton | Michael J. Fox |
+| Apr 23b | The Golden Girls | Dorothy Zbornak | Bea Arthur |
+| Apr 23b | Hill Street Blues | Capt. Frank Furillo | Daniel J. Travanti |
+| Apr 23b | Quantum Leap | Dr. Sam Beckett | Scott Bakula |
+| Apr 23b | Dynasty | Alexis Carrington | Joan Collins |
 
 ---
 
@@ -66,6 +76,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 |------|-----------------|--------|
 | Apr 23 | Opening line of A Tale of Two Cities | "It was the best of times, it was the worst of times…" |
 | Apr 23 | Umberto Eco medieval monastery mystery | The Name of the Rose |
+| Apr 23b | Opening line "Call me Ishmael" | Moby-Dick (Melville) |
+| Apr 23b | Author of The Great Gatsby | F. Scott Fitzgerald |
+| Apr 23b | Poet who wrote "The Road Not Taken" | Robert Frost |
+| Apr 23b | Painted The Persistence of Memory (melting clocks) | Salvador Dalí |
+| Apr 23b | Detective who lives at 221B Baker Street | Sherlock Holmes (Conan Doyle) |
+| Apr 23b | Author of One Hundred Years of Solitude | Gabriel García Márquez |
 
 ---
 
@@ -97,6 +113,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 20 | Sports | UCLA Bruins won 2026 NCAA Women's Basketball Championship |
 | Apr 19 | Sports | UCLA Bruins won 2026 NCAA Women's Basketball Championship |
 | Apr 16 | Sports | OKC Thunder #1 seed in West |
+| Apr 23b | Science | Human body: adults have 206 bones; babies born with ~270 |
+| Apr 23b | Food | Honey never spoils — edible 3000-year-old honey found in Egypt |
+| Apr 23b | Myth-bust | Great Wall of China NOT visible from space with naked eye |
+| Apr 23b | Animals | Group of flamingos = a "flamboyance" |
+| Apr 23b | Geography | Sahara Desert roughly same size as contiguous United States |
+| Apr 23b | Animals | Octopuses have three hearts |
+| Apr 23b | History | Shortest war: Anglo-Zanzibar War 1896 (38–45 minutes) |
+| Apr 23b | TV | The Simpsons — longest-running animated series in US (since 1989) |
+| Apr 23b | Food | Worcestershire sauce contains fermented anchovies |
+| Apr 23b | Sports | Wayne Gretzky 894 goals / 2,857 career points — untouchable record |
 
 ---
 
@@ -109,6 +135,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 20 | April 20 |
 | Apr 21 | April 21 |
 | Apr 23 | April 23 |
+| Apr 23b | April 23 (alt events: Shakespeare born 1564, Buchanan born 1791, NABBP founded 1871) |
 
 ---
 
@@ -121,6 +148,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 20 | National Cheddar Fries Day · National Cold Brew Day · National Look Alike Day · National Pineapple Upside-Down Cake Day · Lima Bean Respect Day |
 | Apr 21 | World Creativity Innovation Day · National Kindergarten Day · National Tea Day · National Library Workers Day · Bulldogs Are Beautiful Day |
 | Apr 23 | World Book Day · National Picnic Day · National Cherry Cheesecake Day · St. George's Day · National Talk Like Shakespeare Day |
+| Apr 23b | National Take a Chance Day · National Lover's Day · English Language Day (UN) · Impossible Astronaut Day |
 
 ---
-_Last updated: Apr 23, 2026_
+_Last updated: Apr 23, 2026 (run b)_
