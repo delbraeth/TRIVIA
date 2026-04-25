@@ -34,6 +34,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23b | Capital of Idaho | Boise |
 | Apr 23b | Capital of Suriname | Paramaribo |
 | Apr 23b | Capital of Louisiana | Baton Rouge |
+| Apr 25 | Capital of Maine | Augusta |
+| Apr 25 | Capital of Switzerland | Bern |
+| Apr 25 | Capital of Oklahoma | Oklahoma City |
+| Apr 25 | Capital of Mongolia | Ulaanbaatar |
 
 ---
 
@@ -67,6 +71,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23b | Hill Street Blues | Capt. Frank Furillo | Daniel J. Travanti |
 | Apr 23b | Quantum Leap | Dr. Sam Beckett | Scott Bakula |
 | Apr 23b | Dynasty | Alexis Carrington | Joan Collins |
+| Apr 25 | The Andy Griffith Show | Sheriff Andy Taylor | Andy Griffith |
+| Apr 25 | Columbo | Lt. Columbo | Peter Falk |
+| Apr 25 | Hawaii Five-O | Steve McGarrett | Jack Lord |
+| Apr 25 | Bewitched | Samantha Stephens | Elizabeth Montgomery |
+| Apr 25 | The Twilight Zone | Host/Narrator | Rod Serling |
+| Apr 25 | I Love Lucy | Lucy Ricardo | Lucille Ball |
 
 ---
 
@@ -82,6 +92,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23b | Painted The Persistence of Memory (melting clocks) | Salvador Dalí |
 | Apr 23b | Detective who lives at 221B Baker Street | Sherlock Holmes (Conan Doyle) |
 | Apr 23b | Author of One Hundred Years of Solitude | Gabriel García Márquez |
+| Apr 25 | Author of 1984 / Animal Farm | George Orwell |
+| Apr 25 | Painter of The Starry Night | Vincent van Gogh |
+| Apr 25 | Composer of The Four Seasons | Antonio Vivaldi |
+| Apr 25 | Author of Pride and Prejudice | Jane Austen |
+| Apr 25 | Three Brontë sister novelists | Charlotte, Emily, Anne |
+| Apr 25 | Pulitzer novel — Atticus Finch / Scout | To Kill a Mockingbird (Harper Lee) |
 
 ---
 
@@ -123,6 +139,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23b | TV | The Simpsons — longest-running animated series in US (since 1989) |
 | Apr 23b | Food | Worcestershire sauce contains fermented anchovies |
 | Apr 23b | Sports | Wayne Gretzky 894 goals / 2,857 career points — untouchable record |
+| Apr 25 | Botany | Bananas are berries; strawberries are not |
+| Apr 25 | Engineering | Eiffel Tower expands ~6 inches taller in summer |
+| Apr 25 | Animals | Group of crows = a 'murder' |
+| Apr 25 | History | Cleopatra closer in time to Moon landing than Pyramid construction |
+| Apr 25 | Science | Saturn would float in water (lower density) |
+| Apr 25 | Etymology | The fruit 'orange' was named first; the color was named after it |
+| Apr 25 | Geography | Antarctica is the world's largest desert |
+| Apr 25 | Animals | Wombat poop is cube-shaped |
+| Apr 25 | Symbols | Statue of Liberty's 7 crown spikes = 7 continents/seas |
+| Apr 25 | Language | 'Set' has the most definitions in English (~430+ in OED) |
+| Apr 25 | Animals | Sharks predate trees (~450M vs 390M years) |
+| Apr 25 | Etymology | Bald eagle 'bald' = old English 'white-headed' |
 
 ---
 
@@ -136,6 +164,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 21 | April 21 |
 | Apr 23 | April 23 |
 | Apr 23b | April 23 (alt events: Shakespeare born 1564, Buchanan born 1791, NABBP founded 1871) |
+| Apr 25 | April 25 (ANZAC/Gallipoli 1915, DNA helix 1953, Hubble deployed 1990, Ella Fitzgerald born 1917) |
 
 ---
 
@@ -149,6 +178,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 21 | World Creativity Innovation Day · National Kindergarten Day · National Tea Day · National Library Workers Day · Bulldogs Are Beautiful Day |
 | Apr 23 | World Book Day · National Picnic Day · National Cherry Cheesecake Day · St. George's Day · National Talk Like Shakespeare Day |
 | Apr 23b | National Take a Chance Day · National Lover's Day · English Language Day (UN) · Impossible Astronaut Day |
+| Apr 25 | World Penguin Day · National Telephone Day · National Hairstylist Appreciation Day · National Zucchini Bread Day · National Herb Day |
 
 ---
-_Last updated: Apr 23, 2026 (run b)_
+_Last updated: Apr 25, 2026_
