@@ -43,6 +43,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 26 | Capital of Senegal | Dakar |
 | Apr 26 | Capital of Delaware | Dover |
 | Apr 26 | Capital of Uruguay | Montevideo |
+| Apr 28 | Capital of Iowa | Des Moines |
+| Apr 28 | Capital of Slovenia | Ljubljana |
+| Apr 28 | Capital of Arkansas | Little Rock |
+| Apr 28 | Capital of Ethiopia | Addis Ababa |
 
 ---
 
@@ -88,6 +92,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 26 | Taxi | Alex Reiger | Judd Hirsch |
 | Apr 26 | Cagney & Lacey | Det. Mary Beth Lacey | Tyne Daly |
 | Apr 26 | The Fugitive | Dr. Richard Kimble | David Janssen |
+| Apr 28 | Sanford and Son | Fred Sanford | Redd Foxx |
+| Apr 28 | The Brady Bunch | Mike Brady | Robert Reed |
+| Apr 28 | Knight Rider | Michael Knight | David Hasselhoff |
+| Apr 28 | Star Trek (TOS) | Captain James T. Kirk | William Shatner |
+| Apr 28 | Dragnet | Sgt. Joe Friday | Jack Webb |
+| Apr 28 | The Wonder Years | Kevin Arnold | Fred Savage |
 
 ---
 
@@ -115,6 +125,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 26 | Pulitzer-winning author of Beloved | Toni Morrison |
 | Apr 26 | Russian composer of the 1812 Overture | Pyotr Ilyich Tchaikovsky |
 | Apr 26 | Real name behind "Mark Twain" pen name | Samuel Langhorne Clemens |
+| Apr 28 | Russian author of War and Peace | Leo Tolstoy |
+| Apr 28 | Norwegian painter of The Scream (1893) | Edvard Munch |
+| Apr 28 | Author of Brave New World | Aldous Huxley |
+| Apr 28 | Composer of Symphony No. 9 / "Ode to Joy" | Ludwig van Beethoven |
+| Apr 28 | Pulitzer-winning author of The Old Man and the Sea | Ernest Hemingway |
+| Apr 28 | Renaissance artist who painted the Sistine Chapel ceiling | Michelangelo |
 
 ---
 
@@ -180,6 +196,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 26 | Geography | Hawaii is the only US state that commercially grows coffee |
 | Apr 26 | Biology | Goosebumps are a vestigial reflex (fur standing up) |
 | Apr 26 | Symbols | Scotland's national animal is the unicorn |
+| Apr 28 | Science | Bananas slightly radioactive (potassium-40) |
+| Apr 28 | Engineering | Eiffel Tower 1,665 steps (674 open to public) |
+| Apr 28 | Animals | Jellyfish ~95% water |
+| Apr 28 | Science | Mercury — only metal liquid at room temperature |
+| Apr 28 | Animals | Group of pandas called an "embarrassment" |
+| Apr 28 | Geography | Mariana Trench ~36,000 ft — Everest fits inside |
+| Apr 28 | Language | Shakespeare coined ~1,700 English words |
+| Apr 28 | Language | Hawaiian alphabet has only 13 letters |
+| Apr 28 | Animals | Octopuses have nine brains (1 central + 8 arm) |
+| Apr 28 | Culture | More US public libraries than McDonald's |
+| Apr 28 | Astronomy | "Blue moon" = 2nd full moon in a calendar month |
+| Apr 28 | Animals | Cows have best friends — stressed when separated |
+| Apr 28 | Sports | Reds 18-10 — NL Central #1, 4th-best MLB record |
+| Apr 28 | Sports | Hurricanes swept Senators (8th straight playoff series) |
+| Apr 28 | Sports | Sabres snap NHL-record 14-year postseason drought |
+| Apr 28 | Box Office | "Michael" $97M opening (record musical biopic) |
 
 ---
 
@@ -195,6 +227,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23b | April 23 (alt events: Shakespeare born 1564, Buchanan born 1791, NABBP founded 1871) |
 | Apr 25 | April 25 (ANZAC/Gallipoli 1915, DNA helix 1953, Hubble deployed 1990, Ella Fitzgerald born 1917) |
 | Apr 26 | April 26 (Chernobyl 1986, Mandela/SA election 1994, Salk vaccine trials 1954, Sybil Ludington 1777) |
+| Apr 28 | April 28 (Mutiny on the Bounty 1789, Kon-Tiki sets sail 1947, Muhammad Ali refused induction 1967) |
 
 ---
 
@@ -210,6 +243,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 23b | National Take a Chance Day · National Lover's Day · English Language Day (UN) · Impossible Astronaut Day |
 | Apr 25 | World Penguin Day · National Telephone Day · National Hairstylist Appreciation Day · National Zucchini Bread Day · National Herb Day |
 | Apr 26 | National Pretzel Day · Alien Day (4/26 = LV-426) · World Intellectual Property Day · National Help a Horse Day · World Pinhole Photography Day |
+| Apr 28 | National Superhero Day · Pay It Forward Day · National Blueberry Pie Day · World Day for Safety & Health at Work · Save the Frogs Day |
 
 ---
-_Last updated: Apr 26, 2026_
+_Last updated: Apr 28, 2026_
