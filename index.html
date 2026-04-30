@@ -5,140 +5,176 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thursday Trivia Night — April 30, 2026</title>
 <style>
-  * { box-sizing: border-box; }
+  :root {
+    --bg: #1a1a2e;
+    --card-bg: #16213e;
+    --accent: #0f3460;
+    --red: #e94560;
+    --gold: #f5a623;
+    --green: #27ae60;
+    --blue: #2980b9;
+    --purple: #8e44ad;
+    --teal: #16a085;
+    --orange: #e67e22;
+    --text: #eaeaea;
+    --muted: #a0a0b0;
+    --border: rgba(255,255,255,0.08);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: #f5f1e8;
-    color: #1f2933;
-    line-height: 1.45;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
   }
   header {
-    background: linear-gradient(135deg, #4b1d3f 0%, #8b1e3f 60%, #c8102e 100%);
-    color: #fff;
-    padding: 14px 24px;
+    background: linear-gradient(135deg, #0f3460, #e94560);
+    padding: 18px 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 10px;
-  }
-  header h1 {
-    margin: 0;
-    font-size: 26px;
-    letter-spacing: 0.5px;
-  }
-  header .date {
-    font-size: 13px;
-    opacity: 0.9;
-    margin-top: 3px;
-  }
-  main {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 16px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
     gap: 12px;
   }
+  header h1 { font-size: 1.6rem; font-weight: 900; letter-spacing: -0.5px; }
+  header .date { font-size: 0.85rem; color: rgba(255,255,255,0.8); margin-top: 2px; }
+  .main { max-width: 1100px; margin: 0 auto; padding: 20px 16px; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
   .card {
-    background: #fff;
-    border-radius: 10px;
-    padding: 14px 16px 16px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-    border-top: 5px solid;
+    background: var(--card-bg);
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    overflow: hidden;
   }
-  .card h2 {
-    margin: 0 0 8px;
-    font-size: 15px;
+  .card-header {
+    padding: 12px 16px;
+    font-weight: 800;
+    font-size: 0.75rem;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
   }
-  .card .item {
-    font-size: 13.5px;
-    margin: 7px 0;
-    padding-bottom: 6px;
-    border-bottom: 1px dashed #e3e3e3;
-  }
-  .card .item:last-child { border-bottom: none; }
-  .card .q { font-weight: 600; color: #2d3748; display: block; }
-  .card .a { color: #1d6f42; font-weight: 600; }
-  .reds { border-color: #c8102e; }
-  .reds .record {
-    font-size: 44px;
-    font-weight: 800;
+  .card-body { padding: 14px 16px; }
+  .card.reds .card-header { background: linear-gradient(90deg, #c6011f, #8b0000); }
+  .card.boxoffice .card-header { background: linear-gradient(90deg, #6a0dad, #9b59b6); }
+  .card.sports .card-header { background: linear-gradient(90deg, #1a5276, #2980b9); }
+  .card.deaths .card-header { background: linear-gradient(90deg, #2c3e50, #4a6274); }
+  .card.history .card-header { background: linear-gradient(90deg, #784212, #d35400); }
+  .card.capitals .card-header { background: linear-gradient(90deg, #0b5345, #16a085); }
+  .card.tvclassic .card-header { background: linear-gradient(90deg, #4a235a, #8e44ad); }
+  .card.arts .card-header { background: linear-gradient(90deg, #1b4f72, #2471a3); }
+  .card.trivia .card-header { background: linear-gradient(90deg, #145a32, #27ae60); }
+  .card.news .card-header { background: linear-gradient(90deg, #5d3a1a, #a04000); }
+
+  .reds-record {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #ff4444;
     text-align: center;
-    color: #c8102e;
-    margin: 6px 0 2px;
     line-height: 1;
+    margin-bottom: 4px;
   }
-  .reds .form {
+  .reds-label {
     text-align: center;
-    font-size: 13px;
-    color: #555;
-    margin-bottom: 8px;
-  }
-  .reds .game-today {
-    background: #fff5dc;
-    border: 2px solid #c8102e;
-    padding: 8px 10px;
-    border-radius: 7px;
-    font-size: 13.5px;
-    text-align: center;
-    margin-top: 8px;
-    font-weight: 700;
-    color: #4b1d3f;
-  }
-  .reds .game-today .vs { font-size: 11px; opacity: 0.7; display: block; }
-  .box-office { border-color: #ffaa00; }
-  .sports { border-color: #1565c0; }
-  .deaths { border-color: #555; }
-  .history { border-color: #6d4c41; }
-  .current { border-color: #00897b; }
-  .capitals { border-color: #2e7d32; }
-  .tv { border-color: #6a1b9a; }
-  .arts { border-color: #ad1457; }
-  .general { border-color: #ef6c00; }
-  .league {
-    font-weight: 700;
-    color: #1565c0;
-    font-size: 11px;
+    font-size: 0.75rem;
+    color: var(--muted);
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-top: 6px;
+    margin-bottom: 10px;
   }
-  .nat-day {
-    background: #fff8e1;
-    padding: 7px 10px;
-    border-radius: 6px;
-    margin-top: 8px;
-    font-size: 12.5px;
+  .reds-form {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+    color: var(--text);
   }
-  .nat-day strong { display: inline-block; margin-bottom: 3px; }
-  @media print {
-    body { background: #fff; font-size: 11px; }
-    header { background: #4b1d3f !important; -webkit-print-color-adjust: exact; }
-    .card { box-shadow: none; border: 1px solid #ccc; page-break-inside: avoid; }
-    main { grid-template-columns: repeat(3, 1fr); }
+  .reds-game {
+    background: rgba(198,1,31,0.15);
+    border: 1px solid rgba(198,1,31,0.4);
+    border-radius: 8px;
+    padding: 10px 14px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.9rem;
   }
+  .reds-game .game-label { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
+
+  .qa-list { list-style: none; }
+  .qa-list li { padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .qa-list li:last-child { border-bottom: none; }
+  .q { font-weight: 600; font-size: 0.88rem; color: var(--text); margin-bottom: 3px; }
+  .a { font-size: 0.82rem; color: #6ee7b7; }
+
+  .trivia-list { list-style: none; }
+  .trivia-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+  .trivia-list li:last-child { border-bottom: none; }
+  .trivia-list .cat {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--gold);
+    font-weight: 700;
+    margin-bottom: 2px;
+  }
+
+  .death-item { padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .death-item:last-child { border-bottom: none; }
+  .death-name { font-weight: 700; font-size: 0.9rem; color: var(--text); }
+  .death-age { color: var(--muted); font-size: 0.8rem; }
+  .death-desc { font-size: 0.82rem; color: #a0c4ff; margin-top: 2px; }
+
+  .hist-item { padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .hist-item:last-child { border-bottom: none; }
+  .hist-year { font-size: 0.75rem; font-weight: 800; color: var(--gold); letter-spacing: 1px; }
+  .hist-desc { font-size: 0.85rem; margin-top: 2px; }
+
+  .national-days { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border); }
+  .national-days-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 6px; }
+  .nd-list { display: flex; flex-wrap: wrap; gap: 6px; }
+  .nd-tag { background: rgba(245,166,35,0.12); border: 1px solid rgba(245,166,35,0.3); border-radius: 12px; padding: 3px 10px; font-size: 0.75rem; color: var(--gold); }
+
+  .sport-section { margin-bottom: 12px; }
+  .sport-section:last-child { margin-bottom: 0; }
+  .sport-label { font-size: 0.7rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: var(--gold); margin-bottom: 6px; border-bottom: 1px solid var(--border); padding-bottom: 4px; }
+  .sport-item { font-size: 0.82rem; padding: 3px 0; line-height: 1.4; }
+  .sport-item .highlight { color: #6ee7b7; font-weight: 600; }
+
+  .news-item { padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.83rem; line-height: 1.4; }
+  .news-item:last-child { border-bottom: none; }
+  .news-item .headline { font-weight: 600; color: var(--text); margin-bottom: 2px; }
+  .news-item .detail { color: var(--muted); font-size: 0.78rem; }
+
+  .bo-title { font-size: 1.3rem; font-weight: 900; color: var(--text); margin-bottom: 4px; }
+  .bo-gross { font-size: 1rem; font-weight: 700; color: var(--gold); margin-bottom: 8px; }
+  .bo-detail { font-size: 0.82rem; color: var(--muted); margin-bottom: 6px; line-height: 1.4; }
+  .bo-fact { font-size: 0.82rem; background: rgba(142,68,173,0.15); border: 1px solid rgba(142,68,173,0.3); border-radius: 6px; padding: 8px 10px; line-height: 1.4; }
+  .bo-fact strong { color: #d7aefb; }
+
+  .card.wide { grid-column: span 2; }
+  @media (max-width: 700px) { .card.wide { grid-column: span 1; } }
 </style>
 </head>
 <body>
+
 <header>
   <div>
     <h1>🎯 Thursday Trivia Night</h1>
-    <div class="date">Reference Sheet — Thursday, April 30, 2026</div>
+    <div class="date">Reference Sheet — April 30, 2026</div>
   </div>
-  <div style="display:flex; align-items:center; gap:12px;">
+  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
     <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
     <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
     <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
     <div style="font-size: 24px;">🍺</div>
   </div>
 </header>
+
 <!-- ARCHIVE-NAV -->
 <div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
   <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
@@ -148,138 +184,302 @@
   <a href="./thursday-trivia-2026-04-25.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Apr 25</a>
 </div>
 
-<main>
+<div class="main">
 
-  <!-- Reds -->
-  <section class="card reds">
-    <h2>⚾ Cincinnati Reds</h2>
-    <div class="record">19–11</div>
-    <div class="form">.633 · NL Central #1 · Last 5: <strong>3–2</strong> (L1 streak)</div>
-    <div style="font-size:12px; color:#666; text-align:center;">Recent: L vs COL 2–13 · W vs COL 7–2 · L vs DET 3–8 · W vs DET 9–2 · W vs DET 9–8</div>
-    <div class="game-today">
-      <span class="vs">TODAY · GETAWAY DAY · GREAT AMERICAN BALL PARK</span>
-      vs Colorado Rockies — 12:40 PM ET
+  <!-- REDS -->
+  <div class="card reds">
+    <div class="card-header">⚾ Cincinnati Reds</div>
+    <div class="card-body">
+      <div class="reds-record">19-11</div>
+      <div class="reds-label">NL Central — 1st Place</div>
+      <div class="reds-form" style="font-size:0.8rem; color:var(--muted);">Lost yesterday to COL 13-2 &nbsp;|&nbsp; Series tied 1-1</div>
+      <div class="reds-game">
+        <div class="game-label">🎮 Today's Game</div>
+        vs. Colorado Rockies (14-17)<br>
+        <span style="color:#ffcf40;">12:40 PM ET</span> — Great American Ball Park<br>
+        <span style="font-size:0.78rem; color:var(--muted); font-weight:400;">Lorenzen vs. Abbott</span>
+      </div>
     </div>
-  </section>
+  </div>
 
-  <!-- Box Office -->
-  <section class="card box-office">
-    <h2>🎬 Box Office #1</h2>
-    <div class="item">
-      <span class="q">"Michael" (Lionsgate) — holds the top spot</span>
-      Antoine Fuqua's Michael Jackson biopic continues its record-setting run after a <strong>$97M domestic / $218.7M global</strong> opening — biggest debut ever for any biopic, and 2026's largest live-action opening.
+  <!-- BOX OFFICE -->
+  <div class="card boxoffice">
+    <div class="card-header">🎬 #1 Box Office</div>
+    <div class="card-body">
+      <div class="bo-title">🎤 Michael</div>
+      <div class="bo-gross">$97M domestic &nbsp;|&nbsp; $217M global opening</div>
+      <div class="bo-detail">MJ biopic directed by Antoine Fuqua. Stars <strong>Jaafar Jackson</strong> (Michael's actual nephew) in his feature film debut — biggest biopic opening ever, crushing Straight Outta Compton's $60M record (2015).</div>
+      <div class="bo-fact"><strong>Fun fact:</strong> IMAX alone pulled in $13.8M (~14% of domestic take). Flash mob "Don't Walk, Moonwalk" activations hit 20 global cities and racked up 23.4M views. The film holds a 9.6 Maoyan rating — highest for any Hollywood film in 2026.</div>
     </div>
-    <div class="item">
-      <span class="q">Fun fact</span>
-      MJ is played by his real-life nephew <strong>Jaafar Jackson</strong> in his film debut. Net production cost ballooned to ~$200M after $50M in late reshoots — the Jackson estate footed the extra bill.
+  </div>
+
+  <!-- SPORTS NEWS -->
+  <div class="card sports wide">
+    <div class="card-header">🏆 Sports Roundup</div>
+    <div class="card-body">
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px;">
+        <div>
+          <div class="sport-section">
+            <div class="sport-label">🏀 NBA Playoffs — 1st Round</div>
+            <div class="sport-item"><span class="highlight">Pistons 116, Magic 109</span> — Cade Cunningham drops <strong>45 pts</strong> (franchise record); Orlando still leads series 3-2, Game 6 on deck</div>
+            <div class="sport-item"><span class="highlight">Cavs 125, Raptors 120</span> — Cleveland leads 3-2; Harden &amp; Mobley each 23 pts</div>
+            <div class="sport-item"><span class="highlight">Rockets 99, Lakers 93</span> — Jabari Smith Jr. 22 pts; Lakers still lead series 3-2</div>
+            <div class="sport-item" style="color:var(--muted);">Tonight: Hawks/Knicks · 76ers/Celtics · Wolves/Nuggets (Game 6s)</div>
+          </div>
+          <div class="sport-section">
+            <div class="sport-label">🏈 NFL</div>
+            <div class="sport-item">2026 Draft: Indiana QB <span class="highlight">Fernando Mendoza</span> went #1 overall</div>
+          </div>
+        </div>
+        <div>
+          <div class="sport-section">
+            <div class="sport-label">🏒 NHL Playoffs — 1st Round</div>
+            <div class="sport-item"><span class="highlight">Flyers eliminate Penguins</span> 4-2 (series); advance to face Hurricanes in Round 2</div>
+            <div class="sport-item"><span class="highlight">Canadiens 3, Lightning 2</span> — Canadiens push Tampa to brink (3-2 series lead)</div>
+            <div class="sport-item"><span class="highlight">Vegas 5, Utah Mammoth 4</span> — Golden Knights lead 3-2</div>
+            <div class="sport-item" style="color:var(--muted);">Tonight: Stars vs. Wild (7:30 ET, MIN leads 3-2) · Oilers vs. Ducks (10 ET, ANA leads 3-2)</div>
+          </div>
+          <div class="sport-section">
+            <div class="sport-label">⚾ MLB</div>
+            <div class="sport-item">Reds vs. Rockies today 12:40 PM ET (see card ↑)</div>
+          </div>
+        </div>
+      </div>
     </div>
-  </section>
+  </div>
 
-  <!-- Sports -->
-  <section class="card sports">
-    <h2>🏆 Sports — Past 7 Days</h2>
-
-    <div class="league">MLB</div>
-    <div class="item">Reds (<strong>19–11</strong>) still atop the NL Central, but got steamrolled <strong>13–2</strong> by Colorado last night. Series rubber match today.</div>
-
-    <div class="league">NHL Playoffs — Round 1</div>
-    <div class="item"><strong>Flyers eliminate Penguins 4–2</strong> on a 1–0 OT thriller (Apr 29) — Philly advances to Round 2 vs the #1-seed Hurricanes.</div>
-    <div class="item">Canadiens lead Lightning 3–2; Game 6 looms in Tampa. Vegas–Utah series tied 2–2.</div>
-
-    <div class="league">NBA Playoffs — Round 1</div>
-    <div class="item"><strong>#1-seed Pistons stay alive</strong> 116–109 over the #8 Magic — but trail the series 3–1 and need three straight to avoid an all-time upset.</div>
-    <div class="item">Cavs grab a 3–2 lead over Toronto with a 125–120 win. Game 6 night tonight: Celtics–76ers, Knicks–Hawks, Nuggets–Wolves.</div>
-
-    <div class="league">NFL</div>
-    <div class="item">Draft (Pittsburgh) wrapped Saturday. Texans extended LB <strong>Azeez Al-Shaair</strong> through 2029; Panthers picked up Bryce Young's $25.9M 5th-year option; Cowboys traded a 5th-rounder to SF for LB Dee Winters.</div>
-
-    <div class="league">MLS</div>
-    <div class="item">Mid-table jostle in both conferences after the weekend slate; San Jose still leading the West, Nashville the East.</div>
-  </section>
-
-  <!-- Celebrity Deaths -->
-  <section class="card deaths">
-    <h2>🕯️ In Memoriam — Past Week</h2>
-    <div class="item"><span class="q">Nedra Talley Ross, 80</span> Last surviving founding member of <em>The Ronettes</em> ("Be My Baby," "Walking in the Rain"). Rock &amp; Roll Hall of Famer; cousin of Ronnie Spector. [Apr 26]</div>
-    <div class="item"><span class="q">Michael Tilson Thomas, 80</span> Acclaimed American conductor and composer; longtime music director of the San Francisco Symphony, 12 Grammys, recipient of the National Medal of Arts. [Apr 22]</div>
-    <div class="item"><span class="q">Ruth Slenczynska, 100</span> Polish-American pianist hailed in childhood as "the next Mozart"; performed publicly into her late 90s. [Apr 22]</div>
-    <div class="item"><span class="q">Rep. David Scott (D-GA), 80</span> Longtime U.S. Representative for Georgia's 13th District; former chair of the House Agriculture Committee. [Announced Apr 22]</div>
-  </section>
-
-  <!-- This Day in History -->
-  <section class="card history">
-    <h2>📜 This Day in History — April 30</h2>
-    <div class="item"><span class="q">1789 — Washington's Inauguration</span> George Washington took the oath of office on the balcony of <em>Federal Hall</em> in NYC, becoming the <strong>first President</strong> of the United States.</div>
-    <div class="item"><span class="q">1803 — Louisiana Purchase</span> The U.S. bought 828,000 sq mi from France for <strong>$15 million</strong> (~3¢/acre), <strong>doubling</strong> the size of the young country.</div>
-    <div class="item"><span class="q">1975 — Fall of Saigon</span> North Vietnamese forces captured Saigon; <em>Operation Frequent Wind</em> evacuated remaining Americans by helicopter — the iconic image of the Vietnam War's end.</div>
-    <div class="item"><span class="q">1997 — Ellen comes out</span> ABC aired <em>"The Puppy Episode"</em> of <em>Ellen</em>, in which Ellen DeGeneres' character became the <strong>first openly gay lead</strong> in a U.S. primetime sitcom.</div>
-    <div class="nat-day">
-      🎉 <strong>National Days</strong><br>
-      International Jazz Day · National Honesty Day · Adopt a Shelter Pet Day · National Bubble Tea Day · Bugs Bunny Day · National Animal Advocacy Day
+  <!-- CURRENT EVENTS -->
+  <div class="card news">
+    <div class="card-header">📰 Current Events</div>
+    <div class="card-body">
+      <div class="news-item">
+        <div class="headline">⚖️ SCOTUS guts Voting Rights Act</div>
+        <div class="detail">Supreme Court ruled Louisiana must redraw congressional map — decision effectively dismantles the last major provision of the 1965 VRA (Section 2)</div>
+      </div>
+      <div class="news-item">
+        <div class="headline">👑 King Charles III visits Washington D.C.</div>
+        <div class="detail">Historic address to mark centuries of US-UK relations — his first US presidential visit</div>
+      </div>
+      <div class="news-item">
+        <div class="headline">🇮🇷 Iran peace talks on hold</div>
+        <div class="detail">2 months after US-Israel strike on Iran; Strait of Hormuz control + Iran's nuclear future are sticking points; Trump skeptical of Iran's good faith</div>
+      </div>
+      <div class="news-item">
+        <div class="headline">🤖 Musk vs. OpenAI trial</div>
+        <div class="detail">Elon Musk testifies (Day 2) in his lawsuit, claims OpenAI strayed from its charitable mission</div>
+      </div>
+      <div class="news-item">
+        <div class="headline">🎤 Shooting attempt at WH Correspondents' Dinner</div>
+        <div class="detail">Attempted shooting at Saturday's WHCD — motive still under investigation</div>
+      </div>
     </div>
-  </section>
+  </div>
 
-  <!-- Current Events -->
-  <section class="card current">
-    <h2>📰 Current Events</h2>
-    <div class="item"><span class="q">U.S.–Iran tensions escalate</span> CENTCOM reportedly briefed the White House on new strike plans; Iran's President Pezeshkian publicly rejected a U.S. naval blockade of Iranian ports as "doomed to fail."</div>
-    <div class="item"><span class="q">Fed holds steady</span> The FOMC issued its statement (Apr 29) holding rates at the existing range — Powell continues to wait on inflation/labor data before any cut.</div>
-    <div class="item"><span class="q">Antisemitic stabbing in London</span> Two men injured in a knife attack in Golders Green; both in stable condition. Counter-terrorism police are leading the investigation.</div>
-    <div class="item"><span class="q">Drone alarm in Kyiv</span> Air-raid sirens sounded across multiple Ukrainian regions overnight as Russia launched another drone barrage.</div>
-  </section>
+  <!-- CELEBRITY DEATHS -->
+  <div class="card deaths">
+    <div class="card-header">🕯️ Recent Passings</div>
+    <div class="card-body">
+      <div class="death-item">
+        <div class="death-name">Afrika Bambaataa <span class="death-age">(67)</span></div>
+        <div class="death-desc">Rapper, DJ, and "Godfather of Hip Hop" — pioneered the hip hop movement in the South Bronx in the 1970s–80s</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Dave Mason <span class="death-age"></span></div>
+        <div class="death-desc">British rock musician and co-founder of Traffic; played on "Feelin' Alright" and had solo hit "We Just Disagree"</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Asha Bhosle</div>
+        <div class="death-desc">Legendary Indian playback singer who recorded 12,000+ songs across 20 languages over 8 decades; sister of Lata Mangeshkar</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Alan Osmond <span class="death-age">(76)</span></div>
+        <div class="death-desc">Eldest of the Osmond family performing group, known for 70s hits with The Osmonds</div>
+      </div>
+    </div>
+  </div>
 
-  <!-- Capitals -->
-  <section class="card capitals">
-    <h2>🌍 Capitals Quiz</h2>
-    <div class="item"><span class="q">Capital of North Dakota?</span> <span class="a">Bismarck</span></div>
-    <div class="item"><span class="q">Capital of Madagascar?</span> <span class="a">Antananarivo</span></div>
-    <div class="item"><span class="q">Capital of Connecticut?</span> <span class="a">Hartford</span></div>
-    <div class="item"><span class="q">Capital of Albania?</span> <span class="a">Tirana</span></div>
-  </section>
+  <!-- THIS DAY IN HISTORY -->
+  <div class="card history">
+    <div class="card-header">📅 This Day in History — April 30</div>
+    <div class="card-body">
+      <div class="hist-item">
+        <div class="hist-year">1993</div>
+        <div class="hist-desc">CERN announces the World Wide Web is public domain — making the internet free for anyone to use and build upon, setting the stage for the modern web</div>
+      </div>
+      <div class="hist-item">
+        <div class="hist-year">1945</div>
+        <div class="hist-desc">Adolf Hitler dies by suicide in his underground Berlin bunker as Soviet forces surround the city; Eva Braun dies alongside him</div>
+      </div>
+      <div class="hist-item">
+        <div class="hist-year">1812</div>
+        <div class="hist-desc">Louisiana becomes the 18th US state admitted to the Union — nine years after the Louisiana Purchase</div>
+      </div>
+      <div class="national-days">
+        <div class="national-days-label">🎉 National Days</div>
+        <div class="nd-list">
+          <span class="nd-tag">🍪 Oatmeal Cookie Day</span>
+          <span class="nd-tag">🍇 National Raisin Day</span>
+          <span class="nd-tag">🐾 World Veterinary Day</span>
+          <span class="nd-tag">🎷 International Jazz Day</span>
+          <span class="nd-tag">🤞 National Honesty Day</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
-  <!-- Classic TV -->
-  <section class="card tv">
-    <h2>📺 Classic TV — Who Played Whom?</h2>
-    <div class="item"><span class="q">Arthur "Fonzie" Fonzarelli on <em>Happy Days</em>?</span> <span class="a">Henry Winkler</span></div>
-    <div class="item"><span class="q">Jack Tripper on <em>Three's Company</em>?</span> <span class="a">John Ritter</span></div>
-    <div class="item"><span class="q">Cosmo Kramer on <em>Seinfeld</em>?</span> <span class="a">Michael Richards</span></div>
-    <div class="item"><span class="q">Jill Munroe on <em>Charlie's Angels</em>?</span> <span class="a">Farrah Fawcett</span></div>
-    <div class="item"><span class="q">Rob Petrie on <em>The Dick Van Dyke Show</em>?</span> <span class="a">Dick Van Dyke</span></div>
-    <div class="item"><span class="q">Commander Adama on the original <em>Battlestar Galactica</em> (1978)?</span> <span class="a">Lorne Greene</span></div>
-  </section>
+  <!-- CAPITALS QUIZ -->
+  <div class="card capitals">
+    <div class="card-header">🌍 State &amp; Country Capitals</div>
+    <div class="card-body">
+      <ul class="qa-list">
+        <li>
+          <div class="q">What is the capital of Oregon?</div>
+          <div class="a">→ Salem</div>
+        </li>
+        <li>
+          <div class="q">What is the capital of Norway?</div>
+          <div class="a">→ Oslo</div>
+        </li>
+        <li>
+          <div class="q">What is the capital of New Zealand?</div>
+          <div class="a">→ Wellington (not Auckland!)</div>
+        </li>
+        <li>
+          <div class="q">What is the capital of Nigeria?</div>
+          <div class="a">→ Abuja (not Lagos!)</div>
+        </li>
+      </ul>
+    </div>
+  </div>
 
-  <!-- Arts & Literature -->
-  <section class="card arts">
-    <h2>🎨 Arts &amp; Literature</h2>
-    <div class="item"><span class="q">Novel that opens, "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say they were perfectly normal…"?</span> <span class="a">Harry Potter and the Sorcerer's/Philosopher's Stone (J.K. Rowling)</span></div>
-    <div class="item"><span class="q">Russian author of <em>Crime and Punishment</em>?</span> <span class="a">Fyodor Dostoevsky</span></div>
-    <div class="item"><span class="q">Spanish painter who co-founded Cubism — known for blue/rose periods and <em>Guernica</em>?</span> <span class="a">Pablo Picasso</span></div>
-    <div class="item"><span class="q">American author of <em>Slaughterhouse-Five</em>?</span> <span class="a">Kurt Vonnegut</span></div>
-    <div class="item"><span class="q">Author of the memoir <em>I Know Why the Caged Bird Sings</em>?</span> <span class="a">Maya Angelou</span></div>
-    <div class="item"><span class="q">French composer of the opera <em>Carmen</em>?</span> <span class="a">Georges Bizet</span></div>
-  </section>
+  <!-- CLASSIC TV -->
+  <div class="card tvclassic">
+    <div class="card-header">📺 Classic TV — Actors &amp; Roles (60s–90s)</div>
+    <div class="card-body">
+      <ul class="qa-list">
+        <li>
+          <div class="q">Who played defense attorney Perry Mason in the CBS series (1957–66)?</div>
+          <div class="a">→ Raymond Burr</div>
+        </li>
+        <li>
+          <div class="q">Before becoming an action star, Bruce Willis played wisecracking detective David Addison on what 1980s dramedy?</div>
+          <div class="a">→ Moonlighting (1985–89)</div>
+        </li>
+        <li>
+          <div class="q">Buddy Ebsen played Jed Clampett — the hillbilly who struck oil — on what classic 1960s sitcom?</div>
+          <div class="a">→ The Beverly Hillbillies (1962–71)</div>
+        </li>
+        <li>
+          <div class="q">Hal Linden starred as the title character, a Manhattan precinct captain, in what 1975–82 cop sitcom?</div>
+          <div class="a">→ Barney Miller</div>
+        </li>
+        <li>
+          <div class="q">On The Fresh Prince of Bel-Air (1990–96), the lead character shared his first and last name with the actor playing him. Who?</div>
+          <div class="a">→ Will Smith (character: Will Smith)</div>
+        </li>
+        <li>
+          <div class="q">Dixie Carter played fiery Southern attorney Julia Sugarbaker on what CBS sitcom set in Atlanta (1986–93)?</div>
+          <div class="a">→ Designing Women</div>
+        </li>
+      </ul>
+    </div>
+  </div>
 
-  <!-- General Trivia -->
-  <section class="card general">
-    <h2>🧩 General Trivia</h2>
-    <div class="item"><strong>Lake Baikal</strong> in Siberia is the world's deepest lake (~5,387 ft / 1,642 m) and holds about <strong>20% of Earth's unfrozen freshwater</strong> — more than all five Great Lakes combined.</div>
-    <div class="item">A teaspoon of <strong>neutron-star material</strong> would weigh about <strong>6 billion tons</strong> on Earth.</div>
-    <div class="item">A group of giraffes is called a "<strong>tower</strong>"; a group of porcupines is a "prickle."</div>
-    <div class="item"><strong>Saffron</strong> is the world's most expensive spice by weight — it takes ~75,000 crocus flowers to produce one pound.</div>
-    <div class="item">"<strong>Pneumonoultramicroscopicsilicovolcanoconiosis</strong>" (45 letters) — a lung disease — is the longest word in major English dictionaries.</div>
-    <div class="item">Olympic <strong>gold medals are mostly silver</strong> — 92.5% silver with at least 6 grams of gold plating. The last solid-gold golds were awarded in 1912.</div>
-    <div class="item">The first multipurpose charge card was <strong>Diners Club</strong>, launched in 1950 — for use at 14 NYC restaurants.</div>
-    <div class="item">"<strong>Avocado</strong>" comes from the Aztec/Nahuatl word <em>āhuacatl</em>, which also meant "testicle" — for the obvious reason.</div>
-    <div class="item">Reindeer are the only mammals known to <strong>change eye color seasonally</strong> — gold in summer, deep blue in winter — to cope with extreme light differences.</div>
-    <div class="item">The <strong>Caspian Sea</strong> is the world's largest enclosed body of water (~143,000 sq mi) — bigger than Germany — and is technically the world's largest lake by area.</div>
-    <div class="item">Earth has temporary "<strong>mini-moons</strong>" — small asteroids briefly captured by our gravity. The asteroid <em>Kamoʻoalewa</em> is a quasi-satellite that's tagged along since the 1700s.</div>
-    <div class="item">A <strong>shrimp's heart is in its head</strong> — well, in the cephalothorax, the fused head-and-chest section.</div>
-  </section>
+  <!-- ARTS & LITERATURE -->
+  <div class="card arts">
+    <div class="card-header">🎨 Arts &amp; Literature</div>
+    <div class="card-body">
+      <ul class="qa-list">
+        <li>
+          <div class="q">Which Spanish author wrote Don Quixote (1605), often called the first modern novel?</div>
+          <div class="a">→ Miguel de Cervantes</div>
+        </li>
+        <li>
+          <div class="q">In Franz Kafka's 1915 novella The Metamorphosis, traveling salesman Gregor Samsa wakes up transformed into what?</div>
+          <div class="a">→ A giant insect (commonly translated as "vermin" or beetle)</div>
+        </li>
+        <li>
+          <div class="q">Austrian Symbolist painter Gustav Klimt is famous for which golden 1907–08 work depicting a couple embracing?</div>
+          <div class="a">→ The Kiss</div>
+        </li>
+        <li>
+          <div class="q">Which Harlem Renaissance poet asked "What happens to a dream deferred? / Does it dry up / like a raisin in the sun?"</div>
+          <div class="a">→ Langston Hughes ("Harlem," 1951)</div>
+        </li>
+        <li>
+          <div class="q">Which American author won the 1940 Pulitzer Prize for The Grapes of Wrath, following the Joad family from Oklahoma to California?</div>
+          <div class="a">→ John Steinbeck</div>
+        </li>
+        <li>
+          <div class="q">Wolfgang Amadeus Mozart composed "Eine kleine Nachtmusik" in 1787. What does the German title translate to?</div>
+          <div class="a">→ "A Little Night Music" (or "A Little Serenade")</div>
+        </li>
+      </ul>
+    </div>
+  </div>
 
-</main>
+  <!-- GENERAL TRIVIA -->
+  <div class="card trivia wide">
+    <div class="card-header">🧩 General Trivia</div>
+    <div class="card-body">
+      <ul class="trivia-list">
+        <li>
+          <div class="cat">Biology</div>
+          Humans share approximately 50% of their DNA with bananas. We share ~98% with chimpanzees and ~85% with mice.
+        </li>
+        <li>
+          <div class="cat">Food</div>
+          The green "wasabi" paste served at most American sushi restaurants is not real wasabi — it's horseradish dyed green. True wasabi is rare, expensive, and made from the <em>Wasabia japonica</em> plant.
+        </li>
+        <li>
+          <div class="cat">Animals</div>
+          The platypus is one of only five species of egg-laying mammals (monotremes) — the others are four species of echidna. Male platypuses also have venomous ankle spurs.
+        </li>
+        <li>
+          <div class="cat">Geography / Language</div>
+          Brazil is the only Portuguese-speaking country in South America. Despite being the largest country on the continent, all of its neighbors speak Spanish.
+        </li>
+        <li>
+          <div class="cat">History / Food</div>
+          Cacao beans were used as currency by the Aztecs. According to 16th-century records, 100 cacao beans could buy a turkey — the same beans used to make chocolate.
+        </li>
+        <li>
+          <div class="cat">Sports</div>
+          Table tennis was added as an Olympic sport at the 1988 Seoul Summer Games. China has won more Olympic table tennis gold medals than all other countries combined.
+        </li>
+        <li>
+          <div class="cat">Etymology</div>
+          The word "disaster" comes from the Italian <em>disastro</em> — literally "bad star" (<em>dis</em> = bad + <em>astro</em> = star). Ancient astrologers blamed catastrophes on unfavorable celestial alignments.
+        </li>
+        <li>
+          <div class="cat">Animals</div>
+          A group of cats is called a "clowder." A group of kittens is called a "kindle." A group of wild cats is called a "destruction."
+        </li>
+        <li>
+          <div class="cat">Science</div>
+          The microwave oven was invented by accident in 1945 when Raytheon engineer Percy Spencer noticed radar waves had melted a chocolate bar in his pocket while he was working near a magnetron.
+        </li>
+        <li>
+          <div class="cat">Food</div>
+          Peanuts are not actually nuts — they're legumes, in the same family as beans, lentils, and soybeans. True nuts (like walnuts and almonds) grow on trees; peanuts grow underground.
+        </li>
+        <li>
+          <div class="cat">US Geography</div>
+          Maine is the only US state that borders exactly one other US state (New Hampshire). Every other state shares borders with at least two others.
+        </li>
+        <li>
+          <div class="cat">Animals / Oceans</div>
+          Sea horses are the only animal in which the male becomes pregnant and gives birth. The female deposits eggs into the male's brood pouch, where he fertilizes and carries them for 2–4 weeks.
+        </li>
+      </ul>
+    </div>
+  </div>
 
-<footer style="text-align:center; padding:14px; font-size:11px; color:#888;">
-  Generated automatically · <a href="https://delbraeth.github.io/TRIVIA/" style="color:#888;">delbraeth.github.io/TRIVIA</a>
-</footer>
+</div>
+
+<div style="text-align:center; padding:20px; color:var(--muted); font-size:0.75rem;">
+  Generated April 30, 2026 &nbsp;|&nbsp; Reds record verified from covers.com · Records from CBS Sports / bleacherreport.com
+</div>
+
 </body>
 </html>
