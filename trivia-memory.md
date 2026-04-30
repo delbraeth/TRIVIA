@@ -51,7 +51,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 29 | Capital of Latvia | Riga |
 | Apr 29 | Capital of Kentucky | Frankfort |
 | Apr 29 | Capital of Vietnam | Hanoi |
-
+| Apr 30 | Capital of North Dakota | Bismarck |
+| Apr 30 | Capital of Madagascar | Antananarivo |
+| Apr 30 | Capital of Connecticut | Hartford |
+| Apr 30 | Capital of Albania | Tirana |
 ---
 
 ## 📺 Classic TV Used
@@ -108,7 +111,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 29 | Star Trek (TOS) | Mr. Spock | Leonard Nimoy |
 | Apr 29 | ER | Dr. Doug Ross | George Clooney |
 | Apr 29 | Family Matters | Steve Urkel | Jaleel White |
-
+| Apr 30 | Happy Days | Arthur "Fonzie" Fonzarelli | Henry Winkler |
+| Apr 30 | Three's Company | Jack Tripper | John Ritter |
+| Apr 30 | Seinfeld | Cosmo Kramer | Michael Richards |
+| Apr 30 | Charlie's Angels | Jill Munroe | Farrah Fawcett |
+| Apr 30 | The Dick Van Dyke Show | Rob Petrie | Dick Van Dyke |
+| Apr 30 | Battlestar Galactica (1978) | Commander Adama | Lorne Greene |
 ---
 
 ## 🎨 Arts & Literature Used
@@ -147,7 +155,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 29 | French composer of Boléro | Maurice Ravel |
 | Apr 29 | Author of The Lord of the Rings | J.R.R. Tolkien |
 | Apr 29 | Italian Renaissance painter of Birth of Venus | Sandro Botticelli |
-
+| Apr 30 | Opening line "Mr. and Mrs. Dursley, of number four, Privet Drive..." | Harry Potter and the Sorcerer's Stone (J.K. Rowling) |
+| Apr 30 | Russian author of Crime and Punishment | Fyodor Dostoevsky |
+| Apr 30 | Spanish co-founder of Cubism / painter of Guernica | Pablo Picasso |
+| Apr 30 | American author of Slaughterhouse-Five | Kurt Vonnegut |
+| Apr 30 | Author of memoir I Know Why the Caged Bird Sings | Maya Angelou |
+| Apr 30 | French composer of the opera Carmen | Georges Bizet |
 ---
 
 ## 🧩 General Trivia Topics Used
@@ -244,7 +257,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 29 | Sports | Spurs first playoff series win since 2017 (4-1 over Trail Blazers) |
 | Apr 29 | Sports | NFL Draft: Indiana QB Fernando Mendoza went #1 overall |
 | Apr 29 | Box Office | "Michael" trailer 116.2M views in 24h — record for music biopic |
-
+| Apr 30 | Geography | Lake Baikal — world's deepest lake (~5,387 ft); ~20% of Earth's unfrozen freshwater |
+| Apr 30 | Science | Teaspoon of neutron-star material weighs ~6 billion tons |
+| Apr 30 | Animals | Group of giraffes is a "tower"; group of porcupines a "prickle" |
+| Apr 30 | Food | Saffron — most expensive spice; ~75,000 flowers per pound |
+| Apr 30 | Language | Pneumonoultramicroscopicsilicovolcanoconiosis (45 letters) — longest word in major dictionaries |
+| Apr 30 | Sports | Olympic gold medals are 92.5% silver with ≥6g gold plating |
+| Apr 30 | History | Diners Club — first multipurpose charge card (1950) |
+| Apr 30 | Etymology | "Avocado" from Nahuatl āhuacatl (testicle) |
+| Apr 30 | Animals | Reindeer eyes change color seasonally (gold→blue) |
+| Apr 30 | Geography | Caspian Sea — largest enclosed body of water on Earth |
+| Apr 30 | Astronomy | Earth's mini-moons / quasi-satellite Kamoʻoalewa |
+| Apr 30 | Animals | Shrimp's heart is in its head (cephalothorax) |
+| Apr 30 | Sports | Reds 19-11, NL Central #1; lost 13-2 to Rockies Apr 29 |
+| Apr 30 | Sports | Flyers eliminate Penguins 4-2 (1-0 OT in Game 6) |
+| Apr 30 | Sports | #1 Pistons trail #8 Magic 3-1 in NBA 1st round |
+| Apr 30 | Box Office | "Michael" $97M domestic / $218.7M global opening — biopic record |
 ---
 
 ## 📅 History Dates Covered
@@ -261,7 +289,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 26 | April 26 (Chernobyl 1986, Mandela/SA election 1994, Salk vaccine trials 1954, Sybil Ludington 1777) |
 | Apr 28 | April 28 (Mutiny on the Bounty 1789, Kon-Tiki sets sail 1947, Muhammad Ali refused induction 1967) |
 | Apr 29 | April 29 (Liberation of Dachau 1945, LA Riots 1992, Royal Wedding William & Kate 2011) |
-
+| Apr 30 | April 30 (Washington's inauguration 1789, Louisiana Purchase 1803, Fall of Saigon 1975, Ellen comes out 1997) |
 ---
 
 ## 🎉 National Days Featured
@@ -278,6 +306,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 26 | National Pretzel Day · Alien Day (4/26 = LV-426) · World Intellectual Property Day · National Help a Horse Day · World Pinhole Photography Day |
 | Apr 28 | National Superhero Day · Pay It Forward Day · National Blueberry Pie Day · World Day for Safety & Health at Work · Save the Frogs Day |
 | Apr 29 | International Dance Day · National Zipper Day · World Wish Day · National Peace Rose Day · Denim Day · International Guide Dog Day |
-
+| Apr 30 | International Jazz Day · National Honesty Day · Adopt a Shelter Pet Day · National Bubble Tea Day · Bugs Bunny Day · National Animal Advocacy Day
 ---
-_Last updated: Apr 29, 2026_
+_Last updated: Apr 30, 2026_
