@@ -55,6 +55,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | Capital of Madagascar | Antananarivo |
 | Apr 30 | Capital of Connecticut | Hartford |
 | Apr 30 | Capital of Albania | Tirana |
+| Apr 30b | Capital of Oregon | Salem |
+| Apr 30b | Capital of Norway | Oslo |
+| Apr 30b | Capital of New Zealand | Wellington |
+| Apr 30b | Capital of Nigeria | Abuja |
 ---
 
 ## 📺 Classic TV Used
@@ -117,6 +121,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | Charlie's Angels | Jill Munroe | Farrah Fawcett |
 | Apr 30 | The Dick Van Dyke Show | Rob Petrie | Dick Van Dyke |
 | Apr 30 | Battlestar Galactica (1978) | Commander Adama | Lorne Greene |
+| Apr 30b | Perry Mason | Perry Mason | Raymond Burr |
+| Apr 30b | Moonlighting | David Addison | Bruce Willis |
+| Apr 30b | The Beverly Hillbillies | Jed Clampett | Buddy Ebsen |
+| Apr 30b | Barney Miller | Capt. Barney Miller | Hal Linden |
+| Apr 30b | The Fresh Prince of Bel-Air | Will Smith | Will Smith |
+| Apr 30b | Designing Women | Julia Sugarbaker | Dixie Carter |
 ---
 
 ## 🎨 Arts & Literature Used
@@ -161,6 +171,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | American author of Slaughterhouse-Five | Kurt Vonnegut |
 | Apr 30 | Author of memoir I Know Why the Caged Bird Sings | Maya Angelou |
 | Apr 30 | French composer of the opera Carmen | Georges Bizet |
+| Apr 30b | Spanish author of Don Quixote (first modern novel) | Miguel de Cervantes |
+| Apr 30b | Author of The Metamorphosis (Gregor Samsa) | Franz Kafka |
+| Apr 30b | Painter of The Kiss (1907–08) | Gustav Klimt |
+| Apr 30b | "What happens to a dream deferred?" | Langston Hughes ("Harlem") |
+| Apr 30b | Pulitzer-winning author of The Grapes of Wrath | John Steinbeck |
+| Apr 30b | Composer of "Eine kleine Nachtmusik" (1787) | Wolfgang Amadeus Mozart |
 ---
 
 ## 🧩 General Trivia Topics Used
@@ -269,6 +285,23 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | Geography | Caspian Sea — largest enclosed body of water on Earth |
 | Apr 30 | Astronomy | Earth's mini-moons / quasi-satellite Kamoʻoalewa |
 | Apr 30 | Animals | Shrimp's heart is in its head (cephalothorax) |
+| Apr 30b | Biology | Humans share ~50% DNA with bananas |
+| Apr 30b | Food | Wasabi at US sushi = horseradish dyed green |
+| Apr 30b | Animals | Platypus — one of 5 egg-laying mammal species (monotremes) |
+| Apr 30b | Geography | Brazil is only Portuguese-speaking country in South America |
+| Apr 30b | History/Food | Cacao beans used as Aztec currency (100 = 1 turkey) |
+| Apr 30b | Sports | Table tennis added to Olympics: 1988 Seoul Games |
+| Apr 30b | Etymology | "Disaster" from Italian disastro = "bad star" |
+| Apr 30b | Animals | Group of cats = clowder; kittens = kindle |
+| Apr 30b | Science | Microwave oven invented by accident (Percy Spencer, 1945) |
+| Apr 30b | Food | Peanuts are legumes, not actual nuts |
+| Apr 30b | Geography | Maine borders only ONE other US state (New Hampshire) |
+| Apr 30b | Animals | Only male seahorses become pregnant and give birth |
+| Apr 30b | Sports | Reds 19-11, NL Central #1; vs Rockies 12:40 PM ET Apr 30 |
+| Apr 30b | Sports | Pistons force Game 6 (Cade Cunningham 45 pts franchise record) |
+| Apr 30b | Sports | Flyers advance past Penguins (4-2 series); face Hurricanes Rd 2 |
+| Apr 30b | Sports | Canadiens push Lightning to brink 3-2 |
+| Apr 30b | Box Office | Michael (MJ biopic) $97M domestic / $217M global — biopic record |
 | Apr 30 | Sports | Reds 19-11, NL Central #1; lost 13-2 to Rockies Apr 29 |
 | Apr 30 | Sports | Flyers eliminate Penguins 4-2 (1-0 OT in Game 6) |
 | Apr 30 | Sports | #1 Pistons trail #8 Magic 3-1 in NBA 1st round |
@@ -290,6 +323,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 28 | April 28 (Mutiny on the Bounty 1789, Kon-Tiki sets sail 1947, Muhammad Ali refused induction 1967) |
 | Apr 29 | April 29 (Liberation of Dachau 1945, LA Riots 1992, Royal Wedding William & Kate 2011) |
 | Apr 30 | April 30 (Washington's inauguration 1789, Louisiana Purchase 1803, Fall of Saigon 1975, Ellen comes out 1997) |
+| Apr 30b | April 30 alt: CERN makes WWW public domain 1993; Hitler dies 1945; Louisiana becomes 18th state 1812 |
 ---
 
 ## 🎉 National Days Featured
@@ -307,5 +341,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 28 | National Superhero Day · Pay It Forward Day · National Blueberry Pie Day · World Day for Safety & Health at Work · Save the Frogs Day |
 | Apr 29 | International Dance Day · National Zipper Day · World Wish Day · National Peace Rose Day · Denim Day · International Guide Dog Day |
 | Apr 30 | International Jazz Day · National Honesty Day · Adopt a Shelter Pet Day · National Bubble Tea Day · Bugs Bunny Day · National Animal Advocacy Day
+| Apr 30b | National Oatmeal Cookie Day · National Raisin Day · World Veterinary Day · International Jazz Day · National Honesty Day |
 ---
-_Last updated: Apr 30, 2026_
+_Last updated: Apr 30, 2026 (evening)_
