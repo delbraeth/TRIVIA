@@ -65,6 +65,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1 | Capital of Cambodia | Phnom Penh |
 | May 1 | Capital of Georgia (US) | Atlanta |
 
+| May 1v2 | Capital of West Virginia | Charleston |
+| May 1v2 | Capital of Nepal | Kathmandu |
+| May 1v2 | Capital of Trinidad and Tobago | Port of Spain |
+| May 1v2 | Capital of Libya | Tripoli |
+
 ---
 
 ## 📺 Classic TV Used
@@ -140,6 +145,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1 | Murphy Brown | Murphy Brown | Candice Bergen |
 | May 1 | Diff'rent Strokes | Arnold Jackson | Gary Coleman |
 
+| May 1v2 | The Dukes of Hazzard | Bo Duke | Tom Wopat |
+| May 1v2 | MacGyver | Angus MacGyver | Richard Dean Anderson |
+| May 1v2 | The A-Team | Col. Hannibal Smith | George Peppard |
+| May 1v2 | Who's the Boss? | Tony Micelli | Tony Danza |
+| May 1v2 | 21 Jump Street | Officer Tom Hanson | Johnny Depp |
+| May 1v2 | Growing Pains | Dr. Jason Seaver | Alan Thicke |
+
 ---
 
 ## 🎨 Arts & Literature Used
@@ -196,6 +208,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1 | Composer of Rhapsody in Blue (1924) | George Gershwin |
 | May 1 | Blake poem "Tyger Tyger burning bright" | "The Tyger" |
 | May 1 | Mexican self-portrait painter / 'I painted my own reality' | Frida Kahlo |
+
+| May 1v2 | Homer — author of Iliad and Odyssey | Homer (ancient Greek, ~8th c. BC) |
+| May 1v2 | Faulkner — As I Lay Dying narrators | 59 narrators |
+| May 1v2 | First woman to win Pulitzer for Fiction (1921) | Edith Wharton (The Age of Innocence) |
+| May 1v2 | "Do not go gentle into that good night" poet | Dylan Thomas |
+| May 1v2 | Rembrandt's famous 1642 painting | The Night Watch |
+| May 1v2 | Bach — Brandenburg Concertos (1721) | Johann Sebastian Bach |
 
 ---
 
@@ -341,6 +360,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1 | Sports | Sabres/Bruins Game 6 tonight (NHL playoffs) |
 | May 1 | Box Office | Devil Wears Prada 2 debuting ~$85M domestic / ~$180M global |
 
+| May 1v2 | Science | A day on Venus is longer than a year on Venus |
+| May 1v2 | History | Tug of war was an Olympic sport 1900-1920 |
+| May 1v2 | Animals | Cats cannot taste sweetness (unique among mammals) |
+| May 1v2 | History | Oxford University older than the Aztec Empire |
+| May 1v2 | Food | M&M's created 1941 for WWII soldiers |
+| May 1v2 | Animals | Penguins propose with pebbles |
+| May 1v2 | Travel | Eiffel Tower has its own post office |
+| May 1v2 | History | Great Fire of London (1666) — 13K homes, ~6 deaths |
+| May 1v2 | Animals | Cockroach survives a week without its head |
+| May 1v2 | Geography | Norway has a village called "Å" |
+| May 1v2 | History | Fredric Baur (Pringles can inventor) buried in a Pringles can |
+| May 1v2 | Science | More possible chess games than atoms in observable universe (already May 1 used) |
+
 ---
 
 ## 📅 History Dates Covered
@@ -360,6 +392,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | April 30 (Washington's inauguration 1789, Louisiana Purchase 1803, Fall of Saigon 1975, Ellen comes out 1997) |
 | Apr 30b | April 30 alt: CERN makes WWW public domain 1993; Hitler dies 1945; Louisiana becomes 18th state 1812 |
 | May 1 | May 1 (Penny Black 1840, Empire State Building 1931, U-2 spy plane 1960, Bin Laden 2011) |
+
+| May 1v2 | May 1 (alt events: Acts of Union 1707, Citizen Kane 1941, Elvis wedding 1967) |
 
 ---
 
@@ -382,7 +416,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1 | International Workers'/May Day · National Lei Day · Loyalty Day · National Chocolate Parfait Day · Mother Goose Day · Global Love Day |
 
 ---
-_Last updated: May 1, 2026_
+| May 1v2 | International Workers' Day · National Space Day · Law Day · School Lunch Hero Day · National Chocolate Parfait Day · National Loyalty Day |
+
+---
+_Last updated: May 1, 2026 (v2)_
 _Last updated: Apr 30, 2026 (evening)_
 
 ---
@@ -420,3 +457,14 @@ _Last updated: Apr 30, 2026 (evening)_
 | Apr 30 | SPAM | Introduced 1937 by Hormel |
 | Apr 30 | Uber | Founded 2009 |
 | Apr 30 | Toilet paper roll | Patented 1891 by Seth Wheeler |
+
+## 🏭 Founded & Invented Used
+
+| Week | Question | Answer |
+|------|----------|--------|
+| May 1v2 | Twitter (X) founded year | 2006 (Dorsey, Glass, Stone, Williams) |
+| May 1v2 | Telephone inventor and year | Alexander Graham Bell, 1876 |
+| May 1v2 | Google founded year | 1998 (Page & Brin, Menlo Park garage) |
+| May 1v2 | World Wide Web inventor and location | Tim Berners-Lee, 1989, CERN |
+| May 1v2 | LEGO founded year and country | 1932, Denmark (Ole Kirk Christiansen) |
+| May 1v2 | First iPhone sale year | 2007 (June 29) |
