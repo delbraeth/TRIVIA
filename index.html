@@ -7,134 +7,162 @@
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     background: #1a1a2e;
     color: #e8e8f0;
     min-height: 100vh;
   }
   header {
-    background: linear-gradient(135deg, #16213e 0%, #0f3460 100%);
+    background: linear-gradient(135deg, #16213e 0%, #0f3460 50%, #533483 100%);
     padding: 18px 24px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 10px;
-    border-bottom: 2px solid rgba(255,255,255,0.08);
+    align-items: center;
+    border-bottom: 2px solid rgba(255,255,255,0.1);
   }
-  header h1 { font-size: 22px; font-weight: 800; color: #fff; letter-spacing: -0.5px; }
-  .date { font-size: 12px; color: rgba(255,255,255,0.55); margin-top: 3px; letter-spacing: 0.5px; text-transform: uppercase; }
-  .main-grid {
+  header h1 { font-size: 22px; font-weight: 800; letter-spacing: -0.5px; }
+  .date { font-size: 12px; color: rgba(255,255,255,0.65); margin-top: 2px; letter-spacing: 0.5px; }
+  .archive-bar {
+    background: rgba(0,0,0,0.35);
+    padding: 5px 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .archive-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: rgba(255,255,255,0.4);
+  }
+  .archive-pill {
+    color: rgba(255,255,255,0.75);
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.15);
+    padding: 2px 9px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .container {
     max-width: 960px;
     margin: 0 auto;
     padding: 20px 16px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 14px;
+    gap: 16px;
   }
   .card {
-    background: rgba(255,255,255,0.04);
-    border: 1px solid rgba(255,255,255,0.08);
     border-radius: 12px;
-    padding: 16px;
+    padding: 16px 18px;
     position: relative;
     overflow: hidden;
   }
-  .card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 3px;
-    background: var(--accent, #4ade80);
-  }
-  .card.wide { grid-column: 1 / -1; }
-  .card h2 {
+  .card-title {
     font-size: 11px;
-    font-weight: 700;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    color: var(--accent, #4ade80);
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    opacity: 0.75;
   }
-  .card h3 {
-    font-size: 15px;
-    font-weight: 700;
-    color: #fff;
-    margin-bottom: 4px;
-  }
-  .record-big {
-    font-size: 48px;
-    font-weight: 900;
-    color: #fff;
-    line-height: 1;
-    margin: 6px 0;
-    letter-spacing: -2px;
-  }
-  .tag {
-    display: inline-block;
-    background: rgba(255,255,255,0.1);
-    border-radius: 4px;
-    padding: 2px 8px;
-    font-size: 11px;
-    font-weight: 600;
-    margin-top: 4px;
-  }
-  .form-row {
-    display: flex; gap: 4px; flex-wrap: wrap; margin-top: 8px;
-  }
-  .form-pill {
-    width: 26px; height: 26px; border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 11px; font-weight: 800;
-  }
-  .form-pill.W { background: #22c55e; color: #fff; }
-  .form-pill.L { background: #ef4444; color: #fff; }
-  .game-row {
-    margin-top: 10px;
-    background: rgba(255,255,255,0.07);
+  .card-full { grid-column: 1 / -1; }
+
+  /* Reds */
+  .card-reds { background: linear-gradient(135deg, #c6011f 0%, #8b0000 100%); }
+  .reds-record { font-size: 52px; font-weight: 900; line-height: 1; letter-spacing: -2px; }
+  .reds-sub { font-size: 13px; opacity: 0.85; margin-top: 4px; }
+  .reds-game {
+    background: rgba(0,0,0,0.3);
     border-radius: 8px;
     padding: 8px 12px;
+    margin-top: 12px;
     font-size: 13px;
-    font-weight: 600;
-    color: #fbbf24;
-    display: flex; align-items: center; gap: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
-  .trivia-item {
-    padding: 7px 0;
-    border-bottom: 1px solid rgba(255,255,255,0.05);
-    font-size: 13px;
-    line-height: 1.5;
+  .reds-game-label { font-size: 10px; opacity: 0.7; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+
+  /* Box Office */
+  .card-box { background: linear-gradient(135deg, #6a3093 0%, #a044ff 100%); }
+
+  /* Sports */
+  .card-sports { background: linear-gradient(135deg, #134e5e 0%, #71b280 100%); }
+  .sport-row { border-bottom: 1px solid rgba(255,255,255,0.12); padding: 7px 0; font-size: 13px; }
+  .sport-row:last-child { border-bottom: none; }
+  .sport-tag {
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background: rgba(255,255,255,0.2);
+    border-radius: 4px;
+    padding: 1px 5px;
+    margin-right: 6px;
+    vertical-align: middle;
   }
-  .trivia-item:last-child { border-bottom: none; }
-  .trivia-item .q { color: #e2e8f0; font-weight: 500; }
-  .trivia-item .a {
-    color: var(--accent, #4ade80);
-    font-weight: 700;
-    font-size: 12px;
-    margin-top: 1px;
+
+  /* Deaths */
+  .card-deaths { background: linear-gradient(135deg, #434343 0%, #2c2c2c 100%); }
+  .death-row { border-bottom: 1px solid rgba(255,255,255,0.1); padding: 7px 0; font-size: 13px; }
+  .death-row:last-child { border-bottom: none; }
+  .death-name { font-weight: 700; }
+  .death-detail { opacity: 0.75; font-size: 12px; }
+
+  /* History */
+  .card-history { background: linear-gradient(135deg, #3a1c71 0%, #d76d77 50%, #ffaf7b 100%); }
+  .history-item { border-bottom: 1px solid rgba(255,255,255,0.15); padding: 7px 0; font-size: 13px; }
+  .history-item:last-child { border-bottom: none; }
+  .history-year { font-weight: 800; font-size: 15px; margin-right: 8px; }
+  .national-days { margin-top: 8px; font-size: 12px; opacity: 0.85; line-height: 1.7; }
+
+  /* Capitals */
+  .card-capitals { background: linear-gradient(135deg, #005c97 0%, #363795 100%); }
+  .qa-row { border-bottom: 1px solid rgba(255,255,255,0.12); padding: 8px 0; font-size: 13px; }
+  .qa-row:last-child { border-bottom: none; }
+  .q { font-weight: 600; }
+  .a { color: #ffe066; font-weight: 700; font-size: 13px; margin-top: 2px; }
+
+  /* TV */
+  .card-tv { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); }
+  .tv-row { border-bottom: 1px solid rgba(255,255,255,0.12); padding: 7px 0; font-size: 13px; }
+  .tv-row:last-child { border-bottom: none; }
+  .tv-show { font-weight: 700; font-size: 12px; opacity: 0.7; }
+  .tv-q { font-size: 13px; }
+  .tv-a { color: #7ee8fa; font-weight: 700; margin-top: 1px; }
+
+  /* Arts */
+  .card-arts { background: linear-gradient(135deg, #b5451b 0%, #e07b39 100%); }
+
+  /* Founded */
+  .card-founded { background: linear-gradient(135deg, #0f9b58 0%, #00bf72 100%); color: #fff; }
+
+  /* General */
+  .card-general { background: linear-gradient(135deg, #1c1c2e 0%, #2d2b55 100%); border: 1px solid rgba(255,255,255,0.08); }
+  .fact-row { border-bottom: 1px solid rgba(255,255,255,0.08); padding: 7px 0; font-size: 13px; line-height: 1.45; }
+  .fact-row:last-child { border-bottom: none; }
+  .fact-tag {
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background: rgba(255,255,255,0.12);
+    border-radius: 3px;
+    padding: 1px 5px;
+    margin-right: 5px;
+    vertical-align: middle;
   }
-  .fact { font-size: 13px; line-height: 1.6; padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
-  .fact:last-child { border-bottom: none; }
-  .fact strong { color: var(--accent, #4ade80); }
-  .death-item { padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 13px; }
-  .death-item:last-child { border-bottom: none; }
-  .death-name { font-weight: 700; color: #fff; font-size: 14px; }
-  .death-age { color: rgba(255,255,255,0.5); font-size: 11px; margin-left: 4px; }
-  .death-desc { color: rgba(255,255,255,0.7); margin-top: 2px; line-height: 1.4; }
-  .hist-item { padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 13px; line-height: 1.5; }
-  .hist-item:last-child { border-bottom: none; }
-  .hist-year { font-weight: 800; color: var(--accent); font-size: 14px; margin-right: 6px; }
-  .news-item { padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 13px; line-height: 1.5; }
-  .news-item:last-child { border-bottom: none; }
-  .news-cat { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); margin-bottom: 2px; }
-  .gross { font-size: 28px; font-weight: 900; color: #fff; margin: 6px 0; }
-  .sport-league { font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px; color: var(--accent); margin-bottom: 1px; margin-top: 8px; }
-  .sport-league:first-of-type { margin-top: 0; }
-  .sport-item { font-size: 13px; line-height: 1.5; color: rgba(255,255,255,0.85); padding: 2px 0; }
+
   @media (max-width: 600px) {
-    .record-big { font-size: 38px; }
-    header { padding: 14px 16px; }
-    header h1 { font-size: 18px; }
+    header { flex-direction: column; align-items: flex-start; gap: 10px; }
+    .reds-record { font-size: 42px; }
   }
 </style>
 </head>
@@ -143,7 +171,7 @@
 <header>
   <div>
     <h1>🎯 Thursday Trivia Night</h1>
-    <div class="date">Reference Sheet — Thursday, May 1, 2026</div>
+    <div class="date">Reference Sheet — May 1, 2026</div>
   </div>
   <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
     <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
@@ -152,257 +180,289 @@
     <div style="font-size: 24px;">🍺</div>
   </div>
 </header>
+
 <!-- ARCHIVE-NAV -->
-<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
-  <a href="./thursday-trivia-2026-04-30.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Apr 30</a>
-  <a href="./thursday-trivia-2026-04-29.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Apr 29</a>
-  <a href="./thursday-trivia-2026-04-28.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Apr 28</a>
-  <a href="./thursday-trivia-2026-04-26.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Apr 26</a>
+<div class="archive-bar">
+  <span class="archive-label">Archive</span>
+  <a href="./thursday-trivia-2026-04-30.html" class="archive-pill">Apr 30</a>
+  <a href="./thursday-trivia-2026-04-29.html" class="archive-pill">Apr 29</a>
+  <a href="./thursday-trivia-2026-04-28.html" class="archive-pill">Apr 28</a>
+  <a href="./thursday-trivia-2026-04-26.html" class="archive-pill">Apr 26</a>
 </div>
 
-<div class="main-grid">
+<div class="container">
 
   <!-- REDS CARD -->
-  <div class="card" style="--accent:#ef4444;">
-    <h2>⚾ Cincinnati Reds</h2>
-    <div style="font-size:12px; color:rgba(255,255,255,0.5); text-transform:uppercase; letter-spacing:0.5px;">2026 Record • NL Central</div>
-    <div class="record-big">20–11</div>
-    <div class="tag" style="background:rgba(239,68,68,0.2); color:#fca5a5;">🥇 NL Central #1</div>
-    <div style="font-size:12px; color:rgba(255,255,255,0.5); margin-top:10px; margin-bottom:4px;">RECENT FORM (last 5)</div>
-    <div class="form-row">
-      <div class="form-pill W">W</div>
-      <div class="form-pill W">W</div>
-      <div class="form-pill L">L</div>
-      <div class="form-pill W">W</div>
-      <div class="form-pill L">L</div>
-    </div>
-    <div class="game-row">
-      <span>⚾</span>
+  <div class="card card-reds">
+    <div class="card-title">⚾ Cincinnati Reds</div>
+    <div class="reds-record">20–11</div>
+    <div class="reds-sub">🥇 NL Central — 1st Place</div>
+    <div class="reds-game">
       <div>
-        <div style="font-size:11px; color:rgba(255,255,255,0.5); text-transform:uppercase; letter-spacing:0.5px;">TODAY'S GAME</div>
-        <div>@ Pittsburgh Pirates</div>
-        <div style="font-size:11px; color:rgba(255,255,255,0.6); font-weight:400;">6:45 PM ET • Away</div>
+        <div class="reds-game-label">Tonight's Game</div>
+        <div style="font-weight:700; margin-top:2px;">@ Pittsburgh Pirates</div>
       </div>
+      <div style="text-align:right;">
+        <div style="font-weight:800; font-size:16px;">6:45 PM ET</div>
+        <div style="font-size:11px; opacity:0.7;">PNC Park</div>
+      </div>
+    </div>
+    <div style="font-size:12px; opacity:0.7; margin-top:8px;">SP: Brady Singer vs. Mitch Keller (PIT)</div>
+  </div>
+
+  <!-- BOX OFFICE CARD -->
+  <div class="card card-box">
+    <div class="card-title">🎬 This Weekend's Box Office</div>
+    <div style="font-size:20px; font-weight:800; line-height:1.2; margin-bottom:6px;">The Devil Wears Prada 2</div>
+    <div style="font-size:28px; font-weight:900; color:#ffe066;">~$85–100M</div>
+    <div style="font-size:13px; opacity:0.85; margin-top:2px;">Domestic opening · ~$180M global</div>
+    <div style="font-size:12px; opacity:0.75; margin-top:8px; line-height:1.5;">
+      Meryl Streep returns as Miranda Priestly alongside Anne Hathaway — 20 years after the original 2006 hit. Presales of $20M+ put it ahead of Dune: Part Two's pace. "Michael" (MJ biopic) holds at #2.
     </div>
   </div>
 
-  <!-- BOX OFFICE -->
-  <div class="card" style="--accent:#f59e0b;">
-    <h2>🎬 Box Office — This Weekend</h2>
-    <h3>#1: The Devil Wears Prada 2</h3>
-    <div class="gross">~$85M</div>
-    <div style="font-size:11px; color:rgba(255,255,255,0.5);">Projected domestic • ~$180M global debut</div>
-    <div class="fact" style="margin-top:10px;"><strong>Fun fact:</strong> The original 2006 film was based on Lauren Weisberger's roman à clef about working for <em>Vogue</em> editor Anna Wintour. Meryl Streep returns as icy editor Miranda Priestly alongside Anne Hathaway — taking the early-May slot typically claimed by Marvel tentpoles.</div>
-    <div class="fact" style="margin-top:6px; padding-top:6px; border-top:1px solid rgba(255,255,255,0.05); font-size:12px; color:rgba(255,255,255,0.5);">🥈 Holdover: <em>Michael</em> (MJ biopic) — $97M opener last wkd, still going strong</div>
-  </div>
-
-  <!-- SPORTS NEWS -->
-  <div class="card wide" style="--accent:#38bdf8;">
-    <h2>🏆 Sports News This Week</h2>
-    <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap:12px 24px;">
-      <div>
-        <div class="sport-league">⚾ MLB</div>
-        <div class="sport-item">• <strong>Phillies</strong> fired manager Rob Thomson early in the 2026 season after a brutal start</div>
-        <div class="sport-item">• <strong>Reds</strong> 20-11, holding the NL Central lead; De La Cruz crushing it</div>
-        <div class="sport-item">• "Rivalry Weekend" scheduled May 15–17 league-wide</div>
-      </div>
-      <div>
-        <div class="sport-league">🏀 NBA Playoffs — 1st Round</div>
-        <div class="sport-item">• #8 <strong>Orlando Magic</strong> lead #1 Pistons 3-2; Game 6 tonight (7 PM ET, Prime Video) — Detroit must win or go home</div>
-        <div class="sport-item">• Cade Cunningham <em>and</em> Paolo Banchero both dropped 45 pts in Game 5 thriller</div>
-        <div class="sport-item">• <strong>Rockets</strong> also extend their first-round series</div>
-      </div>
-      <div>
-        <div class="sport-league">🏒 NHL Playoffs</div>
-        <div class="sport-item">• <strong>Flyers</strong> eliminated Penguins (4-2 series); face Hurricanes in Round 2</div>
-        <div class="sport-item">• Buffalo <strong>Sabres</strong> vs. Boston Bruins: Game 6 tonight after Sabres snapped NHL-record 14-year playoff drought</div>
-        <div class="sport-item">• Canadiens vs. Lightning: Game 6 tonight in Montreal</div>
-        <div class="sport-item">• Stars vs. Wild: Game 6 tonight</div>
-      </div>
-      <div>
-        <div class="sport-league">🏈 NFL</div>
-        <div class="sport-item">• Draft recap: Indiana QB <strong>Fernando Mendoza</strong> went #1 overall</div>
-        <div class="sport-league">🏃 Track & Field</div>
-        <div class="sport-item">• Ethiopia's <strong>Yomif Kejelcha</strong> ran the London Marathon in under 2 hours — but still got 2nd place!</div>
-      </div>
+  <!-- SPORTS CARD -->
+  <div class="card card-sports card-full">
+    <div class="card-title">🏆 Sports This Week</div>
+    <div class="sport-row">
+      <span class="sport-tag">NBA</span>
+      <strong>Magic lead Pistons 3-2</strong> — Game 6 tonight in Detroit (7 PM ET, Prime Video). Cade Cunningham &amp; Paolo Banchero both dropped 45 pts in Piston's G5 win. Cade's 45 is a new Pistons playoff record.
+    </div>
+    <div class="sport-row">
+      <span class="sport-tag">NBA</span>
+      <strong>Lakers lead Rockets 3-2</strong> — Jabari Smith Jr. led Houston's charge to force a G6 tonight. Can the Rockets become first team to overcome a 0-3 deficit? G6 also tonight.
+    </div>
+    <div class="sport-row">
+      <span class="sport-tag">NBA</span>
+      <strong>Timberwolves upset Nuggets</strong> — Minnesota advances past Denver to the second round of the playoffs.
+    </div>
+    <div class="sport-row">
+      <span class="sport-tag">NHL</span>
+      <strong>Sabres lead Bruins 3-2</strong> — Buffalo leads its first playoff series since 2011. Boston survived G5 in OT (Pastrnak walkoff). G6 tonight in Boston (7:30 PM, ESPN).
+    </div>
+    <div class="sport-row">
+      <span class="sport-tag">NHL</span>
+      <strong>Hurricanes swept Senators 4-0</strong> — Carolina dominates for their 8th straight playoff series win. They await the Flyers in Round 2 (Philly eliminated Pittsburgh in 6).
+    </div>
+    <div class="sport-row">
+      <span class="sport-tag">NFL</span>
+      <strong>2026 NFL Draft complete</strong> — Held in Pittsburgh (Apr 23-25). Indiana QB <strong>Fernando Mendoza</strong> went #1 overall. 257 total picks made; KC Chiefs spent first three picks on defense.
+    </div>
+    <div class="sport-row">
+      <span class="sport-tag">MLB</span>
+      <strong>Dodgers charging</strong> — LA climbed to share of best record in the bigs with a comeback win vs. Marlins. Reds (20-11) hold first in NL Central heading into tonight.
     </div>
   </div>
 
-  <!-- CELEBRITY DEATHS -->
-  <div class="card" style="--accent:#94a3b8;">
-    <h2>🕊️ In Memoriam — Past 7 Days</h2>
-    <div class="death-item">
-      <div><span class="death-name">David Allan Coe</span><span class="death-age">age 86 • Apr 30</span></div>
-      <div class="death-desc">Outlaw country legend; wrote "Take This Job and Shove It" (Johnny Paycheck hit) and "You Never Even Called Me By My Name"</div>
+  <!-- CELEBRITY DEATHS CARD -->
+  <div class="card card-deaths">
+    <div class="card-title">🕯️ Recently Passed</div>
+    <div class="death-row">
+      <div class="death-name">David Allan Coe <span style="font-weight:400; opacity:0.6;">— age 86</span></div>
+      <div class="death-detail">Outlaw country legend; wrote "Take This Job and Shove It" and "You Never Even Called Me By My Name." Died April 30.</div>
     </div>
-    <div class="death-item">
-      <div><span class="death-name">Nedra Talley Ross</span><span class="death-age">age 80 • Apr 26</span></div>
-      <div class="death-desc">Founding member of The Ronettes — the iconic 1960s girl group behind "Be My Baby"</div>
+    <div class="death-row">
+      <div class="death-name">Roger Sweet <span style="font-weight:400; opacity:0.6;">— age 91</span></div>
+      <div class="death-detail">Mattel designer who created the He-Man action figure and Masters of the Universe line. Died April 28 after battle with dementia.</div>
     </div>
-    <div class="death-item">
-      <div><span class="death-name">Michael Tilson Thomas</span><span class="death-age">age 80 • Apr 22</span></div>
-      <div class="death-desc">Celebrated conductor and composer; longtime Music Director of the San Francisco Symphony</div>
+    <div class="death-row">
+      <div class="death-name">Nedra Talley Ross <span style="font-weight:400; opacity:0.6;">— age 80</span></div>
+      <div class="death-detail">Founding member of The Ronettes, the influential '60s girl group behind "Be My Baby." Died April 26.</div>
     </div>
-    <div class="death-item">
-      <div><span class="death-name">Dave Mason</span><span class="death-age">age 79 • Apr 21</span></div>
-      <div class="death-desc">Rock &amp; Roll Hall of Famer; founding member of Traffic; wrote "Feelin' Alright"</div>
+    <div class="death-row">
+      <div class="death-name">Dave Mason <span style="font-weight:400; opacity:0.6;">— age 79</span></div>
+      <div class="death-detail">Guitarist and co-founding member of 1960s rock band Traffic ("Feelin' Alright"). Died April 21.</div>
     </div>
   </div>
 
   <!-- THIS DAY IN HISTORY -->
-  <div class="card" style="--accent:#a78bfa;">
-    <h2>📅 This Day in History — May 1</h2>
-    <div class="hist-item">
-      <span class="hist-year">1840</span>
-      The <strong>Penny Black</strong> — the world's first adhesive postage stamp — was issued in the United Kingdom. It featured a portrait of Queen Victoria and cost one penny.
+  <div class="card card-history">
+    <div class="card-title">📅 This Day in History — May 1</div>
+    <div class="history-item">
+      <span class="history-year">1707</span>The Acts of Union take effect, uniting the Kingdom of England and the Kingdom of Scotland into a single sovereign state: <strong>Great Britain</strong>.
     </div>
-    <div class="hist-item">
-      <span class="hist-year">1931</span>
-      The <strong>Empire State Building</strong> officially opened in New York City. At 102 stories tall, it was the world's tallest skyscraper — a title it held for 40 years.
+    <div class="history-item">
+      <span class="history-year">1941</span><strong>Citizen Kane</strong> premieres at RKO Palace Theater in New York. Orson Welles directed, produced, co-wrote, and starred — at age 25. Widely considered the greatest film ever made.
     </div>
-    <div class="hist-item">
-      <span class="hist-year">1960</span>
-      American pilot <strong>Francis Gary Powers</strong> was shot down over the Soviet Union in his <strong>U-2 spy plane</strong>, triggering a major international incident during the Cold War.
+    <div class="history-item">
+      <span class="history-year">1967</span><strong>Elvis Presley</strong> marries Priscilla Beaulieu in an eight-minute civil ceremony at the Aladdin Hotel in Las Vegas. They had dated for seven years before the wedding.
     </div>
-    <div class="hist-item">
-      <span class="hist-year">2011</span>
-      <strong>Osama bin Laden</strong> was killed in Abbottabad, Pakistan by U.S. Navy SEALs in Operation Neptune Spear — nearly 10 years after 9/11.
-    </div>
-    <div class="hist-item" style="border-top:1px solid rgba(255,255,255,0.1); margin-top:6px; padding-top:6px;">
-      🎉 <strong>National Days:</strong> International Workers' Day / May Day · National Lei Day (Hawaii) · Loyalty Day (US) · National Chocolate Parfait Day · Mother Goose Day · Global Love Day
-    </div>
-  </div>
-
-  <!-- CURRENT EVENTS -->
-  <div class="card" style="--accent:#2dd4bf;">
-    <h2>🌍 Current Events</h2>
-    <div class="news-item">
-      <div class="news-cat">Middle East</div>
-      Iran closes the Strait of Hormuz; the UN warns of a looming <strong>global food emergency</strong> as Trump appears unlikely to accept Iran's proposed deal to reopen it.
-    </div>
-    <div class="news-item">
-      <div class="news-cat">Middle East</div>
-      <strong>Gaza holds elections</strong> — the first in two decades — as Palestinians cast ballots amid ongoing reconstruction efforts.
-    </div>
-    <div class="news-item">
-      <div class="news-cat">US Politics</div>
-      Former FBI Director <strong>James Comey indicted</strong> again, this time over a social media post the Trump administration deemed a threat; Supreme Court appears split over a <strong>Roundup weed killer</strong> case.
-    </div>
-    <div class="news-item">
-      <div class="news-cat">Science</div>
-      Supernova "<strong>SN Winny</strong>" could help solve the debate over how fast the universe is expanding (the Hubble tension). Also: MIT uses chaotic laser light to image the blood-brain barrier in 3D at 25× current speed.
-    </div>
-    <div class="news-item">
-      <div class="news-cat">London Marathon</div>
-      Ethiopia's <strong>Yomif Kejelcha</strong> ran a sub-2-hour marathon — but still finished <strong>second place</strong>.
+    <div class="national-days">
+      🎉 <strong>National Days:</strong> International Workers' Day (May Day) · National Space Day · Law Day · School Lunch Hero Day · National Chocolate Parfait Day · National Loyalty Day
     </div>
   </div>
 
   <!-- CAPITALS QUIZ -->
-  <div class="card" style="--accent:#fb7185;">
-    <h2>📍 Capitals Quiz</h2>
-    <div class="trivia-item">
-      <div class="q">What is the capital of <strong>Mississippi</strong>?</div>
-      <div class="a">✓ Jackson</div>
+  <div class="card card-capitals">
+    <div class="card-title">🌍 Capital Cities Quiz</div>
+    <div class="qa-row">
+      <div class="q">What is the capital of West Virginia?</div>
+      <div class="a">Charleston</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">What is the capital of <strong>Peru</strong>?</div>
-      <div class="a">✓ Lima</div>
+    <div class="qa-row">
+      <div class="q">What is the capital of Nepal?</div>
+      <div class="a">Kathmandu</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">What is the capital of <strong>Finland</strong>?</div>
-      <div class="a">✓ Helsinki</div>
+    <div class="qa-row">
+      <div class="q">What is the capital of Trinidad and Tobago?</div>
+      <div class="a">Port of Spain</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">What is the capital of <strong>Cambodia</strong>?</div>
-      <div class="a">✓ Phnom Penh</div>
-    </div>
-    <div class="trivia-item">
-      <div class="q">What is the capital of <strong>Georgia</strong> (US state)?</div>
-      <div class="a">✓ Atlanta</div>
+    <div class="qa-row">
+      <div class="q">What is the capital of Libya?</div>
+      <div class="a">Tripoli</div>
     </div>
   </div>
 
-  <!-- CLASSIC TV -->
-  <div class="card" style="--accent:#fb923c;">
-    <h2>📺 Classic TV — Actors &amp; Roles (60s–90s)</h2>
-    <div class="trivia-item">
-      <div class="q">Who played <strong>Morticia Addams</strong> in the original <em>The Addams Family</em> (1964)?</div>
-      <div class="a">✓ Carolyn Jones</div>
+  <!-- CLASSIC TV CARD -->
+  <div class="card card-tv">
+    <div class="card-title">📺 Classic TV Actors &amp; Roles (60s–90s)</div>
+    <div class="tv-row">
+      <div class="tv-show">The Dukes of Hazzard (1979–85)</div>
+      <div class="tv-q">Who played Bo Duke?</div>
+      <div class="tv-a">Tom Wopat</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">Who played <strong>Mork from Ork</strong> in <em>Mork &amp; Mindy</em> (1978)?</div>
-      <div class="a">✓ Robin Williams — his breakout TV role</div>
+    <div class="tv-row">
+      <div class="tv-show">MacGyver (1985–92)</div>
+      <div class="tv-q">Who played Angus "Mac" MacGyver?</div>
+      <div class="tv-a">Richard Dean Anderson</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">Who played <strong>Laverne DeFazio</strong> in <em>Laverne &amp; Shirley</em>?</div>
-      <div class="a">✓ Penny Marshall</div>
+    <div class="tv-row">
+      <div class="tv-show">The A-Team (1983–87)</div>
+      <div class="tv-q">Who played Col. John "Hannibal" Smith?</div>
+      <div class="tv-a">George Peppard</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">Who played <strong>George Jefferson</strong> in <em>The Jeffersons</em> (1975–1985)?</div>
-      <div class="a">✓ Sherman Hemsley</div>
+    <div class="tv-row">
+      <div class="tv-show">Who's the Boss? (1984–92)</div>
+      <div class="tv-q">Who played housekeeper Tony Micelli?</div>
+      <div class="tv-a">Tony Danza</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">Who played wisecracking anchor <strong>Murphy Brown</strong> (1988–1998)?</div>
-      <div class="a">✓ Candice Bergen</div>
+    <div class="tv-row">
+      <div class="tv-show">21 Jump Street (1987–91)</div>
+      <div class="tv-q">Who played Officer Tom Hanson before becoming a movie star?</div>
+      <div class="tv-a">Johnny Depp</div>
     </div>
-    <div class="trivia-item">
-      <div class="q">Who played the lovable <strong>Arnold Jackson</strong> in <em>Diff'rent Strokes</em>?</div>
-      <div class="a">✓ Gary Coleman — famous catchphrase: "Whatchu talkin' 'bout, Willis?"</div>
-    </div>
-  </div>
-
-  <!-- ARTS & LITERATURE -->
-  <div class="card" style="--accent:#818cf8;">
-    <h2>🎨 Arts &amp; Literature</h2>
-    <div class="trivia-item">
-      <div class="q">Which French author, who won the Nobel Prize in Literature in 1957, wrote <em>The Stranger</em> (<em>L'Étranger</em>)?</div>
-      <div class="a">✓ Albert Camus</div>
-    </div>
-    <div class="trivia-item">
-      <div class="q">In which Dickens novel does the orphan boy ask for more food with "Please, sir, I want some more"?</div>
-      <div class="a">✓ Oliver Twist (1837–39)</div>
-    </div>
-    <div class="trivia-item">
-      <div class="q">Claude Monet's late-career masterpiece series, painted at his garden in Giverny, depicts what subject?</div>
-      <div class="a">✓ Water Lilies (Les Nymphéas)</div>
-    </div>
-    <div class="trivia-item">
-      <div class="q">Which American composer wrote <em>Rhapsody in Blue</em> (1924), blending jazz and classical styles?</div>
-      <div class="a">✓ George Gershwin</div>
-    </div>
-    <div class="trivia-item">
-      <div class="q">William Blake's poem that begins "Tyger Tyger, burning bright / In the forests of the night" is titled what?</div>
-      <div class="a">✓ "The Tyger" (from <em>Songs of Experience</em>, 1794)</div>
-    </div>
-    <div class="trivia-item">
-      <div class="q">Which Mexican painter, known for raw self-portraits and a unibrow, famously said "I never painted dreams. I painted my own reality"?</div>
-      <div class="a">✓ Frida Kahlo</div>
+    <div class="tv-row">
+      <div class="tv-show">Growing Pains (1985–92)</div>
+      <div class="tv-q">Who played psychiatrist Dr. Jason Seaver?</div>
+      <div class="tv-a">Alan Thicke</div>
     </div>
   </div>
 
-  <!-- GENERAL TRIVIA -->
-  <div class="card wide" style="--accent:#34d399;">
-    <h2>🧩 General Trivia</h2>
-    <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap:0 24px;">
-      <div class="fact"><strong>Animals:</strong> Polar bears have <em>black skin</em> under their white fur — it absorbs the sun's heat more efficiently.</div>
-      <div class="fact"><strong>Food &amp; Crime:</strong> The world's most stolen food is <em>cheese</em>. About 4% of all cheese produced globally is stolen.</div>
-      <div class="fact"><strong>Nintendo:</strong> Nintendo was founded in <strong>1889</strong> — as a <em>playing card company</em> in Kyoto, Japan. Video games came 90 years later.</div>
-      <div class="fact"><strong>Biology:</strong> Humans and giraffes have the <em>same number</em> of neck vertebrae: <strong>7</strong>. A giraffe's are just much, much longer.</div>
-      <div class="fact"><strong>Animals:</strong> Butterflies taste with their <em>feet</em> — chemoreceptors on their tarsi detect sugar and salt before they even land properly.</div>
-      <div class="fact"><strong>Strange History:</strong> The longest "war" with zero casualties: the <strong>Netherlands vs. the Isles of Scilly</strong>, declared in 1651 and not officially ended until 1986 — 335 years of technical war, no battles fought.</div>
-      <div class="fact"><strong>Chess/Math:</strong> There are more possible chess games than <em>atoms in the observable universe</em>. The Shannon Number estimates 10<sup>120</sup> possible games.</div>
-      <div class="fact"><strong>Geography:</strong> The Pacific Ocean alone covers more area than <em>all the world's land combined</em>.</div>
-      <div class="fact"><strong>Science:</strong> Penicillin was discovered <em>accidentally</em> in 1928 when a mold (<em>Penicillium notatum</em>) contaminated one of Alexander Fleming's petri dishes.</div>
-      <div class="fact"><strong>Animals:</strong> A group of vultures is called a <strong>"wake"</strong> when they're feeding — and a <strong>"committee"</strong> when perched in a tree.</div>
+  <!-- ARTS & LITERATURE CARD -->
+  <div class="card card-arts">
+    <div class="card-title">🎨 Arts &amp; Literature</div>
+    <div class="qa-row">
+      <div class="q">Who is credited with writing both the <em>Iliad</em> and the <em>Odyssey</em>?</div>
+      <div class="a">Homer (ancient Greek poet, ~8th century BC)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">William Faulkner's <em>As I Lay Dying</em> (1930) famously uses how many different narrators?</div>
+      <div class="a">59 narrators — stream-of-consciousness across 15 characters</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who was the first woman to win the Pulitzer Prize for Fiction, in 1921?</div>
+      <div class="a">Edith Wharton (<em>The Age of Innocence</em>)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">"Do not go gentle into that good night" is a villanelle by which Welsh poet?</div>
+      <div class="a">Dylan Thomas (written ~1947, published 1951)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">What is the name of Rembrandt's famous 1642 painting, the largest in the Dutch Golden Age?</div>
+      <div class="a">The Night Watch (<em>De Nachtwacht</em>)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Bach's <em>Brandenburg Concertos</em> were dedicated to which German noble in 1721?</div>
+      <div class="a">The Margrave of Brandenburg-Schwedt (Christian Ludwig)</div>
     </div>
   </div>
 
-</div><!-- /main-grid -->
+  <!-- FOUNDED & INVENTED CARD -->
+  <div class="card card-founded">
+    <div class="card-title">🏭 Founded &amp; Invented</div>
+    <div class="qa-row">
+      <div class="q">What year was Twitter (now X) founded, and by whom?</div>
+      <div class="a">2006 — Jack Dorsey, Noah Glass, Biz Stone &amp; Ev Williams</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who invented the telephone and in what year?</div>
+      <div class="a">Alexander Graham Bell — 1876</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Google was founded by Larry Page and Sergey Brin in what year?</div>
+      <div class="a">1998 (started in a garage in Menlo Park, CA)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who invented the World Wide Web, and where were they working at the time?</div>
+      <div class="a">Tim Berners-Lee — 1989, while at CERN in Geneva</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">LEGO was founded in 1932 in which country, and by whom?</div>
+      <div class="a">Denmark — Ole Kirk Christiansen ("LEGO" = "leg godt," Danish for "play well")</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">What year did the first iPhone go on sale?</div>
+      <div class="a">2007 — June 29, 2007 (Steve Jobs announced it in January)</div>
+    </div>
+  </div>
 
-<div style="text-align:center; padding:20px; font-size:11px; color:rgba(255,255,255,0.2);">
-  Generated May 1, 2026 • Sources: MLB.com, ESPN, The-Numbers.com, Wikipedia, AP News
+  <!-- GENERAL TRIVIA CARD -->
+  <div class="card card-general card-full">
+    <div class="card-title">🧠 General Trivia</div>
+    <div class="fact-row">
+      <span class="fact-tag">Science</span>
+      A <strong>day on Venus is longer than a year on Venus</strong> — it rotates so slowly (243 Earth days per rotation) that it orbits the sun (225 Earth days) faster than it spins.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">History</span>
+      <strong>Tug of war was an Olympic sport</strong> from 1900 to 1920. The U.S., UK, and Sweden were dominant nations in the event.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Animals</span>
+      <strong>Cats cannot taste sweetness.</strong> They are the only mammals known to completely lack functional sweet taste receptors — a result of a mutated gene.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">History</span>
+      <strong>Oxford University predates the Aztec Empire.</strong> Oxford was founded around 1096–1167 AD; the Aztec Empire wasn't established until ~1427 AD.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Food</span>
+      <strong>M&amp;M's were created for WWII soldiers</strong> in 1941, so they could eat chocolate that wouldn't melt in their hands in hot climates.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Animals</span>
+      <strong>Penguins propose with pebbles.</strong> Male Gentoo penguins search for the perfect pebble to present to their chosen mate — if she accepts, they build a nest together.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Travel</span>
+      The <strong>Eiffel Tower has its own post office</strong> on the first floor. You can send postcards stamped with the special "Tour Eiffel" postmark.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">History</span>
+      The <strong>Great Fire of London (1666)</strong> burned more than 13,000 homes and 87 churches over four days — yet is estimated to have killed only 6 people.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Animals</span>
+      A <strong>cockroach can live up to a week without its head</strong> before dying of dehydration. It doesn't bleed out because it has an open circulatory system with tiny clots.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Geography</span>
+      Norway has a village called <strong>"Å"</strong> — the shortest place name in the world. It's pronounced like "aw" and means "small river" in Norwegian.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">History</span>
+      Fredric Baur, the chemist who <strong>invented the Pringles can</strong>, was so proud of his creation that he had his ashes buried in one after his death in 2008.
+    </div>
+    <div class="fact-row">
+      <span class="fact-tag">Science</span>
+      <strong>There are more possible chess games</strong> than there are atoms in the observable universe. The number of possible unique games exceeds 10<sup>120</sup> (the "Shannon Number").
+    </div>
+  </div>
+
+</div>
+
+<div style="text-align:center; padding:16px; font-size:11px; color:rgba(255,255,255,0.25);">
+  Generated May 1, 2026 · Thursday Trivia Night Reference Sheet
 </div>
 
 </body>
