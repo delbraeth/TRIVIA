@@ -383,3 +383,40 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 ---
 _Last updated: May 1, 2026_
+_Last updated: Apr 30, 2026 (evening)_
+
+---
+
+## ⚙️ Founded & Invented Used
+
+| Week | Subject | Key Fact |
+|------|---------|---------|
+| Apr 25 | Velcro | Invented 1941 by George de Mestral |
+| Apr 25 | Band-Aid | Invented 1920 by Earle Dickson |
+| Apr 25 | McDonald's | Founded 1940 |
+| Apr 25 | Post-it Note | Adhesive discovered 1968, product launched 1980 |
+| Apr 25 | Barcode scanner | First retail use 1974, Juicy Fruit gum |
+| Apr 25 | Netflix | Founded 1997 as DVD-by-mail |
+| Apr 26 | Coca-Cola | Invented 1886 by John Pemberton |
+| Apr 26 | LEGO | Founded 1932 by Ole Kirk Christiansen |
+| Apr 26 | Microwave oven | Invented 1945 by Percy Spencer |
+| Apr 26 | Amazon | Founded 1994 by Jeff Bezos |
+| Apr 26 | Zipper | Patented 1917 by Gideon Sundbäck |
+| Apr 26 | Nintendo | Founded 1889 as playing card company |
+| Apr 28 | Duct tape | Invented 1943 for US Army |
+| Apr 28 | Google | Founded 1998 by Page and Brin |
+| Apr 28 | Aspirin | Developed 1897 at Bayer |
+| Apr 28 | IKEA | Founded 1943 by 17-year-old Ingvar Kamprad |
+| Apr 28 | Bubble Wrap | Invented 1957 as failed wallpaper |
+| Apr 28 | FedEx | Founded 1971 by Fred Smith |
+| Apr 29 | Scotch tape | Invented 1930 by Richard Drew at 3M |
+| Apr 29 | Starbucks | Founded 1971 in Seattle |
+| Apr 29 | Sony | Founded 1946 in Tokyo |
+| Apr 29 | Ballpoint pen | Patented 1938 by László Bíró |
+| Apr 29 | Airbnb | Founded 2008 in San Francisco |
+| Apr 30 | Jeans / Levi's | Patented 1873 by Levi Strauss & Jacob Davis |
+| Apr 30 | Super Glue | Discovered 1942 by accident |
+| Apr 30 | Apple (company) | Founded April 1, 1976 |
+| Apr 30 | SPAM | Introduced 1937 by Hormel |
+| Apr 30 | Uber | Founded 2009 |
+| Apr 30 | Toilet paper roll | Patented 1891 by Seth Wheeler |
