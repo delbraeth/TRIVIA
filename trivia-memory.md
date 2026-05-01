@@ -59,6 +59,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30b | Capital of Norway | Oslo |
 | Apr 30b | Capital of New Zealand | Wellington |
 | Apr 30b | Capital of Nigeria | Abuja |
+| May 1 | Capital of Mississippi | Jackson |
+| May 1 | Capital of Peru | Lima |
+| May 1 | Capital of Finland | Helsinki |
+| May 1 | Capital of Cambodia | Phnom Penh |
+| May 1 | Capital of Georgia (US) | Atlanta |
+
 ---
 
 ## 📺 Classic TV Used
@@ -127,6 +133,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30b | Barney Miller | Capt. Barney Miller | Hal Linden |
 | Apr 30b | The Fresh Prince of Bel-Air | Will Smith | Will Smith |
 | Apr 30b | Designing Women | Julia Sugarbaker | Dixie Carter |
+| May 1 | The Addams Family | Morticia Addams | Carolyn Jones |
+| May 1 | Mork & Mindy | Mork | Robin Williams |
+| May 1 | Laverne & Shirley | Laverne DeFazio | Penny Marshall |
+| May 1 | The Jeffersons | George Jefferson | Sherman Hemsley |
+| May 1 | Murphy Brown | Murphy Brown | Candice Bergen |
+| May 1 | Diff'rent Strokes | Arnold Jackson | Gary Coleman |
+
 ---
 
 ## 🎨 Arts & Literature Used
@@ -177,6 +190,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30b | "What happens to a dream deferred?" | Langston Hughes ("Harlem") |
 | Apr 30b | Pulitzer-winning author of The Grapes of Wrath | John Steinbeck |
 | Apr 30b | Composer of "Eine kleine Nachtmusik" (1787) | Wolfgang Amadeus Mozart |
+| May 1 | French Nobel Lit 1957 — author of The Stranger | Albert Camus |
+| May 1 | Dickens — 'Please sir, I want some more' | Oliver Twist |
+| May 1 | Monet late-career series — water lilies at Giverny | Les Nymphéas / Water Lilies |
+| May 1 | Composer of Rhapsody in Blue (1924) | George Gershwin |
+| May 1 | Blake poem "Tyger Tyger burning bright" | "The Tyger" |
+| May 1 | Mexican self-portrait painter / 'I painted my own reality' | Frida Kahlo |
+
 ---
 
 ## 🧩 General Trivia Topics Used
@@ -306,6 +326,21 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | Sports | Flyers eliminate Penguins 4-2 (1-0 OT in Game 6) |
 | Apr 30 | Sports | #1 Pistons trail #8 Magic 3-1 in NBA 1st round |
 | Apr 30 | Box Office | "Michael" $97M domestic / $218.7M global opening — biopic record |
+| May 1 | Animals | Polar bears have black skin under white fur |
+| May 1 | Food | Cheese is most stolen food globally (~4%) |
+| May 1 | History/Tech | Nintendo founded 1889 as playing card company |
+| May 1 | Biology | Humans and giraffes both have 7 neck vertebrae |
+| May 1 | Animals | Butterflies taste with their feet |
+| May 1 | History | Netherlands vs. Scilly 335-year war — zero casualties |
+| May 1 | Math | More chess games possible than atoms in observable universe |
+| May 1 | Geography | Pacific Ocean larger than all land combined |
+| May 1 | Science | Penicillin discovered accidentally by Fleming (1928) |
+| May 1 | Animals | Vultures = "wake" (feeding) or "committee" (perching) |
+| May 1 | Sports | Reds 20-11, NL Central #1; @ Pittsburgh 6:45 PM ET |
+| May 1 | Sports | NBA Magic lead Pistons 3-2 (Game 6 tonight) |
+| May 1 | Sports | Sabres/Bruins Game 6 tonight (NHL playoffs) |
+| May 1 | Box Office | Devil Wears Prada 2 debuting ~$85M domestic / ~$180M global |
+
 ---
 
 ## 📅 History Dates Covered
@@ -324,6 +359,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 29 | April 29 (Liberation of Dachau 1945, LA Riots 1992, Royal Wedding William & Kate 2011) |
 | Apr 30 | April 30 (Washington's inauguration 1789, Louisiana Purchase 1803, Fall of Saigon 1975, Ellen comes out 1997) |
 | Apr 30b | April 30 alt: CERN makes WWW public domain 1993; Hitler dies 1945; Louisiana becomes 18th state 1812 |
+| May 1 | May 1 (Penny Black 1840, Empire State Building 1931, U-2 spy plane 1960, Bin Laden 2011) |
+
 ---
 
 ## 🎉 National Days Featured
@@ -342,5 +379,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 29 | International Dance Day · National Zipper Day · World Wish Day · National Peace Rose Day · Denim Day · International Guide Dog Day |
 | Apr 30 | International Jazz Day · National Honesty Day · Adopt a Shelter Pet Day · National Bubble Tea Day · Bugs Bunny Day · National Animal Advocacy Day
 | Apr 30b | National Oatmeal Cookie Day · National Raisin Day · World Veterinary Day · International Jazz Day · National Honesty Day |
+| May 1 | International Workers'/May Day · National Lei Day · Loyalty Day · National Chocolate Parfait Day · Mother Goose Day · Global Love Day |
+
 ---
-_Last updated: Apr 30, 2026 (evening)_
+_Last updated: May 1, 2026_
