@@ -74,6 +74,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 2 | Capital of Argentina | Buenos Aires |
 | May 2 | Capital of Maryland | Annapolis |
 | May 2 | Capital of Iceland | Reykjavík |
+| May 3 | Capital of Texas | Austin |
+| May 3 | Capital of Michigan | Lansing |
+| May 3 | Capital of Brazil | Brasília |
+| May 3 | Capital of South Africa | Pretoria (executive) |
+
 
 ---
 
@@ -163,6 +168,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 2 | The Cosby Show | Cliff Huxtable | Bill Cosby |
 | May 2 | Welcome Back, Kotter | Vinnie Barbarino | John Travolta |
 | May 2 | NYPD Blue | Det. Andy Sipowicz | Dennis Franz |
+| May 3 | Hogan's Heroes | Col. Robert Hogan | Bob Crane |
+| May 3 | The Odd Couple | Felix Unger | Tony Randall |
+| May 3 | Hart to Hart | Jonathan Hart | Robert Wagner |
+| May 3 | Mannix | Joe Mannix | Mike Connors |
+| May 3 | Mister Ed | Wilbur Post | Alan Young |
+| May 3 | Wings | Joe Hackett | Tim Daly |
+
 
 ---
 
@@ -234,6 +246,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 2 | Nigerian author of Things Fall Apart (1958) | Chinua Achebe |
 | May 2 | Composer of The Rite of Spring (1913) | Igor Stravinsky |
 | May 2 | "Whistler's Mother" painter | James McNeill Whistler |
+| May 3 | Author of Their Eyes Were Watching God (1937) | Zora Neale Hurston |
+| May 3 | Russian-born pioneer of abstract painting | Wassily Kandinsky |
+| May 3 | Composer of West Side Story (1957) | Leonard Bernstein |
+| May 3 | Author of The Fire Next Time / Go Tell It on the Mountain | James Baldwin |
+| May 3 | Italian poet of The Divine Comedy / Inferno | Dante Alighieri |
+| May 3 | Spanish Baroque painter of Las Meninas (1656) | Diego Velázquez |
+
 
 ---
 
@@ -407,6 +426,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 2 | Sports | Sabres beat Bruins 4-1 — first playoff series win since 2007 |
 | May 2 | Sports | Knicks dump Hawks 4-2 — only Eastern team into NBA Round 2 so far |
 | May 2 | Box Office | Devil Wears Prada 2 #1 — ~$80M opening, ~3x original ($27.5M, 2006) |
+| May 3 | Architecture | Burj Khalifa, Dubai (2,717 ft / 828 m) — world's tallest building since 2010 |
+| May 3 | Animals | Sloths can hold breath underwater up to 40 minutes |
+| May 3 | Animals | Honeybees use 'waggle dance' to communicate food location |
+| May 3 | Astronomy | Pluto demoted to dwarf planet by IAU on Aug 24, 2006 |
+| May 3 | Botany | Methuselah (Great Basin bristlecone pine, CA) ~4,855 years old |
+| May 3 | Food origin | Coffee discovered in Ethiopia (legendary goat herder Kaldi) |
+| May 3 | Science | Marie Curie's notebooks still radioactive — lead-lined storage |
+| May 3 | Sports | Canada has 2 national sports — lacrosse (summer), hockey (winter) |
+| May 3 | Animals | Dolphins use unique 'signature whistles' as names |
+| May 3 | Geography | Greenland ~80% ice; Iceland only ~11% ice (names backwards) |
+| May 3 | Geography | US-Russia closest distance: 2.4 mi (Diomede Islands) |
+| May 3 | Etymology | '@' symbol = 'arroba' in Spanish/Portuguese (~25 lb unit) |
+| May 3 | Sports | Reds 20-13, NL Central #2 (2 GB Cubs); 76ers 3-1 comeback over Celtics |
+| May 3 | Sports | Golden Tempo wins Kentucky Derby — Cherie DeVaux 1st female trainer |
+| May 3 | Box Office | Devil Wears Prada 2 #1 — ~$75-80M domestic / $180M global |
+
 
 ---
 
@@ -430,6 +465,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | May 1v2 | May 1 (alt events: Acts of Union 1707, Citizen Kane 1941, Elvis wedding 1967) |
 | May 2 | May 2 (King James Bible 1611, Anne Boleyn arrested 1536, Hungary border fence dismantled 1989) |
+| May 3 | May 3 (Thatcher elected UK PM 1979, OKC F5 tornado record 301mph 1999, first spam email 1978, Madeleine McCann disappeared 2007, Penn med school founded 1765) |
 
 ---
 
@@ -454,11 +490,9 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ---
 | May 1v2 | International Workers' Day · National Space Day · Law Day · School Lunch Hero Day · National Chocolate Parfait Day · National Loyalty Day |
 | May 2 | Kentucky Derby Day · National Truffle Day · National Play Outside Day · National Scrapbook Day · World Labyrinth Day · National Homebrew Day · International Female Ride Day |
+| May 3 | World Press Freedom Day · National Chocolate Custard Day · Lemonade Day · Wild Koala Day · Garden Meditation Day · International Bereaved Mother's Day |
 
 ---
-_Last updated: May 2, 2026_
-_Last updated: May 2, 2026_
-
 ---
 
 ## ⚙️ Founded & Invented Used
@@ -511,3 +545,12 @@ _Last updated: May 2, 2026_
 | May 2 | Polaroid instant camera inventor | Edwin Land (1947 demo, 1948 sale) |
 | May 2 | Frisbee inventor | Walter Frederick Morrison (1957); Wham-O trademark 1959 |
 | May 2 | Slinky inventor and year | Richard James, 1943 |
+| May 3 | Ford Motor Company founded year | 1903 (Henry Ford, Detroit) |
+| May 3 | Hershey's chocolate founder/year | Milton Hershey, 1894 |
+| May 3 | Wikipedia launch date | January 15, 2001 (Jimmy Wales & Larry Sanger) |
+| May 3 | Crayola crayons introduced | 1903 (Binney & Smith), original 8-pack 5¢ |
+| May 3 | Tetris inventor | Alexey Pajitnov, 1984 (Soviet Union) |
+| May 3 | Kleenex original use (1924) | Removing cold cream / makeup |
+
+---
+_Last updated: May 3, 2026_
