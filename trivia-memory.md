@@ -553,4 +553,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Kleenex original use (1924) | Removing cold cream / makeup |
 
 ---
+
+## 🎵 Music Used (1990–2010)
+
+| Week | Song | Artist | Year |
+|------|------|--------|------|
+| May 3 | Smells Like Teen Spirit | Nirvana | 1991 |
+| May 3 | Wonderwall | Oasis | 1995 |
+| May 3 | ...Baby One More Time | Britney Spears | 1998 |
+| May 3 | Hey Ya! | OutKast | 2003 |
+| May 3 | Rolling in the Deep | Adele | 2010 |
+
+---
 _Last updated: May 3, 2026_

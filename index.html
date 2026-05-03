@@ -59,6 +59,7 @@
   .card.arts    { border-color: #5d4037; }
   .card.invented { border-color: #00695c; }
   .card.general { border-color: #4527a0; }
+  .card.music   { border-color: #1db954; }
   .reds   h2 { color: #c6011f; }
   .movie  h2 { color: #b8860b; }
   .sports h2 { color: #0a4d3a; }
@@ -70,6 +71,30 @@
   .arts    h2 { color: #5d4037; }
   .invented h2 { color: #00695c; }
   .general h2 { color: #4527a0; }
+  .music   h2 { color: #1db954; }
+  .song-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px dashed #e0e0e0;
+    gap: 8px;
+  }
+  .song-row:last-of-type { border-bottom: none; }
+  .song-info { flex: 1; min-width: 0; }
+  .song-title { font-weight: 700; font-size: 14px; color: #222; }
+  .song-meta { font-size: 12px; color: #666; }
+  .song-links { display: flex; gap: 6px; flex-shrink: 0; }
+  .song-links a {
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 9px;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+  .song-links a.spotify { background: #1db954; color: #fff; }
+  .song-links a.apple   { background: #fa233b; color: #fff; }
   .record-big {
     font-size: 44px;
     font-weight: 900;
@@ -324,6 +349,61 @@
       <li><strong>Geography:</strong> The closest distance between the U.S. and Russia is just <strong>2.4 miles</strong> — between Big and Little Diomede Islands in the Bering Strait.</li>
       <li><strong>Etymology:</strong> The "@" symbol is called <strong>arroba</strong> in Spanish and Portuguese — originally a unit of weight (~25 lbs).</li>
     </ul>
+  </section>
+
+  <!-- MUSIC -->
+  <section class="card music">
+    <h2>🎵 Name That Tune (1990–2010)</h2>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Smells Like Teen Spirit</div>
+        <div class="song-meta">Nirvana · 1991 · <em>Nevermind</em></div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/4hy4fb5D1KL50b3sng9cjw" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple"   href="https://music.apple.com/us/song/1413921155" target="_blank" rel="noopener">🍎 Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Wonderwall</div>
+        <div class="song-meta">Oasis · 1995 · <em>(What's the Story) Morning Glory?</em></div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/0SQzbwtclfXL9vMrb8tepS" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple"   href="https://music.apple.com/us/song/wonderwall/1517447333" target="_blank" rel="noopener">🍎 Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">…Baby One More Time</div>
+        <div class="song-meta">Britney Spears · 1998 · debut single</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple"   href="https://music.apple.com/us/song/baby-one-more-time-remastered/686778974" target="_blank" rel="noopener">🍎 Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Hey Ya!</div>
+        <div class="song-meta">OutKast · 2003 · <em>Speakerboxxx/The Love Below</em></div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple"   href="https://music.apple.com/us/search?term=Hey+Ya+OutKast" target="_blank" rel="noopener">🍎 Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Rolling in the Deep</div>
+        <div class="song-meta">Adele · 2010 · <em>21</em></div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple"   href="https://music.apple.com/us/song/rolling-in-the-deep/1544491233" target="_blank" rel="noopener">🍎 Apple</a>
+      </div>
+    </div>
   </section>
 
 </main>
