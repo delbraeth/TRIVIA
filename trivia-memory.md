@@ -70,6 +70,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1v2 | Capital of Trinidad and Tobago | Port of Spain |
 | May 1v2 | Capital of Libya | Tripoli |
 
+| May 2 | Capital of Tennessee | Nashville |
+| May 2 | Capital of Argentina | Buenos Aires |
+| May 2 | Capital of Maryland | Annapolis |
+| May 2 | Capital of Iceland | Reykjavík |
+
 ---
 
 ## 📺 Classic TV Used
@@ -152,6 +157,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1v2 | 21 Jump Street | Officer Tom Hanson | Johnny Depp |
 | May 1v2 | Growing Pains | Dr. Jason Seaver | Alan Thicke |
 
+| May 2 | Bonanza | Ben Cartwright | Lorne Greene |
+| May 2 | Friends | Chandler Bing | Matthew Perry |
+| May 2 | Saved by the Bell | Zack Morris | Mark-Paul Gosselaar |
+| May 2 | The Cosby Show | Cliff Huxtable | Bill Cosby |
+| May 2 | Welcome Back, Kotter | Vinnie Barbarino | John Travolta |
+| May 2 | NYPD Blue | Det. Andy Sipowicz | Dennis Franz |
+
 ---
 
 ## 🎨 Arts & Literature Used
@@ -215,6 +227,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1v2 | "Do not go gentle into that good night" poet | Dylan Thomas |
 | May 1v2 | Rembrandt's famous 1642 painting | The Night Watch |
 | May 1v2 | Bach — Brandenburg Concertos (1721) | Johann Sebastian Bach |
+
+| May 2 | Author of Lolita (1955) | Vladimir Nabokov |
+| May 2 | Heller's 1961 satirical war novel | Catch-22 |
+| May 2 | Painter of the Mona Lisa | Leonardo da Vinci |
+| May 2 | Nigerian author of Things Fall Apart (1958) | Chinua Achebe |
+| May 2 | Composer of The Rite of Spring (1913) | Igor Stravinsky |
+| May 2 | "Whistler's Mother" painter | James McNeill Whistler |
 
 ---
 
@@ -372,6 +391,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1v2 | Geography | Norway has a village called "Å" |
 | May 1v2 | History | Fredric Baur (Pringles can inventor) buried in a Pringles can |
 | May 1v2 | Science | More possible chess games than atoms in observable universe (already May 1 used) |
+| May 2 | Animals | Group of zebras = "dazzle" |
+| May 2 | Etymology | Plastic tip on shoelace = "aglet" |
+| May 2 | Tech | First eBay sale (Sept 1995): broken laser pointer for $14.83 |
+| May 2 | Biology | Lobster blood is colorless; turns blue with oxygen (hemocyanin) |
+| May 2 | Geography | Longest place name: NZ hill, 85 letters (Taumatawhakatangihanga…) |
+| May 2 | Anatomy | Smallest bone in human body: stapes (ear, ~3mm) |
+| May 2 | Animals | Ostrich's eye larger than its brain |
+| May 2 | Science | Sharks predate Saturn's rings (450M vs 10–100M years) |
+| May 2 | Symbols | Statue of Liberty was copper-colored; oxidation made it green |
+| May 2 | Math | "Googol" = 10^100; Google's name was a misspelling |
+| May 2 | Sports | Reds 20-13, NL Central #2 (1.0 GB Cubs); lost 17-7 to Pirates May 2 |
+| May 2 | Sports | Pirates drew 7 consecutive walks vs Reds — tied MLB record (1909, 1983) |
+| May 2 | Sports | Golden Tempo wins Kentucky Derby 23-1; Cherie DeVaux first female trainer to win |
+| May 2 | Sports | Sabres beat Bruins 4-1 — first playoff series win since 2007 |
+| May 2 | Sports | Knicks dump Hawks 4-2 — only Eastern team into NBA Round 2 so far |
+| May 2 | Box Office | Devil Wears Prada 2 #1 — ~$80M opening, ~3x original ($27.5M, 2006) |
 
 ---
 
@@ -394,6 +429,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1 | May 1 (Penny Black 1840, Empire State Building 1931, U-2 spy plane 1960, Bin Laden 2011) |
 
 | May 1v2 | May 1 (alt events: Acts of Union 1707, Citizen Kane 1941, Elvis wedding 1967) |
+| May 2 | May 2 (King James Bible 1611, Anne Boleyn arrested 1536, Hungary border fence dismantled 1989) |
 
 ---
 
@@ -417,10 +453,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 ---
 | May 1v2 | International Workers' Day · National Space Day · Law Day · School Lunch Hero Day · National Chocolate Parfait Day · National Loyalty Day |
+| May 2 | Kentucky Derby Day · National Truffle Day · National Play Outside Day · National Scrapbook Day · World Labyrinth Day · National Homebrew Day · International Female Ride Day |
 
 ---
-_Last updated: May 1, 2026 (v2)_
-_Last updated: Apr 30, 2026 (evening)_
+_Last updated: May 2, 2026_
+_Last updated: May 2, 2026_
 
 ---
 
@@ -468,3 +505,9 @@ _Last updated: Apr 30, 2026 (evening)_
 | May 1v2 | World Wide Web inventor and location | Tim Berners-Lee, 1989, CERN |
 | May 1v2 | LEGO founded year and country | 1932, Denmark (Ole Kirk Christiansen) |
 | May 1v2 | First iPhone sale year | 2007 (June 29) |
+| May 2 | Walmart founded year/founder | 1962, Sam Walton (Rogers, AR) |
+| May 2 | Walt Disney Company founded year | 1923 (Walt & Roy Disney) |
+| May 2 | Microsoft founded year/founders | 1975, Bill Gates & Paul Allen |
+| May 2 | Polaroid instant camera inventor | Edwin Land (1947 demo, 1948 sale) |
+| May 2 | Frisbee inventor | Walter Frederick Morrison (1957); Wham-O trademark 1959 |
+| May 2 | Slinky inventor and year | Richard James, 1943 |
