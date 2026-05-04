@@ -78,6 +78,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Capital of Michigan | Lansing |
 | May 3 | Capital of Brazil | Brasília |
 | May 3 | Capital of South Africa | Pretoria (executive) |
+| May 4 | Capital of Hawaii | Honolulu |
+| May 4 | Capital of Egypt | Cairo |
+| May 4 | Capital of Indiana | Indianapolis |
+| May 4 | Capital of Portugal | Lisbon |
 
 
 ---
@@ -174,6 +178,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Mannix | Joe Mannix | Mike Connors |
 | May 3 | Mister Ed | Wilbur Post | Alan Young |
 | May 3 | Wings | Joe Hackett | Tim Daly |
+| May 4 | The Sopranos | Tony Soprano | James Gandolfini |
+| May 4 | Twin Peaks | Special Agent Dale Cooper | Kyle MacLachlan |
+| May 4 | Mission: Impossible | Jim Phelps | Peter Graves |
+| May 4 | Quincy, M.E. | Dr. R. Quincy | Jack Klugman |
+| May 4 | Lost | Dr. Jack Shephard | Matthew Fox |
+| May 4 | Cheers | Cliff Clavin | John Ratzenberger |
 
 
 ---
@@ -252,6 +262,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Author of The Fire Next Time / Go Tell It on the Mountain | James Baldwin |
 | May 3 | Italian poet of The Divine Comedy / Inferno | Dante Alighieri |
 | May 3 | Spanish Baroque painter of Las Meninas (1656) | Diego Velázquez |
+| May 4 | Author of Heart of Darkness (1899) | Joseph Conrad |
+| May 4 | Painter of Nighthawks (1942) | Edward Hopper |
+| May 4 | Composer of Appalachian Spring / Fanfare for the Common Man | Aaron Copland |
+| May 4 | Author of Invisible Man (1952) | Ralph Ellison |
+| May 4 | Brontë sister who wrote Wuthering Heights (1847) | Emily Brontë |
+| May 4 | French Fauvism founder; "The Dance" | Henri Matisse |
 
 
 ---
@@ -441,6 +457,24 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Sports | Reds 20-13, NL Central #2 (2 GB Cubs); 76ers 3-1 comeback over Celtics |
 | May 3 | Sports | Golden Tempo wins Kentucky Derby — Cherie DeVaux 1st female trainer |
 | May 3 | Box Office | Devil Wears Prada 2 #1 — ~$75-80M domestic / $180M global |
+| May 4 | History | Cleopatra was Greek (Ptolemaic), not Egyptian |
+| May 4 | Geography | Sudan has more pyramids than Egypt (~250 vs ~120) |
+| May 4 | Acronym | ZIP code = Zone Improvement Plan (USPS 1963) |
+| May 4 | Geography | Mauna Kea — tallest mountain base-to-peak (~33,500 ft) |
+| May 4 | Botany | Cashews grow on outside of fruit; shell has urushiol like poison ivy |
+| May 4 | Art | Van Gogh sold one painting in life — The Red Vineyard |
+| May 4 | Animals | Blue whale heart ~400 lbs (size of small car) |
+| May 4 | Animals | Snails ~14,000 microscopic teeth (radula) |
+| May 4 | History | Olympic flame lit by parabolic mirror at ancient Olympia |
+| May 4 | Astronomy | Venus hottest planet (~864°F), not Mercury — CO2 atmosphere |
+| May 4 | Science | First heart transplant — Dr. Christiaan Barnard, Cape Town, Dec 3 1967 |
+| May 4 | Language | Letter Q absent from all 50 US state names |
+| May 4 | Sports | Reds 20-14, NL Central #2 (2 GB); swept 0-3 by Pirates |
+| May 4 | Sports | NHL Round 2: Hurricanes 3-0 Flyers; Avalanche 9-6 Wild |
+| May 4 | Sports | NBA Round 1 closeout: Cavs/Pistons/76ers all win Game 7s (Det/Phi 3-1 comebacks); Knicks 51-pt Game 6 win franchise record |
+| May 4 | Sports | NFL Draft: Rams shock w/ QB Ty Simpson #13 despite reigning MVP |
+| May 4 | Sports | MLS: Vancouver Whitecaps best-ever start; Orlando 4-3 over Inter Miami |
+| May 4 | Box Office | Devil Wears Prada 2 final opening: $77M dom / $233.6M global — Streep's best opener |
 
 
 ---
@@ -466,6 +500,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1v2 | May 1 (alt events: Acts of Union 1707, Citizen Kane 1941, Elvis wedding 1967) |
 | May 2 | May 2 (King James Bible 1611, Anne Boleyn arrested 1536, Hungary border fence dismantled 1989) |
 | May 3 | May 3 (Thatcher elected UK PM 1979, OKC F5 tornado record 301mph 1999, first spam email 1978, Madeleine McCann disappeared 2007, Penn med school founded 1765) |
+| May 4 | May 4 (Manhattan purchase 1626, Kent State 1970, First Grammys 1959, Coral Sea 1942) |
 
 ---
 
@@ -491,6 +526,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 1v2 | International Workers' Day · National Space Day · Law Day · School Lunch Hero Day · National Chocolate Parfait Day · National Loyalty Day |
 | May 2 | Kentucky Derby Day · National Truffle Day · National Play Outside Day · National Scrapbook Day · World Labyrinth Day · National Homebrew Day · International Female Ride Day |
 | May 3 | World Press Freedom Day · National Chocolate Custard Day · Lemonade Day · Wild Koala Day · Garden Meditation Day · International Bereaved Mother's Day |
+| May 4 | Star Wars Day (May the 4th) · International Firefighters' Day · National Day of Reason · National Renewal Day · National Golf Day · National Orange Juice Day |
 
 ---
 ---
@@ -551,6 +587,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Crayola crayons introduced | 1903 (Binney & Smith), original 8-pack 5¢ |
 | May 3 | Tetris inventor | Alexey Pajitnov, 1984 (Soviet Union) |
 | May 3 | Kleenex original use (1924) | Removing cold cream / makeup |
+| May 4 | Boeing founded year/place | 1916, Seattle (William Boeing) |
+| May 4 | Air conditioning inventor/year | Willis Carrier, 1902 (Brooklyn print shop) |
+| May 4 | Pepsi-Cola original name | "Brad's Drink" (Caleb Bradham, 1893) |
+| May 4 | Kellogg's founder/year | W.K. Kellogg, 1906 (Battle Creek, MI) |
+| May 4 | Facebook founded | 2004, Mark Zuckerberg, Harvard dorm |
+| May 4 | Disneyland opened | July 17, 1955 (Anaheim, CA) |
 
 ---
 
@@ -565,4 +607,4 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Rolling in the Deep | Adele | 2010 |
 
 ---
-_Last updated: May 3, 2026_
+_Last updated: May 4, 2026_
