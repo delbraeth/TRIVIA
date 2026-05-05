@@ -95,6 +95,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5 | Capital of Qatar | Doha |
 | May 5 | Capital of Florida | Tallahassee |
 | May 5 | Capital of Namibia | Windhoek |
+| May 5v2 | Capital of Colorado | Denver |
+| May 5v2 | Capital of South Korea | Seoul |
+| May 5v2 | Capital of Uganda | Kampala |
+| May 5v2 | Capital of Czech Republic | Prague |
 | May 4 | Capital of Egypt | Cairo |
 | May 4 | Capital of Indiana | Indianapolis |
 | May 4 | Capital of Portugal | Lisbon |
@@ -206,6 +210,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5 | Home Improvement | Tim Taylor | Tim Allen |
 | May 5 | The Nanny | Fran Fine | Fran Drescher |
 | May 5 | St. Elsewhere | Dr. Philip Chandler | Denzel Washington |
+| May 5v2 | L.A. Law | Michael Kuzak | Harry Hamlin |
+| May 5v2 | The Waltons | John-Boy Walton | Richard Thomas |
+| May 5v2 | I Dream of Jeannie | Jeannie | Barbara Eden |
+| May 5v2 | Newhart | Dick Loudon | Bob Newhart |
+| May 5v2 | Starsky & Hutch | Dave Starsky | Paul Michael Glaser |
+| May 5v2 | Green Acres | Oliver Wendell Douglas | Eddie Albert |
 
 
 ---
@@ -296,6 +306,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5 | Author of Ulysses (1922) | James Joyce |
 | May 5 | Composer of "From the New World" symphony | Antonín Dvořák |
 | May 5 | "Flag" (1955) encaustic painter | Jasper Johns |
+| May 5v2 | Oscar Wilde's only novel (aging portrait) | The Picture of Dorian Gray (1890) |
+| May 5v2 | Sylvia Plath semi-autobiographical novel (1963) | The Bell Jar |
+| May 5v2 | Arthur Miller Pulitzer play about Willy Loman | Death of a Salesman (1949) |
+| May 5v2 | French pointillist painter of "La Grande Jatte" | Georges Seurat |
+| May 5v2 | Austrian composer of the "Unfinished Symphony" | Franz Schubert |
+| May 5v2 | Walt Whitman 1855 poetry collection | Leaves of Grass / "Song of Myself" |
 
 
 ---
@@ -502,6 +518,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5 | Sports | Kentucky Derby: Golden Tempo 23-1; Cherie DeVaux first female trainer to win |
 | May 5 | Sports | 76ers beat Celtics in Game 7; Knicks blowout 76ers 137-98 Game 1 Conf. Semis |
 | May 5 | Box Office | Devil Wears Prada 2 — $77M domestic / $233.6M global; Meryl Streep biggest opening ever |
+| May 5v2 | Geography | Monaco most densely populated country (~19,000/km²) |
+| May 5v2 | Language | "Typewriter" typed using only QWERTY top row |
+| May 5v2 | Animals | Honey badger = Guinness World's Most Fearless Animal |
+| May 5v2 | History | Eiffel Tower scheduled for demolition 1909; saved by radio use |
+| May 5v2 | Science | Mpemba effect: hot water can freeze faster than cold |
+| May 5v2 | Pop Culture | Mel Blanc (Bugs Bunny) allergic to carrots |
+| May 5v2 | Animals | Group of hippos = bloat |
+| May 5v2 | Cards | King of Hearts only king without a mustache (Suicide King) |
+| May 5v2 | Science | Scoville Scale invented by Wilbur Scoville 1912 |
+| May 5v2 | Animals | Queen ants can live up to 30 years |
 | May 4 | Geography | Mauna Kea — tallest mountain base-to-peak (~33,500 ft) |
 | May 4 | Botany | Cashews grow on outside of fruit; shell has urushiol like poison ivy |
 | May 4 | Art | Van Gogh sold one painting in life — The Red Vineyard |
@@ -642,6 +668,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5 | Rubik's Cube inventor/year | Ernő Rubik, 1974 |
 | May 5 | SpaceX founded year/founder | 2002, Elon Musk |
 | May 5 | Pixar spun off from/sold to | Lucasfilm → Steve Jobs ($5M, 1986) |
+| May 5v2 | Nike original name (1964) | Blue Ribbon Sports (Phil Knight & Bill Bowerman) |
+| May 5v2 | eBay founded year / first sale | 1995 / broken laser pointer $14.83 (Pierre Omidyar) |
+| May 5v2 | Gatorade invented for which university (1965) | University of Florida (the Gators) |
+| May 5v2 | WD-40 meaning / year | Water Displacement 40th formula / 1953 (Norm Larsen) |
+| May 5v2 | Teflon / PTFE accidental discoverer (1938) | Roy Plunkett (DuPont) |
+| May 5v2 | Reddit founded year / university | 2005 / University of Virginia (Huffman & Ohanian) |
 
 ---
 
@@ -654,6 +686,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | ...Baby One More Time | Britney Spears | 1998 |
 | May 3 | Hey Ya! | OutKast | 2003 |
 | May 3 | Rolling in the Deep | Adele | 2010 |
+| May 5v2 | Lose Yourself | Eminem | 2002 |
+| May 5v2 | Beautiful Day | U2 | 2000 |
+| May 5v2 | Crazy in Love | Beyoncé | 2003 |
+| May 5v2 | Complicated | Avril Lavigne | 2002 |
+| May 5v2 | In Da Club | 50 Cent | 2003 |
 
 ---
-_Last updated: May 5, 2026_
+_Last updated: May 5, 2026 (v2 rerun)_
