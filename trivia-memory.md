@@ -79,6 +79,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Capital of Brazil | Brasília |
 | May 3 | Capital of South Africa | Pretoria (executive) |
 | May 4 | Capital of Hawaii | Honolulu |
+| May 5 | Capital of Kansas | Topeka |
+| May 5 | Capital of Qatar | Doha |
+| May 5 | Capital of Florida | Tallahassee |
+| May 5 | Capital of Namibia | Windhoek |
 | May 4 | Capital of Egypt | Cairo |
 | May 4 | Capital of Indiana | Indianapolis |
 | May 4 | Capital of Portugal | Lisbon |
@@ -184,6 +188,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 4 | Quincy, M.E. | Dr. R. Quincy | Jack Klugman |
 | May 4 | Lost | Dr. Jack Shephard | Matthew Fox |
 | May 4 | Cheers | Cliff Clavin | John Ratzenberger |
+| May 5 | Gilligan's Island | Gilligan | Bob Denver |
+| May 5 | Roseanne | Dan Conner | John Goodman |
+| May 5 | China Beach | Colleen McMurphy | Dana Delany |
+| May 5 | Home Improvement | Tim Taylor | Tim Allen |
+| May 5 | The Nanny | Fran Fine | Fran Drescher |
+| May 5 | St. Elsewhere | Dr. Philip Chandler | Denzel Washington |
 
 
 ---
@@ -268,6 +278,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 4 | Author of Invisible Man (1952) | Ralph Ellison |
 | May 4 | Brontë sister who wrote Wuthering Heights (1847) | Emily Brontë |
 | May 4 | French Fauvism founder; "The Dance" | Henri Matisse |
+| May 5 | "The Waste Land" (1922) poet | T.S. Eliot |
+| May 5 | Author of Les Misérables (1862) | Victor Hugo |
+| May 5 | "Because I could not stop for Death" poet | Emily Dickinson |
+| May 5 | Author of Ulysses (1922) | James Joyce |
+| May 5 | Composer of "From the New World" symphony | Antonín Dvořák |
+| May 5 | "Flag" (1955) encaustic painter | Jasper Johns |
 
 
 ---
@@ -460,6 +476,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 4 | History | Cleopatra was Greek (Ptolemaic), not Egyptian |
 | May 4 | Geography | Sudan has more pyramids than Egypt (~250 vs ~120) |
 | May 4 | Acronym | ZIP code = Zone Improvement Plan (USPS 1963) |
+| May 5 | History | Cinco de Mayo = Battle of Puebla 1862 (NOT Mexican Independence Day — that's Sep 16) |
+| May 5 | Animals | Group of sharks = "shiver" |
+| May 5 | Food | Carrots originally purple; Dutch cultivated orange in 17th c. for House of Orange |
+| May 5 | Language | "Salary" from Latin salarium — Romans paid in/for salt |
+| May 5 | Engineering | First Ferris wheel — 1893 Chicago World's Fair, George Ferris |
+| May 5 | Animals | Crows recognize individual human faces and hold grudges for years |
+| May 5 | Geography | Amazon River = more freshwater than next 7 largest rivers combined |
+| May 5 | Science | Lightning strikes Earth ~100 times/second (~8.6M times/day) |
+| May 5 | Animals | Flamingo can only eat with head upside down |
+| May 5 | Astronomy | More stars in observable universe than grains of sand on all Earth's beaches |
+| May 5 | Sports | Reds 20-14; @ Cubs (Wrigley) 7:40 PM ET; Wembanyama 12-block NBA Playoff record |
+| May 5 | Sports | Kentucky Derby: Golden Tempo 23-1; Cherie DeVaux first female trainer to win |
+| May 5 | Sports | 76ers beat Celtics in Game 7; Knicks blowout 76ers 137-98 Game 1 Conf. Semis |
+| May 5 | Box Office | Devil Wears Prada 2 — $77M domestic / $233.6M global; Meryl Streep biggest opening ever |
 | May 4 | Geography | Mauna Kea — tallest mountain base-to-peak (~33,500 ft) |
 | May 4 | Botany | Cashews grow on outside of fruit; shell has urushiol like poison ivy |
 | May 4 | Art | Van Gogh sold one painting in life — The Red Vineyard |
@@ -527,6 +557,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 2 | Kentucky Derby Day · National Truffle Day · National Play Outside Day · National Scrapbook Day · World Labyrinth Day · National Homebrew Day · International Female Ride Day |
 | May 3 | World Press Freedom Day · National Chocolate Custard Day · Lemonade Day · Wild Koala Day · Garden Meditation Day · International Bereaved Mother's Day |
 | May 4 | Star Wars Day (May the 4th) · International Firefighters' Day · National Day of Reason · National Renewal Day · National Golf Day · National Orange Juice Day |
+| May 5 | Cinco de Mayo 🌮 · National Cartoonists Day · National Concert Day · International Midwives Day · Museum Lover's Day |
 
 ---
 ---
@@ -593,6 +624,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 4 | Kellogg's founder/year | W.K. Kellogg, 1906 (Battle Creek, MI) |
 | May 4 | Facebook founded | 2004, Mark Zuckerberg, Harvard dorm |
 | May 4 | Disneyland opened | July 17, 1955 (Anaheim, CA) |
+| May 5 | YouTube founded year/founders | 2005, Hurley/Chen/Karim |
+| May 5 | Instagram acquisition price/employees | $1B by Facebook, 2012; only 13 employees |
+| May 5 | Play-Doh original use | Wallpaper-cleaning compound (1950s) |
+| May 5 | Rubik's Cube inventor/year | Ernő Rubik, 1974 |
+| May 5 | SpaceX founded year/founder | 2002, Elon Musk |
+| May 5 | Pixar spun off from/sold to | Lucasfilm → Steve Jobs ($5M, 1986) |
 
 ---
 
@@ -607,4 +644,4 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | Rolling in the Deep | Adele | 2010 |
 
 ---
-_Last updated: May 4, 2026_
+_Last updated: May 5, 2026_
