@@ -3,6 +3,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 ---
 
+## ⚙️ Run Settings (read these EVERY run — they override skill defaults)
+
+| Setting | Value | Notes |
+|---------|-------|-------|
+| Archive window | **7 files** (current + 6 previous) | Retain 7 total; prune anything older |
+| Archive nav pills | **6 previous** + "Today" pill | Today pill links to ./index.html; use `tail -6` in Step 3 |
+| Today pill style | `color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); font-weight:700` | Brighter/bolder than archive pills |
+| Archive pill style | `color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); font-weight:600` | Standard dim style |
+| Cleanup keep count | **7** | Use `tail -7` in Step 7 cleanup |
+
+---
+
 ## 📍 Capitals Used
 
 | Week | Question | Answer |
