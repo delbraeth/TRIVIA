@@ -218,6 +218,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5v2 | Green Acres | Oliver Wendell Douglas | Eddie Albert |
 
 
+| May 6 | The Six Million Dollar Man | Col. Steve Austin | Lee Majors |
+| May 6 | The Munsters | Herman Munster | Fred Gwynne |
+| May 6 | Dr. Quinn, Medicine Woman | Dr. Michaela Quinn | Jane Seymour |
+| May 6 | Walker, Texas Ranger | Cordell Walker | Chuck Norris |
+| May 6 | CHiPs | Officer Frank "Ponch" Poncherello | Erik Estrada |
+| May 6 | Rhoda | Rhoda Morgenstern | Valerie Harper |
+
 ---
 
 ## 🎨 Arts & Literature Used
@@ -569,6 +576,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 2 | May 2 (King James Bible 1611, Anne Boleyn arrested 1536, Hungary border fence dismantled 1989) |
 | May 3 | May 3 (Thatcher elected UK PM 1979, OKC F5 tornado record 301mph 1999, first spam email 1978, Madeleine McCann disappeared 2007, Penn med school founded 1765) |
 | May 4 | May 4 (Manhattan purchase 1626, Kent State 1970, First Grammys 1959, Coral Sea 1942) |
+| May 6 | May 6 (Hindenburg 1937, Bannister 4-min mile 1954, iMac unveiled 1998) |
+| May 6 | Thornton Wilder's Pulitzer play set in Grover's Corners, NH | Our Town (1938) |
+| May 6 | 1948 painting of woman crawling toward farmhouse | Christina's World — Andrew Wyeth |
+| May 6 | Chilean poet, Nobel Lit 1971 | Pablo Neruda |
+| May 6 | Author of A Streetcar Named Desire (1947) | Tennessee Williams |
+| May 6 | Arthur Miller 1953 play / McCarthyism allegory | The Crucible (Salem witch trials) |
+| May 6 | Hungarian Romantic composer of Hungarian Rhapsodies | Franz Liszt |
 
 ---
 
@@ -596,6 +610,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 3 | World Press Freedom Day · National Chocolate Custard Day · Lemonade Day · Wild Koala Day · Garden Meditation Day · International Bereaved Mother's Day |
 | May 4 | Star Wars Day (May the 4th) · International Firefighters' Day · National Day of Reason · National Renewal Day · National Golf Day · National Orange Juice Day |
 | May 5 | Cinco de Mayo 🌮 · National Cartoonists Day · National Concert Day · International Midwives Day · Museum Lover's Day |
+| May 6 | National Nurses Day · National Beverage Day · National Crêpes Suzette Day · International No Diet Day · Coronation Day (UK) |
 
 ---
 ---
@@ -674,6 +689,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5v2 | WD-40 meaning / year | Water Displacement 40th formula / 1953 (Norm Larsen) |
 | May 5v2 | Teflon / PTFE accidental discoverer (1938) | Roy Plunkett (DuPont) |
 | May 5v2 | Reddit founded year / university | 2005 / University of Virginia (Huffman & Ohanian) |
+| May 6 | CNN founded year/founder | 1980 / Ted Turner, Atlanta |
+| May 6 | Listerine original use (1879) | Surgical antiseptic; rebranded for bad breath 1914 |
+| May 6 | Snapchat founder/year | Evan Spiegel, 2011, Stanford |
+| May 6 | Monopoly sold to Parker Brothers year | 1935 (based on Elizabeth Magie's 1903 Landlord's Game) |
+| May 6 | H.J. Heinz Company founded | 1869 by Henry John Heinz, Pittsburgh |
+| May 6 | LinkedIn co-founder | Reid Hoffman, launched May 2003 |
+
 
 ---
 
@@ -693,4 +715,9 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5v2 | In Da Club | 50 Cent | 2003 |
 
 ---
-_Last updated: May 5, 2026 (v2 rerun)_
+_Last updated: May 6, 2026_
+
+| May 6 | Capital of Ohio | Columbus |
+| May 6 | Capital of Sweden | Stockholm |
+| May 6 | Capital of Cuba | Havana |
+| May 6 | Capital of Washington (state) | Olympia |
