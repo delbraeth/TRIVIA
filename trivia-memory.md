@@ -12,6 +12,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Today pill style | `color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); font-weight:700` | Brighter/bolder than archive pills |
 | Archive pill style | `color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); font-weight:600` | Standard dim style |
 | Cleanup keep count | **7** | Use `tail -7` in Step 7 cleanup |
+| Required section: Movies This Weekend | **Always include** | Search "movies opening this weekend [date]" — list 2–3 wide releases with stars + one-line premise; label card "🍿 New in Theaters This Weekend (Month D–D)" |
+| Required section: Song & Artist 1990–2010 | **Always include** | 5–6 Q&A: give a clue about the song (year, chart fact, or lyric hint), answer = song title + artist + year. Check music memory log to avoid repeats. |
 
 ---
 
@@ -721,7 +723,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | Mr. Brightside | The Killers | 2003 |
 
 ---
-_Last updated: May 6, 2026 (v2 — added music + movies sections)_
+_Last updated: May 6, 2026 (v3 — added required-sections to run settings)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
