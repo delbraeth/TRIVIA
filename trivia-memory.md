@@ -8,8 +8,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Setting | Value | Notes |
 |---------|-------|-------|
 | Archive window | **7 files** (current + 6 previous) | Retain 7 total; prune anything older |
-| Archive nav pills | **6 previous** + "Today" pill | Today pill links to ./index.html; use `tail -6` in Step 3 |
-| Today pill style | `color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); font-weight:700` | Brighter/bolder than archive pills. Label is always **"Today"** (not the date). |
+| Archive nav pills | **"Today" pill + current date pill + 6 previous** | "Today" always links to ./index.html (home button, works from any historical page). Then current date as first archive pill (dim style, links to dated file). Then 5 more previous dated pills. 8 pills total. |
+| Today pill style | `color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); font-weight:700` | Bright/bold. Label always "Today". Links to ./index.html. Appears first, before all dated pills. |
 | Archive pill style | `color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); font-weight:600` | Standard dim style |
 | Cleanup keep count | **7** | Use `tail -7` in Step 7 cleanup |
 | Required section: Movies This Weekend | **Always include — subsection inside Box Office card** | Do NOT create a separate card. Add a dashed-border subsection at the bottom of the existing Box Office card. Label: `Coming This Weekend (Month D–D)`. Search for wide releases opening that weekend. List 3–4 films: bold title, director/star, one-line premise. |
@@ -723,7 +723,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | Mr. Brightside | The Killers | 2003 |
 
 ---
-_Last updated: May 6, 2026 (v5 — Today pill must be labeled Today not the date)_
+_Last updated: May 6, 2026 (v6 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
