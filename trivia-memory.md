@@ -713,9 +713,15 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5v2 | Crazy in Love | Beyoncé | 2003 |
 | May 5v2 | Complicated | Avril Lavigne | 2002 |
 | May 5v2 | In Da Club | 50 Cent | 2003 |
+| May 6 | I Will Always Love You | Whitney Houston | 1992 |
+| May 6 | Losing My Religion | R.E.M. | 1991 |
+| May 6 | Seven Nation Army | The White Stripes | 2003 |
+| May 6 | Yeah! | Usher ft. Lil Jon & Ludacris | 2004 |
+| May 6 | Umbrella | Rihanna | 2007 |
+| May 6 | Mr. Brightside | The Killers | 2003 |
 
 ---
-_Last updated: May 6, 2026_
+_Last updated: May 6, 2026 (v2 — added music + movies sections)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
