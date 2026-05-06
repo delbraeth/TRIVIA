@@ -12,8 +12,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Today pill style | `color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); font-weight:700` | Brighter/bolder than archive pills |
 | Archive pill style | `color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); font-weight:600` | Standard dim style |
 | Cleanup keep count | **7** | Use `tail -7` in Step 7 cleanup |
-| Required section: Movies This Weekend | **Always include** | Search "movies opening this weekend [date]" — list 2–3 wide releases with stars + one-line premise; label card "🍿 New in Theaters This Weekend (Month D–D)" |
-| Required section: Song & Artist 1990–2010 | **Always include** | 5–6 Q&A: give a clue about the song (year, chart fact, or lyric hint), answer = song title + artist + year. Check music memory log to avoid repeats. |
+| Required section: Movies This Weekend | **Always include — subsection inside Box Office card** | Do NOT create a separate card. Add a dashed-border subsection at the bottom of the existing Box Office card. Label: `Coming This Weekend (Month D–D)`. Search for wide releases opening that weekend. List 3–4 films: bold title, director/star, one-line premise. |
+| Required section: Song & Artist 1990–2010 | **Always include — song-row format with play links** | Do NOT use Q&A format. Use `song-row` CSS layout: song title (bold, 14px), artist · year · album (small, muted) on the left; Spotify (green) + Apple Music (red) pill buttons on the right. Search `site:open.spotify.com/track "[Song Title]" [Artist]` and `site:music.apple.com/us/song "[Song Title]" [Artist]` to get verified track IDs. 5–6 songs per run. Check music memory log to avoid repeats. Required CSS: `.song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(255,255,255,0.15);gap:8px;} .song-row:last-of-type{border-bottom:none;} .song-info{flex:1;min-width:0;} .song-title{font-weight:700;font-size:14px;color:#e8e8f0;} .song-meta{font-size:12px;color:rgba(255,255,255,0.55);margin-top:1px;} .song-links{display:flex;gap:6px;flex-shrink:0;} .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;} .song-links a.spotify{background:#1db954;color:#fff;} .song-links a.apple{background:#fa233b;color:#fff;}` |
 
 ---
 
@@ -723,7 +723,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | Mr. Brightside | The Killers | 2003 |
 
 ---
-_Last updated: May 6, 2026 (v3 — added required-sections to run settings)_
+_Last updated: May 6, 2026 (v4 — precise format rules for movies + music sections)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
