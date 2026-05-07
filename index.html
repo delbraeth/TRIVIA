@@ -5,112 +5,78 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thursday Trivia Night — May 7, 2026</title>
 <style>
+  :root {
+    --bg: #0f0f1a;
+    --surface: #1a1a2e;
+    --border: rgba(255,255,255,0.08);
+    --text: #e8e8f0;
+    --muted: rgba(255,255,255,0.55);
+    --accent: #6c63ff;
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: #0f1117;
-    color: #e8e8f0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
-  }
-  header {
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-    padding: 16px 24px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-  }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.6; }
+  header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid rgba(108,99,255,0.4); }
   header h1 { font-size: 22px; font-weight: 800; color: #fff; letter-spacing: -0.5px; }
-  .date { font-size: 13px; color: rgba(255,255,255,0.6); margin-top: 3px; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; padding: 16px; }
-  .card {
-    border-radius: 12px;
-    padding: 16px;
-    border: 1px solid rgba(255,255,255,0.08);
-    background: rgba(255,255,255,0.04);
-  }
-  .card-title {
-    font-size: 11px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    margin-bottom: 12px;
-    opacity: 0.7;
-  }
-  .card h2 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
-  .card p { font-size: 13px; color: rgba(255,255,255,0.75); margin-bottom: 6px; }
-  .card ul { padding-left: 18px; }
-  .card ul li { font-size: 13px; color: rgba(255,255,255,0.75); margin-bottom: 5px; }
-  .card strong { color: #e8e8f0; }
-
-  /* Colors */
-  .red    { background: linear-gradient(135deg, rgba(180,30,30,0.25), rgba(120,20,20,0.15)); border-color: rgba(200,60,60,0.25); }
-  .purple { background: linear-gradient(135deg, rgba(100,40,160,0.25), rgba(70,30,110,0.15)); border-color: rgba(140,80,200,0.25); }
-  .blue   { background: linear-gradient(135deg, rgba(30,80,160,0.25), rgba(20,50,110,0.15)); border-color: rgba(60,120,220,0.25); }
-  .gold   { background: linear-gradient(135deg, rgba(160,120,20,0.25), rgba(110,80,10,0.15)); border-color: rgba(200,160,40,0.25); }
-  .gray   { background: linear-gradient(135deg, rgba(60,60,80,0.30), rgba(40,40,60,0.20)); border-color: rgba(100,100,140,0.25); }
-  .teal   { background: linear-gradient(135deg, rgba(20,130,120,0.25), rgba(10,90,80,0.15)); border-color: rgba(40,180,160,0.25); }
-  .green  { background: linear-gradient(135deg, rgba(30,130,60,0.25), rgba(20,90,40,0.15)); border-color: rgba(50,180,90,0.25); }
-  .orange { background: linear-gradient(135deg, rgba(160,80,20,0.25), rgba(120,60,10,0.15)); border-color: rgba(220,120,40,0.25); }
-  .indigo { background: linear-gradient(135deg, rgba(60,60,180,0.25), rgba(40,40,130,0.15)); border-color: rgba(100,100,240,0.25); }
-  .pink   { background: linear-gradient(135deg, rgba(160,30,90,0.25), rgba(110,20,60,0.15)); border-color: rgba(220,60,140,0.25); }
-  .dark   { background: linear-gradient(135deg, rgba(20,20,30,0.50), rgba(10,10,20,0.40)); border-color: rgba(80,80,120,0.25); }
-
-  /* QA */
-  .qa { margin-bottom: 10px; }
-  .qa .q { font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 2px; }
-  .qa .a { font-size: 14px; font-weight: 700; color: #e8e8f0; }
-
-  /* Record */
-  .record-big { font-size: 44px; font-weight: 900; color: #fff; letter-spacing: -2px; line-height: 1; }
-  .record-sub { font-size: 12px; color: rgba(255,255,255,0.55); margin-top: 4px; margin-bottom: 10px; }
-  .form-dot {
-    display: inline-block; width: 22px; height: 22px; border-radius: 50%;
-    font-size: 11px; font-weight: 800; line-height: 22px; text-align: center; margin-right: 3px;
-  }
-  .form-w { background: #1db954; color: #000; }
-  .form-l { background: rgba(200,50,50,0.7); color: #fff; }
-  .game-row {
-    margin-top: 12px;
-    background: rgba(255,255,255,0.07);
-    border: 1px dashed rgba(255,255,255,0.15);
-    border-radius: 8px;
-    padding: 10px 12px;
-    font-size: 13px;
-  }
-  .game-row .label { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,0.45); margin-bottom: 2px; }
-  .game-row .value { font-weight: 700; font-size: 14px; }
-
-  /* Subsection */
-  .subsection {
-    margin-top: 14px;
-    border-top: 1px dashed rgba(255,255,255,0.15);
-    padding-top: 12px;
-  }
-  .subsection-label { font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px; color: rgba(255,255,255,0.45); margin-bottom: 8px; }
-  .movie-item { margin-bottom: 8px; }
-  .movie-item .movie-title { font-weight: 700; font-size: 14px; color: #e8e8f0; }
-  .movie-item .movie-meta { font-size: 12px; color: rgba(255,255,255,0.55); }
-
-  /* Music rows */
-  .song-row { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px dashed rgba(255,255,255,0.15); gap:8px; }
-  .song-row:last-of-type { border-bottom:none; }
-  .song-info { flex:1; min-width:0; }
-  .song-title { font-weight:700; font-size:14px; color:#e8e8f0; }
-  .song-meta { font-size:12px; color:rgba(255,255,255,0.55); margin-top:1px; }
-  .song-links { display:flex; gap:6px; flex-shrink:0; }
-  .song-links a { text-decoration:none; font-size:11px; font-weight:700; padding:4px 9px; border-radius:4px; white-space:nowrap; }
-  .song-links a.spotify { background:#1db954; color:#fff; }
-  .song-links a.apple { background:#fa233b; color:#fff; }
-
-  /* Tags / pills */
-  .tag { display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:4px; margin-right:4px; margin-bottom:4px; background:rgba(255,255,255,0.1); }
-  .divider { height:1px; background:rgba(255,255,255,0.08); margin:10px 0; }
-  .span2 { grid-column: span 2; }
-  @media (max-width: 680px) { .span2 { grid-column: span 1; } }
+  header .date { font-size: 13px; color: rgba(255,255,255,0.65); margin-top: 2px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; padding: 16px; max-width: 1400px; margin: 0 auto; }
+  .card { background: var(--surface); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; }
+  .card-header { padding: 10px 16px 8px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px; display: flex; align-items: center; gap: 8px; border-bottom: 1px solid var(--border); }
+  .card-body { padding: 14px 16px; }
+  .row { display: flex; justify-content: space-between; align-items: flex-start; padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.06); gap: 12px; }
+  .row:last-child { border-bottom: none; }
+  .row-q { flex: 1; color: var(--text); font-size: 13px; }
+  .row-a { color: rgba(255,255,255,0.65); font-size: 13px; text-align: right; font-style: italic; flex-shrink: 0; max-width: 48%; }
+  .tag { display: inline-block; font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 3px; text-transform: uppercase; letter-spacing: 0.8px; margin-right: 4px; }
+  .fact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .fact-item { background: rgba(255,255,255,0.04); border-radius: 8px; padding: 10px; }
+  .fact-item .label { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 3px; }
+  .fact-item .value { font-size: 18px; font-weight: 800; color: #fff; }
+  .fact-item .sub { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .game-row { background: rgba(255,255,255,0.06); border-radius: 8px; padding: 10px 14px; margin-top: 10px; display: flex; justify-content: space-between; align-items: center; }
+  .game-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,0.5); }
+  .game-val { font-size: 13px; font-weight: 700; color: #ffd700; }
+  .subsection-title { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px; color: rgba(255,255,255,0.45); margin: 12px 0 8px; padding-top: 12px; border-top: 1px dashed rgba(255,255,255,0.12); }
+  .weekend-film { padding: 7px 0; border-bottom: 1px dashed rgba(255,255,255,0.1); }
+  .weekend-film:last-child { border-bottom: none; }
+  .weekend-film .title { font-weight: 700; font-size: 13px; color: #fff; }
+  .weekend-film .meta { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .death-item { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.06); }
+  .death-item:last-child { border-bottom: none; }
+  .death-name { font-weight: 700; font-size: 14px; color: #fff; }
+  .death-meta { font-size: 12px; color: var(--muted); margin-top: 1px; }
+  .hist-item { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.06); }
+  .hist-item:last-child { border-bottom: none; }
+  .hist-year { font-size: 12px; font-weight: 800; color: rgba(255,255,255,0.45); margin-bottom: 2px; }
+  .hist-fact { font-size: 13px; color: var(--text); }
+  .natday { font-size: 12px; color: rgba(255,200,100,0.9); padding: 3px 0; }
+  .sport-item { padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.06); }
+  .sport-item:last-child { border-bottom: none; }
+  .sport-league { font-size: 10px; font-weight: 800; letter-spacing: 1.2px; margin-bottom: 2px; }
+  .sport-text { font-size: 13px; color: var(--text); }
+  .news-item { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.06); }
+  .news-item:last-child { border-bottom: none; }
+  .news-tag { font-size: 10px; font-weight: 700; letter-spacing: 1px; margin-bottom: 2px; }
+  .news-text { font-size: 13px; }
+  /* Song rows */
+  .song-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px dashed rgba(255,255,255,0.15); gap: 8px; }
+  .song-row:last-of-type { border-bottom: none; }
+  .song-info { flex: 1; min-width: 0; }
+  .song-title { font-weight: 700; font-size: 14px; color: #e8e8f0; }
+  .song-meta { font-size: 12px; color: rgba(255,255,255,0.55); margin-top: 1px; }
+  .song-links { display: flex; gap: 6px; flex-shrink: 0; }
+  .song-links a { text-decoration: none; font-size: 11px; font-weight: 700; padding: 4px 9px; border-radius: 4px; white-space: nowrap; }
+  .song-links a.spotify { background: #1db954; color: #fff; }
+  .song-links a.apple { background: #fa233b; color: #fff; }
+  /* Trivia facts */
+  .trivia-item { padding: 7px 0; border-bottom: 1px solid rgba(255,255,255,0.06); }
+  .trivia-item:last-child { border-bottom: none; }
+  .trivia-cat { font-size: 10px; font-weight: 800; letter-spacing: 1.2px; margin-bottom: 2px; }
+  .trivia-text { font-size: 13px; }
+  /* Record big display */
+  .record-big { font-size: 42px; font-weight: 900; color: #fff; text-align: center; padding: 10px 0 4px; letter-spacing: -1px; }
+  .record-sub { text-align: center; font-size: 12px; color: var(--muted); padding-bottom: 10px; }
+  .streak-badge { display: inline-block; background: rgba(255,60,60,0.2); color: #ff6b6b; border: 1px solid rgba(255,60,60,0.3); border-radius: 6px; padding: 2px 10px; font-size: 12px; font-weight: 700; margin-left: 8px; }
+  .good-streak { background: rgba(60,255,100,0.2); color: #4cff80; border-color: rgba(60,255,100,0.3); }
 </style>
 </head>
 <body>
@@ -143,359 +109,450 @@
 
 <div class="grid">
 
-  <!-- CINCINNATI REDS -->
-  <div class="card red">
-    <div class="card-title">⚾ Cincinnati Reds</div>
-    <div class="record-big">20–17</div>
-    <div class="record-sub">NL Central · 5.0 GB Cubs (25-12)</div>
-    <div style="margin-bottom:8px;">
-      <span style="font-size:11px; color:rgba(255,255,255,0.5); margin-right:6px;">Last 5:</span>
-      <span class="form-dot form-l">L</span>
-      <span class="form-dot form-l">L</span>
-      <span class="form-dot form-l">L</span>
-      <span class="form-dot form-l">L</span>
-      <span class="form-dot form-l">L</span>
+  <!-- REDS CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(198,30,45,0.25), rgba(198,30,45,0.08)); color:#ff6b6b;">
+      ⚾ Cincinnati Reds
     </div>
-    <div class="game-row">
-      <div class="label">Today — May 7 · 1:20 PM CT · Wrigley Field</div>
-      <div class="value">@ Chicago Cubs · Series Game 4</div>
-      <div style="font-size:12px; color:rgba(255,255,255,0.55); margin-top:3px;">Lowder (CIN) vs. Imanaga (CHI) · 6-game skid on the line</div>
-    </div>
-  </div>
-
-  <!-- BOX OFFICE -->
-  <div class="card purple">
-    <div class="card-title">🎬 Box Office</div>
-    <h2>#1 Last Weekend: The Devil Wears Prada 2</h2>
-    <p>$77M domestic opening · $233.6M global · Meryl Streep's biggest opening ever</p>
-    <p style="font-size:12px;">Fun fact: The sequel comes <strong>20 years</strong> after the original (2006). Streep returns as Miranda Priestly alongside Anne Hathaway.</p>
-    <div class="subsection">
-      <div class="subsection-label">🎟 Coming This Weekend — May 8–10</div>
-      <div class="movie-item">
-        <div class="movie-title">Mortal Kombat II</div>
-        <div class="movie-meta">Tracking $40–45M debut · Warner Bros · ~3,400 theaters · Race vs. DWP2 for #1</div>
+    <div class="card-body">
+      <div class="record-big">20–17</div>
+      <div class="record-sub">
+        NL Central · 5th Place · 5.0 GB
+        <span class="streak-badge">L6</span>
       </div>
-      <div class="movie-item">
-        <div class="movie-title">Sheep Detectives</div>
-        <div class="movie-meta">Targeting $12–15M · ~3,457 locations</div>
-      </div>
-      <div class="movie-item">
-        <div class="movie-title">Billie Eilish (Concert Film)</div>
-        <div class="movie-meta">Targeting $8–10M · 2,600 venues</div>
-      </div>
-    </div>
-  </div>
-
-  <!-- SPORTS NEWS -->
-  <div class="card blue span2">
-    <div class="card-title">🏆 Sports This Week</div>
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:12px;">
-      <div>
-        <p><strong>⚾ MLB</strong> — Elly De La Cruz crushed 2 HR today as Reds snapped 6-game losing skid with a 12–6 win over Tampa Bay. Pirates drew 7 consecutive walks vs. Reds last week (tied MLB record from 1909 &amp; 1983).</p>
-        <p><strong>🏀 NBA Conf. Semis</strong> — Round 2 underway tonight: Cavs vs. Pistons G2 (7pm ET) · Nuggets vs. Timberwolves G2 (7pm ET) · Lakers vs. Thunder G2 (9:30pm ET). Knicks already advanced.</p>
-      </div>
-      <div>
-        <p><strong>🏒 NHL Round 2</strong> — Hurricanes lead Flyers 3–0 in the series (won G3 8pm ET tonight). Canadiens eliminated Lightning in 7; Avalanche beat Wild 9–6 in G2. Sabres in playoffs for first time since 2007!</p>
-        <p><strong>⚽ MLS</strong> — Vancouver Whitecaps on their best-ever start to a season.</p>
-        <p><strong>🏇 Kentucky Derby</strong> — Golden Tempo won at 23–1 odds (May 2) — trainer Cherie DeVaux became the <strong>first woman to win the Derby</strong>.</p>
-      </div>
-    </div>
-  </div>
-
-  <!-- THIS DAY IN HISTORY -->
-  <div class="card gold">
-    <div class="card-title">📅 This Day in History — May 7</div>
-    <div class="qa">
-      <div class="q">1915</div>
-      <div class="a">Germany sinks the RMS Lusitania — 1,198 killed. The attack helped turn US public opinion toward entering WWI.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">1945</div>
-      <div class="a">Germany signs unconditional surrender at Reims, France — WWII ends in Europe. V-E Day declared May 8.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">1824</div>
-      <div class="a">Beethoven's 9th Symphony premieres in Vienna — composed entirely while deaf. The audience gave him 5 standing ovations; Beethoven had to be turned around to see the applause he couldn't hear.</div>
-    </div>
-    <div class="divider"></div>
-    <p style="font-size:12px; color:rgba(255,255,255,0.5);">🎉 <strong>National Days:</strong> National Day of Reason · Children's Mental Health Awareness Day · National Roast Leg of Lamb Day 🍖 · National Tourism Day</p>
-  </div>
-
-  <!-- CELEBRITY DEATHS -->
-  <div class="card gray">
-    <div class="card-title">💀 Notable Passings — Past 7 Days</div>
-    <div class="qa">
-      <div class="q">Alex Zanardi · Age 59 · Died May 1</div>
-      <div class="a">Italian racing driver turned Paralympic gold medalist. Lost his legs in a 2001 IndyCar crash and went on to win 4 Paralympic gold medals in handcycling.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Alex Ligertwood · Age 79 · Died May 1</div>
-      <div class="a">Scottish vocalist for the rock band Santana across multiple eras (1979–1994). Known for the hit "Hold On."</div>
-    </div>
-  </div>
-
-  <!-- CURRENT EVENTS -->
-  <div class="card teal">
-    <div class="card-title">📰 Current Events</div>
-    <ul>
-      <li><strong>Mortal Kombat II</strong> opens this weekend against The Devil Wears Prada 2 in what could be the first real box office battle of summer 2026.</li>
-      <li><strong>NBA &amp; NHL</strong> both in their conference semifinals — busiest week of the playoff calendar.</li>
-      <li><strong>NFL Draft</strong> concluded last week. Indiana QB Fernando Mendoza went #1 overall to the NFL. Rams stunned everyone by taking QB Ty Simpson at #13.</li>
-      <li><strong>76ers beat Celtics</strong> in an epic Game 7 comeback — first time Philly eliminated Boston in the Embiid era.</li>
-    </ul>
-  </div>
-
-  <!-- CAPITALS QUIZ -->
-  <div class="card green">
-    <div class="card-title">📍 State &amp; Country Capitals</div>
-    <div class="qa">
-      <div class="q">What is the capital of Minnesota?</div>
-      <div class="a">St. Paul <span style="font-size:11px;color:rgba(255,255,255,0.45);">(not Minneapolis!)</span></div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">What is the capital of Turkey?</div>
-      <div class="a">Ankara <span style="font-size:11px;color:rgba(255,255,255,0.45);">(not Istanbul)</span></div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">What is the official (constitutional) capital of Bolivia?</div>
-      <div class="a">Sucre <span style="font-size:11px;color:rgba(255,255,255,0.45);">(La Paz is the seat of government — Bolivia has two capitals!)</span></div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">What is the capital of Ukraine?</div>
-      <div class="a">Kyiv</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">What is the capital of Belgium?</div>
-      <div class="a">Brussels <span style="font-size:11px;color:rgba(255,255,255,0.45);">(also the de facto capital of the EU)</span></div>
-    </div>
-  </div>
-
-  <!-- CLASSIC TV -->
-  <div class="card orange">
-    <div class="card-title">📺 Classic TV (60s–90s)</div>
-    <div class="qa">
-      <div class="q">Who played the title alien character on the sitcom ALF (1986–1990)?</div>
-      <div class="a">Paul Fusco — provided the voice and operated the puppet. ALF's real name was <em>Gordon Shumway</em>.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who played Judge Harry Stone on Night Court (1984–1992)?</div>
-      <div class="a">Harry Anderson</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who played Danny Tanner on Full House (1987–1995)?</div>
-      <div class="a">Bob Saget</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who played scientist Dr. David Banner in The Incredible Hulk (1977–1982)?</div>
-      <div class="a">Bill Bixby <span style="font-size:11px;color:rgba(255,255,255,0.45);">(Lou Ferrigno played the Hulk himself)</span></div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who played J.J. Evans on Good Times (1974–1979)?</div>
-      <div class="a">Jimmie Walker <span style="font-size:11px;color:rgba(255,255,255,0.45);">("DY-NO-MITE!")</span></div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who played Diana Prince / Wonder Woman in the 1975–1979 TV series?</div>
-      <div class="a">Lynda Carter</div>
-    </div>
-  </div>
-
-  <!-- ARTS & LITERATURE -->
-  <div class="card indigo">
-    <div class="card-title">🎨 Arts &amp; Literature</div>
-    <div class="qa">
-      <div class="q">Who wrote the novella Breakfast at Tiffany's (1958), featuring Holly Golightly?</div>
-      <div class="a">Truman Capote</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Which composer wrote the "Messiah" oratorio (1741), famous for the "Hallelujah" chorus?</div>
-      <div class="a">George Frideric Handel</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Which Belgian surrealist painted "The Treachery of Images" — the pipe with the text "Ceci n'est pas une pipe"?</div>
-      <div class="a">René Magritte (1929)</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who was the first Arab author to win the Nobel Prize in Literature (1988)?</div>
-      <div class="a">Naguib Mahfouz — Egyptian novelist best known for the Cairo Trilogy.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who composed the "Blue Danube" waltz (1866), known as Austria's unofficial national anthem?</div>
-      <div class="a">Johann Strauss II ("The Waltz King")</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Which American painter pioneered the "drip painting" technique, becoming the defining face of Abstract Expressionism?</div>
-      <div class="a">Jackson Pollock</div>
-    </div>
-  </div>
-
-  <!-- FOUNDED & INVENTED -->
-  <div class="card blue">
-    <div class="card-title">🏭 Founded &amp; Invented</div>
-    <div class="qa">
-      <div class="q">Atari was founded in what year, and by whom?</div>
-      <div class="a">1972 — Nolan Bushnell &amp; Ted Dabney, in Sunnyvale, CA. The name "Atari" comes from the board game Go.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who designed the Eiffel Tower, and for what occasion was it built?</div>
-      <div class="a">Gustave Eiffel — built 1887–1889 for the Paris Exposition Universelle (1889 World's Fair).</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who founded the American Red Cross, and in what year?</div>
-      <div class="a">Clara Barton — 1881, in Washington D.C.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Where and when was Harley-Davidson founded?</div>
-      <div class="a">1903 — Milwaukee, Wisconsin (William Harley &amp; Arthur Davidson). Same year as Ford Motor Company!</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">What was the first message ever sent over the internet's predecessor ARPANET (1969)?</div>
-      <div class="a">"LO" — the system crashed while trying to send "LOGIN." Sent Oct. 29, 1969, from UCLA to Stanford.</div>
-    </div>
-    <div class="divider"></div>
-    <div class="qa">
-      <div class="q">Who founded UPS, and in what city?</div>
-      <div class="a">James Casey — 1907, in Seattle, WA. Started as a messenger service with a $100 loan.</div>
-    </div>
-  </div>
-
-  <!-- GENERAL TRIVIA -->
-  <div class="card dark span2">
-    <div class="card-title">🧩 General Trivia</div>
-    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
-      <div>
-        <div class="qa">
-          <div class="q">🦐 Vision</div>
-          <div class="a">A mantis shrimp has <strong>16</strong> types of color-detecting photoreceptors — humans have only 3.</div>
+      <div class="fact-grid" style="margin-top:10px;">
+        <div class="fact-item">
+          <div class="label">Last 10</div>
+          <div class="value">2–8</div>
+          <div class="sub">Rough stretch</div>
         </div>
-        <div class="qa">
-          <div class="q">🌡️ Speed of Sound</div>
-          <div class="a">Sound travels ~<strong>4x faster</strong> through water (~1,484 m/s) than through air (~343 m/s).</div>
+        <div class="fact-item">
+          <div class="label">Season Record</div>
+          <div class="value">.541</div>
+          <div class="sub">Win percentage</div>
         </div>
-        <div class="qa">
-          <div class="q">🏔️ Alaska Purchase</div>
-          <div class="a">The US bought Alaska from Russia for <strong>$7.2 million</strong> in 1867 ("Seward's Folly") — less than <strong>2 cents per acre</strong>.</div>
+        <div class="fact-item">
+          <div class="label">Home</div>
+          <div class="value">10–8</div>
+          <div class="sub">.556 at GABP</div>
         </div>
-        <div class="qa">
-          <div class="q">🌞 Slow Light</div>
-          <div class="a">A photon takes ~<strong>100,000 years</strong> to travel from the sun's core to its surface — then only <strong>8 minutes</strong> to reach Earth.</div>
-        </div>
-        <div class="qa">
-          <div class="q">🦣 Elephants</div>
-          <div class="a">Elephants (and hippos) are among the only large mammals that <strong>cannot jump</strong>. Their bones are too dense and they always have at least one foot on the ground.</div>
+        <div class="fact-item">
+          <div class="label">Away</div>
+          <div class="value">10–9</div>
+          <div class="sub">.526 on road</div>
         </div>
       </div>
-      <div>
-        <div class="qa">
-          <div class="q">🍦 Vanilla</div>
-          <div class="a">Vanilla extract comes from the seed pods of the <em>Vanilla planifolia</em> <strong>orchid</strong> — originally cultivated in Mexico by the Totonac people.</div>
+      <div class="game-row">
+        <div>
+          <div class="game-label">Today's Game</div>
+          <div class="game-val">@ Chicago Cubs</div>
         </div>
-        <div class="qa">
-          <div class="q">🤖 Robot</div>
-          <div class="a">The word <strong>"robot"</strong> was coined by Czech playwright Karel Čapek in his 1920 play <em>R.U.R.</em> (Rossum's Universal Robots).</div>
-        </div>
-        <div class="qa">
-          <div class="q">🐛 First Computer Bug</div>
-          <div class="a">The first computer "bug" was a <strong>real moth</strong> found stuck in a Harvard Mark II computer relay by Grace Hopper's team on Sep. 9, 1947.</div>
-        </div>
-        <div class="qa">
-          <div class="q">🌊 Lake Superior</div>
-          <div class="a">Lake Superior is the world's <strong>largest freshwater lake by surface area</strong> (~31,700 sq mi). Lake Baikal is deepest; Lake Michigan-Huron is larger by some measures.</div>
-        </div>
-        <div class="qa">
-          <div class="q">📏 Napoleon's Height</div>
-          <div class="a">Napoleon was NOT unusually short — he stood ~<strong>5'7"</strong>, average for a Frenchman of his era. The myth came from British propaganda and a mix-up between French <em>pouces</em> and English inches.</div>
+        <div style="text-align:right;">
+          <div class="game-label">First Pitch</div>
+          <div class="game-val">2:20 PM ET</div>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- SONGS 1990-2010 -->
-  <div class="card dark span2">
-    <div class="card-title">🎵 Songs 1990–2010</div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Waterfalls</div>
-        <div class="song-meta">TLC · 1995 · CrazySexyCool</div>
-      </div>
-      <div class="song-links">
-        <a href="https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY" target="_blank" class="spotify">▶ Spotify</a>
-        <a href="https://music.apple.com/us/song/waterfalls/270246724" target="_blank" class="apple">♪ Apple</a>
-      </div>
+  <!-- BOX OFFICE CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(255,215,0,0.2), rgba(255,165,0,0.08)); color:#ffd700;">
+      🎬 Box Office
     </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Under the Bridge</div>
-        <div class="song-meta">Red Hot Chili Peppers · 1992 · Blood Sugar Sex Magik</div>
+    <div class="card-body">
+      <div class="row">
+        <div class="row-q">
+          <strong style="font-size:15px;">#1 This Week</strong><br>
+          <span style="font-size:16px; font-weight:800; color:#ffd700;">The Devil Wears Prada 2</span>
+        </div>
       </div>
-      <div class="song-links">
-        <a href="https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0" target="_blank" class="spotify">▶ Spotify</a>
-        <a href="https://music.apple.com/us/song/under-the-bridge/945581840" target="_blank" class="apple">♪ Apple</a>
+      <div class="row">
+        <div class="row-q">Domestic Opening</div>
+        <div class="row-a">$77M (Week 1)</div>
       </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">My Heart Will Go On</div>
-        <div class="song-meta">Céline Dion · 1997 · Titanic Soundtrack</div>
+      <div class="row">
+        <div class="row-q">Global Opening</div>
+        <div class="row-a">$233.6M worldwide</div>
       </div>
-      <div class="song-links">
-        <a href="https://open.spotify.com/track/1wxnDyRZdAv4zVhkgoIO9p" target="_blank" class="spotify">▶ Spotify</a>
-        <a href="https://music.apple.com/us/song/my-heart-will-go-on-love-theme-from-titanic/1481507900" target="_blank" class="apple">♪ Apple</a>
+      <div class="row">
+        <div class="row-q">Stars</div>
+        <div class="row-a">Meryl Streep · Anne Hathaway</div>
       </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Creep</div>
-        <div class="song-meta">Radiohead · 1992 · Pablo Honey</div>
+      <div class="row">
+        <div class="row-q">Fun Fact</div>
+        <div class="row-a">Streep's biggest opening ever</div>
       </div>
-      <div class="song-links">
-        <a href="https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r" target="_blank" class="spotify">▶ Spotify</a>
-        <a href="https://music.apple.com/us/song/creep/1097862231" target="_blank" class="apple">♪ Apple</a>
+
+      <div class="subsection-title">🍿 Coming This Weekend (May 8–10)</div>
+      <div class="weekend-film">
+        <div class="title">Mortal Kombat II</div>
+        <div class="meta">Action sequel · Projecting $40–50M domestic · $65–80M global</div>
       </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Viva la Vida</div>
-        <div class="song-meta">Coldplay · 2008 · Viva la Vida or Death and All His Friends</div>
+      <div class="weekend-film">
+        <div class="title">The Sheep Detectives</div>
+        <div class="meta">Comedy · Sheep solve their shepherd's murder when the local cop is useless</div>
       </div>
-      <div class="song-links">
-        <a href="https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b" target="_blank" class="spotify">▶ Spotify</a>
-        <a href="https://music.apple.com/us/song/viva-la-vida/1122773680" target="_blank" class="apple">♪ Apple</a>
-      </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Fallin'</div>
-        <div class="song-meta">Alicia Keys · 2001 · Songs in A Minor</div>
-      </div>
-      <div class="song-links">
-        <a href="https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu" target="_blank" class="spotify">▶ Spotify</a>
-        <a href="https://music.apple.com/us/song/fallin/256937038" target="_blank" class="apple">♪ Apple</a>
+      <div class="weekend-film">
+        <div class="title">Billie Eilish: Hit Me Hard and Soft: The Tour</div>
+        <div class="meta">Concert doc · Directed by James Cameron &amp; Billie Eilish</div>
       </div>
     </div>
   </div>
 
-</div><!-- end grid -->
-<div style="text-align:center; padding:16px; font-size:11px; color:rgba(255,255,255,0.25);">Thursday Trivia Night · May 7, 2026 · Auto-generated reference sheet</div>
+  <!-- SPORTS CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(0,200,100,0.2), rgba(0,150,80,0.08)); color:#00c864;">
+      🏆 Sports This Week
+    </div>
+    <div class="card-body">
+      <div class="sport-item">
+        <div class="sport-league" style="color:#c8a000;">🏀 NBA</div>
+        <div class="sport-text">Conference Semifinals underway — Hurricanes 3-0 in R2; Knicks 2-0 over 76ers; Spurs beat Timberwolves 133-95, tie series 1-1; Cavs/Pistons &amp; Nuggets/Wolves heating up</div>
+      </div>
+      <div class="sport-item">
+        <div class="sport-league" style="color:#00bfff;">🏒 NHL</div>
+        <div class="sport-text">Round 2 — Carolina Hurricanes dominant, lead Flyers 3-0 (Game 3 tonight, 8 PM ET). Canadiens eliminated Tampa Bay Lightning in 7 games in R2 upset</div>
+      </div>
+      <div class="sport-item">
+        <div class="sport-league" style="color:#ff6b35;">⚾ MLB</div>
+        <div class="sport-text">Reds skidding — L6 streak drops them to 5th in NL Central, now 5.0 GB. Cubs leading the division at 24-12</div>
+      </div>
+      <div class="sport-item">
+        <div class="sport-league" style="color:#ffd700;">🏇 Horse Racing</div>
+        <div class="sport-text">Golden Tempo won the Kentucky Derby at 23-1 odds — trainer Cherie DeVaux became the first female trainer to win the Kentucky Derby</div>
+      </div>
+      <div class="sport-item">
+        <div class="sport-league" style="color:#a0c4ff;">🏈 NFL Draft</div>
+        <div class="sport-text">Indiana QB Fernando Mendoza went #1 overall; Rams shocked draft watchers taking QB Ty Simpson at #13 despite having a reigning MVP on the roster</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CELEBRITY DEATHS CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(150,100,200,0.2), rgba(100,60,150,0.08)); color:#c084fc;">
+      🕯️ In Memoriam (This Week)
+    </div>
+    <div class="card-body">
+      <div class="death-item">
+        <div class="death-name">Alex Zanardi <span style="font-weight:400; font-size:12px; color:var(--muted);">· age 59</span></div>
+        <div class="death-meta">Italian F1 &amp; CART racing driver; after losing both legs in a 2001 crash, became a Paralympic cycling gold medalist. Died May 1.</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">Alex Ligertwood <span style="font-weight:400; font-size:12px; color:var(--muted);">· Scottish singer</span></div>
+        <div class="death-meta">Lead vocalist of Santana across multiple eras (1979–1994). Died May 1 in Santa Monica.</div>
+      </div>
+      <div class="death-item">
+        <div class="death-name">David Kendall <span style="font-weight:400; font-size:12px; color:var(--muted);">· age 68</span></div>
+        <div class="death-meta">TV director/producer behind Growing Pains, Boy Meets World, Hannah Montana, and iCarly. Died May 2.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- THIS DAY IN HISTORY CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(0,180,180,0.2), rgba(0,120,120,0.08)); color:#22d3ee;">
+      📅 This Day in History — May 7
+    </div>
+    <div class="card-body">
+      <div class="hist-item">
+        <div class="hist-year">1429</div>
+        <div class="hist-fact">Joan of Arc and French forces raised the Siege of Orléans — a pivotal turning point in the Hundred Years' War. She was 17 years old.</div>
+      </div>
+      <div class="hist-item">
+        <div class="hist-year">1840</div>
+        <div class="hist-fact">Pyotr Ilyich Tchaikovsky born in Votkinsk, Russia — future composer of Swan Lake, The Nutcracker, and the 1812 Overture.</div>
+      </div>
+      <div class="hist-item">
+        <div class="hist-year">1847</div>
+        <div class="hist-fact">The American Medical Association (AMA) was founded at its first national convention in Philadelphia. It remains the nation's largest physician organization.</div>
+      </div>
+      <div style="margin-top:10px; padding-top:10px; border-top:1px dashed rgba(255,255,255,0.12);">
+        <div class="natday">🎉 World Password Day (1st Thursday of May)</div>
+        <div class="natday">🎉 National Packaging Design Day</div>
+        <div class="natday">🎉 Cosmopolitan Day 🍸</div>
+        <div class="natday">🎉 National Fitness &amp; Sports Day</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CURRENT EVENTS CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(59,130,246,0.2), rgba(30,80,180,0.08)); color:#60a5fa;">
+      🌍 Current Events
+    </div>
+    <div class="card-body">
+      <div class="news-item">
+        <div class="news-tag" style="color:#ef4444;">🚢 US-IRAN</div>
+        <div class="news-text">US Navy warships shot down Iranian cruise missiles and drones in the Strait of Hormuz, as tensions escalate over US-escorted commercial shipping lanes.</div>
+      </div>
+      <div class="news-item">
+        <div class="news-tag" style="color:#facc15;">🕊️ UKRAINE</div>
+        <div class="news-text">Putin declared a two-day ceasefire for May 8–9 to mark Russia's WWII Victory Day. Ukraine countered with its own pause, rejecting Russia's framing.</div>
+      </div>
+      <div class="news-item">
+        <div class="news-tag" style="color:#34d399;">🗳️ UK</div>
+        <div class="news-text">Britons voted in local elections across England, Scotland, and Wales — PM Keir Starmer's biggest electoral test since his July 2024 landslide victory.</div>
+      </div>
+      <div class="news-item">
+        <div class="news-tag" style="color:#a78bfa;">⚖️ SCOTUS</div>
+        <div class="news-text">Justice Samuel Alito issued a one-week hold on new abortion pill restrictions, temporarily restoring nationwide telehealth and mail access through May 11.</div>
+      </div>
+      <div class="news-item">
+        <div class="news-tag" style="color:#fb923c;">🇮🇳 INDIA</div>
+        <div class="news-text">PM Modi's BJP won a key legislative election in West Bengal, ending 15 years of rule by Mamata Banerjee.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CAPITALS QUIZ CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(16,185,129,0.2), rgba(5,150,100,0.08)); color:#34d399;">
+      🗺️ Capitals Quiz
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="row-q">Capital of Virginia</div>
+        <div class="row-a">Richmond</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Capital of Hungary</div>
+        <div class="row-a">Budapest</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Capital of Alaska</div>
+        <div class="row-a">Juneau</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Capital of Pakistan</div>
+        <div class="row-a">Islamabad</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CLASSIC TV CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(168,85,247,0.2), rgba(120,50,200,0.08)); color:#c084fc;">
+      📺 Classic TV (60s–90s)
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="row-q"><span class="tag" style="background:rgba(255,200,0,0.15); color:#fbbf24;">60s</span>Fred Flintstone on <em>The Flintstones</em></div>
+        <div class="row-a">Alan Reed (voice)</div>
+      </div>
+      <div class="row">
+        <div class="row-q"><span class="tag" style="background:rgba(0,180,180,0.15); color:#22d3ee;">70s</span>Lou Grant on <em>Lou Grant</em></div>
+        <div class="row-a">Ed Asner</div>
+      </div>
+      <div class="row">
+        <div class="row-q"><span class="tag" style="background:rgba(255,100,100,0.15); color:#f87171;">80s</span>Vinnie Terranova on <em>Wiseguy</em></div>
+        <div class="row-a">Ken Wahl</div>
+      </div>
+      <div class="row">
+        <div class="row-q"><span class="tag" style="background:rgba(255,100,100,0.15); color:#f87171;">80s</span>Chief Virgil Tibbs on <em>In the Heat of the Night</em></div>
+        <div class="row-a">Howard Rollins</div>
+      </div>
+      <div class="row">
+        <div class="row-q"><span class="tag" style="background:rgba(100,200,100,0.15); color:#86efac;">90s</span>Sheriff Jimmy Brock on <em>Picket Fences</em></div>
+        <div class="row-a">Tom Skerritt</div>
+      </div>
+      <div class="row">
+        <div class="row-q"><span class="tag" style="background:rgba(100,200,100,0.15); color:#86efac;">90s</span>Det. Frank Pembleton on <em>Homicide: Life on the Street</em></div>
+        <div class="row-a">Andre Braugher</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ARTS & LITERATURE CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(244,114,182,0.2), rgba(200,60,140,0.08)); color:#f472b6;">
+      🎨 Arts &amp; Literature
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="row-q">Who wrote <em>The Color Purple</em> (1982), winning the 1983 Pulitzer?</div>
+        <div class="row-a">Alice Walker</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Which Dutch painter founded the De Stijl movement, known for grids of primary colors?</div>
+        <div class="row-a">Piet Mondrian</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Which French composer wrote "Clair de Lune" (Suite bergamasque, 1905)?</div>
+        <div class="row-a">Claude Debussy</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Who wrote <em>Walden</em> (1854) after living alone in a cabin for two years?</div>
+        <div class="row-a">Henry David Thoreau</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Who wrote <em>My Ántonia</em> (1918), a novel about immigrant pioneers in Nebraska?</div>
+        <div class="row-a">Willa Cather</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Which Renaissance painter created "The School of Athens" fresco (1509–11) in the Vatican?</div>
+        <div class="row-a">Raphael</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOUNDED & INVENTED CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(251,146,60,0.2), rgba(200,100,20,0.08)); color:#fb923c;">
+      🏭 Founded &amp; Invented
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="row-q">What year was Kodak founded, and by whom?</div>
+        <div class="row-a">1892 — George Eastman, Rochester NY</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Who invented nylon, the first synthetic fabric, and when?</div>
+        <div class="row-a">Wallace Carothers, DuPont, 1935</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Who invented Tupperware and in what year?</div>
+        <div class="row-a">Earl Tupper, 1946</div>
+      </div>
+      <div class="row">
+        <div class="row-q">General Motors was founded in what year and city?</div>
+        <div class="row-a">1908, Flint MI (William Durant)</div>
+      </div>
+      <div class="row">
+        <div class="row-q">Who invented Kevlar (1965) — the material 5× stronger than steel?</div>
+        <div class="row-a">Stephanie Kwolek, DuPont</div>
+      </div>
+      <div class="row">
+        <div class="row-q">What year was Campbell Soup Company founded, and where?</div>
+        <div class="row-a">1869, Camden NJ (Joseph Campbell)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- GENERAL TRIVIA CARD -->
+  <div class="card" style="grid-column: span 1;">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(100,180,255,0.2), rgba(60,120,200,0.08)); color:#93c5fd;">
+      🧩 General Trivia
+    </div>
+    <div class="card-body">
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#86efac;">ANIMALS</div>
+        <div class="trivia-text">Dolphins sleep with one eye open and half their brain active at a time — called unihemispheric sleep. The other half rests while they stay alert to predators.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#93c5fd;">SCIENCE</div>
+        <div class="trivia-text">Photo 51 — the X-ray image of DNA taken by Rosalind Franklin in 1952 — provided Watson and Crick the key evidence to model the double helix. Franklin's contribution was long uncredited.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#fbbf24;">FOOD</div>
+        <div class="trivia-text">Chocolate melts at ~93°F (34°C) — just barely below human body temperature (98.6°F). That's why it melts in your mouth but not easily in your hand.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#f472b6;">LANGUAGE</div>
+        <div class="trivia-text">"Serendipity" was coined in 1754 by Horace Walpole from the Persian fairy tale "The Three Princes of Serendip" — Serendip being the ancient Arabic name for Sri Lanka.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#86efac;">ANIMALS</div>
+        <div class="trivia-text">A group of pigs is called a "sounder." Baby pigs are called piglets, and a female pig that hasn't had babies yet is a gilt.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#fb923c;">HISTORY</div>
+        <div class="trivia-text">The Roman Colosseum was completed in 80 AD under Emperor Titus and could hold 50,000–80,000 spectators. It had 80 arched entrances and a retractable awning (velarium).</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#93c5fd;">SCIENCE/TECH</div>
+        <div class="trivia-text">The first webcam (1991) was set up at Cambridge University's Computer Science Lab solely to watch a coffee pot — so researchers could check if it was empty before making the trip downstairs.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#86efac;">ANIMALS</div>
+        <div class="trivia-text">A pistol shrimp (snapping shrimp) can snap its claw so fast it creates a cavitation bubble that briefly reaches ~8,000°F — hotter than the surface of the sun — and stuns or kills prey.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#fbbf24;">FOOD</div>
+        <div class="trivia-text">The first breakfast cereal was "Granula," invented in 1863 by Dr. James Caleb Jackson in Dansville, NY — it was bran nuggets you had to soak overnight. Not a hit until Kellogg and Post came along.</div>
+      </div>
+      <div class="trivia-item">
+        <div class="trivia-cat" style="color:#f472b6;">BOTANY</div>
+        <div class="trivia-text">A sunflower "head" is not a single flower — it contains up to 2,000 tiny individual flowers (florets). The outer petals are ray florets; the inner seeds are each a separate disc floret.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SONGS OF THE ERA CARD -->
+  <div class="card">
+    <div class="card-header" style="background: linear-gradient(135deg, rgba(29,185,84,0.2), rgba(0,120,50,0.08)); color:#4ade80;">
+      🎵 Songs of the Era (1990–2010)
+    </div>
+    <div class="card-body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Zombie</div>
+          <div class="song-meta">The Cranberries · 1994 · No Need to Argue</div>
+        </div>
+        <div class="song-links">
+          <a href="https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF" target="_blank" class="spotify">▶ Spotify</a>
+          <a href="https://music.apple.com/us/song/zombie/1587991121" target="_blank" class="apple">♫ Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Smooth (feat. Rob Thomas)</div>
+          <div class="song-meta">Santana · 1999 · Supernatural</div>
+        </div>
+        <div class="song-links">
+          <a href="https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW" target="_blank" class="spotify">▶ Spotify</a>
+          <a href="https://music.apple.com/us/song/smooth-feat-rob-thomas/1441530826" target="_blank" class="apple">♫ Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">You Oughta Know</div>
+          <div class="song-meta">Alanis Morissette · 1995 · Jagged Little Pill</div>
+        </div>
+        <div class="song-links">
+          <a href="https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP" target="_blank" class="spotify">▶ Spotify</a>
+          <a href="https://music.apple.com/us/song/you-oughta-know/1353058092" target="_blank" class="apple">♫ Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Boulevard of Broken Dreams</div>
+          <div class="song-meta">Green Day · 2004 · American Idiot</div>
+        </div>
+        <div class="song-links">
+          <a href="https://open.spotify.com/track/0JLvLiSP0WjpfBdSeejIyK" target="_blank" class="spotify">▶ Spotify</a>
+          <a href="https://music.apple.com/us/song/boulevard-of-broken-dreams/320084009" target="_blank" class="apple">♫ Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Gold Digger (feat. Jamie Foxx)</div>
+          <div class="song-meta">Kanye West · 2005 · Late Registration</div>
+        </div>
+        <div class="song-links">
+          <a href="https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ" target="_blank" class="spotify">▶ Spotify</a>
+          <a href="https://music.apple.com/us/song/gold-digger-feat-jamie-foxx/1440669054" target="_blank" class="apple">♫ Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Poker Face</div>
+          <div class="song-meta">Lady Gaga · 2008 · The Fame</div>
+        </div>
+        <div class="song-links">
+          <a href="https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg" target="_blank" class="spotify">▶ Spotify</a>
+          <a href="https://music.apple.com/us/song/poker-face/1440818665" target="_blank" class="apple">♫ Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /grid -->
+
+<div style="text-align:center; padding: 20px; font-size: 11px; color: rgba(255,255,255,0.2);">
+  Generated May 7, 2026 · Reds record sourced from MLB Stats API · Good luck tonight! 🍀
+</div>
+
 </body>
 </html>
