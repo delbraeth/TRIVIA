@@ -227,6 +227,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | CHiPs | Officer Frank "Ponch" Poncherello | Erik Estrada |
 | May 6 | Rhoda | Rhoda Morgenstern | Valerie Harper |
 
+| May 7 | ALF | Gordon Shumway / ALF | Paul Fusco (voice/puppet) |
+| May 7 | Night Court | Judge Harold "Harry" T. Stone | Harry Anderson |
+| May 7 | Full House | Danny Tanner | Bob Saget |
+| May 7 | The Incredible Hulk | Dr. David Banner | Bill Bixby |
+| May 7 | Good Times | J.J. Evans | Jimmie Walker |
+| May 7 | Wonder Woman | Diana Prince / Wonder Woman | Lynda Carter |
+
 ---
 
 ## 🎨 Arts & Literature Used
@@ -322,6 +329,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 5v2 | Austrian composer of the "Unfinished Symphony" | Franz Schubert |
 | May 5v2 | Walt Whitman 1855 poetry collection | Leaves of Grass / "Song of Myself" |
 
+
+| May 7 | Author of Breakfast at Tiffany's (1958) | Truman Capote |
+| May 7 | Composer of "Messiah" (1741) / "Hallelujah" chorus | George Frideric Handel |
+| May 7 | Belgian surrealist painter of "The Treachery of Images" | René Magritte |
+| May 7 | First Arab Nobel Literature laureate (1988) | Naguib Mahfouz (Egypt) |
+| May 7 | Composer of the "Blue Danube" waltz (1866) | Johann Strauss II |
+| May 7 | Abstract Expressionist "drip painting" pioneer | Jackson Pollock |
 
 ---
 
@@ -554,6 +568,21 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 4 | Box Office | Devil Wears Prada 2 final opening: $77M dom / $233.6M global — Streep's best opener |
 
 
+| May 7 | Animals | Mantis shrimp has 16 color photoreceptor types (humans have 3) |
+| May 7 | Science | Sound travels ~4x faster in water than air |
+| May 7 | History | Alaska purchased from Russia for $7.2M in 1867 (Seward's Folly) — <2 cents/acre |
+| May 7 | Science | Photon takes ~100,000 years sun core→surface; only 8 min to reach Earth |
+| May 7 | Animals | Elephants (and hippos) cannot jump |
+| May 7 | Food | Vanilla from Vanilla planifolia orchid seed pods; originally from Mexico |
+| May 7 | Language | "Robot" coined by Czech playwright Karel Čapek in R.U.R. (1920) |
+| May 7 | Tech | First computer "bug" — real moth in Harvard Mark II relay, Grace Hopper team, 1947 |
+| May 7 | Geography | Lake Superior = world's largest freshwater lake by surface area (~31,700 sq mi) |
+| May 7 | History | Napoleon was ~5'7" — average for his era; "short" myth = British propaganda + unit confusion |
+| May 7 | Sports | Reds 21-16, NL Central 2nd (3 GB Cubs 24-12); beat Tampa Bay Rays 12-6 (Elly De La Cruz 2 HR) |
+| May 7 | Sports | NBA Conf. Semis: Cavs/Pistons G2, Nuggets/Wolves G2, Lakers/Thunder G2 |
+| May 7 | Sports | NHL Round 2: Hurricanes lead Flyers 3-0; Canadiens eliminated Lightning in 7 |
+| May 7 | Box Office | Devil Wears Prada 2 — $77M/$233.6M global; Mortal Kombat II opening this weekend |
+
 ---
 
 ## 📅 History Dates Covered
@@ -586,6 +615,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | Arthur Miller 1953 play / McCarthyism allegory | The Crucible (Salem witch trials) |
 | May 6 | Hungarian Romantic composer of Hungarian Rhapsodies | Franz Liszt |
 
+| May 7 | May 7 (Lusitania 1915, Germany WWII surrender 1945, Beethoven 9th premiere 1824) |
+
 ---
 
 ## 🎉 National Days Featured
@@ -615,6 +646,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | National Nurses Day · National Beverage Day · National Crêpes Suzette Day · International No Diet Day · Coronation Day (UK) |
 
 ---
+| May 7 | National Day of Reason · Children's Mental Health Awareness Day · National Roast Leg of Lamb Day · National Tourism Day |
+
 ---
 
 ## ⚙️ Founded & Invented Used
@@ -699,6 +732,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | LinkedIn co-founder | Reid Hoffman, launched May 2003 |
 
 
+| May 7 | Atari founded year/founders | 1972, Nolan Bushnell & Ted Dabney, Sunnyvale CA |
+| May 7 | Eiffel Tower designer / built for | Gustave Eiffel / 1889 Paris World's Fair |
+| May 7 | American Red Cross founded | 1881, Clara Barton, Washington D.C. |
+| May 7 | Harley-Davidson founded year/city | 1903, Milwaukee WI (Harley & Davidson) |
+| May 7 | ARPANET first message (1969) | "LO" (crashed during "LOGIN"); UCLA to Stanford, Oct 29 1969 |
+| May 7 | UPS founded year/founder/city | 1907, James Casey, Seattle WA |
+
 ---
 
 ## 🎵 Music Used (1990–2010)
@@ -723,9 +763,23 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | Mr. Brightside | The Killers | 2003 |
 
 ---
-_Last updated: May 6, 2026 (v6 — Today pill + dated pills, Today always first linking to index.html)_
+| May 7 | Waterfalls | TLC | 1995 |
+| May 7 | Under the Bridge | Red Hot Chili Peppers | 1992 |
+| May 7 | My Heart Will Go On | Céline Dion | 1997 |
+| May 7 | Creep | Radiohead | 1992 |
+| May 7 | Viva la Vida | Coldplay | 2008 |
+| May 7 | Fallin' | Alicia Keys | 2001 |
+
+---
+_Last updated: May 7, 2026 (v7 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
 | May 6 | Capital of Cuba | Havana |
 | May 6 | Capital of Washington (state) | Olympia |
+
+| May 7 | Capital of Minnesota | St. Paul |
+| May 7 | Capital of Turkey | Ankara |
+| May 7 | Capital of Bolivia | Sucre (constitutional) / La Paz (seat of government) |
+| May 7 | Capital of Ukraine | Kyiv |
+| May 7 | Capital of Belgium | Brussels |
