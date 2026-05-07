@@ -784,3 +784,56 @@ _Last updated: May 7, 2026 (v7 — Today pill + dated pills, Today always first 
 | May 7 | Capital of Bolivia | Sucre (constitutional) / La Paz (seat of government) |
 | May 7 | Capital of Ukraine | Kyiv |
 | May 7 | Capital of Belgium | Brussels |
+
+| May 7v2 | Capital of Virginia | Richmond |
+| May 7v2 | Capital of Hungary | Budapest |
+| May 7v2 | Capital of Alaska | Juneau |
+| May 7v2 | Capital of Pakistan | Islamabad |
+
+| May 7v2 | The Flintstones | Fred Flintstone | Alan Reed (voice) |
+| May 7v2 | Lou Grant | Lou Grant | Ed Asner |
+| May 7v2 | Wiseguy | Vinnie Terranova | Ken Wahl |
+| May 7v2 | In the Heat of the Night | Chief Virgil Tibbs | Howard Rollins |
+| May 7v2 | Picket Fences | Sheriff Jimmy Brock | Tom Skerritt |
+| May 7v2 | Homicide: Life on the Street | Det. Frank Pembleton | Andre Braugher |
+
+| May 7v2 | Alice Walker — The Color Purple (1982), Pulitzer 1983 | Alice Walker |
+| May 7v2 | Piet Mondrian — De Stijl founder, primary colors + grid | Piet Mondrian |
+| May 7v2 | "Clair de Lune" composer (Suite bergamasque, 1905) | Claude Debussy |
+| May 7v2 | Author of Walden (1854), lived alone at Walden Pond | Henry David Thoreau |
+| May 7v2 | Author of My Ántonia (1918), Nebraska pioneer life | Willa Cather |
+| May 7v2 | "School of Athens" fresco (1509-11) in Vatican | Raphael |
+
+| May 7v2 | Kodak founded year/founder | 1892, George Eastman, Rochester NY |
+| May 7v2 | Nylon — first synthetic fabric inventor/year | Wallace Carothers, DuPont, 1935 |
+| May 7v2 | Tupperware inventor/year | Earl Tupper, 1946 |
+| May 7v2 | General Motors founded year/city | 1908, Flint MI (William Durant) |
+| May 7v2 | Kevlar inventor/year/company | Stephanie Kwolek, 1965, DuPont |
+| May 7v2 | Campbell Soup Company founded | 1869, Camden NJ (Joseph Campbell) |
+
+| May 7v2 | Animals | Dolphins sleep with one eye open (unihemispheric sleep) |
+| May 7v2 | Science | Photo 51 — Rosalind Franklin's 1952 X-ray that revealed DNA double helix |
+| May 7v2 | Food | Chocolate melts at ~93°F (34°C) — just below body temp |
+| May 7v2 | Language | "Serendipity" coined 1754 by Horace Walpole (Serendip = Sri Lanka) |
+| May 7v2 | Animals | Group of pigs = sounder |
+| May 7v2 | History | Colosseum completed 80 AD — held 50,000–80,000 spectators |
+| May 7v2 | Science/Tech | First webcam (1991) watched a coffee pot at Cambridge University |
+| May 7v2 | Animals | Pistol shrimp snap creates ~8,000°F cavitation bubble |
+| May 7v2 | Food | First breakfast cereal: Granula (1863), James Caleb Jackson |
+| May 7v2 | Botany | Sunflower head = up to 2,000 individual florets |
+| May 7v2 | Sports | Reds 20-17, L6, 5th in NL Central, 5.0 GB Cubs; @ Cubs 2:20 PM ET |
+| May 7v2 | Sports | NHL: Hurricanes 3-0 over Flyers (R2), Canadiens eliminated Lightning in 7 |
+| May 7v2 | Sports | NBA: Spurs tie Timberwolves 1-1 (133-95 G2); Knicks 2-0 over 76ers |
+| May 7v2 | Box Office | Devil Wears Prada 2 — $77M dom/$233.6M global; Mortal Kombat II opens this wknd |
+
+| May 7v2 | Zombie | The Cranberries | 1994 |
+| May 7v2 | Smooth (feat. Rob Thomas) | Santana | 1999 |
+| May 7v2 | You Oughta Know | Alanis Morissette | 1995 |
+| May 7v2 | Boulevard of Broken Dreams | Green Day | 2004 |
+| May 7v2 | Gold Digger (feat. Jamie Foxx) | Kanye West | 2005 |
+| May 7v2 | Poker Face | Lady Gaga | 2008 |
+
+| May 7v2 | May 7 alt history: Joan of Arc raises Siege of Orléans (1429); Tchaikovsky born (1840); AMA founded (1847) | — |
+| May 7v2 | National Days: World Password Day, National Packaging Design Day, Cosmopolitan Day | — |
+
+_Last updated: May 7, 2026 (v7b — second run same day)_
