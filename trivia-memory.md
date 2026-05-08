@@ -772,7 +772,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | Fallin' | Alicia Keys | 2001 |
 
 ---
-_Last updated: May 7, 2026 (v7 — Today pill + dated pills, Today always first linking to index.html)_
+_Last updated: May 8, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
@@ -836,4 +836,58 @@ _Last updated: May 7, 2026 (v7 — Today pill + dated pills, Today always first 
 | May 7v2 | May 7 alt history: Joan of Arc raises Siege of Orléans (1429); Tchaikovsky born (1840); AMA founded (1847) | — |
 | May 7v2 | National Days: World Password Day, National Packaging Design Day, Cosmopolitan Day | — |
 
-_Last updated: May 7, 2026 (v7b — second run same day)_
+_Last updated: May 8, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+
+| May 8 | Capital of New York State | Albany |
+| May 8 | Capital of Illinois | Springfield |
+| May 8 | Capital of Japan | Tokyo |
+| May 8 | Capital of Ghana | Accra |
+| May 8 | Capital of the Netherlands | Amsterdam |
+
+| May 8 | The Avengers (UK 1965–68) | Emma Peel | Diana Rigg |
+| May 8 | The Streets of San Francisco | Det. Steve Keller | Michael Douglas |
+| May 8 | Emergency! | John Gage | Randolph Mantooth |
+| May 8 | The Love Boat | Capt. Merrill Stubing | Gavin MacLeod |
+| May 8 | Soap | Jodie Dallas | Billy Crystal |
+| May 8 | Eight is Enough | Tom Bradford | Dick Van Patten |
+
+| May 8 | Best-selling mystery novelist of all time | Agatha Christie (2B+ books) |
+| May 8 | Andy Warhol Campbell's Soup Cans (1962) movement | Pop Art |
+| May 8 | Georgia O'Keeffe — "Mother of American Modernism" | American modernist; flower series & NM landscapes |
+| May 8 | Beckett's play about waiting | Waiting for Godot (1953) |
+| May 8 | Italian composer of La Traviata, Aida, Otello | Giuseppe Verdi |
+| May 8 | John Milton epic poem 1667 — Fall of Man | Paradise Lost |
+
+| May 8 | ESPN founded year/city | 1979, Bristol CT (Bill Rasmussen) |
+| May 8 | Windshield wiper inventor/year | Mary Anderson, 1903 |
+| May 8 | Shopping cart inventor/year/city | Sylvan Goldman, 1937, Oklahoma City |
+| May 8 | Subway founded year/founder's age | 1965, Fred DeLuca (age 17), Bridgeport CT |
+| May 8 | Adidas founder / Puma connection | Adolf "Adi" Dassler 1949; brother Rudolf founded Puma |
+| May 8 | Safety pin inventor/year | Walter Hunt, 1849 |
+
+| May 8 | Etymology | Petrichor — smell of rain (coined 1964, Bear & Thomas) |
+| May 8 | Animals | Group of ferrets = "business" |
+| May 8 | Biology | Koala fingerprints nearly indistinguishable from human |
+| May 8 | History/Humor | Oldest recorded joke (~1900 BC Sumerian) is a fart joke |
+| May 8 | Science | Human nose detects ~1 trillion distinct smells |
+| May 8 | Etymology | "Muscle" from Latin musculus = "little mouse" |
+| May 8 | Nature | Great Barrier Reef = world's largest living structure (~1,400 mi) |
+| May 8 | History/Architecture | Pentagon has 2x bathrooms needed — Virginia segregation law |
+| May 8 | Animals | Honey bees beat wings ~200x/second (creates the buzz) |
+| May 8 | Physics | Remove atomic empty space — all humanity fits in a sugar cube |
+| May 8 | Sports | Reds 20-18, L7, NL Central 5th (6 GB Cubs); vs Houston Astros 6:10 PM ET |
+| May 8 | Sports | NBA R2: Pistons 2-0 Cavs; Knicks 2-0 76ers; Thunder 1-0 Lakers; Wolves/Spurs 1-1 |
+| May 8 | Sports | NHL R2: Canes 2-0 Flyers; Sabres 1-0 Canadiens (G2 tonight); Avs 2-0 Wild; VGK/Ducks 1-1 |
+| May 8 | Sports | Kentucky Derby: Golden Tempo 23-1; Cherie DeVaux first female trainer to win |
+| May 8 | Box Office | Devil Wears Prada 2 — $77M dom/$233.6M global (Meryl Streep biggest-ever opener) |
+
+| May 8 | No Scrubs | TLC | 1999 |
+| May 8 | Toxic | Britney Spears | 2003 |
+| May 8 | Numb | Linkin Park | 2003 |
+| May 8 | Since U Been Gone | Kelly Clarkson | 2004 |
+| May 8 | Irreplaceable | Beyoncé | 2006 |
+| May 8 | Fix You | Coldplay | 2005 |
+
+| May 8 | May 8 (VE Day 1945, Smallpox eradicated 1980, Coca-Cola first sold 1886) | — |
+| May 8 | National Days: World Red Cross Day, National No Socks Day, National Teacher Appreciation Day, National Coconut Cream Pie Day | — |
+
