@@ -772,7 +772,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | Fallin' | Alicia Keys | 2001 |
 
 ---
-_Last updated: May 8, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+_Last updated: May 11, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
@@ -836,7 +836,7 @@ _Last updated: May 8, 2026 (v8 — Today pill + dated pills, Today always first 
 | May 7v2 | May 7 alt history: Joan of Arc raises Siege of Orléans (1429); Tchaikovsky born (1840); AMA founded (1847) | — |
 | May 7v2 | National Days: World Password Day, National Packaging Design Day, Cosmopolitan Day | — |
 
-_Last updated: May 8, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+_Last updated: May 11, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 8 | Capital of New York State | Albany |
 | May 8 | Capital of Illinois | Springfield |
@@ -890,4 +890,59 @@ _Last updated: May 8, 2026 (v8 — Today pill + dated pills, Today always first 
 
 | May 8 | May 8 (VE Day 1945, Smallpox eradicated 1980, Coca-Cola first sold 1886) | — |
 | May 8 | National Days: World Red Cross Day, National No Socks Day, National Teacher Appreciation Day, National Coconut Cream Pie Day | — |
+
+
+| May 11 | Capital of Pennsylvania | Harrisburg |
+| May 11 | Capital of Spain | Madrid |
+| May 11 | Capital of Tanzania | Dodoma |
+| May 11 | Capital of Nevada | Carson City |
+
+| May 11 | The West Wing | President Josiah "Jed" Bartlet | Martin Sheen |
+| May 11 | Lost in Space (1965) | Dr. Zachary Smith | Jonathan Harris |
+| May 11 | The Bionic Woman | Jaime Sommers | Lindsay Wagner |
+| May 11 | Adam-12 | Officer Pete Malloy | Martin Milner |
+| May 11 | Buffy the Vampire Slayer | Buffy Summers | Sarah Michelle Gellar |
+| May 11 | Ally McBeal | Ally McBeal | Calista Flockhart |
+
+| May 11 | French novelist of Madame Bovary (1857) | Gustave Flaubert |
+| May 11 | Composer of Peter and the Wolf (1936) | Sergei Prokofiev |
+| May 11 | Painter of Le Déjeuner sur l'herbe (1863) and Olympia (1865) | Édouard Manet |
+| May 11 | Canadian author of The Handmaid's Tale (1985) | Margaret Atwood |
+| May 11 | French painter of Liberty Leading the People (1830) | Eugène Delacroix |
+| May 11 | Author of Native Son (1940) | Richard Wright |
+
+| May 11 | Toyota founded year/founder | 1937, Kiichiro Toyoda (Japan) |
+| May 11 | Tesla, Inc. founded year/founders | 2003, Martin Eberhard & Marc Tarpenning (Musk joined 2004) |
+| May 11 | Spotify founded year/founders | 2006, Daniel Ek & Martin Lorentzon, Sweden |
+| May 11 | Wendy's founded year/founder/city | 1969, Dave Thomas, Columbus OH |
+| May 11 | PayPal founded year / original name | 1998 / Confinity (merged X.com 2000, rebranded 2001) |
+| May 11 | Ferrari founded year / city | 1939, Maranello, Italy (Enzo Ferrari) |
+
+| May 11 | Animals | Hummingbirds — only birds capable of true backwards flight; wings 50–80 beats/sec |
+| May 11 | Animals | Hippos secrete reddish-pink hipposudoric acid as natural sunscreen + antibiotic |
+| May 11 | Religion/Tech | Vatican has world's only Latin-language ATM |
+| May 11 | Engineering | Niagara Falls American side "turned off" 1969 by US Army Corps to study erosion |
+| May 11 | Animals | Cheetah ~70 mph (113 km/h) — fastest land animal but overheats quickly |
+| May 11 | Art | Mona Lisa has no eyebrows or eyelashes |
+| May 11 | Geography | Iceland has no mosquitoes |
+| May 11 | Pop culture | Buzz Aldrin's mother's maiden name was Marion Moon |
+| May 11 | Science | Microsoft anechoic chamber in Redmond — world's quietest room (-20.6 dBA) |
+| May 11 | Geography | Saudi Arabia imports camels from Australia (~1M feral in Outback) |
+| May 11 | Engineering | Great Pyramid of Giza tallest man-made structure for ~3,800 years |
+| May 11 | Astronomy | ISS astronauts see ~16 sunrises every 24 hours (90-min orbit) |
+| May 11 | Sports | Reds 22-19, .537, T-4th NL Central (5 GB Cubs); swept Astros 3-0; no game today |
+| May 11 | Sports | NBA R2: Knicks SWEEP 76ers (2nd straight ECF); Thunder 3-0 Lakers; Cavs cut Pistons series to 2-1; Wolves tie Spurs 2-2 |
+| May 11 | Sports | NHL R2: Hurricanes SWEEP Flyers; Sabres/Habs 1-1; Avs 2-1 Wild; VGK 2-1 Ducks |
+| May 11 | Sports | NCAA: Wake Forest vs Syracuse to play 2027 opener at BMO Field, Toronto (first NCAA football in Canada) |
+| May 11 | Box Office | Devil Wears Prada 2 holds #1 (2nd wknd ~$32M) over Mortal Kombat II ($40M dom / $63M global open) |
+
+| May 11 | I Want It That Way | Backstreet Boys | 1999 |
+| May 11 | Black Hole Sun | Soundgarden | 1994 |
+| May 11 | Don't Speak | No Doubt | 1995 |
+| May 11 | Hot in Herre | Nelly | 2002 |
+| May 11 | Single Ladies (Put a Ring on It) | Beyoncé | 2008 |
+| May 11 | Bad Romance | Lady Gaga | 2009 |
+
+| May 11 | May 11 (Bob Marley dies 1981; Deep Blue beats Kasparov 1997; Academy of Motion Picture Arts founded 1927; Minnesota 32nd state 1858) | — |
+| May 11 | National Days: National Eat What You Want Day, National Twilight Zone Day, National Women's Checkup Day, Vietnam Human Rights Day | — |
 
