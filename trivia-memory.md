@@ -772,7 +772,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | Fallin' | Alicia Keys | 2001 |
 
 ---
-_Last updated: May 11, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+_Last updated: May 12, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
@@ -836,7 +836,7 @@ _Last updated: May 11, 2026 (v8 — Today pill + dated pills, Today always first
 | May 7v2 | May 7 alt history: Joan of Arc raises Siege of Orléans (1429); Tchaikovsky born (1840); AMA founded (1847) | — |
 | May 7v2 | National Days: World Password Day, National Packaging Design Day, Cosmopolitan Day | — |
 
-_Last updated: May 11, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+_Last updated: May 12, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 8 | Capital of New York State | Albany |
 | May 8 | Capital of Illinois | Springfield |
@@ -945,4 +945,61 @@ _Last updated: May 11, 2026 (v8 — Today pill + dated pills, Today always first
 
 | May 11 | May 11 (Bob Marley dies 1981; Deep Blue beats Kasparov 1997; Academy of Motion Picture Arts founded 1927; Minnesota 32nd state 1858) | — |
 | May 11 | National Days: National Eat What You Want Day, National Twilight Zone Day, National Women's Checkup Day, Vietnam Human Rights Day | — |
+
+
+| May 12 | Capital of Missouri | Jefferson City |
+| May 12 | Capital of Romania | Bucharest |
+| May 12 | Capital of Massachusetts | Boston |
+| May 12 | Capital of Kenya | Nairobi |
+
+| May 12 | Rawhide | Rowdy Yates | Clint Eastwood |
+| May 12 | The Wild Wild West | James T. West | Robert Conrad |
+| May 12 | The Mod Squad | Pete Cochran | Michael Cole |
+| May 12 | Falcon Crest | Angela Channing | Jane Wyman |
+| May 12 | Beverly Hills, 90210 | Brandon Walsh | Jason Priestley |
+| May 12 | Murder One | Ted Hoffman | Daniel Benzali |
+
+| May 12 | Author of The Scarlet Letter (1850) | Nathaniel Hawthorne |
+| May 12 | A Confederacy of Dunces (Pulitzer 1981, posthumous) | John Kennedy Toole |
+| May 12 | Garden of Earthly Delights triptych painter | Hieronymus Bosch |
+| May 12 | Composer of Carmina Burana (1937) / "O Fortuna" | Carl Orff |
+| May 12 | Saturday Evening Post illustrator of Americana | Norman Rockwell |
+| May 12 | Chicago poet, 3-time Pulitzer; "Fog comes on little cat feet" | Carl Sandburg |
+
+| May 12 | Hewlett-Packard founded year/place | 1939, Palo Alto garage (Hewlett & Packard) |
+| May 12 | Wright Brothers first flight | Dec 17, 1903, Kitty Hawk NC; 12 seconds |
+| May 12 | Twinkies invented year/inventor | 1930, James Dewar (Hostess); originally banana cream |
+| May 12 | Ben & Jerry's founded year/place | 1978, Burlington VT (gas station) |
+| May 12 | Krispy Kreme founded year/place | 1937, Winston-Salem NC (Vernon Rudolph) |
+| May 12 | Zippo lighter inventor/year/city | George Blaisdell, 1932, Bradford PA |
+
+| May 12 | Animals | Bee hummingbird (Cuba) — world's smallest bird, ~2.25 in, lighter than a penny |
+| May 12 | Biology | Caterpillars dissolve into cellular soup inside chrysalis; only "imaginal" cells survive |
+| May 12 | Botany | Brazil nuts only from wild Amazon — depend on specific orchid bee for pollination |
+| May 12 | Language | "Rhythms" — longest English word with no vowels (Y as consonant) |
+| May 12 | Astronomy | Saturn has 274 confirmed moons (2025 IAU count) — more than rest of solar system combined |
+| May 12 | Pop culture | Walt Disney was afraid of mice (created Mickey to face the fear) |
+| May 12 | Time | A "moment" was a medieval unit = 90 seconds (1/40 of solar hour) |
+| May 12 | History | Einstein offered presidency of Israel in 1952; declined |
+| May 12 | Religion | Shortest KJV Bible verse: "Jesus wept" (John 11:35) |
+| May 12 | Americana | Liberty Bell hasn't been rung since 1846 (Washington birthday crack) |
+| May 12 | Animals | Group of jellyfish = "smack"; group of rhinos = "crash" |
+| May 12 | Olympics | 1912–1948 Olympics awarded medals for art (painting, sculpture, architecture, lit, music) |
+| May 12 | Sports | Reds 22-19, .537, NL Central 5th (5 GB Cubs); took 2 of 3 from Astros; vs Nationals 6:40 PM ET tonight |
+| May 12 | Sports | NBA R2 Conf Semis: Knicks SWEEP 76ers; Thunder 3-0 Lakers; Cavs/Pistons 2-2 (Cavs 23-0 Q3 run); Wolves/Spurs 2-2 (Wemby ejected G4) |
+| May 12 | Sports | NHL R2: Hurricanes SWEEP Flyers; Avs 9-6 Wild G2 (15 combined goals); other series tied/early |
+| May 12 | Sports | MLB: Cubs win 6 straight (27-14, NL Central runaway); Braves 6 straight; Misiorowski (MIL) 11 K + 103.6 mph fastball MLB debut vs NYY |
+| May 12 | Sports | NFL: 2026 schedule release Thu May 14; 9 international games; Cowboys-Giants SNF Wk1, Eagles-Cowboys Thanksgiving, Ravens-Cowboys Rio Sept 27, Rams-49ers Melbourne Sept 11 |
+| May 12 | Box Office | Devil Wears Prada 2 holds #1 (~$43M, 2nd wknd) over Mortal Kombat II ($40M dom / $63M global open) |
+| May 12 | News | Iran ceasefire on "massive life support" (Trump); Hungary's Magyar ousts Orbán after 16y; UK PM Starmer leadership challenge; Moderna +7.5% on hantavirus vaccine |
+
+| May 12 | Vogue | Madonna | 1990 |
+| May 12 | Black or White | Michael Jackson | 1991 |
+| May 12 | Mr. Jones | Counting Crows | 1993 |
+| May 12 | Killing Me Softly | Fugees | 1996 |
+| May 12 | Drops of Jupiter | Train | 2001 |
+| May 12 | Empire State of Mind | Jay-Z feat. Alicia Keys | 2009 |
+
+| May 12 | May 12 (Florence Nightingale born 1820; Rolling Stones finish "Satisfaction" 1965; Sichuan earthquake 2008 ~87K dead) | — |
+| May 12 | National Days: National Limerick Day (Edward Lear), International Nurses Day, National Nutty Fudge Day, National Odometer Day, Fibromyalgia Awareness Day | — |
 
