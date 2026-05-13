@@ -772,7 +772,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | Fallin' | Alicia Keys | 2001 |
 
 ---
-_Last updated: May 12, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 6 | Capital of Ohio | Columbus |
 | May 6 | Capital of Sweden | Stockholm |
@@ -836,7 +835,6 @@ _Last updated: May 12, 2026 (v8 — Today pill + dated pills, Today always first
 | May 7v2 | May 7 alt history: Joan of Arc raises Siege of Orléans (1429); Tchaikovsky born (1840); AMA founded (1847) | — |
 | May 7v2 | National Days: World Password Day, National Packaging Design Day, Cosmopolitan Day | — |
 
-_Last updated: May 12, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
 
 | May 8 | Capital of New York State | Albany |
 | May 8 | Capital of Illinois | Springfield |
@@ -1003,3 +1001,63 @@ _Last updated: May 12, 2026 (v8 — Today pill + dated pills, Today always first
 | May 12 | May 12 (Florence Nightingale born 1820; Rolling Stones finish "Satisfaction" 1965; Sichuan earthquake 2008 ~87K dead) | — |
 | May 12 | National Days: National Limerick Day (Edward Lear), International Nurses Day, National Nutty Fudge Day, National Odometer Day, Fibromyalgia Awareness Day | — |
 
+
+| May 13 | Capital of Connecticut | Hartford |
+| May 13 | Capital of Vietnam | Hanoi |
+| May 13 | Capital of Wyoming | Cheyenne |
+| May 13 | Capital of Greece | Athens |
+
+| May 13 | Magnum, P.I. | Thomas Magnum | Tom Selleck |
+| May 13 | Cagney & Lacey | Det. Christine Cagney | Sharon Gless |
+| May 13 | The X-Files | Fox Mulder | David Duchovny |
+| May 13 | Three's Company | Jack Tripper | John Ritter |
+| May 13 | Bewitched | Samantha Stephens | Elizabeth Montgomery |
+| May 13 | The Mary Tyler Moore Show | Mary Richards | Mary Tyler Moore |
+
+| May 13 | Painter of Guernica (1937) | Pablo Picasso |
+| May 13 | Author of I Know Why the Caged Bird Sings (1969) | Maya Angelou |
+| May 13 | Composer of 5th Symphony "da-da-da-DUM" | Ludwig van Beethoven |
+| May 13 | "Call me Ishmael" opens which 1851 novel | Moby-Dick by Herman Melville |
+| May 13 | Mexican self-portraitist; Blue House Coyoacán | Frida Kahlo |
+| May 13 | French novelist of In Search of Lost Time / madeleine | Marcel Proust |
+
+| May 13 | Coca-Cola founded year/founder/city | 1886, Atlanta, John Pemberton (pharmacist) |
+| May 13 | McDonald's brothers first drive-in year/city | 1940, San Bernardino CA (Richard & Maurice McDonald) |
+| May 13 | Levi Strauss & Co. founded year + rivet patent | 1853 SF; rivet patent May 20, 1873 (with Jacob Davis) |
+| May 13 | Velcro inventor / inspiration | George de Mestral, 1955; burrs on dog's fur |
+| May 13 | Post-it Note company/year/inventors | 3M, 1980 (Spencer Silver adhesive 1968; Art Fry hymnal bookmark 1974) |
+| May 13 | Band-Aid inventor/year | Earle Dickson, 1920 (Johnson & Johnson; for accident-prone wife Josephine) |
+
+| May 13 | Animals | Octopuses have three hearts and blue copper-based blood (hemocyanin) |
+| May 13 | Animals | Wombat poop is cube-shaped — unique in nature |
+| May 13 | Food | Bananas are botanical berries; strawberries are not |
+| May 13 | Food | Honey never spoils — edible 3,000-yr-old honey found in Egyptian tombs |
+| May 13 | Geography | Shortest commercial flight: Westray–Papa Westray, Scotland (~90 sec) |
+| May 13 | Statue of Liberty | Nose is 4'6"; sandal size 879 |
+| May 13 | Language | The dot over "i" and "j" is called a "tittle" |
+| May 13 | Science | Sharks predate trees (~400M yrs vs ~350M); also predate Saturn's rings |
+| May 13 | Time | A "jiffy" is a real unit ≈ 1/100 of a second (or ~1 cm light in vacuum) |
+| May 13 | Geography | Great Wall of China NOT visible from space with naked eye (confirmed by Yang Liwei 2003) |
+| May 13 | Customs | Sweden's "Lördagsgodis" — Saturday candy day, from 1950s dental health campaign |
+| May 13 | Language | English word "set" has the most OED definitions (430+) |
+| May 13 | Sports | Reds 22-20, .524, NL Central 5th (5 GB Cubs); lost 10-4 to Nationals Tue, L1 streak, L10 2-8 |
+| May 13 | Sports | NBA R2: Thunder SWEEP Lakers (8-0 playoffs); Cavs even Pistons 2-2 (Mitchell 43); Knicks idle in ECF; Wolves/Spurs 2-2 |
+| May 13 | Sports | NHL R2: Hurricanes 8-0 playoffs (await ECF); Avs 3-1 Wild (5-2 G4); Sabres 3-2 Habs G4 (Benson PPG) tied 2-2 |
+| May 13 | Sports | MLB: Cubs 27-15 (lost 3); Braves 29-13 best in baseball; Rockies 16-26 |
+| May 13 | Sports | MLS Matchday 12: Houston 4-1 LAFC (McGlynn 2 G); NYCFC 3-0 Crew (Wolf hat trick); San Jose 1-1 Vancouver |
+| May 13 | NFL | 9 international games (Madrid, São Paulo, London, Berlin, Dublin, Melbourne, Rio); Broncos@Chiefs MNF Wk1; Saints-Steelers Paris |
+| May 13 | Box Office | Devil Wears Prada 2 #1 2nd wknd $41.6M (verified Wikipedia/Box Office Mojo); Streep $77M opener career best |
+| May 13 | News | Trump in Beijing for Xi summit; Iran ceasefire on "life support"; SCOTUS clears AL voting-map elimination; Cambridge near-Harvard shooting |
+
+| May 13 | Gangsta's Paradise | Coolio feat. L.V. | 1995 |
+| May 13 | Tubthumping | Chumbawamba | 1997 |
+| May 13 | Genie in a Bottle | Christina Aguilera | 1999 |
+| May 13 | Livin' la Vida Loca | Ricky Martin | 1999 |
+| May 13 | Since U Been Gone | Kelly Clarkson | 2004 |
+| May 13 | Hips Don't Lie | Shakira feat. Wyclef Jean | 2006 |
+
+| May 13 | May 13 (Jamestown founded 1607; Churchill "blood, toil, tears and sweat" 1940; Pope John Paul II shot 1981) | — |
+| May 13 | National Days: National Apple Pie Day, National Frog Jumping Day, International Hummus Day, World Cocktail Day, Top Gun Day, National Receptionists Day | — |
+
+
+_Last updated: May 13, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
