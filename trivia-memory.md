@@ -1115,7 +1115,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 14 | National Days: Stars and Stripes Forever Day, Dance Like a Chicken Day, International Dylan Thomas Day, National Buttermilk Biscuit Day, National Underground America Day | — |
 
 
-_Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html, May 14b second run added)_
+_Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html, May 14c third run added)_
 
 
 | May 14b | Capital of Alabama | Montgomery |
@@ -1172,3 +1172,62 @@ _Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first
 
 | May 14b | May 14 alt (Jenner smallpox vaccination 1796; Rotterdam bombing 1940; Mrs Dalloway pub 1925; Battle of Lewes 1264) | — |
 | May 14b | National Days: Ascension Day, National Brioche Day, National Chihuahua Appreciation Day, Spinal Cord Injury Awareness Day | — |
+
+
+| May 14c | Capital of Maine | Augusta |
+| May 14c | Capital of New Mexico | Santa Fe |
+| May 14c | Capital of Ireland | Dublin |
+| May 14c | Capital of Indonesia | Jakarta |
+
+| May 14c | Have Gun – Will Travel | Paladin | Richard Boone |
+| May 14c | The Carol Burnett Show | Carol Burnett (host) | Carol Burnett |
+| May 14c | Leave It to Beaver | Theodore "Beaver" Cleaver | Jerry Mathers |
+| May 14c | Family Affair | Mr. French | Sebastian Cabot |
+| May 14c | Law & Order | Det. Lennie Briscoe | Jerry Orbach |
+| May 14c | 3rd Rock from the Sun | Dick Solomon | John Lithgow |
+
+| May 14c | Author of Lord of the Flies (1954, Nobel 1983) | William Golding |
+| May 14c | Polish-born composer of nocturnes / "Minute Waltz" | Frédéric Chopin |
+| May 14c | Norwegian composer of "Peer Gynt" / "In the Hall of the Mountain King" | Edvard Grieg |
+| May 14c | Russian-French painter of dreamlike floating figures/fiddlers | Marc Chagall |
+| May 14c | Russian author of Doctor Zhivago (1957, declined Nobel 1958) | Boris Pasternak |
+| May 14c | Italian opera composer of La Bohème, Tosca, Madame Butterfly | Giacomo Puccini |
+
+| May 14c | Burger King founded year/city | 1953/54, Jacksonville FL (Edgerton & McLamore) |
+| May 14c | Domino's Pizza founded year/founder/city | 1960, Tom Monaghan, Ypsilanti MI |
+| May 14c | Practical sewing machine patent / commercializer | Elias Howe 1846; Isaac Singer 1851 |
+| May 14c | IBM founded year / original name | 1911 as CTR (Computing-Tabulating-Recording); renamed 1924 |
+| May 14c | Saxophone inventor / year / country | Adolphe Sax, 1846 (Belgium) |
+| May 14c | First fully electronic television inventor / year | Philo Farnsworth, 1927 |
+
+| May 14c | Animals | Starfish have no brain and no blood — circulate seawater instead |
+| May 14c | Animals | Polar bears classified as marine mammals (only bear so designated) |
+| May 14c | Astronomy | Olympus Mons (Mars) ~13.6 mi tall — tallest volcano in solar system |
+| May 14c | Astronomy | Jupiter has 95+ confirmed moons — most of any planet |
+| May 14c | Geography | Dead Sea ~9.6× saltier than ocean (~34% salinity) |
+| May 14c | Geography | Istanbul straddles two continents (Europe & Asia) via Bosporus |
+| May 14c | Botany | Bamboo fastest-growing plant — up to 35 in (89 cm)/day |
+| May 14c | History | Magna Carta (1215) was sealed, not signed, by King John |
+| May 14c | Etymology | "Goodbye" = contraction of "God be with ye" |
+| May 14c | Etymology | "Quarantine" from Italian quaranta giorni (40 days), Venice plague |
+| May 14c | Pop culture | Mr. Potato Head — first toy advertised on TV (1952); originally real potato |
+| May 14c | Sports | Indianapolis 500 winner gets a bottle of milk in Victory Lane since 1936 (Louis Meyer) |
+| May 14c | Sports | Reds 23-21 .523, 5th NL Central 4.5 GB Cubs 27-16; BEAT Nationals 15-1; L10 3-7; streak W1 |
+| May 14c | Sports | NBA R2: Spurs 3-2 Wolves (G6 tonight 7pm); Cavs 3-2 Pistons (G6 5/15); Knicks SWEEP 76ers; Thunder SWEEP Lakers |
+| May 14c | Sports | NHL R2: Hurricanes SWEEP Flyers (8-0); Avalanche eliminate Wild in 5; Habs/Sabres 2-2 G5 tonight; VGK 3-2 Ducks G6 9:30pm |
+| May 14c | NFL | 2026 schedule released 8pm ET tonight; 9 intl games (Rio, Madrid, Melbourne, Berlin, London, Paris, Munich, Mexico City, Dublin); Cowboys @ Giants SNF Wk1 Sept 13; Ravens-Cowboys Rio Wk3; Cowboys-Eagles Thanksgiving |
+| May 14c | MLS | Messi 2G/1A + forces 89th-min OG — Inter Miami 5-3 @ FC Cincinnati; new $28.3M salary (2× Son Heung-min); 11G/5A season |
+| May 14c | Box Office | Devil Wears Prada 2 2nd wknd $43M (44% drop); $144.8M dom/$433M global; Mortal Kombat II #2 $40M open; Michael #3 $36.5M |
+| May 14c | Box Office | Weekend May 15-17: Shrek re-release; Driver's Ed; Magic Hour; Forge |
+| May 14c | Deaths | Jason Collins (47, 1st openly gay NBA player, glioblastoma, May 12); Michael Pennington (82, British actor, Moff Jerjerrod in ROTJ, May 7); Ted Turner (87, CNN founder, Lewy Body, May 6) |
+| May 14c | News | Trump-Xi 2-day summit opens Beijing (Musk/Cook/Fink/Ortberg in delegation); Iran ceasefire stalled, "Martyr Commander" 5-day exercise; UK State Opening (King Charles reads Labour agenda), Starmer leadership challenge |
+
+| May 14c | Vision of Love | Mariah Carey | 1990 |
+| May 14c | Jeremy | Pearl Jam | 1992 |
+| May 14c | Ironic | Alanis Morissette | 1995 |
+| May 14c | Genie in a Bottle | Christina Aguilera | 1999 |
+| May 14c | American Idiot | Green Day | 2004 |
+| May 14c | Use Somebody | Kings of Leon | 2008 |
+
+| May 14c | May 14 alt (Henry IV France assassinated by Ravaillac 1610; George Lucas born 1944; Warsaw Pact signed 1955) | — |
+| May 14c | National Days: Paraguay Independence Day (1811, first SA nation independent of Spain); National Decency Day; Bond With Your Dog Day; World Migratory Bird Day | — |
