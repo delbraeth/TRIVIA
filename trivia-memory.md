@@ -1059,5 +1059,60 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 13 | May 13 (Jamestown founded 1607; Churchill "blood, toil, tears and sweat" 1940; Pope John Paul II shot 1981) | — |
 | May 13 | National Days: National Apple Pie Day, National Frog Jumping Day, International Hummus Day, World Cocktail Day, Top Gun Day, National Receptionists Day | — |
 
+| May 14 | Capital of New Jersey | Trenton |
+| May 14 | Capital of Saudi Arabia | Riyadh |
+| May 14 | Capital of Utah | Salt Lake City |
+| May 14 | Capital of Chile | Santiago |
 
-_Last updated: May 13, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+| May 14 | Maverick | Bret Maverick | James Garner |
+| May 14 | WKRP in Cincinnati | Dr. Johnny Fever | Howard Hesseman |
+| May 14 | The Bob Newhart Show | Dr. Robert "Bob" Hartley | Bob Newhart |
+| May 14 | Police Woman | Sgt. Pepper Anderson | Angie Dickinson |
+| May 14 | Coach | Hayden Fox | Craig T. Nelson |
+| May 14 | Boy Meets World | Cory Matthews | Ben Savage |
+
+| May 14 | Author of Charlotte's Web (1952) | E.B. White |
+| May 14 | Composer of The Planets suite (1916) | Gustav Holst |
+| May 14 | French Impressionist of ballet dancers / racehorses | Edgar Degas |
+| May 14 | Author of The Outsiders (1967), written at 16 | S.E. Hinton |
+| May 14 | Beat poet who wrote "Howl" (1956) | Allen Ginsberg |
+| May 14 | Pulitzer-winning author of The Road (2007) | Cormac McCarthy |
+
+| May 14 | Dr Pepper invented year/inventor | 1885, Charles Alderton, Waco TX |
+| May 14 | Hoover vacuum patent (1908) | James Murray Spangler (sold to W.H. Hoover) |
+| May 14 | Bubble gum (Dubble Bubble) inventor/year | Walter Diemer, Fleer Chewing Gum, 1928 |
+| May 14 | Cheerios original name/year | "CheeriOats," 1941 (General Mills); renamed 1945 |
+| May 14 | Procter & Gamble founded year/city | 1837, Cincinnati OH (Procter + Gamble brothers-in-law) |
+| May 14 | Apple Macintosh release date | January 24, 1984 (Ridley Scott Super Bowl XVIII "1984" ad) |
+
+| May 14 | Animals | Hippos kill more humans annually in Africa than lions/sharks/crocodiles combined |
+| May 14 | Animals | Squirrels plant thousands of trees by forgetting buried acorns |
+| May 14 | Anatomy | Hyoid bone in throat — only bone not connected to another bone |
+| May 14 | Science | Earth is oblate spheroid; ~13 mi wider at equator |
+| May 14 | Pop culture | Mickey Mouse's full name is Michael Theodore Mouse |
+| May 14 | Astronomy | 55 Cancri e — "diamond planet" ~40 ly away, carbon-crystal core |
+| May 14 | Geography | Lake Superior holds enough water to cover N+S America 1 ft deep |
+| May 14 | Animals | Honeybees can recognize individual human faces (configural processing) |
+| May 14 | Engineering | Empire State Building has its own ZIP code: 10118 |
+| May 14 | Probability | Opposite sides of a standard die always sum to 7 |
+| May 14 | Food | Most commercial lipsticks contain guanine — derived from fish scales |
+| May 14 | History | Sandwich named after 4th Earl of Sandwich (John Montagu), ~1762 |
+| May 14 | Sports | Reds 22-21, .512, NL Central 5th (5 GB Cubs 27-16); vs Nationals 12:40 PM ET; L2, L10 2-8 |
+| May 14 | Sports | NBA R2: Thunder SWEEP Lakers (8-0 playoffs); Knicks SWEEP 76ers; Cavs/Pistons 2-2; Wolves/Spurs 2-2 |
+| May 14 | Sports | NHL R2: Hurricanes SWEEP Flyers (8-0); Avalanche eliminate Wild in 5 (Kulak OT GWG); Sabres/Habs 2-2 |
+| May 14 | NFL | 2026 schedule release TODAY; Cowboys @ Giants SNF Wk1; Ravens-Cowboys Rio Sept 27; Eagles-Cowboys Thanksgiving |
+| May 14 | MLS | Messi 3 G in Inter Miami 5-3 @ FC Cincinnati (89th-min ruled OG; doubles salary to $28M/yr) |
+| May 14 | Box Office | Devil Wears Prada 2 $144.8M dom / $433.2M global; Mortal Kombat II opens #2 $40M; Sheep Detectives 97% RT |
+
+| May 14 | Torn | Natalie Imbruglia | 1997 |
+| May 14 | Bitter Sweet Symphony | The Verve | 1997 |
+| May 14 | Iris | Goo Goo Dolls | 1998 |
+| May 14 | Mambo No. 5 (A Little Bit of...) | Lou Bega | 1999 |
+| May 14 | How You Remind Me | Nickelback | 2001 |
+| May 14 | Clocks | Coldplay | 2002 |
+
+| May 14 | May 14 (Jamestown 1607; Lewis & Clark depart 1804; Israel proclaimed 1948; Skylab launched 1973) | — |
+| May 14 | National Days: Stars and Stripes Forever Day, Dance Like a Chicken Day, International Dylan Thomas Day, National Buttermilk Biscuit Day, National Underground America Day | — |
+
+
+_Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
