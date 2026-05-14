@@ -3,57 +3,42 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Thursday Trivia Night — May 14, 2026</title>
+<title>Thursday Trivia — May 14, 2026</title>
 <style>
   *{box-sizing:border-box;margin:0;padding:0;}
-  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#0d0d18;color:#e8e8f0;line-height:1.4;font-size:14px;}
-  .wrap{max-width:1100px;margin:0 auto;padding:0 16px 28px;}
-  header{background:linear-gradient(135deg,#4a1c8c,#7b2cbf);padding:18px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;}
-  header h1{font-size:26px;font-weight:800;letter-spacing:-0.5px;}
-  .date{font-size:13px;opacity:0.85;margin-top:4px;letter-spacing:0.5px;text-transform:uppercase;font-weight:600;}
-  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px;margin-top:18px;}
-  .card{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:10px;padding:14px 16px;}
-  .card h2{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:1.2px;margin-bottom:10px;padding-bottom:6px;border-bottom:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:6px;}
-  .reds{border-color:rgba(198,12,48,0.5);background:linear-gradient(135deg,rgba(198,12,48,0.18),rgba(255,255,255,0.04));}
-  .reds h2{color:#ff7785;border-color:rgba(198,12,48,0.4);}
-  .box-office{border-color:rgba(255,193,7,0.4);background:linear-gradient(135deg,rgba(255,193,7,0.12),rgba(255,255,255,0.04));}
-  .box-office h2{color:#ffd54f;border-color:rgba(255,193,7,0.3);}
-  .sports{border-color:rgba(76,175,80,0.4);background:linear-gradient(135deg,rgba(76,175,80,0.12),rgba(255,255,255,0.04));}
-  .sports h2{color:#81c784;border-color:rgba(76,175,80,0.3);}
-  .deaths{border-color:rgba(96,125,139,0.45);background:linear-gradient(135deg,rgba(96,125,139,0.14),rgba(255,255,255,0.04));}
-  .deaths h2{color:#b0bec5;border-color:rgba(96,125,139,0.3);}
-  .history{border-color:rgba(255,152,0,0.4);background:linear-gradient(135deg,rgba(255,152,0,0.12),rgba(255,255,255,0.04));}
-  .history h2{color:#ffb74d;border-color:rgba(255,152,0,0.3);}
-  .news{border-color:rgba(3,169,244,0.4);background:linear-gradient(135deg,rgba(3,169,244,0.12),rgba(255,255,255,0.04));}
-  .news h2{color:#4fc3f7;border-color:rgba(3,169,244,0.3);}
-  .capitals{border-color:rgba(156,39,176,0.4);background:linear-gradient(135deg,rgba(156,39,176,0.12),rgba(255,255,255,0.04));}
-  .capitals h2{color:#ce93d8;border-color:rgba(156,39,176,0.3);}
-  .tv{border-color:rgba(233,30,99,0.4);background:linear-gradient(135deg,rgba(233,30,99,0.12),rgba(255,255,255,0.04));}
-  .tv h2{color:#f48fb1;border-color:rgba(233,30,99,0.3);}
-  .arts{border-color:rgba(121,85,72,0.45);background:linear-gradient(135deg,rgba(121,85,72,0.16),rgba(255,255,255,0.04));}
-  .arts h2{color:#bcaaa4;border-color:rgba(121,85,72,0.3);}
-  .founded{border-color:rgba(0,150,136,0.4);background:linear-gradient(135deg,rgba(0,150,136,0.12),rgba(255,255,255,0.04));}
-  .founded h2{color:#80cbc4;border-color:rgba(0,150,136,0.3);}
-  .music{border-color:rgba(63,81,181,0.4);background:linear-gradient(135deg,rgba(63,81,181,0.14),rgba(255,255,255,0.04));}
-  .music h2{color:#9fa8da;border-color:rgba(63,81,181,0.3);}
-  .general{border-color:rgba(0,188,212,0.4);background:linear-gradient(135deg,rgba(0,188,212,0.12),rgba(255,255,255,0.04));grid-column:1/-1;}
-  .general h2{color:#80deea;border-color:rgba(0,188,212,0.3);}
-  .general ul{columns:2;column-gap:24px;}
-  .general li{break-inside:avoid;}
-  ul{list-style:none;}
-  li{padding:5px 0;border-bottom:1px dashed rgba(255,255,255,0.08);}
-  li:last-child{border-bottom:none;}
-  .q{font-weight:600;color:#e8e8f0;}
-  .a{color:#b8b8c8;font-size:13px;margin-top:1px;}
-  .reds-record{font-size:42px;font-weight:900;text-align:center;color:#ff7785;letter-spacing:-1px;line-height:1;margin:8px 0 4px;}
-  .reds-meta{text-align:center;color:#c8c8d8;font-size:12px;margin-bottom:8px;}
-  .reds-recent{text-align:center;font-size:13px;color:#d8d8e0;background:rgba(0,0,0,0.2);padding:6px;border-radius:6px;margin-bottom:8px;}
-  .reds-game{background:rgba(255,193,7,0.18);border:1px solid rgba(255,193,7,0.35);padding:9px 12px;border-radius:6px;text-align:center;font-weight:700;color:#ffe082;margin-top:6px;}
-  .movie-rank{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px dashed rgba(255,255,255,0.08);}
-  .gross{color:#ffd54f;font-weight:700;}
-  .nat-days{background:rgba(255,152,0,0.12);border:1px dashed rgba(255,152,0,0.3);padding:8px 10px;border-radius:6px;margin-top:8px;font-size:12px;color:#ffcc80;}
-  .weekend-sub{margin-top:10px;padding-top:10px;border-top:1px dashed rgba(255,255,255,0.2);}
-  .weekend-sub-title{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:1.2px;color:#ffd54f;margin-bottom:6px;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#0f1020;color:#e8e8f0;line-height:1.45;padding-bottom:30px;}
+  header{background:linear-gradient(135deg,#3b1d6b 0%,#1b2a6b 100%);padding:18px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;}
+  header h1{font-size:24px;letter-spacing:0.5px;}
+  header .date{font-size:12px;letter-spacing:1px;text-transform:uppercase;color:rgba(255,255,255,0.7);margin-top:3px;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:14px;padding:18px 22px;}
+  .card{background:#1a1a2e;border-radius:10px;padding:14px 16px;border-left:4px solid #555;}
+  .card h2{font-size:14px;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;color:#e8e8f0;}
+  .card p, .card li{font-size:13.5px;color:#cfcfe0;}
+  .card ul{list-style:none;padding-left:0;}
+  .card li{padding:5px 0;border-bottom:1px dashed rgba(255,255,255,0.08);}
+  .card li:last-child{border-bottom:none;}
+  .answer{color:#9ad0ff;font-weight:600;}
+  .reds{border-left-color:#c6011f;}
+  .reds .record{font-size:42px;font-weight:900;color:#fff;margin:6px 0 2px;letter-spacing:1px;}
+  .reds .meta{font-size:12px;color:rgba(255,255,255,0.65);margin-bottom:8px;}
+  .reds .form{font-size:13px;color:#cfcfe0;}
+  .reds .game{margin-top:10px;padding:8px 10px;background:rgba(198,1,31,0.18);border-radius:6px;font-size:13px;font-weight:600;color:#fff;border:1px solid rgba(198,1,31,0.4);}
+  .boxoffice{border-left-color:#f9a825;}
+  .boxoffice .weekend-sub{margin-top:12px;padding-top:10px;border-top:1px dashed rgba(255,255,255,0.2);}
+  .boxoffice .weekend-sub h3{font-size:11px;text-transform:uppercase;letter-spacing:1.2px;color:rgba(249,168,37,0.85);margin-bottom:6px;}
+  .boxoffice .weekend-sub li{padding:3px 0;border-bottom:none;font-size:12.5px;}
+  .boxoffice .weekend-sub li b{color:#f9a825;}
+  .sports{border-left-color:#1e88e5;}
+  .deaths{border-left-color:#7a7a7a;}
+  .history{border-left-color:#43a047;}
+  .news{border-left-color:#e91e63;}
+  .capitals{border-left-color:#26a69a;}
+  .tv{border-left-color:#ab47bc;}
+  .arts{border-left-color:#ec407a;}
+  .founded{border-left-color:#ff7043;}
+  .general{border-left-color:#ffd54f;}
+  .music{border-left-color:#1db954;}
+  .natdays{font-size:12px;color:#ffeb3b;margin-top:10px;padding-top:8px;border-top:1px dashed rgba(255,255,255,0.15);}
   .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(255,255,255,0.15);gap:8px;}
   .song-row:last-of-type{border-bottom:none;}
   .song-info{flex:1;min-width:0;}
@@ -63,8 +48,7 @@
   .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
   .song-links a.spotify{background:#1db954;color:#fff;}
   .song-links a.apple{background:#fa233b;color:#fff;}
-  @media (max-width:680px){.general ul{columns:1;}header{padding:14px 16px;}header h1{font-size:22px;}}
-  @media print{body{background:#fff;color:#000;}header{background:#4a1c8c;}.card{break-inside:avoid;}}
+  @media print{body{background:#fff;color:#000;}.card{background:#f5f5f5;border-left-width:5px;}header{background:#222;color:#fff;}}
 </style>
 </head>
 <body>
@@ -93,121 +77,134 @@
   <a href="./thursday-trivia-2026-05-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">May 6</a>
 </div>
 
-<div class="wrap">
 <div class="grid">
 
   <div class="card reds">
     <h2>⚾ Cincinnati Reds</h2>
-    <div class="reds-record">22 – 21</div>
-    <div class="reds-meta">.512 · NL Central 5th · 5.0 GB Cubs (27–16)</div>
-    <div class="reds-recent">Last 10: <strong>2–8</strong> · Streak: <strong>L2</strong> · Last: lost 8–7 to Nationals (Wed)</div>
-    <div class="reds-game">🏠 vs Washington Nationals · 12:40 PM ET (Getaway Day, GABP)</div>
+    <div class="record">22–21</div>
+    <div class="meta">.512 · 5th NL Central · 5 GB Cubs (27–16)</div>
+    <div class="form">Last 5: L W W L L · L10: 2–8 · Streak: L2</div>
+    <div class="game">vs. Washington Nationals — 12:40 PM ET (in progress as of publication)</div>
   </div>
 
-  <div class="card box-office">
-    <h2>🎬 Box Office (May 8–10)</h2>
-    <div class="movie-rank"><span>#1 <strong>The Devil Wears Prada 2</strong></span><span class="gross">$41.6M</span></div>
-    <div class="movie-rank"><span>#2 <strong>Mortal Kombat II</strong> (debut)</span><span class="gross">$40M</span></div>
-    <div class="movie-rank"><span>#3 <strong>Michael</strong> (MJ biopic, holding)</span><span class="gross">~$20M</span></div>
-    <div class="movie-rank"><span>#4 <strong>The Sheep Detectives</strong></span><span class="gross">$15.9M</span></div>
-    <div class="movie-rank"><span>#5 <strong>Billie Eilish: Hit Me Hard &amp; Soft</strong></span><span class="gross">$7.5M</span></div>
-    <p style="margin-top:8px;font-size:12px;color:#e8e8f0;">Prada 2 holds #1 in week 2 — Mother's Day boost. Cumulative: <strong>$144.8M dom / $433.2M global</strong> (already past 2006 original's $326M lifetime). Best-reviewed wide release of 2026: <em>Obsession</em> at 97% RT — opens Friday.</p>
+  <div class="card boxoffice">
+    <h2>🎬 Box Office #1</h2>
+    <p><b>"The Devil Wears Prada 2"</b> — $41.6M 2nd weekend (held #1)</p>
+    <p style="margin-top:6px;">Domestic total $151.6M / Worldwide $441.4M.</p>
+    <p style="margin-top:6px;color:#9ad0ff;">Fun fact: Already surpassed the original's entire $326M lifetime haul (2006, unadjusted) in just two weekends — biggest opening of Meryl Streep's career.</p>
     <div class="weekend-sub">
-      <div class="weekend-sub-title">🎬 Coming This Weekend (May 15–17)</div>
+      <h3>Coming This Weekend (May 15–17)</h3>
       <ul>
-        <li><span class="q">In the Grey</span><div class="a">Guy Ritchie · Henry Cavill, Jake Gyllenhaal, Rosamund Pike — elite agents reclaim a fortune stolen by a ruthless tyrant.</div></li>
-        <li><span class="q">Obsession</span><div class="a">Curry Barker · Michael Johnston, Inde Navarrette — supernatural horror; record-setting 97% RT score.</div></li>
-        <li><span class="q">Mortal Kombat II</span> (week 2)<div class="a">Simon McQuoid · returning cast — Earthrealm vs. Shao Kahn after $40M opening.</div></li>
+        <li><b>Shrek</b> (25th Anniversary Re-Release) — DreamWorks brings the original 2001 ogre tale back to theaters.</li>
+        <li><b>In the Grey</b> — Guy Ritchie action-thriller; covert elite operatives navigate global shadows.</li>
+        <li><b>The Wizard of the Kremlin</b> — Olivier Assayas drama with Jude Law as Vladimir Putin.</li>
+        <li><b>Is God Is</b> — Aleshea Harris adapts her own play; two sisters embark on a revenge quest.</li>
       </ul>
     </div>
   </div>
 
   <div class="card sports">
-    <h2>🏆 Major Sports News (Past 7 Days)</h2>
+    <h2>🏆 Sports This Week</h2>
     <ul>
-      <li><span class="q">MLB:</span><div class="a">Cubs 27–16 lead NL Central; Braves 29–13 best record in baseball. Reds drop 8–7 to Nats Wed (3rd straight loss).</div></li>
-      <li><span class="q">NBA (Conf. Semis):</span><div class="a">Thunder SWEEP Lakers (4–0, 8–0 playoffs); Knicks SWEEP 76ers; Cavs even Pistons 2–2 (Mitchell 43); Wolves/Spurs 2–2.</div></li>
-      <li><span class="q">NHL (Round 2):</span><div class="a">Hurricanes SWEEP Flyers (8–0 playoffs); Avalanche eliminate Wild in 5 (OT GWG Brett Kulak); Sabres/Canadiens tied 2–2.</div></li>
-      <li><span class="q">NFL:</span><div class="a">Full 2026 schedule drops TODAY (May 14). Confirmed: Cowboys @ Giants SNF Wk1 (Sept 13); Ravens-Cowboys in Rio Sept 27 (first NFL game in Brazil's Rio); Eagles @ Cowboys Thanksgiving (Nov 26).</div></li>
-      <li><span class="q">MLS:</span><div class="a">Messi nets 3 in Inter Miami's 5–3 win @ FC Cincinnati (89th-min "hat-trick" goal ruled OG off Celentano). Inter Miami 2nd East.</div></li>
-      <li><span class="q">Money move:</span><div class="a">Messi doubles MLS base salary — now <strong>$28M/yr</strong> at Inter Miami.</div></li>
+      <li><b>NBA Conf. Semis:</b> Spurs 126–97 over Wolves last night — Wembanyama 26 pts on return from ejection; SAS leads 3–2. Cavs took 3–2 lead over Pistons (Harden 30/8/6 in OT).</li>
+      <li><b>NHL Round 2 done in West:</b> Avalanche eliminated Wild in 5 — Brett Kulak OT GWG (Game 5, 5/13). Hurricanes 8–0 in postseason awaiting opponent.</li>
+      <li><b>NHL East:</b> Canadiens at Sabres 7 PM ET tonight (G5 tied 2–2); VGK at Ducks 9:30 PM ET (G6).</li>
+      <li><b>MLB:</b> Cubs 27–16 leading NL Central; Braves 29–13 baseball's best record; Reds skid (L7 of 10).</li>
+      <li><b>MLS:</b> Messi hat trick assists in Miami's 5–3 win at FC Cincinnati last weekend; Vancouver Whitecaps still league-best.</li>
+      <li><b>NFL:</b> 2026 schedule released TODAY — Cowboys @ Giants SNF Week 1; 9 international games including Rio, Madrid, Melbourne, Berlin.</li>
     </ul>
   </div>
 
   <div class="card deaths">
-    <h2>🕯️ Notable Deaths (Past 7 Days)</h2>
+    <h2>🕯️ In Memoriam (Past 7 Days)</h2>
     <ul>
-      <li><span class="q">Jason Collins, 46</span><div class="a">NBA's first openly gay active player — died May 12 after 8-month battle with aggressive brain tumor.</div></li>
-      <li><span class="q">Michael Pennington, 82</span><div class="a">Veteran British Shakespearean actor; Moff Jerjerrod in <em>Star Wars: Return of the Jedi</em> — died May 7 at Denville Hall, London.</div></li>
-      <li><span class="q">Lou Graham, 88</span><div class="a">American pro golfer; won 1975 U.S. Open at Medinah; 6 PGA Tour wins; Ryder Cup teams 1973/'75/'77.</div></li>
-      <li><span class="q">Jonathan Tiersten, 60</span><div class="a">American actor known for <em>Sleepaway Camp</em> (1983) and <em>Return to Sleepaway Camp</em> (2008).</div></li>
+      <li><b>Lou Graham</b>, 88 — American golfer; won the 1975 U.S. Open at Medinah.</li>
+      <li><b>Jack Douglas</b>, 80 — Record producer (Aerosmith's <i>Toys in the Attic</i> &amp; <i>Rocks</i>, John Lennon's <i>Double Fantasy</i>).</li>
+      <li><b>Jonathan Tiersten</b>, 60 — Actor known for the cult-horror <i>Sleepaway Camp</i> (1983).</li>
+      <li><b>Hany Shaker</b>, 73 — Egyptian singer, actor and composer (the "Prince of Arabic Singing").</li>
     </ul>
   </div>
 
   <div class="card history">
-    <h2>📅 This Day in History — May 14</h2>
+    <h2>📜 This Day in History — May 14</h2>
     <ul>
-      <li><span class="q">1607</span><div class="a">English colonists establish Jamestown, VA — first permanent English settlement in the Americas.</div></li>
-      <li><span class="q">1804</span><div class="a">William Clark and 42 men depart Camp Dubois — Lewis and Clark Expedition officially begins.</div></li>
-      <li><span class="q">1948</span><div class="a">David Ben-Gurion proclaims the State of Israel in Tel Aviv; first Jewish state in 2,000 years.</div></li>
-      <li><span class="q">1973</span><div class="a">Skylab — America's first space station — launched into orbit.</div></li>
+      <li><b>1796:</b> Edward Jenner performs first smallpox vaccination on 8-year-old James Phipps — foundation of modern immunology.</li>
+      <li><b>1940:</b> Rotterdam bombed by the Luftwaffe despite ceasefire; ~900 killed, historic city center destroyed; Netherlands surrenders the next day.</li>
+      <li><b>1925:</b> Virginia Woolf's <i>Mrs Dalloway</i> published — landmark of modernist literature.</li>
+      <li><b>1264:</b> Battle of Lewes — Simon de Montfort captures King Henry III; effectively makes Montfort ruler of England.</li>
     </ul>
-    <div class="nat-days">🎉 <strong>National Days:</strong> Stars and Stripes Forever Day · Dance Like a Chicken Day · International Dylan Thomas Day · National Buttermilk Biscuit Day · National Underground America Day</div>
+    <div class="natdays">🎉 <b>National Days:</b> Ascension Day (Christian) · National Brioche Day · National Chihuahua Appreciation Day · Spinal Cord Injury Awareness Day · National Receptionists Day (observed week)</div>
   </div>
 
   <div class="card news">
     <h2>📰 Current Events</h2>
     <ul>
-      <li><span class="q">Trump in China</span><div class="a">President headed to Beijing for Xi summit (May 13); said Russia-Ukraine conflict is "close to ending."</div></li>
-      <li><span class="q">Ukraine war Day 1,540</span><div class="a">Russian spring offensive losing more troops than recruited; Russia net loss of 45 sq mi in past month.</div></li>
-      <li><span class="q">NFL schedule release</span><div class="a">Full 2026 NFL slate drops today — 9 international games (Madrid, São Paulo, London, Berlin, Dublin, Melbourne, Rio).</div></li>
-      <li><span class="q">Inter Miami payday</span><div class="a">Messi doubles MLS base salary to $28M/yr — largest in league history.</div></li>
+      <li><b>NFL schedule release</b> drops today — first NCAA football game in Canada also announced (Wake Forest vs. Syracuse, 2027 opener, BMO Field Toronto).</li>
+      <li><b>Box office summer is hot:</b> weekend ticket sales topped $160M (CNBC) — earliest "summer" rebound in years, led by <i>Devil Wears Prada 2</i> nostalgia.</li>
+      <li><b>The Stones turned 60:</b> "(I Can't Get No) Satisfaction" was famously finished on May 12, 1965 — anniversary noted across radio this week.</li>
+      <li><b>Iran ceasefire</b> remains tenuous; UK PM Starmer faces leadership challenge; Trump-Xi summit Beijing.</li>
     </ul>
   </div>
 
   <div class="card capitals">
     <h2>🌍 Capitals Quiz</h2>
     <ul>
-      <li><span class="q">Capital of New Jersey?</span><div class="a">Trenton</div></li>
-      <li><span class="q">Capital of Saudi Arabia?</span><div class="a">Riyadh</div></li>
-      <li><span class="q">Capital of Utah?</span><div class="a">Salt Lake City</div></li>
-      <li><span class="q">Capital of Chile?</span><div class="a">Santiago</div></li>
+      <li>Capital of Alabama? <span class="answer">Montgomery</span></li>
+      <li>Capital of Denmark? <span class="answer">Copenhagen</span></li>
+      <li>Capital of California? <span class="answer">Sacramento</span></li>
+      <li>Capital of Bangladesh? <span class="answer">Dhaka</span></li>
     </ul>
   </div>
 
   <div class="card tv">
     <h2>📺 Classic TV (60s–90s)</h2>
     <ul>
-      <li><span class="q">Maverick — who played gambler Bret Maverick?</span><div class="a">James Garner (ABC, 1957–62)</div></li>
-      <li><span class="q">WKRP in Cincinnati — who played DJ Dr. Johnny Fever?</span><div class="a">Howard Hesseman (CBS, 1978–82)</div></li>
-      <li><span class="q">The Bob Newhart Show — who played psychologist Dr. Bob Hartley?</span><div class="a">Bob Newhart (CBS, 1972–78)</div></li>
-      <li><span class="q">Police Woman — who played Sgt. Pepper Anderson?</span><div class="a">Angie Dickinson (NBC, 1974–78)</div></li>
-      <li><span class="q">Coach — who played Hayden Fox?</span><div class="a">Craig T. Nelson (ABC, 1989–97)</div></li>
-      <li><span class="q">Boy Meets World — who played Cory Matthews?</span><div class="a">Ben Savage (ABC, 1993–2000)</div></li>
+      <li>Who played sharp-tongued feminist <b>Maude Findlay</b> on <i>Maude</i> (1972–78)? <span class="answer">Bea Arthur</span></li>
+      <li>Michael Landon played wandering angel <b>Jonathan Smith</b> on which 1984–89 series? <span class="answer">Highway to Heaven</span></li>
+      <li>Kate Mulgrew was the first female Trek captain — name the ship's captain. <span class="answer">Capt. Kathryn Janeway (Star Trek: Voyager)</span></li>
+      <li>Paul Reiser played <b>Paul Buchman</b> opposite Helen Hunt on which 1990s NBC sitcom? <span class="answer">Mad About You</span></li>
+      <li>Richard Mulligan played widowed pediatrician <b>Dr. Harry Weston</b> on which <i>Golden Girls</i> spinoff? <span class="answer">Empty Nest</span></li>
+      <li>Robert Young starred as patriarch <b>Jim Anderson</b> on which 1950s family sitcom? <span class="answer">Father Knows Best</span></li>
     </ul>
   </div>
 
   <div class="card arts">
     <h2>🎨 Arts &amp; Literature</h2>
     <ul>
-      <li><span class="q">Author of <em>Charlotte's Web</em> (1952)?</span><div class="a">E.B. White (also co-author of <em>The Elements of Style</em>)</div></li>
-      <li><span class="q">English composer of the orchestral suite <em>The Planets</em> (1916)?</span><div class="a">Gustav Holst</div></li>
-      <li><span class="q">French Impressionist famous for ballet dancers and racehorses?</span><div class="a">Edgar Degas</div></li>
-      <li><span class="q">Author of <em>The Outsiders</em> (1967), written at age 16?</span><div class="a">S.E. Hinton (Susan Eloise)</div></li>
-      <li><span class="q">Beat Generation poet who wrote "Howl" (1956)?</span><div class="a">Allen Ginsberg</div></li>
-      <li><span class="q">Pulitzer-winning author of <em>The Road</em> (2007 Pulitzer)?</span><div class="a">Cormac McCarthy</div></li>
+      <li>Author of dystopian book-burning novel <i>Fahrenheit 451</i> (1953)? <span class="answer">Ray Bradbury</span></li>
+      <li>Irish author of <i>Dracula</i> (1897)? <span class="answer">Bram Stoker</span></li>
+      <li>Norwegian playwright of <i>A Doll's House</i> (1879)? <span class="answer">Henrik Ibsen</span></li>
+      <li>Russian composer of <i>Pictures at an Exhibition</i> (1874)? <span class="answer">Modest Mussorgsky</span></li>
+      <li>French Neoclassical painter of <i>The Death of Marat</i> (1793)? <span class="answer">Jacques-Louis David</span></li>
+      <li>Author of <i>Jane Eyre</i> (1847)? <span class="answer">Charlotte Brontë</span></li>
     </ul>
   </div>
 
   <div class="card founded">
     <h2>🏭 Founded &amp; Invented</h2>
     <ul>
-      <li><span class="q">Dr Pepper — invented year/inventor?</span><div class="a">1885, Charles Alderton at Morrison's Old Corner Drug Store, Waco TX (oldest major US soft drink)</div></li>
-      <li><span class="q">Hoover vacuum — who patented the original electric upright (1908)?</span><div class="a">James Murray Spangler (sold patent to W.H. Hoover; Hoover Suction Sweeper Co. 1908)</div></li>
-      <li><span class="q">Bubble gum (Dubble Bubble) — inventor/year?</span><div class="a">Walter Diemer at Fleer Chewing Gum Co., 1928 (Philadelphia; accountant, not a chemist)</div></li>
-      <li><span class="q">Cheerios — original name and year?</span><div class="a">"CheeriOats," 1941 (General Mills); renamed Cheerios in 1945</div></li>
-      <li><span class="q">Procter &amp; Gamble — founded year and city?</span><div class="a">1837, Cincinnati OH (William Procter, candlemaker, &amp; James Gamble, soapmaker — brothers-in-law)</div></li>
-      <li><span class="q">Apple Macintosh — release date?</span><div class="a">January 24, 1984 (launched with the famous Super Bowl XVIII "1984" ad directed by Ridley Scott)</div></li>
+      <li>Who founded KFC and in what year? <span class="answer">Harland "Colonel" Sanders, 1930 (Corbin, KY service station)</span></li>
+      <li>Tabasco sauce — inventor, year and place? <span class="answer">Edmund McIlhenny, 1868, Avery Island LA</span></li>
+      <li>The Ford Mustang debuted on what date and at what event? <span class="answer">April 17, 1964 — New York World's Fair</span></li>
+      <li>Tic Tac mints — introduced by which company in what year? <span class="answer">Ferrero, 1969 (Italy)</span></li>
+      <li>Goodyear Tire &amp; Rubber Co. — founded by whom and named after? <span class="answer">Frank Seiberling, 1898; named after Charles Goodyear (vulcanization)</span></li>
+      <li>Etch A Sketch — inventor and year? <span class="answer">André Cassagnes, 1959 (sold by Ohio Art Co. starting 1960)</span></li>
+    </ul>
+  </div>
+
+  <div class="card general">
+    <h2>🧠 General Trivia</h2>
+    <ul>
+      <li>"Pencil lead" is actually <b>graphite</b> — never been lead. A 1564 storm in Borrowdale, England exposed the first deposit.</li>
+      <li>"OK" began as an 1839 Boston <i>Morning Post</i> joke for "oll korrect" — popularized by Martin Van Buren's "Old Kinderhook" campaign.</li>
+      <li>Antarctica is the only continent with no <b>native reptiles, snakes, or amphibians</b>.</li>
+      <li>Banana plants are technically <b>herbs</b>; the "trunk" is a pseudostem of tightly packed leaves.</li>
+      <li>The goldfish-5-second-memory thing is a <b>myth</b> — studies show they recall events for months.</li>
+      <li>Hot dogs were originally sold in the U.S. as "<b>dachshund sausages</b>" by German butchers in the 1860s.</li>
+      <li>The Hollywood Sign read "<b>HOLLYWOODLAND</b>" from 1923 to 1949 — a real-estate ad for a housing development.</li>
+      <li>The Atlantic Ocean is widening about <b>1 inch (2.5 cm) per year</b> at the Mid-Atlantic Ridge.</li>
+      <li><b>Mozambique</b>'s flag is the only national flag to depict a modern firearm — an AK-47.</li>
+      <li>In colonial America, <b>lobster</b> was so plentiful it was fed to prisoners and indentured servants — laws limited servings to twice a week.</li>
     </ul>
   </div>
 
@@ -215,86 +212,66 @@
     <h2>🎵 Song &amp; Artist (1990–2010)</h2>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Torn</div>
-        <div class="song-meta">Natalie Imbruglia · 1997 · Left of the Middle</div>
+        <div class="song-title">Nothing Compares 2 U</div>
+        <div class="song-meta">Sinéad O'Connor · 1990 · I Do Not Want What I Haven't Got</div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/0ojLrv1p6KJYoOpscmLZIu" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/torn/286006506" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/nothing-compares-2-u/1629185307" target="_blank">Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Bitter Sweet Symphony</div>
-        <div class="song-meta">The Verve · 1997 · Urban Hymns</div>
+        <div class="song-title">End of the Road</div>
+        <div class="song-meta">Boyz II Men · 1992 · Boomerang Soundtrack</div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/bitter-sweet-symphony/712767309" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/end-of-the-road/1444183399" target="_blank">Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Iris</div>
-        <div class="song-meta">Goo Goo Dolls · 1998 · City of Angels soundtrack</div>
+        <div class="song-title">Macarena (Bayside Boys Remix)</div>
+        <div class="song-meta">Los del Río · 1996 · A mí me gusta</div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/iris/1109658204" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/macarena-bayside-boys-remix/258647008" target="_blank">Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Mambo No. 5 (A Little Bit of...)</div>
-        <div class="song-meta">Lou Bega · 1999 · A Little Bit of Mambo</div>
+        <div class="song-title">MMMBop</div>
+        <div class="song-meta">Hanson · 1997 · Middle of Nowhere</div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/mambo-no-5-a-little-bit-of/1322068804" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/mmmbop/1440790544" target="_blank">Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">How You Remind Me</div>
-        <div class="song-meta">Nickelback · 2001 · Silver Side Up</div>
+        <div class="song-title">Crazy</div>
+        <div class="song-meta">Gnarls Barkley · 2006 · St. Elsewhere</div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/how-you-remind-me/1829996514" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/crazy/1741403966" target="_blank">Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Clocks</div>
-        <div class="song-meta">Coldplay · 2002 · A Rush of Blood to the Head</div>
+        <div class="song-title">I Gotta Feeling</div>
+        <div class="song-meta">Black Eyed Peas · 2009 · The E.N.D.</div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/clocks/726126641" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/i-gotta-feeling/1446016735" target="_blank">Apple</a>
       </div>
     </div>
   </div>
 
-  <div class="card general">
-    <h2>🧩 General Trivia (Did You Know?)</h2>
-    <ul>
-      <li><span class="q">Hippos kill more humans annually in Africa than lions, sharks, and crocodiles combined.</span></li>
-      <li><span class="q">Squirrels plant thousands of trees a year by forgetting where they buried their acorns.</span></li>
-      <li><span class="q">The hyoid bone in the human throat is the only bone not connected to another bone.</span></li>
-      <li><span class="q">Earth is not a perfect sphere — it's an oblate spheroid, bulging ~13 miles wider at the equator.</span></li>
-      <li><span class="q">Mickey Mouse's full name is Michael Theodore Mouse; Minnie's is Minerva Mouse.</span></li>
-      <li><span class="q">55 Cancri e is a "diamond planet" — ~40 light-years away, possibly carbon-crystal core.</span></li>
-      <li><span class="q">Lake Superior holds enough water to cover all of North &amp; South America to a depth of 1 foot.</span></li>
-      <li><span class="q">Honeybees can recognize individual human faces using "configural processing."</span></li>
-      <li><span class="q">The Empire State Building has its own ZIP code: 10118.</span></li>
-      <li><span class="q">Opposite sides of a standard six-sided die always add up to 7.</span></li>
-      <li><span class="q">Most commercial lipsticks contain guanine — a crystalline shimmer derived from fish scales.</span></li>
-      <li><span class="q">The sandwich is named after the 4th Earl of Sandwich (John Montagu), who asked for meat between bread to keep gaming, ~1762.</span></li>
-    </ul>
-  </div>
-
-</div>
-<p style="text-align:center;font-size:11px;color:rgba(255,255,255,0.4);margin-top:18px;">Reds record via MLB Stats API · Box office via Box Office Mojo / The Avocado · Sports via ESPN, NHL.com, NBA.com · Updated Thursday, May 14, 2026</p>
 </div>
 </body>
 </html>
