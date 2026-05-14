@@ -1115,4 +1115,60 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 14 | National Days: Stars and Stripes Forever Day, Dance Like a Chicken Day, International Dylan Thomas Day, National Buttermilk Biscuit Day, National Underground America Day | — |
 
 
-_Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html)_
+_Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html, May 14b second run added)_
+
+
+| May 14b | Capital of Alabama | Montgomery |
+| May 14b | Capital of Denmark | Copenhagen |
+| May 14b | Capital of California | Sacramento |
+| May 14b | Capital of Bangladesh | Dhaka |
+
+| May 14b | Maude | Maude Findlay | Bea Arthur |
+| May 14b | Highway to Heaven | Jonathan Smith | Michael Landon |
+| May 14b | Star Trek: Voyager | Capt. Kathryn Janeway | Kate Mulgrew |
+| May 14b | Mad About You | Paul Buchman | Paul Reiser |
+| May 14b | Empty Nest | Dr. Harry Weston | Richard Mulligan |
+| May 14b | Father Knows Best | Jim Anderson | Robert Young |
+
+| May 14b | Author of Fahrenheit 451 (1953) | Ray Bradbury |
+| May 14b | Irish author of Dracula (1897) | Bram Stoker |
+| May 14b | Norwegian playwright of A Doll's House (1879) | Henrik Ibsen |
+| May 14b | Russian composer of Pictures at an Exhibition (1874) | Modest Mussorgsky |
+| May 14b | French Neoclassical painter of The Death of Marat (1793) | Jacques-Louis David |
+| May 14b | Author of Jane Eyre (1847) | Charlotte Brontë |
+
+| May 14b | KFC founder/year | Harland "Colonel" Sanders, 1930 (Corbin KY service station) |
+| May 14b | Tabasco sauce inventor/year/place | Edmund McIlhenny, 1868, Avery Island LA |
+| May 14b | Ford Mustang debut | April 17, 1964, New York World's Fair |
+| May 14b | Tic Tac introduced | 1969 by Ferrero (Italy) |
+| May 14b | Goodyear Tire founded year/founder | 1898, Frank Seiberling; named after Charles Goodyear |
+| May 14b | Etch A Sketch inventor/year | André Cassagnes, 1959 (Ohio Art Co. 1960) |
+
+| May 14b | Etymology | "Pencil lead" is graphite; 1564 Borrowdale England find |
+| May 14b | Etymology | "OK" from 1839 Boston Morning Post "oll korrect" joke |
+| May 14b | Geography | Antarctica = only continent with no native reptiles/snakes/amphibians |
+| May 14b | Botany | Banana plants are herbs, not trees (pseudostem of leaves) |
+| May 14b | Animals | Goldfish 5-second memory is a myth — they remember for months |
+| May 14b | Food | Hot dogs originally sold as "dachshund sausages" in 1860s US |
+| May 14b | Pop culture | Hollywood Sign read "HOLLYWOODLAND" 1923–1949 |
+| May 14b | Geography | Atlantic Ocean widens ~1 inch (2.5 cm) per year at Mid-Atlantic Ridge |
+| May 14b | Symbols | Mozambique only national flag depicting modern firearm (AK-47) |
+| May 14b | History/Food | Lobster fed to colonial-era prisoners; servings capped twice/wk |
+| May 14b | Sports | Reds 22-21 .512, 5th NL Central 5 GB Cubs; L7 of 10 (2-8 L10); vs Nationals 12:40 PM ET |
+| May 14b | Sports | NBA R2: Spurs 126-97 Wolves G5 (Wemby 26 returns, SAS 3-2); Cavs 117-113 OT Pistons G5 (Harden 30/8/6, CLE 3-2); Knicks SWEEP 76ers; Thunder SWEEP Lakers |
+| May 14b | Sports | NHL R2: Avalanche eliminate Wild in 5 (Kulak OT GWG); Hurricanes 8-0 playoffs; Habs/Sabres G5 tied 2-2; VGK/Ducks G6 |
+| May 14b | NFL | 2026 schedule release today; 9 international games (Rio, Madrid, Melbourne, Berlin); Cowboys-Giants SNF Wk1 |
+| May 14b | MLS | Messi 3-G in Miami 5-3 @ FC Cincinnati; Vancouver Whitecaps best start |
+| May 14b | Box Office | Devil Wears Prada 2 #1 2nd wknd $41.6M; $151.6M dom/$441.4M global (verified Variety/Deadline); biggest Streep opener; surpassed original $326M lifetime in 2 weekends |
+| May 14b | Deaths | Lou Graham (88, 1975 US Open champ); Jack Douglas (80, producer Aerosmith/Lennon); Jonathan Tiersten (60, Sleepaway Camp); Hany Shaker (73, Egyptian singer) |
+| May 14b | News | NFL schedule release; first NCAA football in Canada (Wake/Syracuse 2027 Toronto); Iran ceasefire; UK Starmer challenge; Trump-Xi summit |
+
+| May 14b | Nothing Compares 2 U | Sinéad O'Connor | 1990 |
+| May 14b | End of the Road | Boyz II Men | 1992 |
+| May 14b | Macarena (Bayside Boys Remix) | Los del Río | 1996 |
+| May 14b | MMMBop | Hanson | 1997 |
+| May 14b | Crazy | Gnarls Barkley | 2006 |
+| May 14b | I Gotta Feeling | Black Eyed Peas | 2009 |
+
+| May 14b | May 14 alt (Jenner smallpox vaccination 1796; Rotterdam bombing 1940; Mrs Dalloway pub 1925; Battle of Lewes 1264) | — |
+| May 14b | National Days: Ascension Day, National Brioche Day, National Chihuahua Appreciation Day, Spinal Cord Injury Awareness Day | — |
