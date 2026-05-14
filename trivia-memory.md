@@ -1115,7 +1115,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 14 | National Days: Stars and Stripes Forever Day, Dance Like a Chicken Day, International Dylan Thomas Day, National Buttermilk Biscuit Day, National Underground America Day | — |
 
 
-_Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first linking to index.html, May 14c third run added)_
 
 
 | May 14b | Capital of Alabama | Montgomery |
@@ -1231,3 +1230,62 @@ _Last updated: May 14, 2026 (v8 — Today pill + dated pills, Today always first
 
 | May 14c | May 14 alt (Henry IV France assassinated by Ravaillac 1610; George Lucas born 1944; Warsaw Pact signed 1955) | — |
 | May 14c | National Days: Paraguay Independence Day (1811, first SA nation independent of Spain); National Decency Day; Bond With Your Dog Day; World Migratory Bird Day | — |
+
+
+| May 14d | Capital of Arizona | Phoenix |
+| May 14d | Capital of Austria | Vienna |
+| May 14d | Capital of Poland | Warsaw |
+| May 14d | Capital of North Carolina | Raleigh |
+
+| May 14d | Leave It to Beaver | Beaver Cleaver | Jerry Mathers |
+| May 14d | The Man from U.N.C.L.E. | Napoleon Solo | Robert Vaughn |
+| May 14d | Dark Shadows | Barnabas Collins | Jonathan Frid |
+| May 14d | A Different World | Dwayne Wayne | Kadeem Hardison |
+| May 14d | Melrose Place | Amanda Woodward | Heather Locklear |
+| May 14d | The Commish | Tony Scali | Michael Chiklis |
+
+| May 14d | Italian opera composer of La Bohème, Tosca, Madama Butterfly | Giacomo Puccini |
+| May 14d | Spanish painter of "The Third of May 1808" | Francisco Goya |
+| May 14d | Irish poet who wrote "The Second Coming" (1919) | W.B. Yeats |
+| May 14d | British modernist author of Mrs Dalloway and To the Lighthouse | Virginia Woolf |
+| May 14d | British author of Sons and Lovers and Lady Chatterley's Lover | D.H. Lawrence |
+| May 14d | Norwegian Romantic composer of "Peer Gynt Suite" / Piano Concerto A minor | Edvard Grieg |
+
+| May 14d | Silly Putty inventor/year/purpose | James Wright, 1943, failed synthetic rubber |
+| May 14d | Hula Hoop (Wham-O 1958) — units sold in 4 months | 25 million |
+| May 14d | Barbie doll debut date/creator | March 9, 1959; Ruth Handler (Mattel) |
+| May 14d | Popsicle inventor/year/age | Frank Epperson, 1905, age 11 |
+| May 14d | Cracker Jack — first appeared at which event (1893) | World's Columbian Exposition, Chicago |
+| May 14d | Jell-O sold for what price (1899) | $450 (to Genesee Pure Food Company) |
+
+| May 14d | Animals | Blue whale's tongue alone weighs as much as an elephant (~6,000 lbs) |
+| May 14d | Language | "Emoji" from Japanese: 絵 (e=picture) + 文字 (moji=character) — not from "emotion" |
+| May 14d | History | "Deadline" originated in Civil War prison camps — crossing line = shot |
+| May 14d | Etymology | "Berserk" from Old Norse berserkr — Viking warriors in battle frenzy |
+| May 14d | Animals | Group of ravens = "unkindness" or "conspiracy" |
+| May 14d | Geography | Russia borders 14 countries — more than any other nation |
+| May 14d | Animals | Narwhal's "horn" is a tooth (single enlarged canine) up to 10 ft |
+| May 14d | Astronomy | Moon footprints last ~100 million years (no wind/weather) |
+| May 14d | Food | Cavendish banana replaced Gros Michel (wiped out by Panama disease, 1950s) |
+| May 14d | History | Playing cards invented Tang Dynasty China (~9th c. AD); Europe adopted 14th c. |
+| May 14d | Science | Birthday paradox: 23 people = 50%+ chance two share same birthday |
+| May 14d | Animals | Horses sleep standing via "stay apparatus" — locking knee/joint mechanism |
+| May 14d | Sports | Reds 23-21 .523, 5th NL Central 4.5 GB Cubs 27-16; BEAT Nationals 15-1; L10 3-7; streak W1 |
+| May 14d | Sports | NBA R2: Spurs 3-2 Wolves (G6); Cavs 3-2 Pistons (G6 5/15); Knicks SWEEP 76ers; Thunder SWEEP Lakers |
+| May 14d | Sports | NHL R2: Hurricanes SWEEP Flyers; Avalanche elim Wild; Sabres/Habs 2-2; VGK 3-2 Ducks |
+| May 14d | Sports | Messi hat trick — Inter Miami 5-3 @ FC Cincinnati; salary doubled to $28M |
+| May 14d | NFL | 2026 schedule released today; Cowboys @ Giants SNF Wk1; 9 international games |
+| May 14d | Box Office | Devil Wears Prada 2 2nd wknd $41.6M; $151.6M dom/$441.4M global; MK2 #2 $40M; Sheep Detectives #3 $15.9M 97%RT |
+| May 14d | Deaths | Ted Turner (87, CNN founder); Michael Pennington (82, Star Wars ROTJ); Desmond Morris (98, The Naked Ape); Dave Mason (79, Traffic) |
+| May 14d | News | Trump-Xi summit Beijing; Iran war Senate 50-49; Israeli strikes Lebanon; NFL schedule; Hungary/Orbán ousted; Moderna hantavirus +7.5% |
+
+| May 14d | Everlong | Foo Fighters | 1997 |
+| May 14d | Say My Name | Destiny's Child | 1999 |
+| May 14d | Wannabe | Spice Girls | 1996 |
+| May 14d | Black | Pearl Jam | 1991 |
+| May 14d | All I Wanna Do | Sheryl Crow | 1993 |
+
+| May 14d | May 14: WAAC established 1942; Warsaw Pact signed 1955 (also May 14c); Frank Sinatra dies 1998 | — |
+| May 14d | National Days: World Migratory Bird Day; National Decency Day; National Temperature Control Day; National Chicken Dance Day | — |
+
+_Last updated: May 14, 2026 (v9 — May 14d fourth run of the day added)_
