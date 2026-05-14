@@ -5,62 +5,253 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thursday Trivia — May 14, 2026</title>
 <style>
-  *{box-sizing:border-box;margin:0;padding:0;}
-  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#0f1117;color:#e8e8f0;line-height:1.45;padding:0;min-height:100vh;}
-  .wrap{max-width:980px;margin:0 auto;background:#161825;min-height:100vh;}
-  header{background:linear-gradient(135deg,#7c3aed 0%,#db2777 100%);color:#fff;padding:18px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;}
-  header h1{font-size:24px;font-weight:800;letter-spacing:-0.5px;}
-  header .date{font-size:13px;opacity:0.9;margin-top:2px;text-transform:uppercase;letter-spacing:1.5px;font-weight:600;}
-  .grid{padding:18px;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;}
-  .card{background:#1f2233;border-radius:10px;padding:14px 16px;border-left:4px solid #7c3aed;}
-  .card h2{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:1.5px;color:#a78bfa;margin-bottom:10px;display:flex;align-items:center;gap:6px;}
-  .card.reds{border-left-color:#c6011f;}.card.reds h2{color:#ff6b7a;}
-  .card.box{border-left-color:#f59e0b;}.card.box h2{color:#fbbf24;}
-  .card.sports{border-left-color:#10b981;}.card.sports h2{color:#34d399;}
-  .card.deaths{border-left-color:#6b7280;}.card.deaths h2{color:#9ca3af;}
-  .card.history{border-left-color:#3b82f6;}.card.history h2{color:#60a5fa;}
-  .card.news{border-left-color:#ec4899;}.card.news h2{color:#f472b6;}
-  .card.caps{border-left-color:#06b6d4;}.card.caps h2{color:#22d3ee;}
-  .card.tv{border-left-color:#f97316;}.card.tv h2{color:#fb923c;}
-  .card.arts{border-left-color:#a855f7;}.card.arts h2{color:#c084fc;}
-  .card.founded{border-left-color:#84cc16;}.card.founded h2{color:#a3e635;}
-  .card.general{border-left-color:#eab308;}.card.general h2{color:#facc15;}
-  .card.music{border-left-color:#22c55e;}.card.music h2{color:#4ade80;}
-  .qa{margin-bottom:7px;font-size:13.5px;}
-  .q{color:#cbd0e0;}.a{color:#fff;font-weight:600;}
-  ul.facts{list-style:none;padding:0;}
-  ul.facts li{padding:5px 0;font-size:13.5px;border-bottom:1px dashed rgba(255,255,255,0.08);}
-  ul.facts li:last-child{border-bottom:none;}
-  .cat{display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1px;background:rgba(255,255,255,0.1);color:#a3e635;padding:2px 6px;border-radius:3px;margin-right:6px;}
-  .reds-record{font-size:32px;font-weight:900;color:#fff;line-height:1;margin-bottom:4px;}
-  .reds-record .pct{font-size:18px;color:#ff9aa2;font-weight:700;margin-left:6px;}
-  .reds-meta{font-size:13px;color:#ffc0c8;margin-bottom:10px;}
-  .reds-form{font-size:13px;color:#cbd0e0;margin-bottom:10px;}
-  .reds-game{background:rgba(0,0,0,0.35);border-radius:6px;padding:9px 12px;font-size:13px;border-left:3px solid #ffc857;}
-  .reds-game .lbl{font-size:10px;color:#ffc857;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;}
-  .reds-game .gm{color:#fff;font-weight:700;}
-  .nat-days{margin-top:10px;padding:8px 10px;background:rgba(0,0,0,0.25);border-radius:5px;font-size:12px;color:#cbd0e0;border-left:3px solid #facc15;}
-  .nat-days .lbl{color:#facc15;font-weight:700;}
-  .weekend{margin-top:12px;padding:10px;border:1.5px dashed rgba(255,255,255,0.15);border-radius:6px;}
-  .weekend .wkhd{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:#fbbf24;margin-bottom:6px;}
-  .weekend .wkfilm{font-size:13px;margin-bottom:5px;}
-  .weekend .wktitle{font-weight:700;color:#fff;}
-  .weekend .wkmeta{font-size:12px;color:#a8a8b8;}
-  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(255,255,255,0.15);gap:8px;}
-  .song-row:last-of-type{border-bottom:none;}
-  .song-info{flex:1;min-width:0;}
-  .song-title{font-weight:700;font-size:14px;color:#e8e8f0;}
-  .song-meta{font-size:12px;color:rgba(255,255,255,0.55);margin-top:1px;}
-  .song-links{display:flex;gap:6px;flex-shrink:0;}
-  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
-  .song-links a.spotify{background:#1db954;color:#fff;}
-  .song-links a.apple{background:#fa233b;color:#fff;}
-  footer{text-align:center;padding:18px;font-size:11px;color:#6b7280;}
-  @media print{body{background:#fff;color:#000;} .wrap{background:#fff;} .card{background:#f5f5fa;color:#000;border:1px solid #ccc;} .card h2{color:#333;} .a, .reds-record, .reds-game .gm{color:#000;}}
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 40%, #0f3460 100%);
+    min-height: 100vh;
+    color: #e8e8f0;
+  }
+  header {
+    background: rgba(0,0,0,0.5);
+    backdrop-filter: blur(10px);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  header h1 { font-size: 22px; font-weight: 800; color: #fff; letter-spacing: -0.5px; }
+  .date { font-size: 13px; color: rgba(255,255,255,0.6); margin-top: 2px; }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 16px 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  .card {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 12px;
+    padding: 16px;
+    border-top: 3px solid #4a9eff;
+  }
+  .card.full { grid-column: 1 / -1; }
+  .card h2 {
+    font-size: 13px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #4a9eff;
+    margin-bottom: 12px;
+  }
+
+  /* Section color themes */
+  .card.reds    { border-top-color: #c6011f; }
+  .card.reds h2 { color: #ff4466; }
+  .card.box     { border-top-color: #f5a623; }
+  .card.box h2  { color: #f5a623; }
+  .card.sports  { border-top-color: #50c878; }
+  .card.sports h2 { color: #50c878; }
+  .card.deaths  { border-top-color: #888; }
+  .card.deaths h2 { color: #aaa; }
+  .card.history { border-top-color: #c084fc; }
+  .card.history h2 { color: #c084fc; }
+  .card.news    { border-top-color: #38bdf8; }
+  .card.news h2 { color: #38bdf8; }
+  .card.caps    { border-top-color: #fb923c; }
+  .card.caps h2 { color: #fb923c; }
+  .card.tv      { border-top-color: #a78bfa; }
+  .card.tv h2   { color: #a78bfa; }
+  .card.arts    { border-top-color: #f472b6; }
+  .card.arts h2 { color: #f472b6; }
+  .card.founded { border-top-color: #34d399; }
+  .card.founded h2 { color: #34d399; }
+  .card.trivia  { border-top-color: #fbbf24; }
+  .card.trivia h2 { color: #fbbf24; }
+  .card.music   { border-top-color: #1db954; }
+  .card.music h2 { color: #1db954; }
+
+  /* Reds card */
+  .reds-record {
+    font-size: 42px;
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .reds-sub { font-size: 13px; color: rgba(255,255,255,0.6); margin-bottom: 8px; }
+  .reds-form { font-size: 13px; color: rgba(255,255,255,0.7); margin-bottom: 10px; }
+  .game-row {
+    background: rgba(198,1,31,0.25);
+    border: 1px solid rgba(198,1,31,0.4);
+    border-radius: 6px;
+    padding: 8px 10px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #fff;
+  }
+  .game-row .label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: rgba(255,255,255,0.5); display: block; margin-bottom: 2px; }
+
+  /* Q&A rows */
+  .qa-row {
+    padding: 7px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .qa-row:last-child { border-bottom: none; }
+  .q { color: rgba(255,255,255,0.85); font-weight: 500; }
+  .a { color: rgba(255,255,255,0.5); font-size: 12px; margin-top: 1px; }
+  .a strong { color: #4a9eff; font-weight: 700; }
+
+  /* Fact rows */
+  .fact-row {
+    padding: 6px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    font-size: 13px;
+    line-height: 1.45;
+    color: rgba(255,255,255,0.82);
+  }
+  .fact-row:last-child { border-bottom: none; }
+  .fact-row .cat {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: #fbbf24;
+    margin-right: 4px;
+  }
+
+  /* Sports rows */
+  .sport-league {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #50c878;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgba(80,200,120,0.3);
+  }
+  .sport-league:first-child { margin-top: 0; }
+  .sport-item {
+    font-size: 13px;
+    color: rgba(255,255,255,0.8);
+    padding: 3px 0;
+    line-height: 1.4;
+  }
+
+  /* History */
+  .hist-event {
+    padding: 7px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    font-size: 13px;
+    line-height: 1.45;
+  }
+  .hist-event:last-child { border-bottom: none; }
+  .hist-year {
+    font-weight: 800;
+    color: #c084fc;
+    margin-right: 6px;
+  }
+  .natl-days {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px dashed rgba(255,255,255,0.15);
+    font-size: 12px;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.6;
+  }
+
+  /* Box office */
+  .bo-row {
+    padding: 7px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .bo-row:last-child { border-bottom: none; }
+  .bo-rank { font-weight: 900; color: #f5a623; margin-right: 6px; font-size: 15px; }
+  .bo-title { font-weight: 700; color: #fff; }
+  .bo-gross { font-size: 12px; color: rgba(255,255,255,0.55); margin-top: 1px; }
+  .bo-fact { font-size: 11.5px; color: rgba(255,255,255,0.5); font-style: italic; margin-top: 2px; }
+  .coming-soon {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 2px dashed rgba(245,166,35,0.3);
+  }
+  .coming-soon-title {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #f5a623;
+    margin-bottom: 8px;
+  }
+  .coming-item { font-size: 12.5px; color: rgba(255,255,255,0.75); padding: 3px 0; line-height: 1.4; }
+  .coming-item strong { color: #fff; }
+
+  /* Deaths */
+  .death-row {
+    padding: 7px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .death-row:last-child { border-bottom: none; }
+  .death-name { font-weight: 700; color: #ddd; }
+  .death-detail { font-size: 12px; color: rgba(255,255,255,0.5); margin-top: 1px; }
+
+  /* News */
+  .news-item {
+    padding: 6px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    font-size: 13px;
+    line-height: 1.45;
+    color: rgba(255,255,255,0.8);
+  }
+  .news-item:last-child { border-bottom: none; }
+  .news-item strong { color: #38bdf8; }
+
+  /* Music */
+  .song-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px dashed rgba(255,255,255,0.15);
+    gap: 8px;
+  }
+  .song-row:last-of-type { border-bottom: none; }
+  .song-info { flex: 1; min-width: 0; }
+  .song-title { font-weight: 700; font-size: 14px; color: #e8e8f0; }
+  .song-meta { font-size: 12px; color: rgba(255,255,255,0.55); margin-top: 1px; }
+  .song-links { display: flex; gap: 6px; flex-shrink: 0; }
+  .song-links a {
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 9px;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+  .song-links a.spotify { background: #1db954; color: #fff; }
+  .song-links a.apple   { background: #fa233b; color: #fff; }
+
+  @media (max-width: 620px) {
+    main { grid-template-columns: 1fr; }
+    .card.full { grid-column: 1; }
+    header { flex-direction: column; align-items: flex-start; gap: 10px; }
+    .reds-record { font-size: 34px; }
+  }
 </style>
 </head>
 <body>
-<div class="wrap">
 
 <header>
   <div>
@@ -74,6 +265,7 @@
     <div style="font-size: 24px;">🍺</div>
   </div>
 </header>
+
 <!-- ARCHIVE-NAV -->
 <div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
   <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
@@ -87,200 +279,327 @@
   <a href="./thursday-trivia-2026-05-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">May 6</a>
 </div>
 
-<div class="grid">
+<main>
 
-  <div class="card reds">
+  <!-- REDS -->
+  <section class="card reds">
     <h2>⚾ Cincinnati Reds</h2>
-    <div class="reds-record">23–21 <span class="pct">.523</span></div>
-    <div class="reds-meta">5th in NL Central · 4.5 GB Cubs (27–16)</div>
-    <div class="reds-form">Last 5: W · W · L · L · <strong>W</strong> &nbsp; • &nbsp; L10: 3–7 &nbsp; • &nbsp; Streak: W1</div>
-    <div class="reds-game">
-      <div class="lbl">Today's Result</div>
-      <div class="gm">Reds 15, Nationals 1 — FINAL ✅</div>
-      <div style="font-size:11px;color:#cbd0e0;margin-top:3px;">Took 2 of 3 in series; snap two-game skid in style</div>
+    <div class="reds-record">23–21</div>
+    <div class="reds-sub">.523 · 5th NL Central · 4.5 GB Cubs (27-16)</div>
+    <div class="reds-form">Last 10: 3–7 &nbsp;|&nbsp; Streak: W1</div>
+    <div class="game-row">
+      <span class="label">✅ Today's Result (Final)</span>
+      Reds 15, Nationals 1 — Cincinnati crushes Washington
     </div>
-  </div>
+  </section>
 
-  <div class="card box">
-    <h2>🎬 Box Office #1</h2>
-    <div style="font-size:18px;font-weight:800;color:#fff;margin-bottom:4px;">The Devil Wears Prada 2</div>
-    <div style="font-size:13px;color:#fbbf24;margin-bottom:8px;">2nd weekend · $43.0M (44% drop)</div>
-    <div style="font-size:13px;color:#cbd0e0;">$144.8M domestic · $433M global · Streep's biggest-ever opener</div>
-    <div style="font-size:12px;color:#a8a8b8;margin-top:6px;"><strong>Fun fact:</strong> Topped Mortal Kombat II ($40M open) in sequel showdown; Lionsgate's "Michael" #3 at $36.5M (3rd wknd, just 33% drop).</div>
-    <div class="weekend">
-      <div class="wkhd">Coming This Weekend (May 15–17)</div>
-      <div class="wkfilm"><span class="wktitle">Shrek (re-release)</span> <span class="wkmeta">— DreamWorks back in theaters for ogre's anniversary</span></div>
-      <div class="wkfilm"><span class="wktitle">Driver's Ed</span> <span class="wkmeta">— theatrical + VOD comedy debut</span></div>
-      <div class="wkfilm"><span class="wktitle">Magic Hour</span> <span class="wkmeta">— wide theatrical drama opening</span></div>
-      <div class="wkfilm"><span class="wktitle">Forge</span> <span class="wkmeta">— action-thriller theatrical bow</span></div>
+  <!-- BOX OFFICE -->
+  <section class="card box">
+    <h2>🎬 Box Office — Weekend May 9–11</h2>
+    <div class="bo-row">
+      <span class="bo-rank">#1</span><span class="bo-title">The Devil Wears Prada 2</span>
+      <div class="bo-gross">$41.6M (2nd weekend) · $151.6M dom / $441.4M global</div>
+      <div class="bo-fact">Meryl Streep's biggest-ever opening; surpassed original's $326M lifetime in just 2 weekends</div>
     </div>
-  </div>
+    <div class="bo-row">
+      <span class="bo-rank">#2</span><span class="bo-title">Mortal Kombat II</span>
+      <div class="bo-gross">$40M opening · $63M global</div>
+      <div class="bo-fact">Follow-up to 2021 reboot; 2x original's $23.3M opening</div>
+    </div>
+    <div class="bo-row">
+      <span class="bo-rank">#3</span><span class="bo-title">The Sheep Detectives</span>
+      <div class="bo-gross">$15.9M · 97% on Rotten Tomatoes</div>
+      <div class="bo-fact">Best-reviewed film of 2026 so far</div>
+    </div>
 
-  <div class="card sports">
-    <h2>🏆 Sports Update</h2>
-    <ul class="facts">
-      <li><strong>NBA R2:</strong> Knicks SWEEP 76ers (2nd straight ECF). Thunder SWEEP Lakers. Cavs 117–113 OT Pistons G5 (CLE 3–2). Spurs 126–97 Wolves G5 (Wemby returns 26 pts; SAS 3–2, G6 tonight 7pm).</li>
-      <li><strong>NHL R2:</strong> Hurricanes SWEEP Flyers (8–0 playoffs, into ECF). Avalanche eliminate Wild in 5 (Kulak OT GWG). Habs/Sabres 2–2 G5 tonight. VGK 3–2 Ducks G6 tonight 9:30pm.</li>
-      <li><strong>MLB:</strong> Cubs 27–16 NL Central runaway but lost 3 straight to Braves. Pirates 24–20, just 3.5 GB. Reds beat Nats 15–1 today.</li>
-      <li><strong>NFL:</strong> 2026 schedule released tonight (8pm ET). 9 international games (Rio, Madrid, Melbourne, Berlin, London, Paris, Munich, Mexico City, Dublin). Cowboys @ Giants SNF Wk1 (Sept 13). Ravens-Cowboys in Rio Wk3. Cowboys-Eagles Thanksgiving.</li>
-      <li><strong>MLS:</strong> Messi 2G/1A + forces 89th-min OG — Inter Miami 5–3 @ FC Cincinnati. Salary doubles to $28.3M guaranteed (highest in MLS, 2x Son Heung-min). 11G/5A on the season.</li>
-    </ul>
-  </div>
+    <div class="coming-soon">
+      <div class="coming-soon-title">📅 Coming Next Weekend (May 16–18)</div>
+      <div class="coming-item"><strong>The Backrooms</strong> — Horror; Kane Parsons directs his viral found-footage web series as a feature film debut</div>
+      <div class="coming-item"><strong>Obsession</strong> — Acclaimed thriller; premiered at 2025 Toronto Film Festival to immediate buzz</div>
+      <div class="coming-item"><strong>In the Grey</strong> — Drama/thriller wide release</div>
+      <div class="coming-item"><strong>The Mandalorian &amp; Grogu</strong> opens Memorial Day weekend (May 22) — first Star Wars film in 7 years; tracking ~$80M 4-day</div>
+    </div>
+  </section>
 
-  <div class="card deaths">
-    <h2>🕯️ In Memoriam (Past Week)</h2>
-    <ul class="facts">
-      <li><strong>Jason Collins (47)</strong> — Former NBA center; first openly gay active player in major US men's pro sport (2013). Glioblastoma. Died May 12.</li>
-      <li><strong>Michael Pennington (82)</strong> — Acclaimed British Shakespearean actor; played Moff Jerjerrod in <em>Return of the Jedi</em>. Died May 7 at Denville Hall (London actors' home).</li>
-      <li><strong>Ted Turner (87)</strong> — CNN founder; "Mouth of the South"; owned Atlanta Braves & Hawks; pioneered 24-hour news (1980). Died May 6 in Florida, eight years after Lewy Body diagnosis.</li>
-    </ul>
-  </div>
+  <!-- SPORTS -->
+  <section class="card sports full">
+    <h2>🏆 Sports News — Past 7 Days</h2>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0 20px;">
+      <div>
+        <div class="sport-league">🏀 NBA Playoffs R2</div>
+        <div class="sport-item">• <strong>Thunder SWEEP Lakers 4-0</strong> — OKC now 8-0 in playoffs; Durant-less Lakers eliminated</div>
+        <div class="sport-item">• <strong>Knicks SWEEP 76ers 4-0</strong> — Back-to-back Eastern Conference Finals; Knicks 51-pt Game 6 win was franchise record</div>
+        <div class="sport-item">• <strong>Cavs lead Pistons 3-2</strong> — Mitchell 43 pts in OT Game 5 thriller</div>
+        <div class="sport-item">• <strong>Spurs lead Wolves 3-2</strong> — Wemby returns for G5: 26 pts; Spurs dominate 126-97</div>
 
-  <div class="card history">
+        <div class="sport-league">🏒 NHL Playoffs R2</div>
+        <div class="sport-item">• <strong>Hurricanes SWEEP Flyers 4-0</strong> — Carolina now 8-0 in 2026 playoffs; await ECF opponent</div>
+        <div class="sport-item">• <strong>Avalanche eliminate Wild 4-1</strong> — Kulak OT winner in clinching Game 5</div>
+        <div class="sport-item">• <strong>Sabres vs. Canadiens tied 2-2</strong> — Game 5 tonight; Sabres' first playoff run since 2011</div>
+        <div class="sport-item">• VGK vs. Ducks series ongoing (G6)</div>
+      </div>
+      <div>
+        <div class="sport-league">⚾ MLB</div>
+        <div class="sport-item">• <strong>Cubs 27-16</strong>, NL Central leaders (4.5 GB on Reds)</div>
+        <div class="sport-item">• <strong>Braves 29-13</strong> — best record in baseball</div>
+        <div class="sport-item">• <strong>Reds win big today</strong> — Beat Nationals 15-1; snap L2 skid</div>
+
+        <div class="sport-league">🏈 NFL</div>
+        <div class="sport-item">• <strong>2026 Schedule Released Today!</strong> Cowboys @ Giants SNF Week 1; Ravens-Cowboys in Rio Sept 27; Saints-Steelers in Paris; Rams-49ers in Melbourne (Sept 11); 9 international games total</div>
+
+        <div class="sport-league">⚽ MLS</div>
+        <div class="sport-item">• <strong>Messi hat trick!</strong> — 3 goals in Inter Miami 5-3 @ FC Cincinnati; Miami doubles his salary to $28M/yr</div>
+        <div class="sport-item">• Vancouver Whitecaps best-ever start to a season</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CELEBRITY DEATHS -->
+  <section class="card deaths">
+    <h2>🕯️ Celebrity Deaths — Past 7 Days</h2>
+    <div class="death-row">
+      <div class="death-name">Ted Turner, 87</div>
+      <div class="death-detail">Media mogul who founded CNN (1980), TNT, TBS, and TCM; gave $1B to the UN in 1997. Died May 6 in Florida, 8 years after his Lewy Body Dementia announcement.</div>
+    </div>
+    <div class="death-row">
+      <div class="death-name">Michael Pennington, 82</div>
+      <div class="death-detail">Acclaimed British Shakespearean stage actor; played Mon Mothma in <em>Star Wars: Return of the Jedi</em> (1983). Died May 7 at Denville Hall, London.</div>
+    </div>
+    <div class="death-row">
+      <div class="death-name">Desmond Morris, 98</div>
+      <div class="death-detail">British zoologist and author of <em>The Naked Ape</em> (1967), the groundbreaking study of humans as animals; also a surrealist painter and colleague of Salvador Dalí.</div>
+    </div>
+    <div class="death-row">
+      <div class="death-name">Dave Mason, 79</div>
+      <div class="death-detail">English rock musician; founding member of Traffic. Co-wrote "Feelin' Alright," which became a career-defining hit for Joe Cocker.</div>
+    </div>
+  </section>
+
+  <!-- THIS DAY IN HISTORY -->
+  <section class="card history">
     <h2>📅 This Day in History — May 14</h2>
-    <ul class="facts">
-      <li><strong>1610</strong> — Henry IV of France assassinated in Paris by Catholic zealot François Ravaillac; nine-year-old Louis XIII succeeds him.</li>
-      <li><strong>1944</strong> — George Lucas born in Modesto, CA — creator of <em>Star Wars</em> and <em>Indiana Jones</em>. (Turns 82 today.)</li>
-      <li><strong>1955</strong> — Warsaw Pact signed in Warsaw — Soviet-led mutual defense treaty among 8 Eastern Bloc nations as Cold War counter to NATO.</li>
-    </ul>
-    <div class="nat-days">
-      <span class="lbl">🎉 Today also:</span> Paraguay Independence Day (1811 — first South American nation independent of Spain) · National Decency Day · Bond With Your Dog Day · World Migratory Bird Day
+    <div class="hist-event">
+      <span class="hist-year">1942</span>The U.S. Congress establishes the <strong>Women's Army Auxiliary Corps (WAAC)</strong> — the first official women's military service branch in American history
     </div>
-  </div>
+    <div class="hist-event">
+      <span class="hist-year">1955</span>Seven Soviet-bloc nations sign the <strong>Warsaw Pact</strong> in Warsaw, Poland — the Eastern Bloc's military alliance formed in response to NATO
+    </div>
+    <div class="hist-event">
+      <span class="hist-year">1998</span><strong>Frank Sinatra</strong> dies at age 82 in Los Angeles — "Ol' Blue Eyes" recorded more than 1,400 songs and won the Academy Award for <em>From Here to Eternity</em> (1954)
+    </div>
+    <div class="natl-days">
+      🎉 <strong>National Days:</strong> World Migratory Bird Day · National Decency Day · National Temperature Control Day · National Chicken Dance Day
+    </div>
+  </section>
 
-  <div class="card news">
-    <h2>📰 Top Stories</h2>
-    <ul class="facts">
-      <li><strong>Trump-Xi summit opens in Beijing</strong> — 2-day talks on trade, rare earths, AI, Taiwan, Iran. Musk, Tim Cook, Larry Fink, Boeing CEO Ortberg traveling with delegation. Xi calls it "world's most consequential relationship."</li>
-      <li><strong>Iran ceasefire stalled</strong> — Trump called Tehran's latest counter "totally unacceptable"; Iran launched 5-day "Martyr Commander" military exercise around Tehran.</li>
-      <li><strong>UK State Opening</strong> — King Charles III read Labour's legislative agenda Wednesday; PM Keir Starmer faces internal leadership challenge.</li>
-      <li><strong>NFL Schedule Release Day</strong> — Full 2026 slate dropping 8pm ET tonight (NFL Network/ESPN).</li>
-    </ul>
-  </div>
+  <!-- CURRENT EVENTS -->
+  <section class="card news full">
+    <h2>📰 Current Events — This Week</h2>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0 20px;">
+      <div>
+        <div class="news-item"><strong>Trump-Xi Summit in Beijing</strong> — Presidents met for high-stakes two-day summit; Xi warned that mishandling Taiwan could put the US-China relationship in "great jeopardy." Topics: trade, tariffs, Iran, AI, rare earths.</div>
+        <div class="news-item"><strong>Iran Conflict Continues</strong> — The U.S. Senate voted 50-49 against advancing a bill that would end the war with Iran. Trump called the Iran ceasefire on "massive life support."</div>
+        <div class="news-item"><strong>Israeli Strikes in Lebanon</strong> — Israeli airstrikes hit seven vehicles in southern Lebanon, killing 12 people. Israel says it struck Hezbollah infrastructure.</div>
+      </div>
+      <div>
+        <div class="news-item"><strong>NFL 2026 Schedule Out Today</strong> — 9 international games including Madrid, São Paulo, London, Berlin, Dublin, Melbourne, and Rio de Janeiro. Cowboys vs. Giants opens Sunday Night Football Week 1.</div>
+        <div class="news-item"><strong>Hungary: Orbán Ousted</strong> — Péter Magyar's opposition movement defeats Viktor Orbán after 16 years in power in historic Hungarian election.</div>
+        <div class="news-item"><strong>Moderna Jumps 7.5%</strong> — Positive early results from hantavirus vaccine trial drive strong stock gains.</div>
+      </div>
+    </div>
+  </section>
 
-  <div class="card caps">
-    <h2>🗺️ Capitals Quiz</h2>
-    <div class="qa"><span class="q">Capital of Maine?</span> <span class="a">Augusta</span></div>
-    <div class="qa"><span class="q">Capital of New Mexico?</span> <span class="a">Santa Fe</span></div>
-    <div class="qa"><span class="q">Capital of Ireland?</span> <span class="a">Dublin</span></div>
-    <div class="qa"><span class="q">Capital of Indonesia?</span> <span class="a">Jakarta</span> <span style="color:#a8a8b8;font-size:11px;">(new capital Nusantara under construction)</span></div>
-  </div>
+  <!-- CAPITALS QUIZ -->
+  <section class="card caps">
+    <h2>🗺️ State &amp; Country Capitals Quiz</h2>
+    <div class="qa-row">
+      <div class="q">What is the capital of Arizona?</div>
+      <div class="a">→ <strong>Phoenix</strong></div>
+    </div>
+    <div class="qa-row">
+      <div class="q">What is the capital of Austria?</div>
+      <div class="a">→ <strong>Vienna</strong> (Wien)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">What is the capital of Poland?</div>
+      <div class="a">→ <strong>Warsaw</strong> (Warszawa) — also Poland's largest city</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">What is the capital of North Carolina?</div>
+      <div class="a">→ <strong>Raleigh</strong></div>
+    </div>
+  </section>
 
-  <div class="card tv">
-    <h2>📺 Classic TV — Actors &amp; Roles</h2>
-    <div class="qa"><span class="q">Who played Paladin on <em>Have Gun – Will Travel</em> (1957–63)?</span> <span class="a">Richard Boone</span></div>
-    <div class="qa"><span class="q">Who hosted <em>The Carol Burnett Show</em> (1967–78)?</span> <span class="a">Carol Burnett</span></div>
-    <div class="qa"><span class="q">Who played Theodore "Beaver" Cleaver on <em>Leave It to Beaver</em>?</span> <span class="a">Jerry Mathers</span></div>
-    <div class="qa"><span class="q">Who played Mr. French on <em>Family Affair</em> (1966–71)?</span> <span class="a">Sebastian Cabot</span></div>
-    <div class="qa"><span class="q">Who played Det. Lennie Briscoe on <em>Law &amp; Order</em>?</span> <span class="a">Jerry Orbach</span></div>
-    <div class="qa"><span class="q">Who played Dick Solomon on <em>3rd Rock from the Sun</em>?</span> <span class="a">John Lithgow</span></div>
-  </div>
+  <!-- CLASSIC TV -->
+  <section class="card tv">
+    <h2>📺 Classic TV Actors &amp; Roles (60s–90s)</h2>
+    <div class="qa-row">
+      <div class="q">Who played <em>Beaver Cleaver</em> on "Leave It to Beaver" (1957–1963)?</div>
+      <div class="a">→ <strong>Jerry Mathers</strong> — sitcom became a defining portrait of 1950s suburban America</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who played suave secret agent Napoleon Solo on "The Man from U.N.C.L.E." (1964–1968)?</div>
+      <div class="a">→ <strong>Robert Vaughn</strong> — his partner Illya Kuryakin was played by David McCallum</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who played the vampire Barnabas Collins on Gothic soap "Dark Shadows" (1966–1971)?</div>
+      <div class="a">→ <strong>Jonathan Frid</strong> — Barnabas was added mid-series and became the breakout star</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who played nerdy-cool Dwayne Wayne on "A Different World" (1987–1993)?</div>
+      <div class="a">→ <strong>Kadeem Hardison</strong> — Dwayne's flip-up glasses became a pop culture icon</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Who played scheming Amanda Woodward on "Melrose Place" (1992–1999)?</div>
+      <div class="a">→ <strong>Heather Locklear</strong> — her villainous character helped save the show's ratings in Season 2</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Michael Chiklis later played Vic Mackey on "The Shield" — what earlier 90s drama cast him as Police Commissioner Tony Scali?</div>
+      <div class="a">→ <strong>The Commish</strong> (1991–1996)</div>
+    </div>
+  </section>
 
-  <div class="card arts">
+  <!-- ARTS & LITERATURE -->
+  <section class="card arts">
     <h2>🎨 Arts &amp; Literature</h2>
-    <div class="qa"><span class="q">Author of <em>Lord of the Flies</em> (1954), Nobel 1983?</span> <span class="a">William Golding</span></div>
-    <div class="qa"><span class="q">Polish-born composer of nocturnes and the "Minute Waltz"?</span> <span class="a">Frédéric Chopin</span></div>
-    <div class="qa"><span class="q">Norwegian composer of "Peer Gynt" / "In the Hall of the Mountain King"?</span> <span class="a">Edvard Grieg</span></div>
-    <div class="qa"><span class="q">Russian-French painter of dreamlike floating figures &amp; fiddlers?</span> <span class="a">Marc Chagall</span></div>
-    <div class="qa"><span class="q">Russian author of <em>Doctor Zhivago</em> (1957)?</span> <span class="a">Boris Pasternak (declined Nobel 1958)</span></div>
-    <div class="qa"><span class="q">Italian opera composer of <em>La Bohème</em>, <em>Tosca</em>, <em>Madame Butterfly</em>?</span> <span class="a">Giacomo Puccini</span></div>
-  </div>
+    <div class="qa-row">
+      <div class="q">Which Italian opera composer wrote <em>La Bohème</em>, <em>Tosca</em>, and <em>Madama Butterfly</em>?</div>
+      <div class="a">→ <strong>Giacomo Puccini</strong> — known for emotional, melodic operas; died 1924 during surgery for throat cancer</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Which Spanish painter created "The Third of May 1808," depicting Napoleon's soldiers executing Madrid civilians?</div>
+      <div class="a">→ <strong>Francisco Goya</strong> — considered one of the first modern masterpieces; now in the Prado Museum</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Which Irish poet wrote "The Second Coming" (1919), opening with "Things fall apart; the centre cannot hold"?</div>
+      <div class="a">→ <strong>W.B. Yeats</strong> (William Butler Yeats) — won the Nobel Prize in Literature in 1923</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Which British modernist author wrote <em>Mrs Dalloway</em> (1925) and <em>To the Lighthouse</em> (1927)?</div>
+      <div class="a">→ <strong>Virginia Woolf</strong> — pioneered stream-of-consciousness narrative; co-founded the Bloomsbury Group</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Which British author shocked the world with <em>Lady Chatterley's Lover</em> (1928) — banned in UK/US until 1960?</div>
+      <div class="a">→ <strong>D.H. Lawrence</strong> — also wrote <em>Sons and Lovers</em> (1913) and <em>The Rainbow</em> (1915)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Which Norwegian Romantic composer wrote the "Peer Gynt Suite" and his beloved Piano Concerto in A minor?</div>
+      <div class="a">→ <strong>Edvard Grieg</strong> — "In the Hall of the Mountain King" is from his <em>Peer Gynt</em> incidental music</div>
+    </div>
+  </section>
 
-  <div class="card founded">
+  <!-- FOUNDED & INVENTED -->
+  <section class="card founded">
     <h2>🏭 Founded &amp; Invented</h2>
-    <div class="qa"><span class="q">What year was Burger King founded, and where?</span> <span class="a">1953/54 — Jacksonville, FL (Edgerton &amp; McLamore)</span></div>
-    <div class="qa"><span class="q">Who founded Domino's Pizza and when?</span> <span class="a">Tom Monaghan, 1960 — Ypsilanti, MI</span></div>
-    <div class="qa"><span class="q">Who patented the practical sewing machine?</span> <span class="a">Elias Howe (1846); Isaac Singer commercialized 1851</span></div>
-    <div class="qa"><span class="q">IBM founded year and original name?</span> <span class="a">1911 as CTR (Computing-Tabulating-Recording); renamed 1924</span></div>
-    <div class="qa"><span class="q">Who invented the saxophone, and when?</span> <span class="a">Adolphe Sax, 1846 (Belgium)</span></div>
-    <div class="qa"><span class="q">Who invented the first fully electronic television?</span> <span class="a">Philo Farnsworth, 1927</span></div>
-  </div>
+    <div class="qa-row">
+      <div class="q">Silly Putty was invented in 1943 — as a failed attempt to create what, and who marketed it as a toy?</div>
+      <div class="a">→ James Wright (GE) tried to make <strong>synthetic rubber for WWII</strong>; Peter Hodgson bought the rights for $147 and sold it in plastic eggs starting 1950</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">When Wham-O re-introduced the Hula Hoop in 1958, how many sold in the first 4 months?</div>
+      <div class="a">→ <strong>25 million</strong> — became one of the fastest-selling toys in history at $1.98 each</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">The Barbie doll debuted March 9, 1959 — who created her and what's the origin of the name?</div>
+      <div class="a">→ <strong>Ruth Handler</strong> (Mattel co-founder), named after her daughter Barbara; her son inspired Ken</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">The Popsicle was invented by accident in 1905 by an 11-year-old. What did he do accidentally?</div>
+      <div class="a">→ <strong>Frank Epperson</strong> left a cup of flavored soda water with a stirring stick on his porch on a cold San Francisco night</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Cracker Jack debuted at what famous 1893 event, and what song immortalized it 15 years later?</div>
+      <div class="a">→ <strong>World's Columbian Exposition</strong> (Chicago World's Fair); featured in "Take Me Out to the Ballgame" (1908)</div>
+    </div>
+    <div class="qa-row">
+      <div class="q">Jell-O was created in 1897 and sold just 2 years later for what shockingly small price?</div>
+      <div class="a">→ <strong>$450</strong> — sold by Pearle Bixby Wait to Genesee Pure Food Company; today the brand is worth billions</div>
+    </div>
+  </section>
 
-  <div class="card general">
-    <h2>🧩 General Trivia</h2>
-    <ul class="facts">
-      <li><span class="cat">Animals</span> Starfish have no brain and no blood — they circulate seawater through their bodies instead.</li>
-      <li><span class="cat">Animals</span> Polar bears are classified as marine mammals — the only bear species so designated.</li>
-      <li><span class="cat">Astronomy</span> Olympus Mons on Mars rises ~13.6 mi (22 km) — tallest known volcano in the solar system, ~2.5× Everest.</li>
-      <li><span class="cat">Astronomy</span> Jupiter now has at least 95 confirmed moons — most of any planet.</li>
-      <li><span class="cat">Geography</span> The Dead Sea is ~9.6× saltier than the ocean (~34% salinity) — you literally cannot sink.</li>
-      <li><span class="cat">Geography</span> Istanbul is the only major city that straddles two continents (Europe &amp; Asia, split by the Bosporus).</li>
-      <li><span class="cat">Botany</span> Bamboo is the fastest-growing plant on Earth — up to 35 in (89 cm) in a single day.</li>
-      <li><span class="cat">History</span> King John didn't sign Magna Carta in 1215 — he <em>sealed</em> it with his royal wax seal.</li>
-      <li><span class="cat">Etymology</span> "Goodbye" is a contraction of "God be with ye" (1500s).</li>
-      <li><span class="cat">Etymology</span> "Quarantine" comes from Italian <em>quaranta giorni</em> ("forty days") — Venice plague-era ship isolation period.</li>
-      <li><span class="cat">Pop culture</span> Mr. Potato Head was the first toy advertised on TV (1952) — and originally required a real potato.</li>
-      <li><span class="cat">Sports</span> The Indianapolis 500 winner has received a bottle of milk in Victory Lane since 1936 (Louis Meyer started the tradition).</li>
-    </ul>
-  </div>
+  <!-- GENERAL TRIVIA -->
+  <section class="card trivia full">
+    <h2>🧠 General Trivia</h2>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0 20px;">
+      <div>
+        <div class="fact-row"><span class="cat">Animals</span>A blue whale's tongue alone weighs as much as an elephant — roughly <strong>6,000 pounds</strong></div>
+        <div class="fact-row"><span class="cat">Language</span>"Emoji" comes from Japanese: 絵 (e = picture) + 文字 (moji = character) — it's Japanese, not derived from "emotion"</div>
+        <div class="fact-row"><span class="cat">History</span>The term <strong>"deadline"</strong> originated in Civil War prison camps — a line drawn that prisoners couldn't cross without being shot</div>
+        <div class="fact-row"><span class="cat">Etymology</span><strong>"Berserk"</strong> comes from Old Norse <em>berserkr</em> — Viking warriors who fought in a furious, trance-like battle rage</div>
+        <div class="fact-row"><span class="cat">Animals</span>A group of ravens is called an <strong>"unkindness"</strong> or a <strong>"conspiracy"</strong></div>
+        <div class="fact-row"><span class="cat">Geography</span>Russia borders <strong>14 countries</strong> — more than any other nation on Earth</div>
+      </div>
+      <div>
+        <div class="fact-row"><span class="cat">Animals</span>A narwhal's spiral "horn" is actually a <strong>tooth</strong> — a single enlarged canine that can grow up to 10 feet long</div>
+        <div class="fact-row"><span class="cat">Astronomy</span>Footprints on the Moon will last approximately <strong>100 million years</strong> — there's no wind or weather to erode them</div>
+        <div class="fact-row"><span class="cat">Food</span>The banana you eat (Cavendish) <strong>replaced the Gros Michel</strong>, which was virtually wiped out by Panama disease in the 1950s</div>
+        <div class="fact-row"><span class="cat">History</span>Playing cards were invented in <strong>Tang Dynasty China</strong> (~9th century AD) — Europeans adopted them in the 14th century</div>
+        <div class="fact-row"><span class="cat">Science</span><strong>Birthday paradox:</strong> In a group of just 23 people, there's a 50%+ chance two share the same birthday</div>
+        <div class="fact-row"><span class="cat">Animals</span>Horses can sleep standing up using a <strong>"stay apparatus"</strong> — a locking mechanism in their knees and joints</div>
+      </div>
+    </div>
+  </section>
 
-  <div class="card music">
-    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
+  <!-- MUSIC -->
+  <section class="card music full">
+    <h2>🎵 Song and Artist (1990–2010)</h2>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Vision of Love</div>
-        <div class="song-meta">Mariah Carey · 1990 · Mariah Carey</div>
+        <div class="song-title">Everlong</div>
+        <div class="song-meta">Foo Fighters · 1997 · <em>The Colour and the Shape</em></div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/3vIA3RZyhpchU3IRtPpVJq" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/vision-of-love/1442653188" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/everlong/334812013" target="_blank" rel="noopener">🍎 Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Jeremy</div>
-        <div class="song-meta">Pearl Jam · 1992 · Ten</div>
+        <div class="song-title">Say My Name</div>
+        <div class="song-meta">Destiny's Child · 1999 · <em>The Writing's on the Wall</em></div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/53kRrTaJDFvgI3JIQlcKxe" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/jeremy/1440859809" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/say-my-name/266809802" target="_blank" rel="noopener">🍎 Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">Ironic</div>
-        <div class="song-meta">Alanis Morissette · 1995 · Jagged Little Pill</div>
+        <div class="song-title">Wannabe</div>
+        <div class="song-meta">Spice Girls · 1996 · <em>Spice</em></div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/3wPER1z0Ds1JfA01g0Z7tF" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/ironic/1440880969" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/wannabe/1637483916" target="_blank" rel="noopener">🍎 Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">…Genie in a Bottle</div>
-        <div class="song-meta">Christina Aguilera · 1999 · Christina Aguilera</div>
+        <div class="song-title">Black</div>
+        <div class="song-meta">Pearl Jam · 1991 · <em>Ten</em></div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/4Y6Vc9YE3M5IRcEMNuRfsi" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/genie-in-a-bottle/1444758403" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/black/425465351" target="_blank" rel="noopener">🍎 Apple</a>
       </div>
     </div>
     <div class="song-row">
       <div class="song-info">
-        <div class="song-title">American Idiot</div>
-        <div class="song-meta">Green Day · 2004 · American Idiot</div>
+        <div class="song-title">All I Wanna Do</div>
+        <div class="song-meta">Sheryl Crow · 1993 · <em>Tuesday Night Music Club</em></div>
       </div>
       <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/72Q0FQQo32KJloivv5xge2" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/american-idiot/1440913923" target="_blank">Apple</a>
+        <a class="spotify" href="https://open.spotify.com/track/6DX84RbEhYBprRaDF8nZBV" target="_blank" rel="noopener">▶ Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/all-i-wanna-do/1440651211" target="_blank" rel="noopener">🍎 Apple</a>
       </div>
     </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Use Somebody</div>
-        <div class="song-meta">Kings of Leon · 2008 · Only by the Night</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/song/use-somebody/1443131589" target="_blank">Apple</a>
-      </div>
-    </div>
-  </div>
+  </section>
 
+</main>
+
+<div style="text-align:center; padding:16px; font-size:11px; color:rgba(255,255,255,0.3);">
+  Thursday Trivia · May 14, 2026 · Generated fresh each week · <a href="https://delbraeth.github.io/TRIVIA/" style="color:rgba(255,255,255,0.4);">delbraeth.github.io/TRIVIA</a>
 </div>
 
-<footer>🍻 Good luck tonight — generated May 14, 2026</footer>
-</div>
 </body>
 </html>
