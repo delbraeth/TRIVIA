@@ -1288,4 +1288,63 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 14d | May 14: WAAC established 1942; Warsaw Pact signed 1955 (also May 14c); Frank Sinatra dies 1998 | — |
 | May 14d | National Days: World Migratory Bird Day; National Decency Day; National Temperature Control Day; National Chicken Dance Day | — |
 
-_Last updated: May 14, 2026 (v9 — May 14d fourth run of the day added)_
+
+
+| May 18 | Capital of Wyoming | Cheyenne |
+| May 18 | Capital of Thailand | Bangkok |
+| May 18 | Capital of Maine | Augusta |
+| May 18 | Capital of Ireland | Dublin |
+
+| May 18 | The Andy Griffith Show | Sheriff Andy Taylor | Andy Griffith |
+| May 18 | M*A*S*H | Capt. "Hawkeye" Pierce | Alan Alda |
+| May 18 | Magnum, P.I. | Thomas Magnum | Tom Selleck |
+| May 18 | Murder, She Wrote | Jessica Fletcher | Angela Lansbury |
+| May 18 | Bewitched | Samantha Stephens | Elizabeth Montgomery |
+| May 18 | Columbo | Lt. Columbo | Peter Falk |
+
+| May 18 | "It was the best of times" opener — A Tale of Two Cities (1859) | Charles Dickens |
+| May 18 | Author of Beloved (1987 Pulitzer; 1993 Nobel Lit) | Toni Morrison |
+| May 18 | Composer of Swan Lake / Nutcracker / 1812 Overture | Pyotr Ilyich Tchaikovsky |
+| May 18 | Painter of Guernica (1937) | Pablo Picasso |
+| May 18 | Norwegian playwright of A Doll's House (1879) | Henrik Ibsen |
+| May 18 | Designer of Vietnam Veterans Memorial (1981, Yale undergrad) | Maya Lin |
+
+| May 18 | Hewlett-Packard founding year/city/founders | 1939, Palo Alto garage (Hewlett & Packard); birthplace of Silicon Valley |
+| May 18 | Pizza Hut founded year/city/founders | 1958, Wichita KS, Dan & Frank Carney ($600 from mom) |
+| May 18 | Tupperware inventor and year | Earl Tupper, 1946 (Tupperware Parties via Brownie Wise) |
+| May 18 | Tabasco sauce inventor and year | Edmund McIlhenny, 1868, Avery Island LA |
+| May 18 | Spotify founders/year/country | Daniel Ek & Martin Lorentzon, 2006, Stockholm Sweden |
+| May 18 | Q-tips original brand name (1923) | "Baby Gays" — Leo Gerstenzang; renamed Q-tips 1926 |
+
+| May 18 | Biology | Octopuses have 3 hearts and blue copper-based blood (hemocyanin); main heart stops when swimming |
+| May 18 | Evolution | Sharks predate trees — sharks ~450M yrs vs first trees ~385M yrs |
+| May 18 | Astronomy | Lightning bolt ~30,000K — ~5× hotter than the Sun's surface (~5,778K) |
+| May 18 | Food | Honey never spoils — 3,000-yr-old Egyptian tomb honey still edible |
+| May 18 | Botany | Bananas are berries; strawberries are not (aggregate accessory fruits) |
+| May 18 | History | Cleopatra lived closer to first Pizza Hut (1958) than to Great Pyramid (~2560 BC) |
+| May 18 | Language | Hawaiian alphabet has 13 letters incl. the ʻokina |
+| May 18 | Animals | Wombat scat is cube-shaped — only known cube-pooping animal |
+| May 18 | Astronomy | Pluto hasn't completed 1 orbit since 1930 discovery (248-yr year) |
+| May 18 | Geography | Antarctica is the largest desert (~5.5M sq mi); <2 in/yr precipitation interior |
+| May 18 | Anatomy | Babies born w/ ~270 bones; adults 206 (skull plates fuse) |
+| May 18 | Etymology | Pencil "lead" is graphite — misidentified in 1500s Cumbria |
+| May 18 | Sports | Reds 24-23 .511 5th NL Central 5 GB Cubs (29-18); L10 4-6, streak L2; @ Phillies 6:40 PM ET |
+| May 18 | Sports | NBA Conf Finals tip off: Thunder-Spurs (W) tonight 8:30 PM NBC; Knicks-Cavs (E) Tue 5/19 8 PM ESPN |
+| May 18 | Sports | NHL R2 G7 Canadiens-Sabres tonight 7:30 PM ESPN; W Final Avalanche-Knights starts Wed 5/20 |
+| May 18 | Sports | MLS: Messi G+A, Inter Miami 2-0 Portland first Nu Stadium win; 13G/6A, 18 GC |
+| May 18 | NFL | OTAs begin league-wide; Rodgers signs 1-yr/$25M Steelers, QB1 reps |
+| May 18 | Box Office | Michael ~$26M 4th wknd; $580M dom/$703M global; Obsession #2 $16M open |
+| May 18 | Deaths | Donald Gibb (71, Ogre in Revenge of the Nerds, May 12); Clarence Carter (90, blues/soul "Patches" "Strokin'", May 14); Claudine Longet (84, French singer/actress Love Is Blue, May 15) |
+| May 18 | News | NBA Conf Finals begin; Rodgers to Steelers; Mt St Helens 46th anniversary; Ukraine drone strike near Moscow kills 4; UAE nuclear plant drone fire; Mandalorian and Grogu opens 5/22; Amnesty: 2025 state executions 44-yr high |
+
+| May 18 | May 18 (Mt St Helens erupts 1980 — 57 killed; Napoleon proclaimed Emperor 1804; Bath School disaster 1927 — 44 killed; US Selective Service Act 1917) | — |
+| May 18 | National Days: International Museum Day; World AIDS Vaccine Day; I Love Reese's Day; Visit Your Relatives Day; National No Dirty Dishes Day; Victoria Day (Canada); Norway Constitution Day | — |
+
+| May 18 | Mr. Jones | Counting Crows | 1993 |
+| May 18 | Black Hole Sun | Soundgarden | 1994 |
+| May 18 | 1979 | The Smashing Pumpkins | 1995 |
+| May 18 | Don't Speak | No Doubt | 1996 |
+| May 18 | Bitter Sweet Symphony | The Verve | 1997 |
+| May 18 | Hot in Herre | Nelly | 2002 |
+
+_Last updated: May 18, 2026 (v10 — May 18 Monday run added)_
