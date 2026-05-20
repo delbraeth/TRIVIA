@@ -1390,4 +1390,58 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 18 | Bitter Sweet Symphony | The Verve | 1997 |
 | May 18 | Hot in Herre | Nelly | 2002 |
 
-_Last updated: May 20, 2026 (v11 — May 20 Wednesday run added)_
+_Last updated: May 20, 2026 (v12 — May 20 Wednesday v2 run added)_
+
+| May 20b | Capital of Iran | Tehran |
+| May 20b | Capital of Singapore | Singapore (city-state) |
+| May 20b | Capital of South Dakota | Pierre |
+| May 20b | Capital of Lithuania | Vilnius |
+
+| May 20b | The Partridge Family | Shirley Partridge | Shirley Jones |
+| May 20b | Knots Landing | Karen MacKenzie (née Fairgate) | Michele Lee |
+| May 20b | The Equalizer (1985) | Robert McCall | Edward Woodward |
+| May 20b | NewsRadio | Dave Nelson | Dave Foley |
+| May 20b | Spin City | Mike Flaherty | Michael J. Fox |
+| May 20b | Will & Grace | Will Truman | Eric McCormack |
+
+| May 20b | A Clockwork Orange (1962) | Anthony Burgess |
+| May 20b | The Hay Wain (1821) | John Constable |
+| May 20b | Tristan und Isolde (1865 opera) | Richard Wagner |
+| May 20b | Middlesex (2003 Pulitzer) | Jeffrey Eugenides |
+| May 20b | The Awakening (1899) | Kate Chopin |
+| May 20b | Sculptor of Mount Rushmore | Gutzon Borglum |
+
+| May 20b | Hot Wheels — year/company/creator | 1968, Mattel (Elliot Handler) |
+| May 20b | Scrabble — inventor/original name | Alfred Mosher Butts, 1933 — "Lexiko"; rebranded by James Brunot 1948 |
+| May 20b | Trivial Pursuit — year/city | 1979, Montreal (Chris Haney & Scott Abbott) |
+| May 20b | Sony PlayStation — Japan release | December 3, 1994 |
+| May 20b | Honda Motor Co — year/founder | 1948, Soichiro Honda |
+| May 20b | iPod — release date/project lead | October 23, 2001 (Tony Fadell) |
+
+| May 20b | Animals | Greenland sharks live up to ~400 years (oldest known vertebrate) |
+| May 20b | Geography | Atacama Desert — parts gone 500+ years without rain |
+| May 20b | History | Coconut water used as IV plasma substitute in WWII Pacific |
+| May 20b | Biology | Wood frogs freeze solid in winter, thaw alive in spring |
+| May 20b | Geography | Great Pyramid of Cholula (Mexico) — world's largest pyramid by volume |
+| May 20b | Science | Spider silk ~5× stronger than steel by weight |
+| May 20b | Animals | Sea otters — ~1M hairs per sq inch, densest fur in animal kingdom |
+| May 20b | Geography | Bay of Fundy (NS/ME) — world's highest tides (~50 ft) |
+| May 20b | Animals | Cats sweat only through their paw pads |
+| May 20b | Astronomy | Voyager 1 — interstellar space since 2012, farthest human-made object |
+| May 20b | Sports | Reds 26-24, .520, 4th NL Central 4 GB Brewers; beat Phillies 9-4 today (W2, L10 5-5); no game Thu, vs STL Fri 5/22 |
+| May 20b | Sports | NBA Conf Finals: Knicks 22-pt OT comeback G1 vs Cavs (Brunson 38); Spurs 122-115 2OT G1 vs Thunder (Wemby 41/24); both G1s went to OT |
+| May 20b | Sports | NHL Conf Finals begin: VGK @ COL Wed 5/20 8 ET; MTL @ CAR Thu 5/21 8 ET |
+| May 20b | Sports | NFL: Rodgers reports Steelers OTAs day one (1-yr/$25M) |
+| May 20b | MLS | Inter Miami 2-0 Portland (first Nu Stadium home win); La Familia silent protest 85 min; Messi 4G/4A May |
+| May 20b | Box Office | Michael $26.1M #1 (4th wknd, $580M dom/$703M global); Devil Wears Prada 2 $17.8M; Obsession opens #3 $17.1M |
+| May 20b | Deaths | Brad Arnold (48, 3 Doors Down lead singer, kidney cancer); Claudine Longet (84); Clarence Carter (90) |
+
+| May 20b | May 20 (First Council of Nicaea 325; Cuba indep from US occupation 1902; first Auschwitz prisoners 1940) | — |
+| May 20b | National Days: National Streaming Day; National Pick Strawberries Day; National Juice Slush Day; EMS for Children Day; Cannes Film Festival | — |
+
+| May 20b | U Can't Touch This | MC Hammer | 1990 |
+| May 20b | Friday I'm in Love | The Cure | 1992 |
+| May 20b | Karma Police | Radiohead | 1997 |
+| May 20b | Bring Me to Life | Evanescence | 2003 |
+| May 20b | Misery Business | Paramore | 2007 |
+| May 20b | Hey, Soul Sister | Train | 2009 |
