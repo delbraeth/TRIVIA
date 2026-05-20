@@ -105,6 +105,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 4 | Capital of Egypt | Cairo |
 | May 4 | Capital of Indiana | Indianapolis |
 | May 4 | Capital of Portugal | Lisbon |
+| May 20 | Capital of South Carolina | Columbia |
+| May 20 | Capital of Mexico | Mexico City |
+| May 20 | Capital of Estonia | Tallinn |
+| May 20 | Capital of Botswana | Gaborone |
+
 
 
 ---
@@ -234,6 +239,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | The Incredible Hulk | Dr. David Banner | Bill Bixby |
 | May 7 | Good Times | J.J. Evans | Jimmie Walker |
 | May 7 | Wonder Woman | Diana Prince / Wonder Woman | Lynda Carter |
+| May 20 | The Untouchables | Eliot Ness | Robert Stack |
+| May 20 | My Three Sons | Steve Douglas | Fred MacMurray |
+| May 20 | McMillan & Wife | Stewart McMillan | Rock Hudson |
+| May 20 | The Prisoner | Number Six | Patrick McGoohan |
+| May 20 | F Troop | Capt. Wilton Parmenter | Ken Berry |
+| May 20 | Xena: Warrior Princess | Xena | Lucy Lawless |
+
 
 ---
 
@@ -337,6 +349,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | First Arab Nobel Literature laureate (1988) | Naguib Mahfouz (Egypt) |
 | May 7 | Composer of the "Blue Danube" waltz (1866) | Johann Strauss II |
 | May 7 | Abstract Expressionist "drip painting" pioneer | Jackson Pollock |
+| May 20 | A Farewell to Arms | Ernest Hemingway |
+| May 20 | The Great Wave off Kanagawa | Katsushika Hokusai |
+| May 20 | The Barber of Seville (opera) | Gioachino Rossini |
+| May 20 | A Wrinkle in Time | Madeleine L'Engle |
+| May 20 | The Gulf Stream / Snap the Whip painter | Winslow Homer |
+| May 20 | The Aeneid | Virgil |
+
 
 ---
 
@@ -583,6 +602,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | Sports | NBA Conf. Semis: Cavs/Pistons G2, Nuggets/Wolves G2, Lakers/Thunder G2 |
 | May 7 | Sports | NHL Round 2: Hurricanes lead Flyers 3-0; Canadiens eliminated Lightning in 7 |
 | May 7 | Box Office | Devil Wears Prada 2 — $77M/$233.6M global; Mortal Kombat II opening this weekend |
+| May 20 | Botany | Bananas are berries; strawberries are not |
+| May 20 | Animals | Mosquitoes kill more humans/year than any animal |
+| May 20 | Aviation | 'Black box' flight recorder is painted bright orange |
+| May 20 | Animal Group | A group of foxes is a 'skulk' (or 'leash') |
+| May 20 | Astronomy | Sun = 99.86% of solar system's mass |
+| May 20 | History | Pope John Paul I served only 33 days in 1978 |
+| May 20 | History | Bayeux Tapestry is embroidery, not tapestry; ~230 ft long |
+| May 20 | UK History | Tower of London by decree must keep 6 ravens |
+| May 20 | Business | Kongō Gumi (578 AD Japan) — world's oldest company |
+| May 20 | Language | Papua New Guinea has 800+ living languages |
+| May 20 | Invention | Eyeglasses invented in Italy ~1290 |
+| May 20 | Biology | Komodo dragon bite is venomous (confirmed 2009) |
+
 
 ---
 
@@ -617,6 +649,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 6 | Hungarian Romantic composer of Hungarian Rhapsodies | Franz Liszt |
 
 | May 7 | May 7 (Lusitania 1915, Germany WWII surrender 1945, Beethoven 9th premiere 1824) |
+| May 20 | May 20 (Homestead Act 1862; Lindbergh 1927; Earhart 1932) |
+
 
 ---
 
@@ -637,6 +671,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Apr 30 | International Jazz Day · National Honesty Day · Adopt a Shelter Pet Day · National Bubble Tea Day · Bugs Bunny Day · National Animal Advocacy Day
 | Apr 30b | National Oatmeal Cookie Day · National Raisin Day · World Veterinary Day · International Jazz Day · National Honesty Day |
 | May 1 | International Workers'/May Day · National Lei Day · Loyalty Day · National Chocolate Parfait Day · Mother Goose Day · Global Love Day |
+| May 20 | World Bee Day · World Metrology Day · National Rescue Dog Day · Clinical Trials Day · National Be a Millionaire Day |
+
 
 ---
 | May 1v2 | International Workers' Day · National Space Day · Law Day · School Lunch Hero Day · National Chocolate Parfait Day · National Loyalty Day |
@@ -739,6 +775,13 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | Harley-Davidson founded year/city | 1903, Milwaukee WI (Harley & Davidson) |
 | May 7 | ARPANET first message (1969) | "LO" (crashed during "LOGIN"); UCLA to Stanford, Oct 29 1969 |
 | May 7 | UPS founded year/founder/city | 1907, James Casey, Seattle WA |
+| May 20 | Yahoo! founders/year | 1994, Jerry Yang & David Filo (Stanford) |
+| May 20 | Sony Walkman release year | 1979 (TPS-L2) |
+| May 20 | Computer mouse inventor | Douglas Engelbart (1964, patented 1970) |
+| May 20 | Pac-Man release | Namco, 1980, designed by Toru Iwatani |
+| May 20 | White-Out / Liquid Paper inventor | Bette Nesmith Graham, 1956 (Michael Nesmith's mother) |
+| May 20 | Frozen food industry pioneer | Clarence Birdseye, 1920s |
+
 
 ---
 
@@ -1347,4 +1390,4 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 18 | Bitter Sweet Symphony | The Verve | 1997 |
 | May 18 | Hot in Herre | Nelly | 2002 |
 
-_Last updated: May 18, 2026 (v10 — May 18 Monday run added)_
+_Last updated: May 20, 2026 (v11 — May 20 Wednesday run added)_
