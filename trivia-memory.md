@@ -1390,7 +1390,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 18 | Bitter Sweet Symphony | The Verve | 1997 |
 | May 18 | Hot in Herre | Nelly | 2002 |
 
-_Last updated: May 20, 2026 (v12 — May 20 Wednesday v2 run added)_
 
 | May 20b | Capital of Iran | Tehran |
 | May 20b | Capital of Singapore | Singapore (city-state) |
@@ -1445,3 +1444,62 @@ _Last updated: May 20, 2026 (v12 — May 20 Wednesday v2 run added)_
 | May 20b | Bring Me to Life | Evanescence | 2003 |
 | May 20b | Misery Business | Paramore | 2007 |
 | May 20b | Hey, Soul Sister | Train | 2009 |
+
+
+| May 21 | Capital of New Hampshire | Concord |
+| May 21 | Capital of Malaysia | Kuala Lumpur |
+| May 21 | Capital of Rhode Island | Providence |
+| May 21 | Capital of Azerbaijan | Baku |
+
+| May 21 | I Spy | Alexander Scott | Bill Cosby |
+| May 21 | Hercules: The Legendary Journeys | Hercules | Kevin Sorbo |
+| May 21 | The Drew Carey Show | Drew Carey | Drew Carey |
+| May 21 | Hunter | Sgt. Rick Hunter | Fred Dryer |
+| May 21 | Diagnosis: Murder | Dr. Mark Sloan | Dick Van Dyke |
+| May 21 | Simon & Simon | A.J. & Rick Simon | Jameson Parker & Gerald McRaney |
+
+| May 21 | F. Scott Fitzgerald's 1920 debut novel | This Side of Paradise |
+| May 21 | Author of The Sound and the Fury (1929); Nobel 1949 | William Faulkner |
+| May 21 | English composer of "Pomp and Circumstance Marches" | Edward Elgar |
+| May 21 | Author of A Room with a View (1908) and Howards End | E.M. Forster |
+| May 21 | Composer of Adagio for Strings (1936) | Samuel Barber |
+| May 21 | Mexican muralist; Detroit Industry; husband of Frida Kahlo | Diego Rivera |
+
+| May 21 | Volkswagen Beetle first produced year/country | 1938, Germany (Porsche design; KdF-Wagen program) |
+| May 21 | Cotton gin inventor and year | Eli Whitney, 1793 (patented 1794) |
+| May 21 | Costco founded year/founders/city | 1983, Seattle WA (Jeff Brotman & James Sinegal) |
+| May 21 | First handheld cellular phone call — who/when | Martin Cooper (Motorola), April 3, 1973 |
+| May 21 | Dynamite inventor and year | Alfred Nobel, 1867 |
+| May 21 | Marvel Comics founded year/original name | 1939 as "Timely Publications" (Martin Goodman); renamed 1961 |
+
+| May 21 | Animals | Bumblebees recognize human faces; teach each other novel tasks (ball-rolling) |
+| May 21 | Science | Helium discovered in Sun's spectrum 1868 — 27 yrs before found on Earth |
+| May 21 | Astronomy | Saturn's north pole hexagonal storm ~20,000 mi wide (wider than 2 Earths) |
+| May 21 | History | Coca-Cola contained ~9 mg cocaine/glass until 1903 (switched to "spent" coca leaves) |
+| May 21 | Animals | Group of butterflies = "kaleidoscope" (or "flutter") |
+| May 21 | Botany | Strawberries ~200 seeds outside; aren't true berries (bananas/watermelons are) |
+| May 21 | Geography | Lake Titicaca (Peru/Bolivia) = highest navigable lake (~12,500 ft) |
+| May 21 | Language | "Pangram" = sentence using every letter; quick brown fox is 33 letters |
+| May 21 | Engineering | Hoover Dam concrete still curing today (will harden 100+ more years) |
+| May 21 | History | Vikings reached North America (L'Anse aux Meadows) ~1000 AD — 500 yrs before Columbus |
+| May 21 | Astronomy | Mount Everest grows ~4 mm/year (Indian Plate subducting under Eurasian) |
+| May 21 | Anatomy | Index finger has more touch receptors than middle; lips/tongue most sensitive |
+| May 21 | Sports | Reds 26-24 .520 T-4th NL Central 4.5 GB Brewers (29-18); no game today; vs STL Fri 5/22 6:40 PM ET |
+| May 21 | Sports | NBA Conf Finals: Knicks 115-104 OT G1 vs Cavs (Brunson 38, 22-pt comeback); G2 tonight; Spurs/Thunder 1-1 (Wemby 41/24 G1 2OT) |
+| May 21 | Sports | NHL Conf Finals: Hurricanes-Canadiens G1 tonight 8 ET; Vegas 4-2 Avalanche G1 |
+| May 21 | Sports | NFL OTAs underway; Rodgers reports Steelers day one (1-yr/$25M) |
+| May 21 | MLS | Messi MLS Team of Matchday; 4G/4A in May; Miami 2-0 Portland first home win at Nu Stadium |
+| May 21 | Box Office | Michael $26.1M #1 4th wknd ($580M dom/$703M global); Prada 2 $17.8M; Obsession $17.1M open; Mandalorian & Grogu opens 5/22 (~$82M projected) |
+| May 21 | Deaths | Tom Kane (64, voice of Yoda in Clone Wars, Powerpuff Girls Utonium, Archer narrator, May 18); Brad Arnold (48, 3 Doors Down, May 18); Claudine Longet (84, May 15) |
+
+| May 21 | Crash Into Me | Dave Matthews Band | 1996 |
+| May 21 | Stan (feat. Dido) | Eminem | 2000 |
+| May 21 | Ms. Jackson | OutKast | 2000 |
+| May 21 | Maps | Yeah Yeah Yeahs | 2003 |
+| May 21 | Float On | Modest Mouse | 2004 |
+| May 21 | Hey There Delilah | Plain White T's | 2006 |
+
+| May 21 | May 21 (FIFA founded Paris 1904; Leopold & Loeb murder Bobby Franks 1924; Rajiv Gandhi assassinated 1991) | — |
+| May 21 | National Days: International Tea Day (UN); World Day for Cultural Diversity (UN); Global Accessibility Awareness Day; Red Cross Founder's Day; Talk Like Yoda Day; National Waitstaff Day | — |
+
+_Last updated: May 21, 2026 (v13 — May 21 Thursday run added)_
