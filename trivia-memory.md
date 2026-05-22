@@ -1502,4 +1502,60 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 21 | May 21 (FIFA founded Paris 1904; Leopold & Loeb murder Bobby Franks 1924; Rajiv Gandhi assassinated 1991) | — |
 | May 21 | National Days: International Tea Day (UN); World Day for Cultural Diversity (UN); Global Accessibility Awareness Day; Red Cross Founder's Day; Talk Like Yoda Day; National Waitstaff Day | — |
 
-_Last updated: May 21, 2026 (v13 — May 21 Thursday run added)_
+
+| May 22 | Capital of Philippines | Manila |
+| May 22 | Capital of Jordan | Amman |
+| May 22 | Capital of Colombia | Bogotá |
+| May 22 | Capital of Burkina Faso | Ouagadougou |
+
+| May 22 | The Big Valley | Victoria Barkley | Barbara Stanwyck |
+| May 22 | The Donna Reed Show | Donna Stone | Donna Reed |
+| May 22 | Route 66 | Tod Stiles | Martin Milner |
+| May 22 | Petticoat Junction | Kate Bradley | Bea Benaderet |
+| May 22 | The Saint | Simon Templar | Roger Moore |
+| May 22 | The Facts of Life | Edna Garrett | Charlotte Rae |
+
+| May 22 | Amy Tan — 1989 SF immigrant mothers/daughters novel | The Joy Luck Club |
+| May 22 | Frank Herbert — 1965 desert-planet sci-fi epic | Dune |
+| May 22 | "And miles to go before I sleep" closes which Frost poem | Stopping by Woods on a Snowy Evening |
+| May 22 | French sculptor of "The Thinker" / "The Kiss" | Auguste Rodin |
+| May 22 | American Pop artist of Ben-Day dot comic-strip paintings | Roy Lichtenstein |
+| May 22 | German Romantic composer of Lullaby/Wiegenlied + German Requiem | Johannes Brahms |
+
+| May 22 | Sears, Roebuck founded year/founders | 1893, Richard Sears + Alvah Roebuck, Chicago |
+| May 22 | Edison practical incandescent bulb patent year | 1879 (US Patent 223,898) |
+| May 22 | Chocolate chip cookie inventor & inn name | Ruth Wakefield, 1938, Toll House Inn (Whitman MA) |
+| May 22 | Marriott founded year / humble origin | 1927, J. Willard Marriott — A&W root beer stand in DC |
+| May 22 | Insulin isolated year/team | 1921, Banting & Best, U. of Toronto |
+| May 22 | Salk polio vaccine declared safe date | April 12, 1955 (announced from U. Michigan) |
+
+| May 22 | Geography | Greenland is world's largest island (~836,330 sq mi); not a continent |
+| May 22 | Geography | Dead Sea shore — lowest dry land on Earth (~1,410 ft below sea level) |
+| May 22 | Botany | Hyperion (CA coast redwood) tallest tree ~380 ft; discovered 2006 |
+| May 22 | History | Iceland's Althing (930 AD) oldest continuously functioning legislature |
+| May 22 | Animals | Group of crocodiles = "float" (water) or "bask" (land); can stay submerged 1+ hour |
+| May 22 | Law/Food | Nix v. Hedden (1893) — tomato ruled a vegetable for US tariffs |
+| May 22 | Astronomy | Mercury (not Venus) is on average closest planet to Earth (mathematical curiosity) |
+| May 22 | Tech | First text message Dec 3, 1992 — "Merry Christmas" via Vodafone (Neil Papworth) |
+| May 22 | Animals | Bald eagle nests can weigh 2+ tons; largest ~2.7 tons in Florida |
+| May 22 | Animals | Wolverine = largest land mustelid (weasel family), not a bear |
+| May 22 | Etymology | "Banana republic" coined by O. Henry — Cabbages and Kings (1904) |
+| May 22 | Animals | Blue whale tongue weighs like an elephant; heart size of small car |
+| May 22 | Sports | Reds 26-24 .520 T-4th NL Central 4.5 GB Brewers (29-18); STL game today PPD rain; doubleheader Sat 5/23 |
+| May 22 | Sports | NBA: Knicks 2-0 over Cavs (G2 109-93 Thu); Spurs/Thunder 1-1, G3 Fri 8:30 ET |
+| May 22 | Sports | NHL Conf Finals: Vegas 1-0 Avs (G2 Fri); Hurricanes-Habs E G1 Thu (CAR 8-0 PO entering) |
+| May 22 | NASCAR | Kyle Busch dies at 41 May 21 — Coca-Cola 600 weekend |
+| May 22 | NFL | Rodgers reports to Steelers OTAs day one; first OTA pass to Michael Pittman Jr. |
+| May 22 | Box Office | Michael $26.1M #1 4th wknd; Prada 2 $17.8M; Obsession $17.1M open; Mandalorian & Grogu opens 5/22 ($12M previews, $80M 3-day proj) |
+
+| May 22 | May 22 (Great Chilean Earthquake 1960 — 9.5 strongest ever; Apollo 10 LM 8.4 nm from Moon 1969; Joplin EF5 tornado 2011 — 158 killed) | — |
+| May 22 | National Days: National Maritime Day; International Day for Biological Diversity (UN); National Road Trip Day; Bitcoin Pizza Day; National Vanilla Pudding Day; Harvey Milk Day; National Don't Fry Day | — |
+
+| May 22 | California Love | 2Pac feat. Dr. Dre & Roger Troutman | 1995 |
+| May 22 | November Rain | Guns N' Roses | 1991 |
+| May 22 | Killing In The Name | Rage Against the Machine | 1992 |
+| May 22 | No Diggity | Blackstreet feat. Dr. Dre & Queen Pen | 1996 |
+| May 22 | SexyBack | Justin Timberlake feat. Timbaland | 2006 |
+| May 22 | Welcome to the Black Parade | My Chemical Romance | 2006 |
+
+_Last updated: May 22, 2026 (v14 — May 22 Friday run added)_
