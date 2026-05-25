@@ -1559,3 +1559,47 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 22 | Welcome to the Black Parade | My Chemical Romance | 2006 |
 
 _Last updated: May 22, 2026 (v14 — May 22 Friday run added)_
+
+| May 25 | Capital of Serbia | Belgrade |
+| May 25 | Capital of Mozambique | Maputo |
+| May 25 | Capital of Kyrgyzstan | Bishkek |
+| May 25 | Capital of Oman | Muscat |
+
+| May 25 | Airwolf | Stringfellow Hawke | Jan-Michael Vincent |
+| May 25 | The Rifleman | Lucas McCain | Chuck Connors |
+| May 25 | Doogie Howser, M.D. | Doogie Howser | Neil Patrick Harris |
+| May 25 | Perfect Strangers | Balki Bartokomous | Bronson Pinchot |
+| May 25 | Scarecrow and Mrs. King | Lee Stetson | Bruce Boxleitner |
+| May 25 | McCloud | Marshal Sam McCloud | Dennis Weaver |
+
+| May 25 | Douglas Adams — "Answer to Life" from Hitchhiker's Guide | 42 |
+| May 25 | Only major female French Impressionist — mother/children paintings | Mary Cassatt |
+| May 25 | Paul Gauguin relocated to which island to paint | Tahiti (French Polynesia) |
+| May 25 | Middlemarch author / real name | George Eliot (Mary Ann Evans) |
+| May 25 | Roald Dahl children's novels | James and the Giant Peach / Charlie and the Chocolate Factory |
+| May 25 | "Water water everywhere" poem / poet | The Rime of the Ancient Mariner / Samuel Taylor Coleridge |
+
+| May 25 | Guinness Brewery founding year (9,000-yr lease) | 1759 |
+| May 25 | Marconi transatlantic radio signal destination province | Newfoundland (Signal Hill, St. John's) |
+| May 25 | X-rays named "X" because | Unknown nature of the radiation (X = unknown) |
+| May 25 | Red Bull inspired by drink from which country | Thailand (Krating Daeng) |
+| May 25 | Converse Chuck Taylors original sport | Basketball (1917) |
+| May 25 | ByteDance Chinese domestic version of TikTok | Douyin |
+
+| May 25 | Animals | Wombats only animals with cube-shaped droppings — prevents rolling off logs/rocks |
+| May 25 | Food/Culture | Fortune cookies invented in San Francisco (Japanese-American immigrants), not China |
+| May 25 | Astronomy | Earth has ~3 trillion trees — more than stars in the Milky Way (~100-400 billion) |
+| May 25 | Geography | Canary Islands named after dogs (Insula Canaria = Island of Dogs), not the bird |
+| May 25 | Science | Eiffel Tower grows ~6 inches (15 cm) taller in summer due to thermal expansion |
+| May 25 | Biology | Humans only mammals with true protruding chin bone |
+| May 25 | Records | Charles Osborne hiccuped for 68 years (1922-1990) — Guinness record |
+| May 25 | History | First US televised baseball game = Reds vs. Dodgers, August 26, 1939, NBC W2XBS |
+| May 25 | Animals | Flamingos naturally white/gray; pink color from carotenoids in their diet |
+| May 25 | Geography | Maine only US state with one-syllable name; borders only one other state (NH) |
+| May 25 | Math | 52! deck arrangements (~8×10^67) > atoms on Earth; every shuffle is likely unique |
+| May 25 | Weather | UK hottest May day in 79 years: 32.3°C at Kew Gardens, London (this week) |
+
+| May 25 | May 25 (Babe Ruth 714th/last HR at Forbes Field 1935; JFK moon challenge 1961; Star Wars release 1977 — 49th anniversary; AA Flt 191 O'Hare crash 1979 — 273 killed; Phoenix Mars lander touchdown 2008) | — |
+| May 25 | National Days: Memorial Day; National Wine Day; Geek Pride Day; Towel Day (Douglas Adams); National Tap Dance Day; African Liberation Day | — |
+
+_Last updated: May 25, 2026 (v15 — May 25 Memorial Day run added)_
