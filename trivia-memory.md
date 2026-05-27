@@ -1603,3 +1603,62 @@ _Last updated: May 22, 2026 (v14 — May 22 Friday run added)_
 | May 25 | National Days: Memorial Day; National Wine Day; Geek Pride Day; Towel Day (Douglas Adams); National Tap Dance Day; African Liberation Day | — |
 
 _Last updated: May 25, 2026 (v15 — May 25 Memorial Day run added)_
+
+| May 27 | Capital of Ecuador | Quito |
+| May 27 | Capital of Slovakia | Bratislava |
+| May 27 | Capital of Tajikistan | Dushanbe |
+| May 27 | Capital of Belize | Belmopan |
+
+| May 27 | Spenser: For Hire | Spenser | Robert Urich |
+| May 27 | Gimme a Break! | Nell Harper | Nell Carter |
+| May 27 | The White Shadow | Ken Reeves | Ken Howard |
+| May 27 | Medical Center | Dr. Joe Gannon | Chad Everett |
+| May 27 | Alias Smith and Jones | Hannibal Heyes / Kid Curry | Pete Duel / Ben Murphy |
+| May 27 | Mr. Belvedere | George Belvedere | Christopher Hewett |
+
+| May 27 | Thomas Hardy — Dorset county fictional name | Wessex |
+| May 27 | Hermann Hesse — 1946 Nobel Prize novel | The Glass Bead Game (Magister Ludi) |
+| May 27 | Aleksandr Solzhenitsyn Nobel Prize year | 1970 |
+| May 27 | Jean Sibelius — Finnish anthem connection | Finlandia (1899) |
+| May 27 | George Bernard Shaw — refused which honor in 1925 | Nobel Prize (accepted only Nobel Medal) |
+| May 27 | Kazuo Ishiguro — 2017 Nobel Prize; key novel | The Remains of the Day |
+
+| May 27 | Home Depot | 1978 (Atlanta founders: Blank, Marcus, Langone) |
+| May 27 | Blockbuster | 1985 (Dallas, David Cook) |
+| May 27 | Cotton candy machine | 1897 (William Morrison & John Wharton) |
+| May 27 | TikTok | 2016 (ByteDance, Zhang Yiming) |
+| May 27 | Zoom | 2011 (Eric Yuan; launched 2013) |
+| May 27 | Leatherman multi-tool | 1983 (Tim Leatherman) |
+
+| May 27 | History | William Henry Harrison shortest presidency — died pneumonia 31 days (1841) |
+| May 27 | History | US 50-star flag designed by 17-yr-old Robert Heft as school project (got B-, then A after Congress adopted it) |
+| May 27 | Animals | Group of peacocks called a muster (males) or bevy (females) |
+| May 27 | Astronomy | Jupiter's Great Red Spot is a storm that has lasted 350+ years |
+| May 27 | Science | Tardigrades (water bears) survive in space, extreme heat/cold, radiation |
+| May 27 | Food | Nutella invented in WWII — cocoa scarce, hazelnuts used to stretch supply |
+| May 27 | Geography | Welsh village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch — 58 letters, longest place name in Europe |
+| May 27 | History | Typewriter (1868) invented before telephone (1876) |
+| May 27 | Geography | Norway's coastline (58,000 mi) longer than equator (24,901 mi) |
+| May 27 | History | Green Sahara existed 5,000-11,000 years ago; hippos and crocs in current desert regions |
+| May 27 | Science | Human brain uses ~20 watts of power — enough to power a dim light bulb |
+
+| May 27 | Sports | NBA Finals: Knicks vs. Pacers (East) — Knicks first Finals since 1999; Thunder beat Spurs for West |
+| May 27 | Sports | NHL: Conf Finals — VGK (West) vs. ? (East); CAR leads MTL 2-1 tonight G4 |
+| May 27 | Sports | MLS: Lionel Messi 13G/6A for Inter Miami 2026 |
+| May 27 | Sports | NFL: Aaron Rodgers reports to Pittsburgh Steelers OTAs |
+| May 27 | Deaths | Kyle Busch (41), NASCAR champion, died May 21 |
+| May 27 | Deaths | Doris Fisher (94), co-founder Gap Inc., died May 2026 |
+| May 27 | Deaths | Alex Ligertwood (79), lead vocalist for Santana, died May 2026 |
+| May 27 | Box Office | Mandalorian & Grogu #1 opening wknd $100M domestic 4-day / $163M global |
+| May 27 | Box Office | Michael (Michael Jackson biopic) approaching $800M WW |
+
+| May 27 | May 27 (St. Petersburg founded by Peter the Great 1703; Chrysler Building opened NYC 1930; Golden Gate Bridge Pedestrian Day 1937) | — |
+| May 27 | National Days: National Sunscreen Day; World Otter Day; National Flip Flop Day; Eid ul-Adha | — |
+
+| May 27 | In the End | Linkin Park | 2000 |
+| May 27 | Semi-Charmed Life | Third Eye Blind | 1997 |
+| May 27 | Santeria | Sublime | 1996 |
+| May 27 | Beautiful | Christina Aguilera | 2002 |
+| May 27 | Lightning Crashes | Live | 1994 |
+
+_Last updated: May 27, 2026 (v16 — May 27 Wednesday run added)_
