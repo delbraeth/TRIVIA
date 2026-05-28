@@ -1662,3 +1662,58 @@ _Last updated: May 25, 2026 (v15 — May 25 Memorial Day run added)_
 | May 27 | Lightning Crashes | Live | 1994 |
 
 _Last updated: May 27, 2026 (v16 — May 27 Wednesday run added)_
+
+| May 28 | Capital of Austria | Vienna |
+| May 28 | Capital of the Philippines | Manila |
+| May 28 | Capital of Colombia | Bogotá |
+| May 28 | Capital of Romania | Bucharest |
+
+| May 28 | Mission: Impossible | Jim Phelps | Peter Graves |
+| May 28 | The Mod Squad | Linc Hayes | Clarence Williams III |
+| May 28 | Roseanne | Roseanne Conner | Roseanne Barr |
+| May 28 | Home Improvement | Tim "The Toolman" Taylor | Tim Allen |
+| May 28 | Night Court | Judge Harry T. Stone | Harry Anderson |
+| May 28 | NYPD Blue | Det. Andy Sipowicz | Dennis Franz |
+
+| May 28 | "Call me Ishmael" opening line novel / author | Moby-Dick / Herman Melville |
+| May 28 | Author of Don Quixote | Miguel de Cervantes (1605) |
+| May 28 | Toni Morrison debut novel | The Bluest Eye (1970) |
+| May 28 | William Faulkner fictional Mississippi county | Yoknapatawpha County |
+| May 28 | Beethoven 9th Symphony premiere year (while deaf) | 1824 |
+| May 28 | "Do not go gentle into that good night" poet | Dylan Thomas |
+
+| May 28 | McDonald's founded year / founders | 1940 / Dick & Mac McDonald |
+| May 28 | World Wide Web inventor / year | Tim Berners-Lee / 1989 (CERN) |
+| May 28 | Amazon founded year | 1994 (Jeff Bezos, Bellevue WA) |
+| May 28 | LEGO founding year / country | 1932 / Denmark (Ole Kirk Christiansen) |
+| May 28 | Polio vaccine developer / year | Jonas Salk / 1955 |
+| May 28 | Post-it Note inventor / what Silver tried to invent | Spencer Silver (strong adhesive, got weak one) → Art Fry applied 1974 → launched 1980 |
+
+| May 28 | Animals | Octopuses have 3 hearts and blue blood (copper-based hemocyanin) |
+| May 28 | Science | Lightning ~5× hotter than sun's surface (~30,000K vs 5,500K) |
+| May 28 | History | Napoleon was average height ~5'7" — myth from British propaganda + measurement confusion |
+| May 28 | Food | Honey never spoils — 3,000-yr-old edible honey found in Egyptian tombs |
+| May 28 | Geography | Canada has more lakes than rest of world combined (~60% of world's freshwater lakes) |
+| May 28 | History | Oxford Univ (teaching ~1096 AD) older than Aztec Empire (founded ~1345 AD) |
+| May 28 | Animals | Crows recognize individual human faces and hold grudges |
+| May 28 | Science | Water boils at 202°F/94°C atop Mt. Everest (lower atmospheric pressure) |
+| May 28 | Geography | Vatican City world's smallest country (~110 acres, ~size of golf course) |
+| May 28 | Language | "Queue" sounds same with last 4 letters removed |
+
+| May 28 | NBA Finals | Knicks in Finals (first since 1999); West Finals G6 TONIGHT Thunder vs Spurs OKC 3-2 |
+| May 28 | NHL | VGK swept COL — in Stanley Cup Finals; CAR leads MTL 3-1 East Final |
+| May 28 | Deaths | Sonny Rollins (95), jazz saxophonist, died May 25 |
+| May 28 | Deaths | Rob Base (59), rapper "It Takes Two", died May 22 |
+| May 28 | Deaths | Pierre Deny (69), Emily in Paris actor, died May 25 ALS |
+| May 28 | Box Office | Mandalorian & Grogu still #1; Martin Scorsese voices Hugo alien fry cook |
+
+| May 28 | May 28 (Volkswagen founded 1937 — 89th birthday; Dionne quintuplets born 1934; Belgium surrendered WWII 1940; Maya Angelou died 2014) | — |
+| May 28 | National Days: National Hamburger Day; Amnesty International Day; World Hunger Day; International Day of Action on Women's Health | — |
+
+| May 28 | Mr. Jones | Counting Crows | 1993 |
+| May 28 | Iris | The Goo Goo Dolls | 1998 |
+| May 28 | Drops of Jupiter | Train | 2001 |
+| May 28 | Don't Speak | No Doubt | 1996 |
+| May 28 | Black Hole Sun | Soundgarden | 1994 |
+
+_Last updated: May 28, 2026 (v17 — May 28 Thursday run added)_
