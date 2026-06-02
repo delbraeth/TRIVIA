@@ -1777,3 +1777,62 @@ _Last updated: May 28, 2026 (v17 — May 28 Thursday run added)_
 | Jun 1 | Boulevard of Broken Dreams | Green Day | 2004 |
 
 _Last updated: June 1, 2026 (v18 — June 1 run added; music links use Spotify/Apple search URLs)_
+
+| Jun 2 | Capital of Tunisia | Tunis |
+| Jun 2 | Capital of Wales | Cardiff |
+| Jun 2 | Capital of Lebanon | Beirut |
+| Jun 2 | Capital of Venezuela | Caracas |
+
+| Jun 2 | The Phil Silvers Show | Sgt. Ernie Bilko | Phil Silvers |
+| Jun 2 | Sea Hunt | Mike Nelson | Lloyd Bridges |
+| Jun 2 | Ironside | Chief Robert T. Ironside | Raymond Burr |
+| Jun 2 | Cannon | Frank Cannon | William Conrad |
+| Jun 2 | Trapper John, M.D. | "Trapper John" McIntyre | Pernell Roberts |
+| Jun 2 | Alice | Alice Hyatt | Linda Lavin |
+
+| Jun 2 | Author of Gulliver's Travels (1726) | Jonathan Swift |
+| Jun 2 | Author of The Canterbury Tales | Geoffrey Chaucer |
+| Jun 2 | Author of Robinson Crusoe (1719) | Daniel Defoe |
+| Jun 2 | Author of The War of the Worlds (1898) | H.G. Wells |
+| Jun 2 | Flemish Baroque painter of The Descent from the Cross | Peter Paul Rubens |
+| Jun 2 | Composer of The Carnival of the Animals | Camille Saint-Saëns |
+
+| Jun 2 | Bagless cyclonic vacuum / prototypes | James Dyson — 5,127 prototypes |
+| Jun 2 | Super Soaker inventor | Lonnie Johnson (NASA engineer), 1989 |
+| Jun 2 | Bluetooth named after | King Harald "Bluetooth" Gormsson (10th-c. Denmark) |
+| Jun 2 | Stethoscope inventor/year | René Laennec, 1816 |
+| Jun 2 | Modern trampoline inventor/year | George Nissen, 1936 |
+| Jun 2 | Braille reading system | Louis Braille, 1824 (at age 15) |
+
+| Jun 2 | Astronomy | Neutron star: sugar-cube-sized piece weighs ~1 billion tons |
+| Jun 2 | Animals | A shrimp's heart is in its head |
+| Jun 2 | Geography | Russia spans 11 time zones — more than any country |
+| Jun 2 | Language | "Set" has the most distinct dictionary definitions (400+) |
+| Jun 2 | History | Cleopatra lived closer to the Moon landing than to the Great Pyramid's construction |
+| Jun 2 | Food | Carrots were originally purple; orange bred in 17th-c. Netherlands |
+| Jun 2 | Science | Mpemba effect — hot water can freeze faster than cold |
+| Jun 2 | Animals | Octopuses taste with their arms (chemical receptors in suckers) |
+| Jun 2 | Body | Human nose can detect ~1 trillion distinct scents |
+| Jun 2 | Pop culture | "Star-Spangled Banner" set to an 18th-c. British drinking song |
+| Jun 2 | Geography | The Sahara (Ain Sefra, Algeria) has been dusted with snow multiple times in the last decade |
+| Jun 2 | Animals | Honeybees recognize human faces by combining features |
+
+| Jun 2 | Sports | Reds 30-29 .508 5th NL Central 7.0 GB Brewers (36-21); last 5 L-L-L-W-L (1-4); vs KC Royals today 7:10 ET (lost opener 9-2) |
+| Jun 2 | NHL | Stanley Cup Final Game 1 tonight Jun 2 — Golden Knights @ Hurricanes 8 ET ABC; Vegas swept Avalanche |
+| Jun 2 | NBA | Finals Knicks vs Spurs (1999 rematch); G1 Wed Jun 3 8:30 ET ABC; Wembanyama for SA |
+| Jun 2 | MLS | Messi & De Paul named to Argentina 26-man World Cup roster |
+| Jun 2 | NFL | OTAs continue: Mahomes (ACL rehab), Lamar Jackson (Ravens), Rodgers (Steelers) |
+| Jun 2 | Box Office | Backrooms (A24) still #1, past $89M dom / $120M+ WW in 4 days; Obsession +39% 2nd weekend ($23.9M); dir Kane Parsons (20) youngest #1 ever |
+| Jun 2 | Deaths | Rick Adelman (79, HOF NBA coach); Raymond Berry (93, NFL HOF WR Colts); Joe Negri (99, Mr Rogers "Handyman Negri"); Foster Sylvers (64, 1970s R&B "Misdemeanor") |
+
+| Jun 2 | June 2 (QEII coronation 1953 — first televised major intl event; Indian Citizenship Act 1924; Surveyor 1 first US Moon soft-landing 1966; Lou Gehrig dies 1941) | — |
+| Jun 2 | National Days: National Rotisserie Chicken Day; National Rocky Road Day; American Indian Citizenship Day; National Leave Work Early Day; National First Ladies Day; Italy Festa della Repubblica | — |
+
+| Jun 2 | Song 2 | Blur | 1997 |
+| Jun 2 | Buddy Holly | Weezer | 1994 |
+| Jun 2 | Kryptonite | 3 Doors Down | 2000 |
+| Jun 2 | My Own Worst Enemy | Lit | 1999 |
+| Jun 2 | All Star | Smash Mouth | 1999 |
+| Jun 2 | Sabotage | Beastie Boys | 1994 |
+
+_Last updated: June 2, 2026 (v19 — June 2 Tuesday run added)_
