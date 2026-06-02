@@ -1717,3 +1717,63 @@ _Last updated: May 27, 2026 (v16 — May 27 Wednesday run added)_
 | May 28 | Black Hole Sun | Soundgarden | 1994 |
 
 _Last updated: May 28, 2026 (v17 — May 28 Thursday run added)_
+
+| Jun 1 | Capital of Ohio | Columbus |
+| Jun 1 | Capital of Canada | Ottawa |
+| Jun 1 | Capital of Kenya | Nairobi |
+| Jun 1 | Capital of Poland | Warsaw |
+
+| Jun 1 | Have Gun – Will Travel | Paladin | Richard Boone |
+| Jun 1 | The Avengers (1961 UK) | John Steed | Patrick Macnee |
+| Jun 1 | Kung Fu | Kwai Chang Caine | David Carradine |
+| Jun 1 | Soap | Jessica Tate | Katherine Helmond |
+| Jun 1 | The Love Boat | Capt. Merrill Stubing | Gavin MacLeod |
+| Jun 1 | Falcon Crest | Angela Channing | Jane Wyman |
+
+| Jun 1 | Author of Fahrenheit 451 (1953) | Ray Bradbury |
+| Jun 1 | Author of The Handmaid's Tale (1985) | Margaret Atwood |
+| Jun 1 | Dutch painter of The Garden of Earthly Delights | Hieronymus Bosch |
+| Jun 1 | French composer of Clair de Lune | Claude Debussy |
+| Jun 1 | Beat poet who wrote Howl (1956) | Allen Ginsberg |
+| Jun 1 | Author of Pulitzer-winning The Road | Cormac McCarthy |
+
+| Jun 1 | Ben & Jerry's founded | 1978, Burlington, Vermont (Ben Cohen & Jerry Greenfield) |
+| Jun 1 | Tesla Inc. founders/year | 2003, Martin Eberhard & Marc Tarpenning |
+| Jun 1 | Movable-type printing press inventor | Johannes Gutenberg (~1440) |
+| Jun 1 | Spotify founded | 2006, Stockholm, Sweden (Daniel Ek & Martin Lorentzon) |
+| Jun 1 | Häagen-Dazs origin | 1960, the Bronx NYC; name is made-up "Danish-sounding" nonsense |
+| Jun 1 | Disposable safety razor patent | 1904, King C. Gillette |
+
+| Jun 1 | Geography | Istanbul is the only major city spanning two continents (Europe & Asia) |
+| Jun 1 | Astronomy | A day on Mercury (sunrise to sunrise) ~176 Earth days — longer than its 88-day year |
+| Jun 1 | Animals | A group of jellyfish is called a "smack" |
+| Jun 1 | History | The Hundred Years' War actually lasted 116 years (1337–1453) |
+| Jun 1 | Language | "OK" first appeared in print in 1839 Boston as a joke for "oll korrect" |
+| Jun 1 | Geography | Africa is the only continent in all four hemispheres (N, S, E, W) |
+| Jun 1 | Animals | Starfish have no brain and no blood; move via water-vascular system |
+| Jun 1 | Science | Human body contains enough carbon to make ~900 pencils |
+| Jun 1 | Pop culture | Hollywood sign originally read "HOLLYWOODLAND" (erected 1923) |
+| Jun 1 | Food | Pineapple enzyme bromelain digests protein — makes tongue tingle |
+| Jun 1 | Sports | Golf balls have 300–500 dimples; fly ~2x farther than a smooth ball |
+| Jun 1 | Time | In medieval England a "moment" was exactly 90 seconds |
+
+| Jun 1 | Sports | Reds 30-29, 5th NL Central 7.0 GB; lost to Royals 9-2 (Jun 1); 1-4 last 5 |
+| Jun 1 | NBA | Finals set: Knicks vs Spurs (1999 rematch); Knicks' first Finals since '99; Wembanyama for SA; G1 Jun 3 |
+| Jun 1 | NHL | Stanley Cup Final: Golden Knights vs Hurricanes; Vegas swept Presidents'-Trophy Avalanche; G1 Jun 2 |
+| Jun 1 | MLS | Messi (L hamstring fatigue) & De Paul named to Argentina's 26-man World Cup roster; Messi joins billionaire club |
+| Jun 1 | NFL | OTAs underway: Mahomes back in drills (ACL rehab), Lamar Jackson returns to Ravens, Rodgers with Steelers |
+| Jun 1 | World Cup | 2026 FIFA World Cup kicks off Jun 11 — first 48-team, 3-nation (USA/Can/Mex), 16 host cities, final Jul 19 |
+| Jun 1 | Box Office | Backrooms (A24) #1: $81.4M dom / $117.9M WW opening — A24 record; dir Kane Parsons (20) youngest ever #1 |
+| Jun 1 | Deaths | Bob Horner (68, Braves 3B/1978 NL ROY); Claude Lemieux (60, 4x Cup champ, 1995 Conn Smythe); Kelly Curtis (69, actress, Jamie Lee Curtis's sister); Jay Daniel (82, TV producer Moonlighting/Roseanne); Marc Johnson (49, pro skateboarder) |
+
+| Jun 1 | June 1 (CNN launches as first 24-hr news channel 1980; Beatles release Sgt. Pepper 1967; Helen Keller dies 1968; James Clark Ross reaches North Magnetic Pole 1831) | — |
+| Jun 1 | National Days: World Milk Day; National Pen Pal Day; National Olive Day; Dinosaur Day; World Reef Awareness Day; National Go Barefoot Day; International Children's Day; National Say Something Nice Day | — |
+
+| Jun 1 | Bittersweet Symphony | The Verve | 1997 |
+| Jun 1 | Mr. Brightside | The Killers | 2004 |
+| Jun 1 | Clocks | Coldplay | 2002 |
+| Jun 1 | Seven Nation Army | The White Stripes | 2003 |
+| Jun 1 | 1979 | The Smashing Pumpkins | 1996 |
+| Jun 1 | Boulevard of Broken Dreams | Green Day | 2004 |
+
+_Last updated: June 1, 2026 (v18 — June 1 run added; music links use Spotify/Apple search URLs)_
