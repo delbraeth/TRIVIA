@@ -1836,3 +1836,62 @@ _Last updated: June 1, 2026 (v18 — June 1 run added; music links use Spotify/A
 | Jun 2 | Sabotage | Beastie Boys | 1994 |
 
 _Last updated: June 2, 2026 (v19 — June 2 Tuesday run added)_
+
+| Jun 3 | Capital of Nebraska | Lincoln |
+| Jun 3 | Capital of Idaho | Boise |
+| Jun 3 | Capital of Zimbabwe | Harare |
+| Jun 3 | Capital of Paraguay | Asunción |
+| Jun 3 | Capital of Malta | Valletta |
+
+| Jun 3 | My Favorite Martian | Uncle Martin | Ray Walston |
+| Jun 3 | Baretta | Tony Baretta | Robert Blake |
+| Jun 3 | Benson | Benson DuBois | Robert Guillaume |
+| Jun 3 | The Greatest American Hero | Ralph Hinkley | William Katt |
+| Jun 3 | Matlock | Ben Matlock | Andy Griffith |
+| Jun 3 | Touched by an Angel | Monica | Roma Downey |
+
+| Jun 3 | Author of The Count of Monte Cristo | Alexandre Dumas |
+| Jun 3 | Baroque chiaroscuro painter, The Calling of St. Matthew | Caravaggio |
+| Jun 3 | Composer of Flight of the Bumblebee | Nikolai Rimsky-Korsakov |
+| Jun 3 | A Raisin in the Sun playwright | Lorraine Hansberry |
+| Jun 3 | The Good Earth (Pulitzer 1932) | Pearl S. Buck |
+| Jun 3 | Peter Pan author (rights to Great Ormond Street) | J.M. Barrie |
+
+| Jun 3 | Samsung founded 1938 as | Grocery/dried-fish trader, Korea |
+| Jun 3 | Nokia founded 1865 as | Paper mill, Finland |
+| Jun 3 | Lamborghini founder's prior business | Tractors (Ferruccio Lamborghini, 1963) |
+| Jun 3 | 7-Eleven origin 1927 | Southland Ice Company, Dallas |
+| Jun 3 | Vaseline patent 1872 | Robert Chesebrough (ate a spoonful daily) |
+| Jun 3 | First crossword puzzle 1913 | Arthur Wynne, New York World |
+
+| Jun 3 | Animals | Nine-banded armadillos always birth identical quadruplets |
+| Jun 3 | History | France still used the guillotine when Star Wars premiered (last use Sept 1977) |
+| Jun 3 | Geography | Philippines ~7,641 islands, only ~2,000 inhabited |
+| Jun 3 | Animals | Kangaroos can't walk backwards (coat of arms symbolism) |
+| Jun 3 | Language | "Nerd" first appeared in Dr. Seuss's If I Ran the Zoo (1950) |
+| Jun 3 | Language | # symbol = "octothorpe" (Bell Labs, 1960s) |
+| Jun 3 | History | Abraham Lincoln was a licensed bartender (Berry & Lincoln, 1833) |
+| Jun 3 | Food | Croissant descends from Austrian kipferl, not French |
+| Jun 3 | Space | Apollo astronauts signed insurance autograph covers for families |
+| Jun 3 | Science | Regular soda sinks in water; diet soda floats (sugar density) |
+
+| Jun 3 | Sports | Reds 31-29 .517 5th NL Central 7.0 GB; last 5 W-L-W-L-L (2-3); vs KC Royals today 7:10 ET |
+| Jun 3 | NBA | Finals G1 tonight: Knicks @ Spurs 8:30 ET (NY first Finals since 1999) |
+| Jun 3 | NHL | SCF G1: Vegas won 5-4 @ Carolina (Hertl GWG); G2 Thu Jun 4 ABC |
+| Jun 3 | MLB | C. Sánchez 44.2 IP scoreless streak; Mariners 8-game W streak; Ohtani 0.82 ERA; ASG voting open (Jul 14 PHL) |
+| Jun 3 | NFL | OTAs: Rodgers $25M farewell yr PIT; Mahomes ACL rehab drills; Robertson-Harris (NYG) out for season |
+| Jun 3 | World Cup | Opens Jun 11 Mexico v South Africa, Estadio Azteca; 48 teams, 3 hosts |
+| Jun 3 | Box Office | Backrooms #1, $81M opening / $118M WW, A24 record, crosses $100M in 6 days; ~$10M budget |
+| Jun 3 | Deaths | Peabo Bryson (75, R&B Grammy duets); Rick Adelman (79, NBA coach); Bob Horner (68, Braves) |
+
+| Jun 3 | June 3 (Ed White first US spacewalk 1965; "Casey at the Bat" published 1888; John Adams first president in DC 1800) | — |
+| Jun 3 | National Days: World Bicycle Day; Global Running Day; National Egg Day; National Repeat Day | — |
+
+| Jun 3 | Closing Time | Semisonic | 1998 |
+| Jun 3 | Two Princes | Spin Doctors | 1991 |
+| Jun 3 | What's Up? | 4 Non Blondes | 1992 |
+| Jun 3 | I Try | Macy Gray | 1999 |
+| Jun 3 | The Middle | Jimmy Eat World | 2001 |
+| Jun 3 | Apologize | Timbaland ft. OneRepublic | 2007 |
+
+_Last updated: June 3, 2026 (v20 — June 3 Wednesday run added)_
