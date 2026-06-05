@@ -1895,3 +1895,57 @@ _Last updated: June 2, 2026 (v19 — June 2 Tuesday run added)_
 | Jun 3 | Apologize | Timbaland ft. OneRepublic | 2007 |
 
 _Last updated: June 3, 2026 (v20 — June 3 Wednesday run added)_
+
+| Jun 5 | Capital of Iraq | Baghdad |
+| Jun 5 | Capital of Bulgaria | Sofia |
+| Jun 5 | Capital of Armenia | Yerevan |
+| Jun 5 | Capital of Laos | Vientiane |
+
+| Jun 5 | T.J. Hooker | Sgt. T.J. Hooker | William Shatner |
+| Jun 5 | The Fall Guy | Colt Seavers | Lee Majors |
+| Jun 5 | Buck Rogers in the 25th Century | Buck Rogers | Gil Gerard |
+| Jun 5 | 77 Sunset Strip | Stu Bailey | Efrem Zimbalist Jr. |
+| Jun 5 | McHale's Navy | Lt. Cmdr. Quinton McHale | Ernest Borgnine |
+| Jun 5 | Burke's Law | Amos Burke | Gene Barry |
+
+| Jun 5 | First African Nobel Literature laureate (1986, Nigeria) | Wole Soyinka |
+| Jun 5 | "Father of Modern Art" / The Card Players | Paul Cézanne |
+| Jun 5 | Piano Concerto No. 2 in C minor (1901) | Sergei Rachmaninoff |
+| Jun 5 | Philip K. Dick novel that became Blade Runner | Do Androids Dream of Electric Sheep? (1968) |
+| Jun 5 | Author of Gone with the Wind (Pulitzer 1937) | Margaret Mitchell |
+| Jun 5 | Flemish painter of the Arnolfini Portrait (1434) | Jan van Eyck |
+
+| Jun 5 | Taco Bell founded year/founder | 1962, Glen Bell, Downey CA |
+| Jun 5 | Rolls-Royce founders (1906) | Henry Royce & Charles Rolls, Manchester |
+| Jun 5 | Heineken founded year/founder/city | 1873, Gerard Adriaan Heineken, Amsterdam |
+| Jun 5 | Porsche founded year/founder | 1931, Ferdinand Porsche, Stuttgart |
+| Jun 5 | First public telegraph message (1844) | "What hath God wrought" — Samuel Morse |
+| Jun 5 | Dunkin' founded year/city | 1950, Bill Rosenberg, Quincy MA |
+
+| Jun 5 | History | Great Emu War 1932 — Australian military vs. emus; emus won |
+| Jun 5 | History | New Zealand first country to grant women's suffrage (1893) |
+| Jun 5 | Sports/History | Abraham Lincoln — near-undefeated wrestler; National Wrestling Hall of Fame |
+| Jun 5 | Animals | Group of turkeys = "rafter"; group of kangaroos = "mob" |
+| Jun 5 | History | Leaning Tower of Pisa took 177 years to build (1173–1350) |
+| Jun 5 | History | Swiss neutrality formalized at Congress of Vienna (1815) |
+| Jun 5 | Animals | Flea jumps ~200× its own body length |
+| Jun 5 | History | Roman Colosseum flooded for mock naval battles — "naumachiae" |
+| Jun 5 | Tech | Anthropic files for IPO; valuation ~$965B |
+| Jun 5 | Sports | NBA Finals: Knicks vs. Spurs (1999 rematch); G1 Knicks 105-95; G2 tonight |
+| Jun 5 | Sports | NHL SCF: Vegas 1 CAR 1 (G2 CAR won 4-3 OT); G3 Sat Jun 6 |
+| Jun 5 | Sports | Reds 31-30 .508 5th NL Central 6.5 GB Brewers (37-23); @ STL 8:15 PM ET |
+| Jun 5 | Sports | FIFA World Cup 2026 opens Jun 11 — first 48-team / 3-nation WC; Mexico vs South Africa at Azteca |
+| Jun 5 | Box Office | Scary Movie 6 #1 ~$52M+ opening — franchise record; Masters of Universe #2 ~$31M |
+| Jun 5 | Deaths | Anthony Head (72, Giles on Buffy/Ted Lasso); Marjane Satrapi (56, Persepolis); Peabo Bryson (75, R&B duets); James Handy (81, character actor) |
+| Jun 5 | News | Senate $70B immigration bill; Iran missiles vs Kuwait/Bahrain; Anthropic IPO filing; Scott Pelley vs. CBS |
+
+| Jun 5 | One | U2 | 1991 |
+| Jun 5 | Basket Case | Green Day | 1994 |
+| Jun 5 | The Sign | Ace of Base | 1993 |
+| Jun 5 | Independent Women Pt. 1 | Destiny's Child | 2000 |
+| Jun 5 | Low (feat. T-Pain) | Flo Rida | 2007 |
+
+| Jun 5 | June 5 (Marshall Plan announced 1947; RFK shot 1968; Apple II on sale 1977; first AIDS report 1981; Reagan dies 2004) | — |
+| Jun 5 | National Days: World Environment Day; National Doughnut Day; National Hot Air Balloon Day; National Cheese Day; National Gingerbread Day | — |
+
+_Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
