@@ -1949,3 +1949,70 @@ _Last updated: June 3, 2026 (v20 — June 3 Wednesday run added)_
 | Jun 5 | National Days: World Environment Day; National Doughnut Day; National Hot Air Balloon Day; National Cheese Day; National Gingerbread Day | — |
 
 _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
+
+## June 9, 2026 (v22)
+
+### Capitals
+| Jun 9 | Luxembourg | Luxembourg City |
+| Jun 9 | Philippines | Manila |
+| Jun 9 | Jordan | Amman |
+| Jun 9 | Cameroon | Yaoundé |
+
+### Classic TV
+| Jun 9 | Monk (2002–09) | Adrian Monk | Tony Shalhoub |
+| Jun 9 | The Wire (2002–08) | Det. Jimmy McNulty | Dominic West |
+| Jun 9 | Marcus Welby, M.D. (1969–76) | Dr. Marcus Welby | Robert Young |
+| Jun 9 | Barnaby Jones (1973–80) | Barnaby Jones | Buddy Ebsen |
+| Jun 9 | Charmed (1998–2006) | Piper Halliwell | Holly Marie Combs |
+| Jun 9 | The Larry Sanders Show (1992–98) | Larry Sanders | Garry Shandling |
+
+### Arts & Literature
+| Jun 9 | Middlemarch (1871) author | George Eliot (Mary Ann Evans) |
+| Jun 9 | The Thinker sculptor | Auguste Rodin |
+| Jun 9 | Norwegian Wood (1987) author | Haruki Murakami |
+| Jun 9 | Washington Crossing the Delaware painter | Emanuel Leutze |
+| Jun 9 | Midnight's Children (1981) author | Salman Rushdie |
+| Jun 9 | The Kite Runner (2003) author | Khaled Hosseini |
+
+### Founded & Invented
+| Jun 9 | Safety razor patent (1901) | King Camp Gillette |
+| Jun 9 | Phonograph invented (1877) | Thomas Edison |
+| Jun 9 | First commercial airline flight (Jan 1, 1914) | St. Petersburg to Tampa, FL; pilot Tony Jannus; $5 fare |
+| Jun 9 | Wrigley Company (1891) | William Wrigley Jr.; originally sold baking powder; gum was the bonus |
+| Jun 9 | Colgate (1806) | William Colgate; originally soap, starch, and candles |
+| Jun 9 | Ziploc bag (1968) | Dow Chemical |
+
+### General Trivia
+| Jun 9 | Animals | Wolverines ("skunk bears") drive bears/mountain lions from carcasses |
+| Jun 9 | History | Roman Empire peak ~117 AD = ~70M people = ~20% of world population |
+| Jun 9 | Science | Electric eel is not an eel — it's a knifefish; generates up to 860 volts |
+| Jun 9 | Mandela Effect | Monopoly man (Rich Uncle Pennybags) never had a monocle |
+| Jun 9 | Science | Water expands ~9% when freezing — why ice floats, pipes burst |
+| Jun 9 | Geography | Tokyo metro (~37.4M) larger than entire population of Canada (~38M) |
+| Jun 9 | History | Cleopatra spoke 9 languages; first Ptolemaic ruler to learn Egyptian |
+| Jun 9 | Animals | Blue whale heart beats 2–6 times/min when diving deep |
+| Jun 9 | Food | Nutmeg (myristicin) causes hallucinations/toxicity in large doses |
+| Jun 9 | Biology | Human eye distinguishes ~10 million different colors |
+
+### Songs
+| Jun 9 | November Rain | Guns N' Roses | 1991 |
+| Jun 9 | Santeria | Sublime | 1996 |
+| Jun 9 | Teardrop | Massive Attack | 1998 |
+| Jun 9 | Beautiful | Christina Aguilera | 2002 |
+| Jun 9 | Take Me Out | Franz Ferdinand | 2004 |
+| Jun 9 | Chasing Cars | Snow Patrol | 2006 |
+
+### This Day in History
+| Jun 9 | June 9 (Kingsford Smith trans-Pacific 1928; Donald Duck debut 1934; Golan Heights captured 1967; Thatcher reelected 1983; Griffey 600th HR 2010) | — |
+| Jun 9 | National Days: National Donald Duck Day; National Food Truck Day; National Strawberry-Rhubarb Pie Day; International Dark 'n Stormy Day; World Tessellation Day | — |
+
+### Sports / Current Events
+| Jun 9 | Sports | NBA Finals: Knicks lead Spurs 2-1; G3 Spurs 115-111 MSG; Wembanyama 32/8/6; G4 Tue Jun 10 SA |
+| Jun 9 | Sports | NHL SCF: Golden Knights lead Hurricanes 2-1; G3 VGK 5-4 2OT; Marner fastest hat trick in Finals history (28 pts series); G4 tonight LV |
+| Jun 9 | Sports | FIFA World Cup 2026 opens June 11; Mexico vs South Africa at Azteca; first 48-team / 3-nation WC |
+| Jun 9 | Sports | MLB: Misiorowski (Brewers) 103.7 mph — MLB record for a starting pitcher |
+| Jun 9 | Sports | Reds 31-33 .484 NL Central 5th 9.5 GB; L4 streak; @ SD Padres 9:40 PM ET |
+| Jun 9 | Box Office | Scary Movie #1 ~$55M domestic / ~$105.5M global; Masters of Universe #2 ~$31M |
+| Jun 9 | Deaths | Anthony Head (72, Giles/Buffy, June 1); Peabo Bryson (75, R&B, June 2); Marjane Satrapi (56, Persepolis, June 4); Alan Hale (68, comet Hale-Bopp, June 6) |
+
+_Last updated: June 9, 2026 (v22 — June 9 Thursday run added)_
