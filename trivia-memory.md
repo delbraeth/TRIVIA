@@ -2015,4 +2015,72 @@ _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 | Jun 9 | Box Office | Scary Movie #1 ~$55M domestic / ~$105.5M global; Masters of Universe #2 ~$31M |
 | Jun 9 | Deaths | Anthony Head (72, Giles/Buffy, June 1); Peabo Bryson (75, R&B, June 2); Marjane Satrapi (56, Persepolis, June 4); Alan Hale (68, comet Hale-Bopp, June 6) |
 
-_Last updated: June 9, 2026 (v22 — June 9 Thursday run added)_
+
+## June 10, 2026 (v23)
+
+### Capitals
+| Jun 10 | Fiji | Suva |
+| Jun 10 | Costa Rica | San José |
+| Jun 10 | Uzbekistan | Tashkent |
+| Jun 10 | Rwanda | Kigali |
+
+### Classic TV
+| Jun 10 | Gomer Pyle, U.S.M.C. (1964–69) | Gomer Pyle | Jim Nabors |
+| Jun 10 | Daniel Boone (1964–70) | Daniel Boone | Fess Parker |
+| Jun 10 | The Virginian (1962–71) | The Virginian | James Drury |
+| Jun 10 | Combat! (1962–67) | Sgt. Chip Saunders | Vic Morrow |
+| Jun 10 | Evening Shade (1990–94) | Wood Newton | Burt Reynolds |
+| Jun 10 | Crime Story (1986–88) | Lt. Mike Torello | Dennis Farina |
+
+### Arts & Literature
+| Jun 10 | The Call of the Wild / White Fang author | Jack London |
+| Jun 10 | Treasure Island author | Robert Louis Stevenson |
+| Jun 10 | "Surprise Symphony" / Father of the Symphony | Joseph Haydn |
+| Jun 10 | "I Wandered Lonely as a Cloud" (daffodils) poet | William Wordsworth |
+| Jun 10 | Around the World in Eighty Days author | Jules Verne |
+| Jun 10 | "View of Toledo" / elongated figures painter | El Greco |
+
+### Founded & Invented
+| Jun 10 | Oreo cookie debut (1912) | Nabisco |
+| Jun 10 | Automatic dishwasher (1886) | Josephine Cochrane |
+| Jun 10 | Dell (1984) | Michael Dell; started in his UT Austin dorm room |
+| Jun 10 | Intel (1968) | Gordon Moore & Robert Noyce |
+| Jun 10 | Sliced bread / bread-slicing machine (1928) | Otto Rohwedder |
+| Jun 10 | Toblerone (1908) | Swiss; hidden bear in the Matterhorn logo |
+
+### General Trivia
+| Jun 10 | Animals | Cows have regional "accents" in their moos |
+| Jun 10 | Did You Know | Vending machines cause more deaths/year on average than sharks |
+| Jun 10 | Pop Culture | Twitter's bird logo was named "Larry," after Larry Bird |
+| Jun 10 | Animals | Crocodiles cannot stick out their tongues |
+| Jun 10 | Food | Pound cake = a pound each of butter, sugar, flour, eggs |
+| Jun 10 | Geography | Point Nemo: ocean's most remote spot; nearest humans often on the ISS |
+| Jun 10 | Geography | Mt. Chimborazo (Ecuador), not Everest, is farthest from Earth's center |
+| Jun 10 | Science | Tungsten has the highest melting point of any metal (~6,192°F) |
+| Jun 10 | Biology | Axolotls regrow limbs, heart parts, even portions of their brain |
+| Jun 10 | Language | Fear of Friday the 13th = paraskevidekatriaphobia |
+
+### Songs
+| Jun 10 | Mr. Brightside | The Killers | 2004 |
+| Jun 10 | Zombie | The Cranberries | 1994 |
+| Jun 10 | Iris | Goo Goo Dolls | 1998 |
+| Jun 10 | Seven Nation Army | The White Stripes | 2003 |
+| Jun 10 | Hey Ya! | OutKast | 2003 |
+| Jun 10 | Crazy | Gnarls Barkley | 2006 |
+
+### This Day in History
+| Jun 10 | June 10 (Alcoholics Anonymous founded 1935; Six-Day War ceasefire 1967; The Sopranos finale 2007) | — |
+| Jun 10 | National Days: National Iced Tea Day; National Ballpoint Pen Day; National Egg Roll Day; National Black Cow Day | — |
+
+### Sports / Current Events
+| Jun 10 | Sports | NBA Finals: Knicks lead Spurs 2-1; G3 Spurs 115-111 MSG; G4 tonight Jun 10 MSG 8:30 ET |
+| Jun 10 | Sports | NHL SCF: Hurricanes-Golden Knights tied 2-2; G4 CAR 5-3 (Staal 2G); G5 Thu Jun 11 Carolina |
+| Jun 10 | Sports | FIFA World Cup opens Jun 11, Mexico vs South Africa at Azteca; Shakira opening ceremony |
+| Jun 10 | Sports | NFL minicamps: AJ Brown PHI->NE; Myles Garrett CLE->LAR; Mahomes record extension thru 2033 |
+| Jun 10 | Sports | NCAA: CWS field set, 8 teams to Omaha (record 5 SEC); starts Fri Jun 12 |
+| Jun 10 | Sports | Tennis: Zverev wins 1st major at French Open (def Cobolli); Mirra Andreeva wins women's |
+| Jun 10 | Sports | Reds 32-34 5th NL Central 9.5 GB; snapped 5-game skid (Stewart 11th-inn HR 5-3); @ SD 4:10 ET |
+| Jun 10 | Box Office | Scary Movie #1 $55M domestic / $105.5M global; Toy Story 5 (Jun 19) & Supergirl (Jun 26) upcoming |
+| Jun 10 | Deaths | Gordon S. Wood (92, historian); Talay Riley (35, singer); Sally Grace (74, actress); Sir John Swan (90, Bermuda premier) |
+
+_Last updated: June 10, 2026 (v23 — June 10 Thursday run added)_
