@@ -65,6 +65,7 @@
   .arts { border-top-color: #ad1457; } .arts h2 { color: #ad1457; }
   .founded { border-top-color: #4527a0; } .founded h2 { color: #4527a0; }
   .general { border-top-color: #00838f; } .general h2 { color: #00838f; }
+  .songs { border-top-color: #1db954; } .songs h2 { color: #128a3e; }
   .record { font-size: 40px; font-weight: 900; color: #c6011f; line-height: 1; }
   .record-sub { font-size: 13px; color: #555; margin: 4px 0 10px; font-weight: 600; }
   .form { font-size: 13px; margin-bottom: 4px; }
@@ -78,7 +79,18 @@
     font-weight: 600;
   }
   .nat { margin-top: 8px; padding-top: 8px; border-top: 1px dashed #ccc; font-size: 13px; }
+  .subsec { margin-top: 10px; padding-top: 9px; border-top: 1px dashed #ccc; }
+  .subsec .label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px; color: #b37e00; margin-bottom: 5px; }
   .span-2 { grid-column: span 2; }
+  .song-row { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px dashed rgba(0,0,0,0.12); gap:8px; }
+  .song-row:last-of-type { border-bottom:none; }
+  .song-info { flex:1; min-width:0; }
+  .song-title { font-weight:700; font-size:14px; color:#1a1a2e; }
+  .song-meta { font-size:12px; color:rgba(0,0,0,0.55); margin-top:1px; }
+  .song-links { display:flex; gap:6px; flex-shrink:0; }
+  .song-links a { text-decoration:none; font-size:11px; font-weight:700; padding:4px 9px; border-radius:4px; white-space:nowrap; }
+  .song-links a.spotify { background:#1db954; color:#fff; }
+  .song-links a.apple { background:#fa233b; color:#fff; }
   @media (max-width: 700px) { .span-2 { grid-column: span 1; } header h1 { font-size: 22px; } }
 </style>
 </head>
@@ -98,10 +110,14 @@
 <!-- ARCHIVE-NAV -->
 <div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
   <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-06-10.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 10</a>
   <a href="./thursday-trivia-2026-06-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 9</a>
   <a href="./thursday-trivia-2026-06-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 5</a>
   <a href="./thursday-trivia-2026-06-03.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 3</a>
   <a href="./thursday-trivia-2026-06-02.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 2</a>
+  <a href="./thursday-trivia-2026-06-01.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 1</a>
+  <a href="./thursday-trivia-2026-05-28.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">May 28</a>
 </div>
 
 <div class="wrap">
@@ -123,6 +139,14 @@
     <p class="q"><strong>Scary Movie</strong> (Scary Movie 6) — the franchise's first film in 13 years.</p>
     <p>Opening weekend: <strong>$55M domestic</strong> / $105.5M worldwide, reviving the spoof series with the Wayans family back on board.</p>
     <p><strong>Fun fact:</strong> Wes Craven's 1996 horror hit <em>Scream</em> — the very film the first Scary Movie parodied — was itself shot under the working title "Scary Movie."</p>
+    <div class="subsec">
+      <div class="label">Coming This Weekend (June 12–14)</div>
+      <p style="margin-bottom:4px;">A quieter frame before the month's tentpoles, with <em>Scary Movie</em>, <em>Masters of the Universe</em> and <em>Backrooms</em> still drawing crowds. On the horizon:</p>
+      <ul style="margin-top:2px;">
+        <li><strong>Toy Story 5</strong> (Pixar) — June 19</li>
+        <li><strong>Supergirl</strong> (DC) — June 26</li>
+      </ul>
+    </div>
   </div>
 
   <!-- SPORTS -->
@@ -219,6 +243,71 @@
       <li><span class="q">Who patented the bread-slicing machine in 1928 ("sliced bread")?</span> → <span class="a">Otto Rohwedder</span></li>
       <li><span class="q">Which Swiss chocolate (1908) hides a bear in its Matterhorn logo?</span> → <span class="a">Toblerone</span></li>
     </ul>
+  </div>
+
+  <!-- SONGS -->
+  <div class="card songs span-2">
+    <h2>🎵 Name That Tune — 1990–2010</h2>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Mr. Brightside</div>
+        <div class="song-meta">The Killers · 2004 · Hot Fuss</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/mr-brightside/1604897327" target="_blank">Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Zombie</div>
+        <div class="song-meta">The Cranberries · 1994 · No Need to Argue</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/zombie/1440735264" target="_blank">Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Iris</div>
+        <div class="song-meta">Goo Goo Dolls · 1998 · Dizzy Up the Girl</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/iris/1109658204" target="_blank">Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Seven Nation Army</div>
+        <div class="song-meta">The White Stripes · 2003 · Elephant</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/seven-nation-army/1533513537" target="_blank">Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Hey Ya!</div>
+        <div class="song-meta">OutKast · 2003 · Speakerboxxx/The Love Below</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/hey-ya/1774796999" target="_blank">Apple</a>
+      </div>
+    </div>
+    <div class="song-row">
+      <div class="song-info">
+        <div class="song-title">Crazy</div>
+        <div class="song-meta">Gnarls Barkley · 2006 · St. Elsewhere</div>
+      </div>
+      <div class="song-links">
+        <a class="spotify" href="https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ" target="_blank">Spotify</a>
+        <a class="apple" href="https://music.apple.com/us/song/crazy/1741403966" target="_blank">Apple</a>
+      </div>
+    </div>
   </div>
 
   <!-- GENERAL -->
