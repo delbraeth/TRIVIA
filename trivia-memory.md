@@ -2083,4 +2083,72 @@ _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 | Jun 10 | Box Office | Scary Movie #1 $55M domestic / $105.5M global; Toy Story 5 (Jun 19) & Supergirl (Jun 26) upcoming |
 | Jun 10 | Deaths | Gordon S. Wood (92, historian); Talay Riley (35, singer); Sally Grace (74, actress); Sir John Swan (90, Bermuda premier) |
 
-_Last updated: June 10, 2026 (v23 — June 10 Thursday run added)_
+## June 11, 2026 (v24)
+
+### Capitals
+| Jun 11 | Panama | Panama City |
+| Jun 11 | Zambia | Lusaka |
+| Jun 11 | Syria | Damascus |
+| Jun 11 | Belarus | Minsk |
+
+### Classic TV
+| Jun 11 | Batman (1966–68) | Bruce Wayne / Batman | Adam West |
+| Jun 11 | The Patty Duke Show (1963–66) | Patty & Cathy Lane | Patty Duke |
+| Jun 11 | Hazel (1961–66) | Hazel Burke | Shirley Booth |
+| Jun 11 | Martin (1992–97) | Martin Payne | Martin Lawrence |
+| Jun 11 | Star Trek: Deep Space Nine (1993–99) | Capt. Benjamin Sisko | Avery Brooks |
+| Jun 11 | JAG (1995–2005) | Harmon "Harm" Rabb Jr. | David James Elliott |
+
+### Arts & Literature
+| Jun 11 | The Chronicles of Narnia author | C.S. Lewis |
+| Jun 11 | "Ode on a Grecian Urn" poet | John Keats |
+| Jun 11 | "Luncheon of the Boating Party" painter | Pierre-Auguste Renoir |
+| Jun 11 | "Wedding March" (A Midsummer Night's Dream) composer | Felix Mendelssohn |
+| Jun 11 | The Cherry Orchard / The Seagull playwright | Anton Chekhov |
+| Jun 11 | "Ozymandias" poet | Percy Bysshe Shelley |
+
+### Founded & Invented
+| Jun 11 | Chevrolet (1911) | Louis Chevrolet & William Durant |
+| Jun 11 | Steel plow (1837) | John Deere |
+| Jun 11 | Elevator safety brake (1853) | Elisha Otis |
+| Jun 11 | Three-position traffic signal (1923) | Garrett Morgan |
+| Jun 11 | First ATM / cash machine (1967, London) | John Shepherd-Barron |
+| Jun 11 | Rolex (1905) | Hans Wilsdorf |
+
+### General Trivia
+| Jun 11 | Animals | Slugs have four noses |
+| Jun 11 | Language | "Dreamt" is the only common English word ending in "mt" |
+| Jun 11 | Did You Know | The Statue of Liberty wears a size 879 sandal |
+| Jun 11 | Language | The toothpaste blob on a brush is called a "nurdle" |
+| Jun 11 | Animals | A flock of swooping starlings is a "murmuration" |
+| Jun 11 | Science | Apple seeds contain amygdalin (releases trace cyanide when crushed) |
+| Jun 11 | Animals | Lobsters taste with their legs, smell with their antennae |
+| Jun 11 | Animals | Immortal jellyfish (Turritopsis dohrnii) can revert to an earlier life stage |
+| Jun 11 | History | "Baker's dozen" = 13; extra loaf to avoid penalties for short weight |
+| Jun 11 | Animals | Sea cucumbers expel their organs to defend themselves, then regrow them |
+| Jun 11 | Animals | Cats have a third eyelid (nictitating membrane) |
+| Jun 11 | Language | "Brunch" is a portmanteau first seen in an 1895 British magazine |
+
+### Songs
+| Jun 11 | Smells Like Teen Spirit | Nirvana | 1991 |
+| Jun 11 | Losing My Religion | R.E.M. | 1991 |
+| Jun 11 | Wonderwall | Oasis | 1995 |
+| Jun 11 | No Scrubs | TLC | 1999 |
+| Jun 11 | Smooth | Santana feat. Rob Thomas | 1999 |
+| Jun 11 | Yellow | Coldplay | 2000 |
+
+### This Day in History
+| Jun 11 | June 11 (Committee of Five named 1776; Wallace "schoolhouse door" / U. Alabama desegregated 1963; E.T. opens 1982) | — |
+| Jun 11 | National Days: National Corn on the Cob Day; National German Chocolate Cake Day; King Kamehameha Day (HI); Yarn Bombing Day | — |
+
+### Sports / Current Events
+| Jun 11 | Sports | FIFA World Cup opens today Jun 11 (US/Mexico/Canada co-host); Mexico opener at Estadio Azteca |
+| Jun 11 | Sports | NBA Finals: Knicks lead Spurs 3-1; G4 NYK 107-106 (29-pt comeback); G5 Sat Jun 13 San Antonio |
+| Jun 11 | Sports | NHL SCF: Golden Knights-Hurricanes tied 2-2; G4 CAR 5-3 (Staal 2G); G5 back in Carolina |
+| Jun 11 | Sports | NCAA: Men's CWS opens Fri Jun 12 Omaha; WVU-Troy & UNC-Ole Miss Day 1 (5 SEC teams) |
+| Jun 11 | Sports | NFL minicamps wrapping; Browns Sanders-Watson QB battle; camps break to late July |
+| Jun 11 | Sports | Reds 32-35 5th NL Central 9.5 GB / WC 3.0 back; lost SD finale 5-4; OFF today (home weekend next) |
+| Jun 11 | Box Office | Scary Movie #1 $55M domestic (franchise best) / $105.5M global, $30M budget; Wayans back after 25 yrs |
+| Jun 11 | Deaths | Anthony Head (72, Buffy/Ted Lasso); Marjane Satrapi (56, Persepolis); Ned Jarrett (93, NASCAR); James Handy (81, actor) |
+
+_Last updated: June 11, 2026 (v24 — June 11 Thursday run added)_
