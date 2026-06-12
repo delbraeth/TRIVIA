@@ -2151,4 +2151,72 @@ _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 | Jun 11 | Box Office | Scary Movie #1 $55M domestic (franchise best) / $105.5M global, $30M budget; Wayans back after 25 yrs |
 | Jun 11 | Deaths | Anthony Head (72, Buffy/Ted Lasso); Marjane Satrapi (56, Persepolis); Ned Jarrett (93, NASCAR); James Handy (81, actor) |
 
-_Last updated: June 11, 2026 (v24 — June 11 Thursday run added)_
+## June 12, 2026 (v25)
+
+### Capitals
+| Jun 12 | India | New Delhi |
+| Jun 12 | Angola | Luanda |
+| Jun 12 | Honduras | Tegucigalpa |
+| Jun 12 | Turkmenistan | Ashgabat |
+
+### Classic TV
+| Jun 12 | Gidget (1965–66) | Gidget (Frances Lawrence) | Sally Field |
+| Jun 12 | That Girl (1966–71) | Ann Marie | Marlo Thomas |
+| Jun 12 | The Monkees (1966–68) | Davy (himself) | Davy Jones |
+| Jun 12 | Space: 1999 (1975–77) | Cdr. John Koenig | Martin Landau |
+| Jun 12 | Fantasy Island (1977–84) | Mr. Roarke | Ricardo Montalbán |
+| Jun 12 | One Day at a Time (1975–84) | Ann Romano | Bonnie Franklin |
+
+### Arts & Literature
+| Jun 12 | First American Nobel Literature laureate (1930); Babbitt / Main Street | Sinclair Lewis |
+| Jun 12 | "Judith Slaying Holofernes" Baroque painter | Artemisia Gentileschi |
+| Jun 12 | "The Entertainer" ragtime composer | Scott Joplin |
+| Jun 12 | First African American to win a Pulitzer (1950, Annie Allen) | Gwendolyn Brooks |
+| Jun 12 | "A Good Man Is Hard to Find" author | Flannery O'Connor |
+| Jun 12 | All the King's Men author | Robert Penn Warren |
+
+### Founded & Invented
+| Jun 12 | Chipotle (1993) | Steve Ells (Denver) |
+| Jun 12 | Implantable cardiac pacemaker | Wilson Greatbatch |
+| Jun 12 | Spanx (2000) | Sara Blakely |
+| Jun 12 | QR code (1994) | Denso Wave / Masahiro Hara |
+| Jun 12 | First network email & "@" address (1971) | Ray Tomlinson |
+| Jun 12 | Trader Joe's (1967) | Joe Coulombe |
+
+### General Trivia
+| Jun 12 | Music | Spain & Bosnia national anthems have no official lyrics |
+| Jun 12 | Law/Animals | Switzerland: owning a single guinea pig can be illegal (social animals need pairs) |
+| Jun 12 | Nature | Total biomass of all ants ≈ total biomass of all humans |
+| Jun 12 | Sports | Tennis balls were white until 1972; switched to "optic yellow" for color TV |
+| Jun 12 | Biology | Some turtles breathe through their cloaca (rear) while hibernating underwater |
+| Jun 12 | Nature | Largest living organism is a honey fungus in Oregon (~3.7 sq mi) |
+| Jun 12 | Science | "Brain freeze" = sphenopalatine ganglioneuralgia |
+| Jun 12 | Anatomy | The "funny bone" is the ulnar nerve, not a bone |
+| Jun 12 | Etymology | The "$" sign likely evolved from the Spanish peso abbreviation |
+| Jun 12 | Language | "Strengths" is among the longest words with a single vowel |
+| Jun 12 | Environment | Recycling one aluminum can = ~3 hours of TV power |
+| Jun 12 | Science | More atoms in a glass of water than glasses of water in all the oceans |
+
+### Songs
+| Jun 12 | Glycerine | Bush | 1994 |
+| Jun 12 | One Headlight | The Wallflowers | 1996 |
+| Jun 12 | Slide | Goo Goo Dolls | 1998 |
+| Jun 12 | Drive | Incubus | 2001 |
+| Jun 12 | How to Save a Life | The Fray | 2005 |
+| Jun 12 | Feel Good Inc. | Gorillaz | 2005 |
+
+### This Day in History
+| Jun 12 | June 12 (Baseball Hall of Fame opens Cooperstown 1939; Medgar Evers assassinated 1963; Reagan "tear down this wall" 1987) | — |
+| Jun 12 | National Days: Loving Day (Loving v. Virginia 1967); Red Rose Day; Peanut Butter Cookie Day; National Jerky Day; International Falafel Day | — |
+
+### Sports / Current Events
+| Jun 12 | Sports | FIFA World Cup underway (48 teams; US/MEX/CAN): Mexico 2-0 South Africa (3 reds), Korea 2-1 Czechia; USMNT opens vs Paraguay tonight |
+| Jun 12 | Sports | NBA Finals: Knicks lead Spurs 3-1 (G4 29-pt comeback, Anunoby tip-in); G5 Sat Jun 13 San Antonio |
+| Jun 12 | Sports | NHL SCF: Hurricanes lead Golden Knights 3-2 (G5 CAR 4-2); can clinch G6 Sun in Las Vegas |
+| Jun 12 | Sports | MLB: Braves best record; Ohtani early Cy Young form; Yankees' Aaron Judge out with rib injury |
+| Jun 12 | Sports | Reds 32-35 5th NL Central 9.5 GB / WC 3.0 back; 1-6 last 7; host Arizona today 7:15 ET (Lodolo vs E. Rodriguez) |
+| Jun 12 | Box Office | Scary Movie #1 $55M domestic / $105.5M global, $30M budget; Wayans return after 25 yrs |
+| Jun 12 | Deaths | Peabo Bryson (75, R&B singer); Rick Adelman (79, NBA coach); Anthony Head (72, Buffy/Ted Lasso); Bill Cody (67, radio DJ) |
+
+
+_Last updated: June 12, 2026 (v25 — June 12 Friday run added)_
