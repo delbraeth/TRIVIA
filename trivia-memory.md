@@ -2219,4 +2219,72 @@ _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 | Jun 12 | Deaths | Peabo Bryson (75, R&B singer); Rick Adelman (79, NBA coach); Anthony Head (72, Buffy/Ted Lasso); Bill Cody (67, radio DJ) |
 
 
-_Last updated: June 12, 2026 (v25 — June 12 Friday run added)_
+## June 17, 2026 (v26)
+
+### Capitals
+| Jun 17 | Jamaica | Kingston |
+| Jun 17 | Vanuatu | Port Vila |
+| Jun 17 | Yemen | Sana'a |
+| Jun 17 | Brunei | Bandar Seri Begawan |
+
+### Classic TV
+| Jun 17 | The Phil Silvers Show (1955-59) | Sgt. Ernie Bilko | Phil Silvers |
+| Jun 17 | Wanted: Dead or Alive (1958-61) | Josh Randall | Steve McQueen |
+| Jun 17 | Car 54, Where Are You? (1961-63) | Officer Gunther Toody | Joe E. Ross |
+| Jun 17 | What's Happening!! (1976-79) | Roger "Raj" Thomas | Ernest Thomas |
+| Jun 17 | Vega$ (1978-81) | Dan Tanna | Robert Urich |
+| Jun 17 | Bosom Buddies (1980-82) | Kip "Buffy" Wilson | Tom Hanks |
+
+### Arts & Literature
+| Jun 17 | One Hundred Years of Solitude author | Gabriel García Márquez |
+| Jun 17 | Mrs Dalloway / To the Lighthouse author | Virginia Woolf |
+| Jun 17 | "Ride of the Valkyries" / Ring cycle composer | Richard Wagner |
+| Jun 17 | The Great Wave off Kanagawa artist | Katsushika Hokusai |
+| Jun 17 | Don Quixote author | Miguel de Cervantes |
+| Jun 17 | The Metamorphosis (Gregor Samsa) author | Franz Kafka |
+
+### Founded & Invented
+| Jun 17 | Potato chip (1853, Saratoga Springs) | George Crum |
+| Jun 17 | Corn Flakes (1894, accidental) | Kellogg brothers |
+| Jun 17 | Cash register / "Incorruptible Cashier" (1879) | James Ritty |
+| Jun 17 | Escalator / inclined elevator (1896, Coney Island) | Jesse Reno |
+| Jun 17 | Gore-Tex (1969, stretched PTFE) | Bob Gore |
+| Jun 17 | Segway (2001) | Dean Kamen |
+
+### General Trivia
+| Jun 17 | Food | Honey never spoils — 3,000-yr-old edible honey found in Egyptian tombs |
+| Jun 17 | Botany | Bananas are berries; strawberries are not |
+| Jun 17 | Animals | Octopuses have three hearts and blue (copper-based) blood |
+| Jun 17 | Nature | Sharks (~450M yrs) are older than trees (~390M yrs) |
+| Jun 17 | Science | A lightning bolt is ~5x hotter than the Sun's surface |
+| Jun 17 | History | Shortest war ever: Anglo-Zanzibar War (1896), ~38 minutes |
+| Jun 17 | Astronomy | Venus rotates opposite most planets; Sun rises in the west there |
+| Jun 17 | Language | A group of flamingos is a "flamboyance" |
+| Jun 17 | Geography | Scotland's national animal is the unicorn |
+| Jun 17 | Did You Know | Pringles designer Fredric Baur had ashes buried in a Pringles can |
+| Jun 17 | Science | Mpemba effect — hot water can freeze faster than cold |
+| Jun 17 | Math | More possible chess games than atoms in the observable universe |
+
+### Songs
+| Jun 17 | Today | The Smashing Pumpkins | 1993 |
+| Jun 17 | Closing Time | Semisonic | 1998 |
+| Jun 17 | Last Nite | The Strokes | 2001 |
+| Jun 17 | The Middle | Jimmy Eat World | 2001 |
+| Jun 17 | Maps | Yeah Yeah Yeahs | 2003 |
+| Jun 17 | Are You Gonna Be My Girl | Jet | 2003 |
+
+### This Day in History
+| Jun 17 | June 17 (Battle of Bunker Hill 1775; Statue of Liberty arrives NYC in 214 crates 1885; Watergate break-in 1972; O.J. Bronco chase 1994) | — |
+| Jun 17 | National Days: Eat Your Vegetables Day; National Root Beer Day; National Apple Strudel Day; National Cherry Tart Day; Global Garbage Man Day; Bunker Hill Day | — |
+
+### Sports / Current Events
+| Jun 17 | Sports | NBA CHAMPIONS: Knicks beat Spurs 4-1 (G5 94-90 in SA); Brunson Finals MVP (45 in clincher); first NY title since 1973 |
+| Jun 17 | Sports | NHL: Hurricanes win Stanley Cup, beat Vegas 4-2 (G6 3-0 shutout Jun 14); Jordan Staal (37) Conn Smythe, oldest ever |
+| Jun 17 | Sports | FIFA World Cup group stage: USMNT won opener 4-1, next vs Australia Jun 19 Seattle; Cape Verde drew Spain, Saudi drew Uruguay |
+| Jun 17 | Sports | MLB: Brewers 44-26 best record / lead NL Central; Reds 35-37 5th, 10 GB, 3 GB WC; won 2 straight vs Mets (12-0, 5-3) |
+| Jun 17 | Reds | 35-37 5th NL Central 10.0 GB / WC 3.0 back; L-W-L-W-W last 5 (W2); vs NY Mets today 12:40 PM ET (Lodolo vs McLean) |
+| Jun 17 | Box Office | Disclosure Day (Spielberg sci-fi) #1, $44M open / 3,824 theaters / $115M budget; cast Blunt, O'Connor, Firth, Domingo |
+| Jun 17 | Deaths | Gene Shalit (99, Today show film critic, Jun 12); Oliver Tree (32, singer/performance artist, helicopter accident Jun 14) |
+| Jun 17 | News | Trump announces Iran peace deal (reopen Strait of Hormuz) at G7 France; B-52 crash; Sudan 1,000+ drone deaths; Congo Ebola outbreak |
+
+_Last updated: June 17, 2026 (v26 — June 17 Wednesday run added)_
