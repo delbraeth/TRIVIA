@@ -109,6 +109,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 20 | Capital of Mexico | Mexico City |
 | May 20 | Capital of Estonia | Tallinn |
 | May 20 | Capital of Botswana | Gaborone |
+| Jun 18 | Nevada | Carson City |
+| Jun 18 | Missouri | Jefferson City |
+| Jun 18 | Greece | Athens |
+| Jun 18 | Kenya | Nairobi |
 
 
 
@@ -245,6 +249,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 20 | The Prisoner | Number Six | Patrick McGoohan |
 | May 20 | F Troop | Capt. Wilton Parmenter | Ken Berry |
 | May 20 | Xena: Warrior Princess | Xena | Lucy Lawless |
+| Jun 18 | The Rifleman (1958–63) | Lucas McCain | Chuck Connors |
+| Jun 18 | Maverick (1957–62) | Bret Maverick | James Garner |
+| Jun 18 | Maude (1972–78) | Maude Findlay | Bea Arthur |
+| Jun 18 | The Love Boat (1977–86) | Capt. Merrill Stubing | Gavin MacLeod |
+| Jun 18 | Falcon Crest (1981–90) | Angela Channing | Jane Wyman |
+| Jun 18 | Benson (1979–86) | Benson DuBois | Robert Guillaume |
 
 
 ---
@@ -355,6 +365,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 20 | A Wrinkle in Time | Madeleine L'Engle |
 | May 20 | The Gulf Stream / Snap the Whip painter | Winslow Homer |
 | May 20 | The Aeneid | Virgil |
+| Jun 18 | Dracula (1897) author | Bram Stoker |
+| Jun 18 | Little Women author | Louisa May Alcott |
+| Jun 18 | "Clair de Lune" composer | Claude Debussy |
+| Jun 18 | Gulliver's Travels (1726) author | Jonathan Swift |
+| Jun 18 | The Little Mermaid / Ugly Duckling author | Hans Christian Andersen |
+| Jun 18 | Fahrenheit 451 author | Ray Bradbury |
 
 
 ---
@@ -614,6 +630,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 20 | Language | Papua New Guinea has 800+ living languages |
 | May 20 | Invention | Eyeglasses invented in Italy ~1290 |
 | May 20 | Biology | Komodo dragon bite is venomous (confirmed 2009) |
+| Jun 18 | Science | Teaspoon of neutron-star material ≈ 6 billion tons |
+| Jun 18 | Geography | Russia spans 11 time zones (most of any country) |
+| Jun 18 | Food | Carrots were originally purple; orange bred in the Netherlands |
+| Jun 18 | Animals | A group of crows is a "murder" |
+| Jun 18 | History | Oxford (teaching by 1096) older than Aztec Empire (1325) |
+| Jun 18 | Body | Stomach grows a new lining every few days |
+| Jun 18 | Astronomy | More stars in the universe than grains of sand on Earth's beaches |
+| Jun 18 | Geography | Sahara Desert ≈ size of the continental US |
+| Jun 18 | Food | Peanuts are legumes, not nuts |
+| Jun 18 | Animals | A shrimp's heart is in its head |
+| Jun 18 | Language | The dot over i/j is a "tittle" |
+| Jun 18 | History | Great Pyramid was tallest structure for ~3,800 years |
 
 
 ---
@@ -650,6 +678,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | May 7 | May 7 (Lusitania 1915, Germany WWII surrender 1945, Beethoven 9th premiere 1824) |
 | May 20 | May 20 (Homestead Act 1862; Lindbergh 1927; Earhart 1932) |
+| Jun 18 | June 18 (Battle of Waterloo 1815; War of 1812 declared 1812; Sally Ride first American woman in space 1983) |
 
 
 ---
@@ -684,6 +713,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 ---
 | May 7 | National Day of Reason · Children's Mental Health Awareness Day · National Roast Leg of Lamb Day · National Tourism Day |
+| Jun 18 | Go Fishing Day; International Picnic Day; National Splurge Day; International Sushi Day; Autistic Pride Day |
 
 ---
 
@@ -781,6 +811,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 20 | Pac-Man release | Namco, 1980, designed by Toru Iwatani |
 | May 20 | White-Out / Liquid Paper inventor | Bette Nesmith Graham, 1956 (Michael Nesmith's mother) |
 | May 20 | Frozen food industry pioneer | Clarence Birdseye, 1920s |
+| Jun 18 | Who invented dynamite (1867)? | Alfred Nobel |
+| Jun 18 | Toyota Motor Corporation founded year | 1937 (Kiichiro Toyoda) |
+| Jun 18 | Inventor of electronic television (1927) | Philo Farnsworth |
+| Jun 18 | Inventor of movable-type printing press (c.1440) | Johannes Gutenberg |
+| Jun 18 | Designer of original Ferris Wheel (1893 Chicago) | George W. Ferris |
+| Jun 18 | Inventor of the safety pin (1849) | Walter Hunt |
 
 
 ---
@@ -1947,6 +1983,12 @@ _Last updated: June 3, 2026 (v20 — June 3 Wednesday run added)_
 
 | Jun 5 | June 5 (Marshall Plan announced 1947; RFK shot 1968; Apple II on sale 1977; first AIDS report 1981; Reagan dies 2004) | — |
 | Jun 5 | National Days: World Environment Day; National Doughnut Day; National Hot Air Balloon Day; National Cheese Day; National Gingerbread Day | — |
+| Jun 18 | Bring Me to Life | Evanescence | 2003 |
+| Jun 18 | Hey Jealousy | Gin Blossoms | 1992 |
+| Jun 18 | Semi-Charmed Life | Third Eye Blind | 1997 |
+| Jun 18 | Stay (I Missed You) | Lisa Loeb & Nine Stories | 1994 |
+| Jun 18 | Sex and Candy | Marcy Playground | 1997 |
+| Jun 18 | You Oughta Know | Alanis Morissette | 1995 |
 
 _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 
@@ -2287,4 +2329,71 @@ _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 | Jun 17 | Deaths | Gene Shalit (99, Today show film critic, Jun 12); Oliver Tree (32, singer/performance artist, helicopter accident Jun 14) |
 | Jun 17 | News | Trump announces Iran peace deal (reopen Strait of Hormuz) at G7 France; B-52 crash; Sudan 1,000+ drone deaths; Congo Ebola outbreak |
 
-_Last updated: June 17, 2026 (v26 — June 17 Wednesday run added)_
+
+## June 18, 2026 (v27)
+
+### Capitals
+| Jun 18 | Nevada | Carson City |
+| Jun 18 | Missouri | Jefferson City |
+| Jun 18 | Greece | Athens |
+| Jun 18 | Kenya | Nairobi |
+
+### Classic TV
+| Jun 18 | The Rifleman (1958–63) | Lucas McCain | Chuck Connors |
+| Jun 18 | Maverick (1957–62) | Bret Maverick | James Garner |
+| Jun 18 | Maude (1972–78) | Maude Findlay | Bea Arthur |
+| Jun 18 | The Love Boat (1977–86) | Capt. Merrill Stubing | Gavin MacLeod |
+| Jun 18 | Falcon Crest (1981–90) | Angela Channing | Jane Wyman |
+| Jun 18 | Benson (1979–86) | Benson DuBois | Robert Guillaume |
+
+### Arts & Literature
+| Jun 18 | Dracula (1897) author | Bram Stoker |
+| Jun 18 | Little Women author | Louisa May Alcott |
+| Jun 18 | "Clair de Lune" composer | Claude Debussy |
+| Jun 18 | Gulliver's Travels (1726) author | Jonathan Swift |
+| Jun 18 | The Little Mermaid / Ugly Duckling author | Hans Christian Andersen |
+| Jun 18 | Fahrenheit 451 author | Ray Bradbury |
+
+### Founded & Invented
+| Jun 18 | Dynamite (1867) | Alfred Nobel |
+| Jun 18 | Toyota Motor Corporation (1937) | Kiichiro Toyoda |
+| Jun 18 | Electronic television (1927) | Philo Farnsworth |
+| Jun 18 | Movable-type printing press (c.1440) | Johannes Gutenberg |
+| Jun 18 | Original Ferris Wheel (1893 Chicago) | George W. Ferris |
+| Jun 18 | Safety pin (1849) | Walter Hunt |
+
+### General Trivia
+| Jun 18 | Science | Teaspoon of neutron-star material ≈ 6 billion tons |
+| Jun 18 | Geography | Russia spans 11 time zones (most of any country) |
+| Jun 18 | Food | Carrots were originally purple; orange bred in the Netherlands |
+| Jun 18 | Animals | A group of crows is a "murder" |
+| Jun 18 | History | Oxford (teaching by 1096) older than Aztec Empire (1325) |
+| Jun 18 | Body | Stomach grows a new lining every few days |
+| Jun 18 | Astronomy | More stars in the universe than grains of sand on Earth's beaches |
+| Jun 18 | Geography | Sahara Desert ≈ size of the continental US |
+| Jun 18 | Food | Peanuts are legumes, not nuts |
+| Jun 18 | Animals | A shrimp's heart is in its head |
+| Jun 18 | Language | The dot over i/j is a "tittle" |
+| Jun 18 | History | Great Pyramid was tallest structure for ~3,800 years |
+
+### Songs
+| Jun 18 | Bring Me to Life | Evanescence | 2003 |
+| Jun 18 | Hey Jealousy | Gin Blossoms | 1992 |
+| Jun 18 | Semi-Charmed Life | Third Eye Blind | 1997 |
+| Jun 18 | Stay (I Missed You) | Lisa Loeb & Nine Stories | 1994 |
+| Jun 18 | Sex and Candy | Marcy Playground | 1997 |
+| Jun 18 | You Oughta Know | Alanis Morissette | 1995 |
+
+### This Day in History
+| Jun 18 | June 18 (Battle of Waterloo 1815; War of 1812 declared 1812; Sally Ride first American woman in space 1983) | — |
+| Jun 18 | National Days: Go Fishing Day; International Picnic Day; National Splurge Day; International Sushi Day; Autistic Pride Day | — |
+
+### Sports / Current Events
+| Jun 18 | Sports | FIFA World Cup group stage: Argentina 3-0 Algeria (Messi hat trick, 16th career WC goal), France 3-1 Senegal, England 4-2 Croatia, Ghana 1-0 Panama; USMNT won opener 4-1 vs Paraguay, next vs Australia Fri Jun 19 3 PM ET Lumen Field Seattle |
+| Jun 18 | Sports | Golf: U.S. Open begins today at Shinnecock Hills (Southampton, NY), Jun 18-21; Scheffler favorite |
+| Jun 18 | Sports | MLB: Brewers best record (45-26) lead NL Central; Reds 5th |
+| Jun 18 | Reds | 35-38 5th NL Central 11.0 GB / ~3 GB WC; L-W-L-W-W... last 5 W-L-W-W-L (streak L1); NO game today, next Fri Jun 19 @ NY Yankees 7:05 PM ET |
+| Jun 18 | Box Office | Disclosure Day (Spielberg sci-fi) #1, ~$44M open; Toy Story 5 opens Jun 19 ($140M+ projected, franchise record); The Death of Robin Hood (A24, Jackman) also opens Jun 19 |
+| Jun 18 | Deaths | David Hockney (88, British pop-art painter / "A Bigger Splash", died Jun 11; confirmed WaPo/NPR/CNN/NBC) |
+
+_Last updated: June 18, 2026 (v27 — June 18 Thursday run added)_
