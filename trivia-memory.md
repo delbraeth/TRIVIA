@@ -1594,7 +1594,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 22 | SexyBack | Justin Timberlake feat. Timbaland | 2006 |
 | May 22 | Welcome to the Black Parade | My Chemical Romance | 2006 |
 
-_Last updated: May 22, 2026 (v14 — May 22 Friday run added)_
 
 | May 25 | Capital of Serbia | Belgrade |
 | May 25 | Capital of Mozambique | Maputo |
@@ -1638,7 +1637,6 @@ _Last updated: May 22, 2026 (v14 — May 22 Friday run added)_
 | May 25 | May 25 (Babe Ruth 714th/last HR at Forbes Field 1935; JFK moon challenge 1961; Star Wars release 1977 — 49th anniversary; AA Flt 191 O'Hare crash 1979 — 273 killed; Phoenix Mars lander touchdown 2008) | — |
 | May 25 | National Days: Memorial Day; National Wine Day; Geek Pride Day; Towel Day (Douglas Adams); National Tap Dance Day; African Liberation Day | — |
 
-_Last updated: May 25, 2026 (v15 — May 25 Memorial Day run added)_
 
 | May 27 | Capital of Ecuador | Quito |
 | May 27 | Capital of Slovakia | Bratislava |
@@ -1697,7 +1695,6 @@ _Last updated: May 25, 2026 (v15 — May 25 Memorial Day run added)_
 | May 27 | Beautiful | Christina Aguilera | 2002 |
 | May 27 | Lightning Crashes | Live | 1994 |
 
-_Last updated: May 27, 2026 (v16 — May 27 Wednesday run added)_
 
 | May 28 | Capital of Austria | Vienna |
 | May 28 | Capital of the Philippines | Manila |
@@ -1752,7 +1749,6 @@ _Last updated: May 27, 2026 (v16 — May 27 Wednesday run added)_
 | May 28 | Don't Speak | No Doubt | 1996 |
 | May 28 | Black Hole Sun | Soundgarden | 1994 |
 
-_Last updated: May 28, 2026 (v17 — May 28 Thursday run added)_
 
 | Jun 1 | Capital of Ohio | Columbus |
 | Jun 1 | Capital of Canada | Ottawa |
@@ -1812,7 +1808,6 @@ _Last updated: May 28, 2026 (v17 — May 28 Thursday run added)_
 | Jun 1 | 1979 | The Smashing Pumpkins | 1996 |
 | Jun 1 | Boulevard of Broken Dreams | Green Day | 2004 |
 
-_Last updated: June 1, 2026 (v18 — June 1 run added; music links use Spotify/Apple search URLs)_
 
 | Jun 2 | Capital of Tunisia | Tunis |
 | Jun 2 | Capital of Wales | Cardiff |
@@ -1871,7 +1866,6 @@ _Last updated: June 1, 2026 (v18 — June 1 run added; music links use Spotify/A
 | Jun 2 | All Star | Smash Mouth | 1999 |
 | Jun 2 | Sabotage | Beastie Boys | 1994 |
 
-_Last updated: June 2, 2026 (v19 — June 2 Tuesday run added)_
 
 | Jun 3 | Capital of Nebraska | Lincoln |
 | Jun 3 | Capital of Idaho | Boise |
@@ -1930,7 +1924,6 @@ _Last updated: June 2, 2026 (v19 — June 2 Tuesday run added)_
 | Jun 3 | The Middle | Jimmy Eat World | 2001 |
 | Jun 3 | Apologize | Timbaland ft. OneRepublic | 2007 |
 
-_Last updated: June 3, 2026 (v20 — June 3 Wednesday run added)_
 
 | Jun 5 | Capital of Iraq | Baghdad |
 | Jun 5 | Capital of Bulgaria | Sofia |
@@ -1990,7 +1983,6 @@ _Last updated: June 3, 2026 (v20 — June 3 Wednesday run added)_
 | Jun 18 | Sex and Candy | Marcy Playground | 1997 |
 | Jun 18 | You Oughta Know | Alanis Morissette | 1995 |
 
-_Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 
 ## June 9, 2026 (v22)
 
@@ -2396,4 +2388,62 @@ _Last updated: June 5, 2026 (v21 — June 5 Thursday run added)_
 | Jun 18 | Box Office | Disclosure Day (Spielberg sci-fi) #1, ~$44M open; Toy Story 5 opens Jun 19 ($140M+ projected, franchise record); The Death of Robin Hood (A24, Jackman) also opens Jun 19 |
 | Jun 18 | Deaths | David Hockney (88, British pop-art painter / "A Bigger Splash", died Jun 11; confirmed WaPo/NPR/CNN/NBC) |
 
-_Last updated: June 18, 2026 (v27 — June 18 Thursday run added)_
+
+## June 18, 2026 (v28 — re-run; fresh content, supersedes v27)
+
+### Capitals
+| Jun 18 | Alaska | Juneau |
+| Jun 18 | Virginia | Richmond |
+| Jun 18 | Bolivia | Sucre (constitutional) |
+| Jun 18 | Ghana | Accra |
+
+### Classic TV
+| Jun 18 | Rawhide (1959–65) | Rowdy Yates | Clint Eastwood |
+| Jun 18 | The Avengers (1961–69) | John Steed | Patrick Macnee |
+| Jun 18 | Lou Grant (1977–82) | Lou Grant | Ed Asner |
+| Jun 18 | The Streets of San Francisco (1972–77) | Det. Lt. Mike Stone | Karl Malden |
+| Jun 18 | Scarecrow and Mrs. King (1983–87) | Lee Stetson | Bruce Boxleitner |
+| Jun 18 | Picket Fences (1992–96) | Sheriff Jimmy Brock | Tom Skerritt |
+
+### Arts & Literature
+| Jun 18 | Creator of Poirot & Miss Marple | Agatha Christie |
+| Jun 18 | Waiting for Godot (1953) author | Samuel Beckett |
+| Jun 18 | Grids of red/blue/yellow painter | Piet Mondrian |
+| Jun 18 | Carmina Burana / "O Fortuna" composer | Carl Orff |
+| Jun 18 | Remains of the Day / Never Let Me Go (Nobel 2017) | Kazuo Ishiguro |
+| Jun 18 | Doctor Zhivago author (Nobel 1958) | Boris Pasternak |
+
+### Founded & Invented
+| Jun 18 | Tesla Motors founded | 2003 (Eberhard & Tarpenning) |
+| Jun 18 | Cotton gin (1793) | Eli Whitney |
+| Jun 18 | Telegraph / Morse code | Samuel Morse |
+| Jun 18 | Ben & Jerry's founded | 1978 (Burlington VT gas station) |
+| Jun 18 | Lockstitch sewing machine (1846) | Elias Howe |
+| Jun 18 | Gmail public launch | 2004 (April 1, 1 GB) |
+
+### General Trivia
+| Jun 18 | Science | Lightning bolt could toast ~100,000 slices of bread |
+| Jun 18 | Animals | A group of jellyfish is a "smack" |
+| Jun 18 | Geography | Africa is the only continent in all four hemispheres |
+| Jun 18 | Food | Pineapple's bromelain digests protein as you eat it |
+| Jun 18 | Astronomy | A day on Mercury (~176 Earth days) is longer than its year |
+| Jun 18 | Biology | Roughly as many bacterial cells as human cells in the body |
+| Jun 18 | History | The Hundred Years' War lasted 116 years (1337–1453) |
+| Jun 18 | Tech | First webcam (Cambridge 1991) watched a coffee pot |
+| Jun 18 | Animals | Sea otters have the densest fur (~1M hairs/sq in) |
+| Jun 18 | Geography | Istanbul straddles Europe and Asia |
+| Jun 18 | Language | "Alphabet" = alpha + beta (first two Greek letters) |
+
+### This Day in History
+| Jun 18 | June 18 (de Gaulle "Appeal of 18 June" 1940; Monterey Pop Festival closes 1967; Carter–Brezhnev sign SALT II 1979) | — |
+| Jun 18 | National Days: International Panic Day; National Wanna Get Away Day; Go Fishing Day; International Picnic Day | — |
+
+### Sports / Current Events
+| Jun 18 | Sports | World Cup group stage: Norway 4-1 Iraq, Austria 3-1 Jordan (Jun 16); Colombia 3-1 Uzbekistan, Portugal 1-1 DR Congo (Jun 17); Jun 18 fixtures Mexico-Korea & Canada-Qatar; USMNT next vs Australia Jun 19 Seattle |
+| Jun 18 | Sports | Golf: 126th U.S. Open opens at Shinnecock Hills; fog-delayed R1, Sam Stevens 2-under clubhouse leader, McIlroy 69 |
+| Jun 18 | Sports | NBA: Knicks champions (4-1 over Spurs), Brunson Finals MVP, first NY title since 1973; NHL: Hurricanes win Stanley Cup over Vegas 4-2, Jordan Staal oldest Conn Smythe winner |
+| Jun 18 | Reds | 35-38, 5th NL Central ~11 GB; W-L-W-W-L last 5; won 2 of 3 vs Mets (12-0, 5-3) then lost finale 1-9 Jun 17; NO game today, next Fri Jun 19 @ NY Yankees 7:05 PM ET |
+| Jun 18 | Box Office | Disclosure Day (Spielberg sci-fi) #1, $44.5M opening; reunites Spielberg/Koepp/Williams, shot in-camera; Blunt & O'Connor lead |
+| Jun 18 | Deaths | Walter Parazaider (81, Chicago saxophonist, Jun 17); Tom Dreesen (86, comedian/Sinatra opener, Jun 17); Daveigh Chase (36, The Ring/Lilo & Stitch, Jun 16); Abdullah Ibrahim (91, SA jazz pianist, Jun 15) |
+
+_Last updated: June 18, 2026 (v28 — June 18 re-run; fresh content, supersedes v27)_
