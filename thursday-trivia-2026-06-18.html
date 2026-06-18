@@ -5,93 +5,59 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thursday Trivia Night — June 18, 2026</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: #f0f1f3;
-    color: #1a1a2e;
-    line-height: 1.5;
-    padding-bottom: 40px;
+    background: #f4f5f7; color: #1d2330; line-height: 1.45; padding-bottom: 40px;
   }
   header {
-    background: linear-gradient(135deg, #5b2c83 0%, #7b3fa0 50%, #9b4dca 100%);
-    color: #fff;
-    padding: 20px 24px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
+    background: linear-gradient(135deg, #5b2333 0%, #a4243b 60%, #c8553d 100%);
+    color: #fff; padding: 18px 24px; display: flex; align-items: center;
+    justify-content: space-between; flex-wrap: wrap; gap: 12px;
   }
-  header h1 { font-size: 26px; font-weight: 800; letter-spacing: -0.5px; }
-  .date { font-size: 14px; opacity: 0.9; margin-top: 2px; font-weight: 600; }
-  .wrap { max-width: 1180px; margin: 0 auto; padding: 18px; }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
-    gap: 16px;
-  }
+  header h1 { font-size: 26px; letter-spacing: 0.5px; }
+  header .date { font-size: 14px; opacity: 0.92; margin-top: 4px; font-weight: 600; }
+  .wrap { max-width: 1180px; margin: 18px auto; padding: 0 16px;
+    columns: 3; column-gap: 16px; }
   .card {
-    background: #fff;
-    border-radius: 12px;
-    padding: 16px 18px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    border-top: 4px solid #999;
+    background: #fff; border-radius: 10px; padding: 14px 16px; margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12); break-inside: avoid; border-top: 4px solid #888;
   }
-  .card h2 {
-    font-size: 15px;
-    text-transform: uppercase;
-    letter-spacing: 0.8px;
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    gap: 7px;
+  .card h2 { font-size: 15px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 9px; display: flex; align-items: center; gap: 7px; }
+  .card.reds   { border-top-color: #c6011f; }
+  .card.box    { border-top-color: #6a4c93; }
+  .card.sports { border-top-color: #1982c4; }
+  .card.deaths { border-top-color: #4a5568; }
+  .card.history{ border-top-color: #8a5a00; }
+  .card.caps   { border-top-color: #2a9d8f; }
+  .card.tv     { border-top-color: #e76f51; }
+  .card.arts   { border-top-color: #b5179e; }
+  .card.invent { border-top-color: #386641; }
+  .card.gen    { border-top-color: #ee9b00; }
+  .card.news   { border-top-color: #3a0ca3; }
+  .card p { font-size: 13.5px; margin-bottom: 6px; }
+  .qa { font-size: 13.5px; margin-bottom: 8px; }
+  .qa .q { font-weight: 600; }
+  .qa .a { color: #a4243b; font-weight: 600; }
+  .fact { font-size: 13px; margin-bottom: 7px; padding-left: 16px; position: relative; }
+  .fact:before { content: "•"; position: absolute; left: 3px; color: #ee9b00; font-weight: 700; }
+  .reds-record { font-size: 44px; font-weight: 800; color: #c6011f; line-height: 1; margin: 4px 0; }
+  .reds-sub { font-size: 13px; color: #444; margin-bottom: 8px; }
+  .game-row {
+    margin-top: 10px; background: #fff4f4; border: 1px solid #f3c2c2;
+    border-radius: 7px; padding: 8px 10px; font-size: 13px; font-weight: 600; color: #7a0014;
   }
-  .card p, .card li { font-size: 13.5px; margin-bottom: 7px; }
-  .card ul { list-style: none; }
-  .card li { padding-left: 16px; position: relative; }
-  .card li::before { content: "▸"; position: absolute; left: 0; opacity: 0.5; }
-  .q { font-weight: 600; }
-  .a { color: #6a1b9a; font-weight: 700; }
-  .reds { border-top-color: #c6011f; }
-  .reds h2 { color: #c6011f; }
-  .box { border-top-color: #e6a100; } .box h2 { color: #b37e00; }
-  .sports { border-top-color: #1565c0; } .sports h2 { color: #1565c0; }
-  .deaths { border-top-color: #555; } .deaths h2 { color: #444; }
-  .history { border-top-color: #00897b; } .history h2 { color: #00796b; }
-  .news { border-top-color: #d84315; } .news h2 { color: #d84315; }
-  .cap { border-top-color: #2e7d32; } .cap h2 { color: #2e7d32; }
-  .tv { border-top-color: #6a1b9a; } .tv h2 { color: #6a1b9a; }
-  .arts { border-top-color: #ad1457; } .arts h2 { color: #ad1457; }
-  .founded { border-top-color: #4527a0; } .founded h2 { color: #4527a0; }
-  .general { border-top-color: #00838f; } .general h2 { color: #00838f; }
-  .songs { border-top-color: #1db954; } .songs h2 { color: #128a3e; }
-  .record { font-size: 40px; font-weight: 900; color: #c6011f; line-height: 1; }
-  .record-sub { font-size: 13px; color: #555; margin: 4px 0 10px; font-weight: 600; }
-  .form { font-size: 13px; margin-bottom: 4px; }
-  .gamerow {
-    margin-top: 10px;
-    background: #fff3cd;
-    border: 1px solid #ffe08a;
-    border-radius: 8px;
-    padding: 9px 11px;
-    font-size: 13px;
-    font-weight: 600;
+  .natl { margin-top: 10px; padding-top: 9px; border-top: 1px dashed #d8b06a; font-size: 12.5px; color: #6b4a00; }
+  .tag { font-weight: 700; color: #1982c4; }
+  .deaths .tag { color: #4a5568; }
+  @media (max-width: 900px) { .wrap { columns: 2; } }
+  @media (max-width: 600px) { .wrap { columns: 1; } header h1 { font-size: 22px; } }
+  @media print {
+    body { background: #fff; }
+    .wrap { columns: 3; }
+    header { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .card { box-shadow: none; border: 1px solid #ddd; }
   }
-  .nat { margin-top: 8px; padding-top: 8px; border-top: 1px dashed #ccc; font-size: 13px; }
-  .subsec { margin-top: 10px; padding-top: 9px; border-top: 1px dashed #ccc; }
-  .subsec .label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.6px; color: #b37e00; margin-bottom: 5px; }
-  .span-2 { grid-column: span 2; }
-  .song-row { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px dashed rgba(0,0,0,0.12); gap:8px; }
-  .song-row:last-of-type { border-bottom:none; }
-  .song-info { flex:1; min-width:0; }
-  .song-title { font-weight:700; font-size:14px; color:#1a1a2e; }
-  .song-meta { font-size:12px; color:rgba(0,0,0,0.55); margin-top:1px; }
-  .song-links { display:flex; gap:6px; flex-shrink:0; }
-  .song-links a { text-decoration:none; font-size:11px; font-weight:700; padding:4px 9px; border-radius:4px; white-space:nowrap; }
-  .song-links a.spotify { background:#1db954; color:#fff; }
-  .song-links a.apple { background:#fa233b; color:#fff; }
-  @media (max-width: 700px) { .span-2 { grid-column: span 1; } header h1 { font-size: 22px; } }
 </style>
 </head>
 <body>
@@ -110,220 +76,113 @@
 <!-- ARCHIVE-NAV -->
 <div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
   <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
-  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
-  <a href="./thursday-trivia-2026-06-18.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 18</a>
   <a href="./thursday-trivia-2026-06-17.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 17</a>
   <a href="./thursday-trivia-2026-06-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 12</a>
   <a href="./thursday-trivia-2026-06-11.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 11</a>
   <a href="./thursday-trivia-2026-06-10.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 10</a>
-  <a href="./thursday-trivia-2026-06-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 9</a>
-  <a href="./thursday-trivia-2026-06-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Jun 5</a>
 </div>
 
 <div class="wrap">
-<div class="grid">
 
-  <!-- REDS -->
   <div class="card reds">
     <h2>⚾ Cincinnati Reds</h2>
-    <div class="record">35–38</div>
-    <div class="record-sub">5th in NL Central · 11.0 GB · .479 · ~3 GB in NL Wild Card</div>
-    <div class="form"><strong>Last 5:</strong> W · L · W · W · L &nbsp;(beat ARI 2–1, fell 5–3; swept past NYM 12–0 &amp; 5–3, then lost finale 1–9)</div>
-    <div class="form"><strong>L10:</strong> 4–6 · Current streak: L1</div>
-    <div class="gamerow">📅 No game today — next up: Fri, June 19 @ New York Yankees, 7:05 PM ET</div>
+    <div class="reds-record">35–38</div>
+    <div class="reds-sub">5th in NL Central · ~11 GB · .479</div>
+    <p style="font-size:13px;">Recent form (last 5): <strong>W-L-W-W-L</strong> (3–2). Took 2 of 3 from the Mets at home — blasting them <strong>12–0</strong> (Jun 15) and <strong>5–3</strong> (Jun 16) — before dropping the finale <strong>1–9</strong> on Jun 17 (Mets rookie Nolan McLean fanned 9).</p>
+    <div class="game-row">🚫 No game today (travel day). Next: Fri, Jun 19 @ New York Yankees, 7:05 PM ET (Yankee Stadium).</div>
   </div>
 
-  <!-- BOX OFFICE -->
   <div class="card box">
-    <h2>🎬 Box Office</h2>
-    <p><span class="q">#1 this week:</span> <strong>Disclosure Day</strong> (Steven Spielberg sci-fi) — opened at <strong>~$44M</strong> on its way to leading the June 12–14 weekend; the sci-fi thriller features an ensemble led by Emily Blunt, Paul Mescal, Colin Firth &amp; Colman Domingo. Now in its first full week before a giant new arrival.</p>
-    <p style="font-size:12px;color:#666;">Fun fact: it's Spielberg's first original sci-fi feature in years and reportedly carried a ~$115M budget.</p>
-    <div class="subsec">
-      <div class="label">Coming This Weekend (June 19–21)</div>
-      <ul>
-        <li><strong>Toy Story 5</strong> (Pixar, dir. Andrew Stanton) — Woody &amp; Buzz return; tracking for a <strong>$140M+</strong> opening, projected to be the biggest domestic debut of 2026 and a franchise record.</li>
-        <li><strong>The Death of Robin Hood</strong> (A24, dir. Michael Sarnoski) — a dark, violent reimagining starring Hugh Jackman, Jodie Comer &amp; Bill Skarsgård; adult counterprogramming to Pixar.</li>
-        <li>Plus several limited/indie openers (drama, horror, documentary) rounding out the slate.</li>
-      </ul>
-    </div>
+    <h2>🎬 Box Office #1</h2>
+    <p><strong>Disclosure Day</strong> (Steven Spielberg sci-fi mystery) — <strong>$44.5M</strong> opening weekend (3-day domestic, ~3,824 theaters), the biggest debut of the period.</p>
+    <p style="font-size:12.5px; color:#555;"><strong>Fun fact:</strong> The film reunites Spielberg with <em>Jurassic Park</em> screenwriter David Koepp and composer John Williams, and was shot "in-camera" with practical sets and atmospheric effects instead of heavy CGI. Stars Emily Blunt &amp; Josh O'Connor, with Colin Firth, Colman Domingo and Wyatt Russell.</p>
   </div>
 
-  <!-- SPORTS -->
-  <div class="card sports span-2">
-    <h2>🏆 Sports — This Week</h2>
-    <ul>
-      <li><strong>⚽ FIFA World Cup 2026</strong> (group stage; US/Mexico/Canada co-host, 48 teams): Recent results — Argentina 3–0 Algeria (Messi hat trick, 16th career WC goal), France 3–1 Senegal, Norway 4–1 Iraq, England 4–2 Croatia, Portugal 1–1 DR Congo, Ghana 1–0 Panama. <strong>USMNT</strong> won its opener 4–1 over Paraguay; next up vs. Australia, <strong>Fri June 19, 3 PM ET, Lumen Field (Seattle)</strong> — a Group D top-of-table clash.</li>
-      <li><strong>⛳ Golf — U.S. Open</strong> begins <strong>today</strong> at Shinnecock Hills (Southampton, NY), running June 18–21. Scottie Scheffler enters as the betting favorite.</li>
-      <li><strong>🏟️ MLB:</strong> Milwaukee Brewers own baseball's best record (45–26) and lead the NL Central; the Reds sit 5th, 11 back. Interleague play heats up with the Reds heading to the Bronx this weekend.</li>
-      <li><strong>🏀🏒 Offseason:</strong> The NBA's New York Knicks (1st title since 1973, Brunson Finals MVP) and the NHL's Carolina Hurricanes (Jordan Staal, oldest-ever Conn Smythe) wrapped up their championships last week — both leagues now in offseason.</li>
-    </ul>
+  <div class="card sports">
+    <h2>🏆 Sports — Past Week</h2>
+    <p><span class="tag">World Cup:</span> Group stage rolling in the 48-team US/MEX/CAN tournament. Jun 16: Norway thumped Iraq 4–1, Austria beat Jordan 3–1. Jun 17: Colombia 3–1 Uzbekistan, Portugal drew DR Congo 1–1. Today (Jun 18): Mexico–Korea Republic (Guadalajara) &amp; Canada–Qatar (Vancouver). USMNT next vs Australia Fri Jun 19, Seattle.</p>
+    <p><span class="tag">Golf:</span> 126th U.S. Open opens today at Shinnecock Hills (Southampton, NY). Fog-delayed Round 1 — Sam Stevens the early clubhouse leader at 2-under; Rory McIlroy posted 1-under 69 in heavy wind.</p>
+    <p><span class="tag">NBA:</span> Knicks are CHAMPIONS — beat the Spurs 4–1; Jalen Brunson Finals MVP. First New York title since 1973.</p>
+    <p><span class="tag">NHL:</span> Carolina Hurricanes win the Stanley Cup over Vegas (4–2). Jordan Staal, 37, takes the Conn Smythe — oldest winner ever.</p>
+    <p><span class="tag">MLB:</span> Brewers lead the NL Central; the Reds sit 5th (see Reds card).</p>
   </div>
 
-  <!-- DEATHS -->
   <div class="card deaths">
-    <h2>🕊️ In Memoriam (Past Week)</h2>
-    <ul>
-      <li><strong>David Hockney</strong>, 88 — one of the most influential British artists of the 20th &amp; 21st centuries, a pop-art pioneer famous for his vivid Los Angeles swimming-pool paintings ("A Bigger Splash"). Died June 11 at his home in London. <span style="font-size:12px;color:#777;">(Confirmed by The Washington Post, NPR, CNN &amp; NBC News.)</span></li>
-    </ul>
-    <p style="font-size:12px;color:#777;">Note: other widely circulated celebrity-death claims this week could not be confirmed against reputable outlets and were left off.</p>
+    <h2>🕊️ In Memoriam — Past Week</h2>
+    <p><span class="tag">Walter Parazaider, 81</span> — founding saxophonist/woodwinds of the rock band Chicago (Jun 17).</p>
+    <p><span class="tag">Tom Dreesen, 86</span> — stand-up comedian and Frank Sinatra's longtime opening act, a Carson &amp; Letterman regular (Jun 17).</p>
+    <p><span class="tag">Daveigh Chase, 36</span> — actress; Samara in <em>The Ring</em> and the voice of Lilo in <em>Lilo &amp; Stitch</em> (Jun 16).</p>
+    <p><span class="tag">Abdullah Ibrahim, 91</span> — celebrated South African jazz pianist and composer ("Mannenberg") (Jun 15).</p>
   </div>
 
-  <!-- THIS DAY IN HISTORY -->
   <div class="card history">
-    <h2>📅 This Day in History — June 18</h2>
-    <ul>
-      <li><strong>1815</strong> — Napoleon is defeated by the Duke of Wellington at the <strong>Battle of Waterloo</strong>, ending the Napoleonic era.</li>
-      <li><strong>1812</strong> — President James Madison signs the U.S. declaration of war against Britain, starting the <strong>War of 1812</strong>.</li>
-      <li><strong>1983</strong> — <strong>Sally Ride</strong> launches aboard the shuttle Challenger, becoming the first American woman in space.</li>
-    </ul>
-    <div class="nat">🎉 <strong>National Days:</strong> Go Fishing Day · International Picnic Day · National Splurge Day · International Sushi Day · Autistic Pride Day</div>
+    <h2>📜 This Day in History — June 18</h2>
+    <p><strong>1940</strong> — Charles de Gaulle delivers his "Appeal of 18 June" (<em>L'Appel du 18 juin</em>) over BBC radio, rallying the French Resistance.</p>
+    <p><strong>1967</strong> — The Monterey Pop Festival closes, with breakout sets by Jimi Hendrix, Janis Joplin, and The Who.</p>
+    <p><strong>1979</strong> — Jimmy Carter and Leonid Brezhnev sign the SALT II arms-limitation treaty in Vienna.</p>
+    <div class="natl">🎉 <strong>National Days:</strong> International Panic Day · National Wanna Get Away Day · Go Fishing Day · International Picnic Day</div>
   </div>
 
-  <!-- CURRENT EVENTS -->
-  <div class="card news">
-    <h2>📰 Current Events</h2>
-    <ul>
-      <li>The <strong>World Cup</strong> dominates the sports world — record crowds across the U.S., Mexico and Canada for the first-ever 48-team, three-nation tournament.</li>
-      <li>The <strong>U.S. Open</strong> golf championship tees off today at historic Shinnecock Hills.</li>
-      <li><strong>Toy Story 5</strong> opens Friday and is expected to be the year's biggest box-office debut, capping a strong summer movie season.</li>
-    </ul>
-  </div>
-
-  <!-- CAPITALS -->
-  <div class="card cap">
+  <div class="card caps">
     <h2>🌍 Capitals Quiz</h2>
-    <ul>
-      <li><span class="q">Capital of Nevada?</span> — <span class="a">Carson City</span></li>
-      <li><span class="q">Capital of Missouri?</span> — <span class="a">Jefferson City</span></li>
-      <li><span class="q">Capital of Greece?</span> — <span class="a">Athens</span></li>
-      <li><span class="q">Capital of Kenya?</span> — <span class="a">Nairobi</span></li>
-    </ul>
+    <div class="qa"><span class="q">Capital of Alaska?</span> — <span class="a">Juneau</span></div>
+    <div class="qa"><span class="q">Capital of Virginia?</span> — <span class="a">Richmond</span></div>
+    <div class="qa"><span class="q">Constitutional capital of Bolivia?</span> — <span class="a">Sucre</span> (La Paz is the seat of government)</div>
+    <div class="qa"><span class="q">Capital of Ghana?</span> — <span class="a">Accra</span></div>
   </div>
 
-  <!-- CLASSIC TV -->
   <div class="card tv">
     <h2>📺 Classic TV — Actors &amp; Roles</h2>
-    <ul>
-      <li><span class="q">Who played <em>Lucas McCain</em> on <strong>The Rifleman</strong> (1958–63)?</span> — <span class="a">Chuck Connors</span></li>
-      <li><span class="q">Who played <em>Bret Maverick</em> on <strong>Maverick</strong> (1957–62)?</span> — <span class="a">James Garner</span></li>
-      <li><span class="q">Who played <em>Maude Findlay</em> on <strong>Maude</strong> (1972–78)?</span> — <span class="a">Bea Arthur</span></li>
-      <li><span class="q">Who played <em>Captain Merrill Stubing</em> on <strong>The Love Boat</strong> (1977–86)?</span> — <span class="a">Gavin MacLeod</span></li>
-      <li><span class="q">Who played <em>Angela Channing</em> on <strong>Falcon Crest</strong> (1981–90)?</span> — <span class="a">Jane Wyman</span></li>
-      <li><span class="q">Who played <em>Benson DuBois</em> on <strong>Benson</strong> (1979–86)?</span> — <span class="a">Robert Guillaume</span></li>
-    </ul>
+    <div class="qa"><span class="q">Rowdy Yates on <em>Rawhide</em> (1959–65)?</span> — <span class="a">Clint Eastwood</span></div>
+    <div class="qa"><span class="q">John Steed on <em>The Avengers</em> (1961–69)?</span> — <span class="a">Patrick Macnee</span></div>
+    <div class="qa"><span class="q">Newspaper editor Lou Grant on <em>Lou Grant</em> (1977–82)?</span> — <span class="a">Ed Asner</span></div>
+    <div class="qa"><span class="q">Det. Lt. Mike Stone on <em>The Streets of San Francisco</em> (1972–77)?</span> — <span class="a">Karl Malden</span></div>
+    <div class="qa"><span class="q">Spy Lee Stetson on <em>Scarecrow and Mrs. King</em> (1983–87)?</span> — <span class="a">Bruce Boxleitner</span></div>
+    <div class="qa"><span class="q">Sheriff Jimmy Brock on <em>Picket Fences</em> (1992–96)?</span> — <span class="a">Tom Skerritt</span></div>
   </div>
 
-  <!-- ARTS & LIT -->
   <div class="card arts">
     <h2>🎨 Arts &amp; Literature</h2>
-    <ul>
-      <li><span class="q">Who wrote the Gothic novel <em>Dracula</em> (1897)?</span> — <span class="a">Bram Stoker</span></li>
-      <li><span class="q">Who wrote <em>Little Women</em>?</span> — <span class="a">Louisa May Alcott</span></li>
-      <li><span class="q">Which French composer wrote "Clair de Lune"?</span> — <span class="a">Claude Debussy</span></li>
-      <li><span class="q">Who wrote <em>Gulliver's Travels</em> (1726)?</span> — <span class="a">Jonathan Swift</span></li>
-      <li><span class="q">Which Danish author wrote "The Little Mermaid" &amp; "The Ugly Duckling"?</span> — <span class="a">Hans Christian Andersen</span></li>
-      <li><span class="q">Who wrote the dystopian novel <em>Fahrenheit 451</em>?</span> — <span class="a">Ray Bradbury</span></li>
-    </ul>
+    <div class="qa"><span class="q">Who created detectives Hercule Poirot and Miss Marple?</span> — <span class="a">Agatha Christie</span></div>
+    <div class="qa"><span class="q">Author of the play <em>Waiting for Godot</em> (1953)?</span> — <span class="a">Samuel Beckett</span></div>
+    <div class="qa"><span class="q">Dutch painter known for grids of red, blue &amp; yellow?</span> — <span class="a">Piet Mondrian</span></div>
+    <div class="qa"><span class="q">Composer of <em>Carmina Burana</em> / "O Fortuna" (1936)?</span> — <span class="a">Carl Orff</span></div>
+    <div class="qa"><span class="q">Nobel 2017 author of <em>The Remains of the Day</em> &amp; <em>Never Let Me Go</em>?</span> — <span class="a">Kazuo Ishiguro</span></div>
+    <div class="qa"><span class="q">Russian author of <em>Doctor Zhivago</em> (Nobel 1958)?</span> — <span class="a">Boris Pasternak</span></div>
   </div>
 
-  <!-- FOUNDED & INVENTED -->
-  <div class="card founded">
-    <h2>⚙️ Founded &amp; Invented</h2>
-    <ul>
-      <li><span class="q">Who invented dynamite (1867)?</span> — <span class="a">Alfred Nobel</span></li>
-      <li><span class="q">What year was Toyota Motor Corporation founded?</span> — <span class="a">1937 (Kiichiro Toyoda)</span></li>
-      <li><span class="q">Who is credited with inventing electronic television (1927)?</span> — <span class="a">Philo Farnsworth</span></li>
-      <li><span class="q">Who invented the movable-type printing press (c. 1440)?</span> — <span class="a">Johannes Gutenberg</span></li>
-      <li><span class="q">Who designed the original Ferris Wheel for the 1893 Chicago World's Fair?</span> — <span class="a">George W. Ferris</span></li>
-      <li><span class="q">Who invented the safety pin (1849)?</span> — <span class="a">Walter Hunt</span></li>
-    </ul>
+  <div class="card invent">
+    <h2>💡 Founded &amp; Invented</h2>
+    <div class="qa"><span class="q">What year was Tesla Motors founded?</span> — <span class="a">2003</span> (Eberhard &amp; Tarpenning; Musk led the 2004 round)</div>
+    <div class="qa"><span class="q">Who invented the cotton gin (1793)?</span> — <span class="a">Eli Whitney</span></div>
+    <div class="qa"><span class="q">Who invented the telegraph and co-created Morse code?</span> — <span class="a">Samuel Morse</span></div>
+    <div class="qa"><span class="q">What year did Ben &amp; Jerry's start?</span> — <span class="a">1978</span> (in a renovated Burlington, VT gas station)</div>
+    <div class="qa"><span class="q">Who patented the lockstitch sewing machine (1846)?</span> — <span class="a">Elias Howe</span></div>
+    <div class="qa"><span class="q">What year did Gmail publicly launch?</span> — <span class="a">2004</span> (debuted April 1 with 1 GB free storage)</div>
   </div>
 
-  <!-- GENERAL -->
-  <div class="card general span-2">
+  <div class="card gen">
     <h2>🧠 General Trivia</h2>
-    <ul>
-      <li><strong>Science:</strong> A teaspoon of neutron-star material would weigh about 6 billion tons.</li>
-      <li><strong>Geography:</strong> Russia spans 11 time zones — more than any other country.</li>
-      <li><strong>Food:</strong> Carrots were originally purple; the familiar orange variety was bred in the Netherlands.</li>
-      <li><strong>Animals:</strong> A group of crows is called a "murder."</li>
-      <li><strong>History:</strong> Oxford University was teaching by 1096 — older than the Aztec Empire (founded 1325).</li>
-      <li><strong>Body:</strong> Your stomach grows a new lining every few days so it doesn't digest itself.</li>
-      <li><strong>Astronomy:</strong> There are more stars in the universe than grains of sand on all of Earth's beaches.</li>
-      <li><strong>Geography:</strong> The Sahara Desert is roughly the size of the continental United States.</li>
-      <li><strong>Food:</strong> Peanuts aren't nuts — they're legumes, like beans and lentils.</li>
-      <li><strong>Animals:</strong> A shrimp's heart is located in its head.</li>
-      <li><strong>Language:</strong> The dot over a lowercase "i" or "j" is called a "tittle."</li>
-      <li><strong>History:</strong> The Great Pyramid of Giza was the world's tallest structure for ~3,800 years.</li>
-    </ul>
+    <div class="fact">A single lightning bolt packs enough energy to toast roughly 100,000 slices of bread.</div>
+    <div class="fact">A group of jellyfish is called a "smack."</div>
+    <div class="fact">Africa is the only continent that lies in all four hemispheres.</div>
+    <div class="fact">Pineapple's enzyme bromelain breaks down protein — so the fruit "bites back" as you eat it.</div>
+    <div class="fact">One day on Mercury (sunrise to sunrise) lasts about 176 Earth days — longer than its 88-day year.</div>
+    <div class="fact">Your body contains roughly as many bacterial cells as human cells.</div>
+    <div class="fact">The Hundred Years' War actually lasted 116 years (1337–1453).</div>
+    <div class="fact">The world's first webcam (Cambridge, 1991) was aimed at a coffee pot so workers could see if it was full.</div>
+    <div class="fact">Sea otters have the densest fur of any animal — up to ~1 million hairs per square inch.</div>
+    <div class="fact">Istanbul is the only major city that straddles two continents (Europe and Asia).</div>
+    <div class="fact">The word "alphabet" comes from the first two Greek letters: alpha + beta.</div>
   </div>
 
-  <!-- SONGS -->
-  <div class="card songs span-2">
-    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Bring Me to Life</div>
-        <div class="song-meta">Evanescence · 2003 · Fallen</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/search/Bring%20Me%20to%20Life%20Evanescence" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/search?term=Bring%20Me%20to%20Life%20Evanescence" target="_blank">Apple</a>
-      </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Hey Jealousy</div>
-        <div class="song-meta">Gin Blossoms · 1992 · New Miserable Experience</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/search/Hey%20Jealousy%20Gin%20Blossoms" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/search?term=Hey%20Jealousy%20Gin%20Blossoms" target="_blank">Apple</a>
-      </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Semi-Charmed Life</div>
-        <div class="song-meta">Third Eye Blind · 1997 · Third Eye Blind</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/search/Semi-Charmed%20Life%20Third%20Eye%20Blind" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/search?term=Semi-Charmed%20Life%20Third%20Eye%20Blind" target="_blank">Apple</a>
-      </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Stay (I Missed You)</div>
-        <div class="song-meta">Lisa Loeb &amp; Nine Stories · 1994 · Reality (soundtrack)</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/search/Stay%20I%20Missed%20You%20Lisa%20Loeb" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/search?term=Stay%20I%20Missed%20You%20Lisa%20Loeb" target="_blank">Apple</a>
-      </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">Sex and Candy</div>
-        <div class="song-meta">Marcy Playground · 1997 · Marcy Playground</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/search/Sex%20and%20Candy%20Marcy%20Playground" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/search?term=Sex%20and%20Candy%20Marcy%20Playground" target="_blank">Apple</a>
-      </div>
-    </div>
-    <div class="song-row">
-      <div class="song-info">
-        <div class="song-title">You Oughta Know</div>
-        <div class="song-meta">Alanis Morissette · 1995 · Jagged Little Pill</div>
-      </div>
-      <div class="song-links">
-        <a class="spotify" href="https://open.spotify.com/search/You%20Oughta%20Know%20Alanis%20Morissette" target="_blank">Spotify</a>
-        <a class="apple" href="https://music.apple.com/us/search?term=You%20Oughta%20Know%20Alanis%20Morissette" target="_blank">Apple</a>
-      </div>
-    </div>
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <p>The 2026 FIFA World Cup — the first 48-team edition, co-hosted by the US, Mexico and Canada — is in full swing across the three nations.</p>
+    <p>New York is celebrating a sports double: the Knicks captured their first NBA title since 1973 just as the U.S. Open golf championship returns to Shinnecock Hills on Long Island.</p>
+    <p>The Carolina Hurricanes lifted the Stanley Cup, with 37-year-old Jordan Staal becoming the oldest Conn Smythe Trophy winner in NHL history.</p>
   </div>
 
-</div>
 </div>
 </body>
 </html>
