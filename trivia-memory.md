@@ -2446,4 +2446,62 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Box Office | Disclosure Day (Spielberg sci-fi) #1, $44.5M opening; reunites Spielberg/Koepp/Williams, shot in-camera; Blunt & O'Connor lead |
 | Jun 18 | Deaths | Walter Parazaider (81, Chicago saxophonist, Jun 17); Tom Dreesen (86, comedian/Sinatra opener, Jun 17); Daveigh Chase (36, The Ring/Lilo & Stitch, Jun 16); Abdullah Ibrahim (91, SA jazz pianist, Jun 15) |
 
-_Last updated: June 18, 2026 (v28 — June 18 re-run; fresh content, supersedes v27)_
+
+## June 22, 2026 (v29)
+
+### Capitals
+| Jun 22 | Mali | Bamako |
+| Jun 22 | Tonga | Nuku'alofa |
+| Jun 22 | Côte d'Ivoire (Ivory Coast) | Yamoussoukro (Abidjan largest city) |
+| Jun 22 | Georgia (country) | Tbilisi |
+
+### Classic TV
+| Jun 22 | Gunsmoke (1955–75) | Marshal Matt Dillon | James Arness |
+| Jun 22 | The Honeymooners (1955–56) | Ralph Kramden | Jackie Gleason |
+| Jun 22 | Hogan's Heroes (1965–71) | Col. Robert Hogan | Bob Crane |
+| Jun 22 | I Dream of Jeannie (1965–70) | Jeannie | Barbara Eden |
+| Jun 22 | The Waltons (1972–81) | John-Boy Walton | Richard Thomas |
+| Jun 22 | Adam-12 (1968–75) | Officer Pete Malloy | Martin Milner |
+
+### Arts & Literature
+| Jun 22 | Pride and Prejudice (1813) author | Jane Austen |
+| Jun 22 | The Old Man and the Sea author | Ernest Hemingway |
+| Jun 22 | American Gothic (1930) painter | Grant Wood |
+| Jun 22 | "New World Symphony" (No. 9, 1893) composer | Antonín Dvořák |
+| Jun 22 | Crime and Punishment (1866) author | Fyodor Dostoevsky |
+| Jun 22 | "The Road Not Taken" poet | Robert Frost |
+
+### Founded & Invented
+| Jun 22 | Jet engine patent (1930) | Sir Frank Whittle (von Ohain independent in Germany) |
+| Jun 22 | Roomba robot vacuum (2002) | iRobot |
+| Jun 22 | Vacuum flask / Thermos (1892) | Sir James Dewar |
+| Jun 22 | Game Boy (1989) | Nintendo / Gunpei Yokoi |
+| Jun 22 | Pop-Tarts (1964) | Kellogg's |
+| Jun 22 | Transistor (1947) | Bardeen, Brattain & Shockley (Bell Labs) |
+
+### General Trivia
+| Jun 22 | Animals | Hummingbirds are the only birds that can fly backward |
+| Jun 22 | Geography | Vatican City is the world's smallest country (~0.49 km²) |
+| Jun 22 | Nature | More trees on Earth (~3T) than stars in the Milky Way (~100–400B) |
+| Jun 22 | Language | Fear of long words = "hippopotomonstrosesquippedaliophobia" |
+| Jun 22 | History | Statue of Liberty's official name: "Liberty Enlightening the World" |
+| Jun 22 | Food | Almonds aren't true nuts — seeds of a drupe (stone fruit) |
+| Jun 22 | Animals | Elephants are the only mammal that can't jump |
+| Jun 22 | Astronomy | The Moon drifts ~3.8 cm farther from Earth each year |
+| Jun 22 | Body | Babies born with ~300 bones; adults have 206 (they fuse) |
+| Jun 22 | Astronomy | No sound in space — a vacuum can't carry sound waves |
+| Jun 22 | Science | The Sun is actually white; atmosphere scatters light to look yellow |
+| Jun 22 | Body | Every person's tongue print is unique, like a fingerprint |
+
+### This Day in History
+| Jun 22 | June 22 (Operation Barbarossa — Germany invades USSR 1941; FDR signs G.I. Bill 1944; Maradona "Hand of God" goal vs England 1986) | — |
+| Jun 22 | National Days: National Onion Ring Day; National Chocolate Éclair Day; Take Your Cat to Work Day; World Rainforest Day | — |
+
+### Sports / Current Events
+| Jun 22 | Sports | World Cup group stage: Argentina 2-0 Austria (Messi brace → all-time WC scoring record, 18 goals); France led Iraq 1-0; USMNT clinched group with 2-0 win over Australia (Jun 19 Seattle) |
+| Jun 22 | Sports | Golf: Wyndham Clark won 126th U.S. Open at Shinnecock Hills (Jun 21), wire-to-wire, beat Sam Burns by one at 4-under; 2nd U.S. Open in 3 yrs |
+| Jun 22 | Reds | 37-39, 5th NL Central; last 5 W-L-L-W-W (streak W2); took 2 of 3 at NYY (L 5-0, W 10-2, W 4-1 — Chase Burns 8th straight win); TODAY vs Brewers 7:10 PM ET (Singer vs Woodruff) |
+| Jun 22 | Box Office | Toy Story 5 #1, $160M domestic open (biggest of 2026; franchise record; 2nd-biggest animated open ever); $312M global; Taylor Swift #1 song "I Knew It, I Knew You" |
+| Jun 22 | Deaths | James Burrows (85, legendary TV director / Cheers co-creator, Jun 19); Daveigh Chase (36, The Ring/Lilo, Jun 16); Tom Dreesen (86, comedian, Jun 17); Abdullah Ibrahim (91, SA jazz pianist, Jun 15) |
+
+_Last updated: June 22, 2026 (v29)_
