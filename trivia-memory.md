@@ -113,6 +113,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Missouri | Jefferson City |
 | Jun 18 | Greece | Athens |
 | Jun 18 | Kenya | Nairobi |
+| Jun 23 | Utah | Salt Lake City |
+| Jun 23 | Poland | Warsaw |
+| Jun 23 | Alabama | Montgomery |
+| Jun 23 | Philippines | Manila |
 
 
 
@@ -255,6 +259,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | The Love Boat (1977–86) | Capt. Merrill Stubing | Gavin MacLeod |
 | Jun 18 | Falcon Crest (1981–90) | Angela Channing | Jane Wyman |
 | Jun 18 | Benson (1979–86) | Benson DuBois | Robert Guillaume |
+| Jun 23 | Petticoat Junction (1963–70) | Kate Bradley | Bea Benaderet |
+| Jun 23 | Have Gun – Will Travel (1957–63) | Paladin | Richard Boone |
+| Jun 23 | Dark Shadows (1966–71) | Barnabas Collins | Jonathan Frid |
+| Jun 23 | Kung Fu (1972–75) | Kwai Chang Caine | David Carradine |
+| Jun 23 | Soap (1977–81) | Jessica Tate | Katherine Helmond |
+| Jun 23 | Cannon (1971–76) | Frank Cannon | William Conrad |
 
 
 ---
@@ -371,6 +381,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Gulliver's Travels (1726) author | Jonathan Swift |
 | Jun 18 | The Little Mermaid / Ugly Duckling author | Hans Christian Andersen |
 | Jun 18 | Fahrenheit 451 author | Ray Bradbury |
+| Jun 23 | The Scarlet Letter (1850) author | Nathaniel Hawthorne |
+| Jun 23 | The Canterbury Tales author | Geoffrey Chaucer |
+| Jun 23 | Gone with the Wind (1936) author | Margaret Mitchell |
+| Jun 23 | The Garden of Earthly Delights painter | Hieronymus Bosch |
+| Jun 23 | "The Planets" suite composer | Gustav Holst |
+| Jun 23 | "Howl" (1956) poet | Allen Ginsberg |
 
 
 ---
@@ -679,6 +695,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | May 7 (Lusitania 1915, Germany WWII surrender 1945, Beethoven 9th premiere 1824) |
 | May 20 | May 20 (Homestead Act 1862; Lindbergh 1927; Earhart 1932) |
 | Jun 18 | June 18 (Battle of Waterloo 1815; War of 1812 declared 1812; Sally Ride first American woman in space 1983) |
+| Jun 23 | June 23 (Typewriter patented 1868; IOC founded 1894; Title IX enacted 1972; Tim Burton's Batman released 1989) |
 
 
 ---
@@ -714,6 +731,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ---
 | May 7 | National Day of Reason · Children's Mental Health Awareness Day · National Roast Leg of Lamb Day · National Tourism Day |
 | Jun 18 | Go Fishing Day; International Picnic Day; National Splurge Day; International Sushi Day; Autistic Pride Day |
+| Jun 23 | National Pink Day; National Detroit-Style Pizza Day; National Hydration Day; National Pecan Sandies Day; Pink Flamingo Day; International Widows' Day; UN Public Service Day |
 
 ---
 
@@ -817,6 +835,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Inventor of movable-type printing press (c.1440) | Johannes Gutenberg |
 | Jun 18 | Designer of original Ferris Wheel (1893 Chicago) | George W. Ferris |
 | Jun 18 | Inventor of the safety pin (1849) | Walter Hunt |
+| Jun 23 | Penicillin discovered (1928) | Alexander Fleming |
+| Jun 23 | Vaseline / petroleum jelly (1872) | Robert Chesebrough |
+| Jun 23 | Practical light bulb (1879) | Thomas Edison |
+| Jun 23 | Ferrari founded | Enzo Ferrari (1939; first car 1947) |
+| Jun 23 | IBM founded year | 1911 (as CTR; renamed IBM 1924) |
+| Jun 23 | Bagless cyclone vacuum (1991) | James Dyson (5,127 prototypes) |
 
 
 ---
@@ -2504,4 +2528,63 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 22 | Box Office | Toy Story 5 #1, $160M domestic open (biggest of 2026; franchise record; 2nd-biggest animated open ever); $312M global; Taylor Swift #1 song "I Knew It, I Knew You" |
 | Jun 22 | Deaths | James Burrows (85, legendary TV director / Cheers co-creator, Jun 19); Daveigh Chase (36, The Ring/Lilo, Jun 16); Tom Dreesen (86, comedian, Jun 17); Abdullah Ibrahim (91, SA jazz pianist, Jun 15) |
 
-_Last updated: June 22, 2026 (v29)_
+
+## June 23, 2026 (v30)
+
+### Capitals
+| Jun 23 | Utah | Salt Lake City |
+| Jun 23 | Poland | Warsaw |
+| Jun 23 | Alabama | Montgomery |
+| Jun 23 | Philippines | Manila |
+
+### Classic TV
+| Jun 23 | Petticoat Junction (1963–70) | Kate Bradley | Bea Benaderet |
+| Jun 23 | Have Gun – Will Travel (1957–63) | Paladin | Richard Boone |
+| Jun 23 | Dark Shadows (1966–71) | Barnabas Collins | Jonathan Frid |
+| Jun 23 | Kung Fu (1972–75) | Kwai Chang Caine | David Carradine |
+| Jun 23 | Soap (1977–81) | Jessica Tate | Katherine Helmond |
+| Jun 23 | Cannon (1971–76) | Frank Cannon | William Conrad |
+
+### Arts & Literature
+| Jun 23 | The Scarlet Letter (1850) author | Nathaniel Hawthorne |
+| Jun 23 | The Canterbury Tales author | Geoffrey Chaucer |
+| Jun 23 | Gone with the Wind (1936) author | Margaret Mitchell |
+| Jun 23 | The Garden of Earthly Delights painter | Hieronymus Bosch |
+| Jun 23 | "The Planets" suite composer | Gustav Holst |
+| Jun 23 | "Howl" (1956) poet | Allen Ginsberg |
+
+### Founded & Invented
+| Jun 23 | Penicillin discovered (1928) | Alexander Fleming |
+| Jun 23 | Vaseline / petroleum jelly (1872) | Robert Chesebrough |
+| Jun 23 | Practical light bulb (1879) | Thomas Edison |
+| Jun 23 | Ferrari founded | Enzo Ferrari (1939) |
+| Jun 23 | IBM founded | 1911 (renamed IBM 1924) |
+| Jun 23 | Bagless cyclone vacuum (1991) | James Dyson |
+
+### General Trivia
+| Jun 23 | Geography | Pacific Ocean wider than the Moon's diameter |
+| Jun 23 | History | Cleopatra lived closer to the Moon landing than to the Pyramids |
+| Jun 23 | Astronomy | Saturn is less dense than water — it would float |
+| Jun 23 | Animals | A group of owls is a "parliament" |
+| Jun 23 | Animals | Wombats produce cube-shaped droppings |
+| Jun 23 | Geography | Canada has more lakes than all other countries combined |
+| Jun 23 | Food | Ketchup was sold in the 1830s as medicine |
+| Jun 23 | Body | The nose can distinguish over a trillion scents |
+| Jun 23 | Science | Bananas are slightly radioactive (potassium-40) |
+| Jun 23 | Language | "Set" has the most definitions of any English word |
+| Jun 23 | Animals | Cows form "best friend" bonds |
+| Jun 23 | Science | It rains diamonds inside Neptune and Uranus |
+
+### This Day in History
+| Jun 23 | June 23 (Typewriter patented 1868; IOC founded 1894; Title IX 1972; Batman 1989) | — |
+| Jun 23 | National Days: National Pink Day; National Detroit-Style Pizza Day; National Hydration Day; Pink Flamingo Day; International Widows' Day | — |
+
+### Sports / Current Events
+| Jun 23 | Reds | 37-40, 5th NL Central ~10.5 GB; last 5 L-L-W-W-L (streak L1); split @ NYY (L 0-5, W 10-2, W 4-1), lost Brewers opener 1-2/10 (Woodruff perfect into 6th); TODAY vs Brewers 7:10 PM ET |
+| Jun 23 | Box Office | Toy Story 5 #1, $160M domestic open / $312M global; 2nd-biggest Pixar opening ever (behind Incredibles 2 $182.7M) |
+| Jun 23 | Sports | World Cup group stage: Argentina 2-0 Austria (Messi), France 3-0 Iraq, Portugal 5-0 Uzbekistan, Norway 3-2 Senegal, Algeria 2-1 Jordan; MLB Brewers 47-29 best record in baseball (franchise-best start) |
+| Jun 23 | Deaths | Clive Davis (94, music exec Columbia/Arista — Whitney Houston, Springsteen, Joplin, Santana, Jun 22); Stacey King (59, 3x champ Bulls / Wolves broadcaster); James Burrows (85, Cheers director, Jun 19); Daveigh Chase (36, The Ring/Lilo, Jun 16) |
+| Jun 23 | News | US-Iran talks in Switzerland show progress (inspectors to return); Lebanon ceasefire talks; UK PM Keir Starmer resigned; Bolivia state of emergency |
+
+
+_Last updated: June 23, 2026 (v30)_
