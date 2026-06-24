@@ -117,6 +117,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 23 | Poland | Warsaw |
 | Jun 23 | Alabama | Montgomery |
 | Jun 23 | Philippines | Manila |
+| Jun 24 | Arizona | Phoenix |
+| Jun 24 | North Carolina | Raleigh |
+| Jun 24 | Chile | Santiago |
+| Jun 24 | Indonesia | Jakarta |
 
 
 
@@ -265,6 +269,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 23 | Kung Fu (1972–75) | Kwai Chang Caine | David Carradine |
 | Jun 23 | Soap (1977–81) | Jessica Tate | Katherine Helmond |
 | Jun 23 | Cannon (1971–76) | Frank Cannon | William Conrad |
+| Jun 24 | Leave It to Beaver (1957–63) | Ward Cleaver | Hugh Beaumont |
+| Jun 24 | Gomer Pyle, U.S.M.C. (1964–69) | Gomer Pyle | Jim Nabors |
+| Jun 24 | The Partridge Family (1970–74) | Shirley Partridge | Shirley Jones |
+| Jun 24 | The Streets of San Francisco (1972–77) | Det. Lt. Mike Stone | Karl Malden |
+| Jun 24 | Baretta (1975–78) | Det. Tony Baretta | Robert Blake |
+| Jun 24 | The Phil Silvers Show (1955–59) | Sgt. Ernie Bilko | Phil Silvers |
 
 
 ---
@@ -387,6 +397,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 23 | The Garden of Earthly Delights painter | Hieronymus Bosch |
 | Jun 23 | "The Planets" suite composer | Gustav Holst |
 | Jun 23 | "Howl" (1956) poet | Allen Ginsberg |
+| Jun 24 | The Handmaid's Tale (1985) author | Margaret Atwood |
+| Jun 24 | A Doll's House (1879) playwright | Henrik Ibsen |
+| Jun 24 | De Stijl grid abstraction painter | Piet Mondrian |
+| Jun 24 | "Carmina Burana" (1936) composer | Carl Orff |
+| Jun 24 | Oedipus Rex tragedian | Sophocles |
+| Jun 24 | Dune (1965) author | Frank Herbert |
 
 
 ---
@@ -658,6 +674,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Animals | A shrimp's heart is in its head |
 | Jun 18 | Language | The dot over i/j is a "tittle" |
 | Jun 18 | History | Great Pyramid was tallest structure for ~3,800 years |
+| Jun 24 | Animals | Sea otters store a favorite rock in a skin pouch under the forearm |
+| Jun 24 | Geography | Istanbul is the only major city on two continents (Europe & Asia) |
+| Jun 24 | Science | Hottest air temp on record: 134°F, Death Valley (1913) |
+| Jun 24 | Food | A honeybee visits ~2 million flowers per pound of honey |
+| Jun 24 | Animals | A group of jellyfish is a "smack" |
+| Jun 24 | History | The Hundred Years' War lasted 116 years (1337–1453) |
+| Jun 24 | Body | Adult body holds enough iron to make a ~3-inch nail |
+| Jun 24 | Astronomy | One day on Mercury lasts ~176 Earth days |
+| Jun 24 | Language | No perfect rhyme for month, orange, silver, purple |
+| Jun 24 | Food | Tomatoes once feared as "poison apples" (lead from pewter plates) |
+| Jun 24 | Science | Glass is an "amorphous solid" |
+| Jun 24 | Animals | A blue whale's tongue can weigh as much as an elephant |
 
 
 ---
@@ -732,6 +760,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | May 7 | National Day of Reason · Children's Mental Health Awareness Day · National Roast Leg of Lamb Day · National Tourism Day |
 | Jun 18 | Go Fishing Day; International Picnic Day; National Splurge Day; International Sushi Day; Autistic Pride Day |
 | Jun 23 | National Pink Day; National Detroit-Style Pizza Day; National Hydration Day; National Pecan Sandies Day; Pink Flamingo Day; International Widows' Day; UN Public Service Day |
+| Jun 24 | World UFO Day; International Fairy Day; National Pralines Day; Celebration of the Senses; Swim a Lap Day; National Parchment Day; St. John's Day (Midsummer) |
 
 ---
 
@@ -841,6 +870,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 23 | Ferrari founded | Enzo Ferrari (1939; first car 1947) |
 | Jun 23 | IBM founded year | 1911 (as CTR; renamed IBM 1924) |
 | Jun 23 | Bagless cyclone vacuum (1991) | James Dyson (5,127 prototypes) |
+| Jun 24 | First gasoline automobile patent (1886) | Karl Benz |
+| Jun 24 | Safety razor inventor | King C. Gillette (1901; sold 1903) |
+| Jun 24 | KFC founder | Colonel Harland Sanders (first franchise 1952) |
+| Jun 24 | First powered airplane flight (1903) | Wright Brothers |
+| Jun 24 | Lamborghini founded (1963) | Ferruccio Lamborghini |
+| Jun 24 | Lockstitch sewing machine patent (1846) | Elias Howe |
 
 
 ---
@@ -2577,6 +2612,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 ### This Day in History
 | Jun 23 | June 23 (Typewriter patented 1868; IOC founded 1894; Title IX 1972; Batman 1989) | — |
+| Jun 24 | June 24 (Battle of Bannockburn 1314; Kenneth Arnold "flying saucers" 1947; Berlin Blockade begins 1948; Isner–Mahut longest tennis match 2010) | — |
 | Jun 23 | National Days: National Pink Day; National Detroit-Style Pizza Day; National Hydration Day; Pink Flamingo Day; International Widows' Day | — |
 
 ### Sports / Current Events
@@ -2587,4 +2623,70 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 23 | News | US-Iran talks in Switzerland show progress (inspectors to return); Lebanon ceasefire talks; UK PM Keir Starmer resigned; Bolivia state of emergency |
 
 
-_Last updated: June 23, 2026 (v30)_
+## June 24, 2026 (v31)
+
+### Capitals
+| Jun 24 | Arizona | Phoenix |
+| Jun 24 | North Carolina | Raleigh |
+| Jun 24 | Chile | Santiago |
+| Jun 24 | Indonesia | Jakarta |
+
+### Classic TV
+| Jun 24 | Leave It to Beaver (1957–63) | Ward Cleaver | Hugh Beaumont |
+| Jun 24 | Gomer Pyle, U.S.M.C. (1964–69) | Gomer Pyle | Jim Nabors |
+| Jun 24 | The Partridge Family (1970–74) | Shirley Partridge | Shirley Jones |
+| Jun 24 | The Streets of San Francisco (1972–77) | Det. Lt. Mike Stone | Karl Malden |
+| Jun 24 | Baretta (1975–78) | Det. Tony Baretta | Robert Blake |
+| Jun 24 | The Phil Silvers Show (1955–59) | Sgt. Ernie Bilko | Phil Silvers |
+
+### Arts & Literature
+| Jun 24 | The Handmaid's Tale (1985) author | Margaret Atwood |
+| Jun 24 | A Doll's House (1879) playwright | Henrik Ibsen |
+| Jun 24 | De Stijl grid abstraction painter | Piet Mondrian |
+| Jun 24 | "Carmina Burana" (1936) composer | Carl Orff |
+| Jun 24 | Oedipus Rex tragedian | Sophocles |
+| Jun 24 | Dune (1965) author | Frank Herbert |
+
+### Founded & Invented
+| Jun 24 | First gasoline automobile patent (1886) | Karl Benz |
+| Jun 24 | Safety razor inventor | King C. Gillette (1901; sold 1903) |
+| Jun 24 | KFC founder | Colonel Harland Sanders (first franchise 1952) |
+| Jun 24 | First powered airplane flight (1903) | Wright Brothers |
+| Jun 24 | Lamborghini founded (1963) | Ferruccio Lamborghini |
+| Jun 24 | Lockstitch sewing machine patent (1846) | Elias Howe |
+
+### General Trivia
+| Jun 24 | Animals | Sea otters store a favorite rock in a skin pouch under the forearm |
+| Jun 24 | Geography | Istanbul is the only major city on two continents (Europe & Asia) |
+| Jun 24 | Science | Hottest air temp on record: 134°F, Death Valley (1913) |
+| Jun 24 | Food | A honeybee visits ~2 million flowers per pound of honey |
+| Jun 24 | Animals | A group of jellyfish is a "smack" |
+| Jun 24 | History | The Hundred Years' War lasted 116 years (1337–1453) |
+| Jun 24 | Body | Adult body holds enough iron to make a ~3-inch nail |
+| Jun 24 | Astronomy | One day on Mercury lasts ~176 Earth days |
+| Jun 24 | Language | No perfect rhyme for month, orange, silver, purple |
+| Jun 24 | Food | Tomatoes once feared as "poison apples" (lead from pewter plates) |
+| Jun 24 | Science | Glass is an "amorphous solid" |
+| Jun 24 | Animals | A blue whale's tongue can weigh as much as an elephant |
+
+### Music (1990–2010)
+| Jun 24 | More Than Words | Extreme | 1990 |
+| Jun 24 | Loser | Beck | 1994 |
+| Jun 24 | I Don't Want to Miss a Thing | Aerosmith | 1998 |
+| Jun 24 | All the Small Things | Blink-182 | 1999 |
+| Jun 24 | The Reason | Hoobastank | 2003 |
+| Jun 24 | Rehab | Amy Winehouse | 2006 |
+
+### This Day in History
+| Jun 24 | June 24 (Battle of Bannockburn 1314; Kenneth Arnold "flying saucers" 1947; Berlin Blockade begins 1948; Isner–Mahut longest tennis match 2010) | — |
+| Jun 24 | National Days: World UFO Day; International Fairy Day; National Pralines Day; Celebration of the Senses; Swim a Lap Day; National Parchment Day; St. John's Day (Midsummer) | — |
+
+### Sports / Current Events
+| Jun 24 | Reds | 37-41, 5th NL Central 11.5 GB (Brewers 48-29); last 5 L-W-W-L-L (streak L2); took 2 of 3 @ NYY (L 0-5, W 10-2, W 4-1), lost first two vs Brewers (1-2, 0-2); TONIGHT vs Brewers 7:10 PM ET (Game 3 of 3) |
+| Jun 24 | Box Office | Toy Story 5 #1; $160M domestic / $312M global open; passed $200M domestic in 5 days; biggest 2026 open; franchise record (> Toy Story 4 $120.9M) |
+| Jun 24 | Sports | World Cup final group games (R32 begins Jun 28): England 0-0 Ghana, Portugal 5-0 Uzbekistan, Croatia 1-0 Panama, Colombia 1-0 DR Congo; USMNT clinched, leads Group D vs Turkiye; Brewers 48-29 best record in MLB; Wyndham Clark won U.S. Open |
+| Jun 24 | Deaths | Alan Greenspan (100, Fed Chair 1987-2006, Jun 22); Clive Davis (94, music exec, Jun 22); Stacey King (59, Bulls champ/broadcaster) |
+| Jun 24 | News | US-Iran nuclear inspector talks progress; Lebanon ceasefire talks; UK PM Keir Starmer resigned; Bolivia state of emergency |
+
+
+_Last updated: June 24, 2026 (v31)_
