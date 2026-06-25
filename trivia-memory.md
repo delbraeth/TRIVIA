@@ -2689,4 +2689,62 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 24 | News | US-Iran nuclear inspector talks progress; Lebanon ceasefire talks; UK PM Keir Starmer resigned; Bolivia state of emergency |
 
 
-_Last updated: June 24, 2026 (v31)_
+
+## June 25, 2026 (v32)
+
+### Capitals
+| Jun 25 | Oman | Muscat |
+| Jun 25 | North Macedonia | Skopje |
+| Jun 25 | Moldova | Chișinău |
+| Jun 25 | Mauritania | Nouakchott |
+
+### Classic TV
+| Jun 25 | Mama's Family (1983–90) | Thelma "Mama" Harper | Vicki Lawrence |
+| Jun 25 | Sledge Hammer! (1986–88) | Inspector Sledge Hammer | David Rasche |
+| Jun 25 | Sabrina the Teenage Witch (1996–2003) | Sabrina Spellman | Melissa Joan Hart |
+| Jun 25 | Everybody Loves Raymond (1996–2005) | Ray Barone | Ray Romano |
+| Jun 25 | The King of Queens (1998–2007) | Doug Heffernan | Kevin James |
+| Jun 25 | Dharma & Greg (1997–2002) | Dharma Finkelstein | Jenna Elfman |
+
+### Arts & Literature
+| Jun 25 | Shakespeare play with "To be, or not to be" | Hamlet |
+| Jun 25 | A Christmas Carol (1843) author | Charles Dickens |
+| Jun 25 | "The Last Supper" mural painter | Leonardo da Vinci |
+| Jun 25 | "The Tortoise and the Hare" / fables | Aesop |
+| Jun 25 | "Also sprach Zarathustra" (2001 fanfare) composer | Richard Strauss |
+| Jun 25 | The Wonderful Wizard of Oz (1900) author | L. Frank Baum |
+
+### Founded & Invented
+| Jun 25 | First practical helicopter (1939) | Igor Sikorsky |
+| Jun 25 | Tea bag (1908, accidental) | Thomas Sullivan |
+| Jun 25 | Teddy bear (1902) named after | Theodore Roosevelt (Morris Michtom) |
+| Jun 25 | Ice cream cone popularized at | 1904 St. Louis World's Fair |
+| Jun 25 | Graham cracker named for | Rev. Sylvester Graham |
+| Jun 25 | Compound microscope (~1590s) | Zacharias Janssen (credited) |
+
+### General Trivia
+| Jun 25 | Animals | Goats have rectangular pupils for a wide panoramic view |
+| Jun 25 | Body | Stomach acid is strong enough to dissolve a razor blade |
+| Jun 25 | Science | A single cumulus cloud can weigh more than a million pounds |
+| Jun 25 | Geography | Alaska is both the westernmost and easternmost US state (Aleutians cross 180°) |
+| Jun 25 | Food | White chocolate isn't technically chocolate — no cocoa solids |
+| Jun 25 | Did You Know | Impossible to hum while holding your nose closed |
+| Jun 25 | Geography | France spans 12 time zones — most of any country (overseas territories) |
+| Jun 25 | Biology | Mushrooms are more closely related to animals than to plants |
+| Jun 25 | Body | You can't tickle yourself — the cerebellum predicts the sensation |
+| Jun 25 | Animals | Owls can rotate their heads about 270 degrees |
+| Jun 25 | Science | A teaspoon of soil holds more microbes than there are people on Earth |
+| Jun 25 | Geography | Canada has the longest coastline of any country (~243,000 km) |
+
+### This Day in History
+| Jun 25 | June 25 (Battle of the Little Bighorn / Custer's Last Stand 1876; Korean War begins 1950; Kim Campbell first female Canadian PM 1993) | — |
+| Jun 25 | National Days: National Catfish Day; National Bomb Pop Day; Global Beatles Day; Color TV Day; National Handshake Day; Leon Day | — |
+
+### Sports / Current Events
+| Jun 25 | Reds | 37-42, 5th NL Central ~12.5 GB (Brewers 49-29, best in MLB); last 5 W-W-L-L-L (streak L3); Brewers completed 3-game sweep at GABP (L 1-2/10, L 0-2, L 5-6); NO GAME TODAY (off day), next Fri Jun 26 @ Pirates |
+| Jun 25 | Box Office | Toy Story 5 #1; $160M domestic / $312M global open (biggest of 2026; franchise record > Toy Story 4 $120.9M); 2nd-biggest Pixar open behind Incredibles 2 |
+| Jun 25 | Sports | World Cup group stage wrapping (R32 begins Jun 28): USMNT clinched Group D (4-1 Paraguay, 2-0 Australia), play Türkiye tonight; Jun 24 — Brazil 3-0 Scotland, Mexico 3-0 Czechia, Morocco 4-2 Haiti, Switzerland 3-1 Qatar; NBA Draft — Wizards take AJ Dybantsa (BYU) No.1, Peterson #2, Boozer #3 |
+| Jun 25 | Deaths | Alan Greenspan (100, Fed Chair 1987-2006, Jun 22); Clive Davis (94, music exec, Jun 22); Denisa Baránková (24, Slovak Olympic archer, Jun 25) |
+| Jun 25 | News | US-Iran inspectors to return under interim deal (oil prices fall); Venezuela 7.2 & 7.5 earthquakes (Jun 24); DR Congo Ebola 1,000+ cases/250+ deaths; UK/Spain extreme-heat red alerts |
+
+_Last updated: June 25, 2026 (v32)_
