@@ -2747,4 +2747,69 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 25 | Deaths | Alan Greenspan (100, Fed Chair 1987-2006, Jun 22); Clive Davis (94, music exec, Jun 22); Denisa Baránková (24, Slovak Olympic archer, Jun 25) |
 | Jun 25 | News | US-Iran inspectors to return under interim deal (oil prices fall); Venezuela 7.2 & 7.5 earthquakes (Jun 24); DR Congo Ebola 1,000+ cases/250+ deaths; UK/Spain extreme-heat red alerts |
 
-_Last updated: June 25, 2026 (v32)_
+## June 29, 2026 (v33)
+
+### Capitals
+| Jun 29 | Panama | Panama City |
+| Jun 29 | Zambia | Lusaka |
+| Jun 29 | Uzbekistan | Tashkent |
+| Jun 29 | Fiji | Suva |
+
+### Classic TV
+| Jun 29 | Daniel Boone (1964–70) | Daniel Boone | Fess Parker |
+| Jun 29 | The Patty Duke Show (1963–66) | Patty & Cathy Lane | Patty Duke |
+| Jun 29 | Car 54, Where Are You? (1961–63) | Officer Gunther Toody | Joe E. Ross |
+| Jun 29 | Chico and the Man (1974–78) | Chico Rodriguez | Freddie Prinze |
+| Jun 29 | Vega$ (1978–81) | Dan Tanna | Robert Urich |
+| Jun 29 | 227 (1985–90) | Mary Jenkins | Marla Gibbs |
+
+### Arts & Literature
+| Jun 29 | Creator of spy James Bond (novels) | Ian Fleming |
+| Jun 29 | Treasure Island / Dr. Jekyll and Mr. Hyde author | Robert Louis Stevenson |
+| Jun 29 | Portnoy's Complaint / American Pastoral author | Philip Roth |
+| Jun 29 | "Christina's World" (1948) painter | Andrew Wyeth |
+| Jun 29 | "Father of the Symphony" / "Surprise" Symphony | Joseph Haydn |
+| Jun 29 | "How do I love thee?" poet | Elizabeth Barrett Browning |
+
+### Founded & Invented
+| Jun 29 | Intel founded | 1968 (Noyce & Moore) |
+| Jun 29 | Dell founded in dorm | 1984 (Michael Dell) |
+| Jun 29 | Telescope (1608) | Hans Lippershey |
+| Jun 29 | Piano (early 1700s) | Bartolomeo Cristofori |
+| Jun 29 | Potato chip (1853) | George Crum |
+| Jun 29 | Passenger elevator safety brake (1853) | Elisha Otis |
+
+### General Trivia
+| Jun 29 | Food | Honey never spoils — 3,000-yr-old edible honey in Egyptian tombs |
+| Jun 29 | Animals | An octopus has three hearts and blue (copper-based) blood |
+| Jun 29 | Science | Eiffel Tower grows ~15 cm taller in summer (iron expands) |
+| Jun 29 | Language | A "jiffy" is a real time unit (~1/100 second) |
+| Jun 29 | Did You Know | Scotland's national animal is the unicorn |
+| Jun 29 | Animals | Bats are the only mammals capable of true sustained flight |
+| Jun 29 | History | Shortest war: Anglo-Zanzibar (1896) lasted ~38 minutes |
+| Jun 29 | Astronomy | Venus is the only planet that rotates clockwise (retrograde) |
+| Jun 29 | Language | The dot over an "i"/"j" is called a "tittle" |
+| Jun 29 | Food | Bananas/avocados/watermelons are berries; strawberries aren't |
+| Jun 29 | Nature | Sharks (~450M yrs) are older than trees (~390M yrs) |
+
+### Songs (1990–2010)
+| Jun 29 | Linger | The Cranberries | 1993 |
+| Jun 29 | 3AM | Matchbox Twenty | 1996 |
+| Jun 29 | Breakfast at Tiffany's | Deep Blue Something | 1995 |
+| Jun 29 | Take Me Out | Franz Ferdinand | 2004 |
+| Jun 29 | Chasing Cars | Snow Patrol | 2006 |
+| Jun 29 | Are You Gonna Be My Girl | Jet | 2003 |
+
+### This Day in History
+| Jun 29 | June 29 (Globe Theatre fire during Henry VIII 1613; Federal-Aid Highway Act / Interstate System 1956; Atlantis docks with Mir 1995) | — |
+| Jun 29 | National Days: National Camera Day; National Waffle Iron Day; National Almond Buttercrunch Day; International Mud Day; Feast of Saints Peter & Paul | — |
+
+### Sports / Current Events
+| Jun 29 | Reds | 39-43, 5th NL Central 11.5 GB (Brewers 50-31); last 5 L-L-W-W-L (streak L1); won 2 of 3 @ Pirates (W 6-4, W 9-7, L 4-9); TODAY @ Brewers 7:40 PM ET |
+| Jun 29 | Box Office | Toy Story 5 #1 2nd weekend ~$70M (held off Supergirl ~$38M debut); $585M worldwide, nearing $300M domestic; -56% drop mirrors Incredibles 2 |
+| Jun 29 | Sports | World Cup R32: Canada 1-0 South Africa (Jun 28, first R32 match), Brazil 2-1 Japan (Jun 29 Martinelli winner); Wimbledon begins (Sinner/Sabalenka headline); Brewers 50-31 2nd-best in MLB (Misiorowski NL Cy Young front-runner) |
+| Jun 29 | Deaths | David Clayton-Thomas (84, Blood Sweat & Tears singer, Jun 24); Ann Blyth (98, Mildred Pierce actress, Jun 24); Mignon Dunn (94, Met Opera mezzo, Jun 28); Om Malik (59, GigaOm founder, Jun 24) |
+| Jun 29 | News | UK PM Keir Starmer resigned; US-Iran inspectors returning under interim deal (oil prices ease); DR Congo Ebola 1,000+ cases/250+ deaths; Venezuela recovery after 7.2/7.5 quakes |
+
+
+_Last updated: June 29, 2026 (v33)_
