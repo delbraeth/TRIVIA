@@ -2812,4 +2812,69 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 29 | News | UK PM Keir Starmer resigned; US-Iran inspectors returning under interim deal (oil prices ease); DR Congo Ebola 1,000+ cases/250+ deaths; Venezuela recovery after 7.2/7.5 quakes |
 
 
-_Last updated: June 29, 2026 (v33)_
+
+## June 30, 2026 (v34)
+
+### Capitals
+| Jun 30 | Egypt | Cairo |
+| Jun 30 | New Zealand | Wellington |
+| Jun 30 | Kazakhstan | Astana |
+| Jun 30 | Oregon | Salem |
+
+### Classic TV
+| Jun 30 | Mannix (1967–75) | Joe Mannix | Mike Connors |
+| Jun 30 | Ironside (1967–75) | Chief Robert Ironside | Raymond Burr |
+| Jun 30 | Kojak (1973–78) | Lt. Theo Kojak | Telly Savalas |
+| Jun 30 | Family Ties (1982–89) | Alex P. Keaton | Michael J. Fox |
+| Jun 30 | Knight Rider (1982–86) | Michael Knight | David Hasselhoff |
+| Jun 30 | MacGyver (1985–92) | Angus MacGyver | Richard Dean Anderson |
+
+### Arts & Literature
+| Jun 30 | The Grapes of Wrath / Of Mice and Men author | John Steinbeck |
+| Jun 30 | The Catcher in the Rye (1951) author | J.D. Salinger |
+| Jun 30 | "Girl with a Pearl Earring" painter | Johannes Vermeer |
+| Jun 30 | "The Card Players" / Mont Sainte-Victoire painter | Paul Cézanne |
+| Jun 30 | "The Four Seasons" composer | Antonio Vivaldi |
+| Jun 30 | Slaughterhouse-Five author | Kurt Vonnegut |
+
+### Founded & Invented
+| Jun 30 | Microwave oven (1945, accidental) | Percy Spencer |
+| Jun 30 | Riveted blue jeans patent (1873) | Levi Strauss & Jacob Davis |
+| Jun 30 | Velcro (inspired by burrs) | George de Mestral |
+| Jun 30 | Coca-Cola first sold (1886) | John Pemberton |
+| Jun 30 | Nike / Blue Ribbon Sports (1964) | Phil Knight & Bill Bowerman |
+| Jun 30 | Slinky (1943) | Richard James |
+
+### General Trivia
+| Jun 30 | Geography | Sargasso Sea is the only sea with no land borders (defined by currents) |
+| Jun 30 | Animals | A group of pugs is called a "grumble" |
+| Jun 30 | Body | Brain is ~2% of body weight but uses ~20% of energy |
+| Jun 30 | Language | "Typewriter" can be typed using only the top QWERTY row |
+| Jun 30 | Food | Apples are ~25% air, which is why they float |
+| Jun 30 | Science | Bubble wrap was originally invented (1957) as 3-D wallpaper |
+| Jun 30 | Astronomy | Some neutron stars spin up to ~700 times per second |
+| Jun 30 | Nature | Lightning strikes Earth ~8 million times per day |
+| Jun 30 | Did You Know | World's shortest scheduled flight (Westray–Papa Westray) under 90 seconds |
+| Jun 30 | Animals | A snail can stay dormant for up to three years |
+| Jun 30 | Math | A shuffled 52-card deck has ~8×10⁶⁷ possible orders (likely never repeated) |
+
+### Songs (1990–2010)
+| Jun 30 | Plush | Stone Temple Pilots | 1992 |
+| Jun 30 | Santa Monica | Everclear | 1995 |
+| Jun 30 | Steal My Sunshine | Len | 1999 |
+| Jun 30 | The Scientist | Coldplay | 2002 |
+| Jun 30 | By the Way | Red Hot Chili Peppers | 2002 |
+| Jun 30 | Such Great Heights | The Postal Service | 2003 |
+
+### This Day in History
+| Jun 30 | June 30 (Tunguska event 1908; Night of the Long Knives 1934; first Corvette rolls off line in Flint 1953) | — |
+| Jun 30 | National Days: Social Media Day; National Meteor Watch Day; International Asteroid Day; National Corvette Day; DR Congo Independence Day | — |
+
+### Sports / Current Events
+| Jun 30 | Reds | 39-44, 5th NL Central 12.5 GB (Brewers 51-31); last 5 L-W-W-L-L (streak L2); won 2 of 3 @ Pirates (W 6-4, W 9-7, L 4-9) then lost Brewers opener 3-5; TODAY @ Brewers 7:40 PM ET (Lowder vs Sproat, American Family Field) |
+| Jun 30 | Box Office | Toy Story 5 #1 2nd weekend ~$70M (-55%); Supergirl flopped $37-38M open ($170M budget, B- CinemaScore), first DCU film to open behind a holdover; Toy Story 5 $585M+ worldwide |
+| Jun 30 | Sports | World Cup R32: Paraguay over Germany on PKs, Morocco over Netherlands on PKs (Bounou), Brazil 2-1 Japan (Martinelli 95'); Jun 30 — Côte d'Ivoire-Norway, France-Sweden, Mexico-Ecuador; Wimbledon underway (Serena wildcard; Ben Shelton upset by Otto Virtanen); Brewers 51-31 best NL record; Mets' Semien out 4-6 wks (hip flexor) |
+| Jun 30 | Deaths | Dame Penelope Keith (86, The Good Life/To the Manor Born, Jun 29); Waldo Urrego (80, Colombian actor, Jun 27); Eeva Kilpi (97, Finnish poet/novelist, Jun 27); K. Bhagyaraj (72, Tamil cinema director, Jun 27) |
+| Jun 30 | News | SCOTUS rejected ending birthright citizenship; SCOTUS 6-3 struck down party coordinated-spending limits; Putin admits Russian fuel shortages from Ukrainian refinery strikes; European heat-wave health alerts |
+
+_Last updated: June 30, 2026 (v34)_
