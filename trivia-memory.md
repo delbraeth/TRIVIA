@@ -2877,4 +2877,68 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 30 | Deaths | Dame Penelope Keith (86, The Good Life/To the Manor Born, Jun 29); Waldo Urrego (80, Colombian actor, Jun 27); Eeva Kilpi (97, Finnish poet/novelist, Jun 27); K. Bhagyaraj (72, Tamil cinema director, Jun 27) |
 | Jun 30 | News | SCOTUS rejected ending birthright citizenship; SCOTUS 6-3 struck down party coordinated-spending limits; Putin admits Russian fuel shortages from Ukrainian refinery strikes; European heat-wave health alerts |
 
-_Last updated: June 30, 2026 (v34)_
+## July 2, 2026 (v35)
+
+### Capitals
+| Jul 2 | Virginia | Richmond |
+| Jul 2 | Alaska | Juneau |
+| Jul 2 | Austria | Vienna |
+| Jul 2 | Laos | Vientiane |
+
+### Classic TV
+| Jul 2 | Combat! (1962-67) | Sgt. Chip Saunders | Vic Morrow |
+| Jul 2 | Marcus Welby, M.D. (1969-76) | Dr. Marcus Welby | Robert Young |
+| Jul 2 | Emergency! (1972-77) | Paramedic John Gage | Randolph Mantooth |
+| Jul 2 | Little House on the Prairie (1974-83) | Charles Ingalls | Michael Landon |
+| Jul 2 | The Facts of Life (1979-88) | Edna Garrett | Charlotte Rae |
+| Jul 2 | In the Heat of the Night (1988-95) | Chief Bill Gillespie | Carroll O'Connor |
+
+### Arts & Literature
+| Jul 2 | Waiting for Godot (1953) playwright | Samuel Beckett |
+| Jul 2 | The Count of Monte Cristo / Three Musketeers author | Alexandre Dumas |
+| Jul 2 | The Time Machine / The War of the Worlds author | H.G. Wells |
+| Jul 2 | La boheme / Madama Butterfly composer | Giacomo Puccini |
+| Jul 2 | Oversized flowers / New Mexico desert painter | Georgia O'Keeffe |
+| Jul 2 | "I Wandered Lonely as a Cloud" (daffodils) poet | William Wordsworth |
+
+### Founded & Invented
+| Jul 2 | Telegraph + Morse code inventor | Samuel Morse (1830s-40s) |
+| Jul 2 | First smallpox vaccine (1796) | Edward Jenner |
+| Jul 2 | Cotton gin (1793) | Eli Whitney |
+| Jul 2 | Radio / first transatlantic signal (1901) | Guglielmo Marconi |
+| Jul 2 | Samsung founded | 1938 (South Korea) |
+| Jul 2 | Tesla Motors founded | 2003 (Eberhard & Tarpenning) |
+
+### General Trivia
+| Jul 2 | Astronomy | Uranus is tipped ~98 deg on its side, rolling around the Sun |
+| Jul 2 | Geography | Africa is the only continent in all four hemispheres |
+| Jul 2 | Animals | A group of rhinoceroses is a "crash" |
+| Jul 2 | History | 1932 "Great Emu War" - Australia deployed troops against emus and lost |
+| Jul 2 | Language | "Quarantine" from Italian quaranta giorni = "forty days" |
+| Jul 2 | Botany | Bamboo is fastest-growing plant - up to ~35 in (90 cm) per day |
+| Jul 2 | Food | Fear of peanut butter on roof of mouth = arachibutyrophobia |
+| Jul 2 | Nature | ~3 trillion trees on Earth - more than stars in the Milky Way |
+| Jul 2 | Did You Know | The "S" in Harry S. Truman doesn't stand for anything |
+| Jul 2 | Tech | World's first webcam (Cambridge 1991) watched a coffee pot |
+| Jul 2 | Body | The human eye can distinguish ~10 million colors |
+
+### Songs (1990-2010)
+| Jul 2 | No Rain | Blind Melon | 1992 |
+| Jul 2 | Champagne Supernova | Oasis | 1996 |
+| Jul 2 | Say It Ain't So | Weezer | 1994 |
+| Jul 2 | Cannonball | The Breeders | 1993 |
+| Jul 2 | Fake Plastic Trees | Radiohead | 1995 |
+| Jul 2 | Ocean Avenue | Yellowcard | 2003 |
+
+### This Day in History
+| Jul 2 | July 2 (Continental Congress votes for independence 1776; Amelia Earhart vanishes 1937; LBJ signs Civil Rights Act 1964) | - |
+| Jul 2 | National Days: World UFO Day; National Anisette Day; National Wildland Firefighter Day; National I Forgot Day; Made in the USA Day | - |
+
+### Sports / Current Events
+| Jul 2 | Reds | 40-46, 5th NL Central 13.5 GB (Brewers 53-32); last 5 L-L-L-L-W (W1); split DH @ Brewers today (L 2-4, W 7-2) after taking 2 of 3 @ Pirates then dropping 2 to open Milwaukee series |
+| Jul 2 | Box Office | Toy Story 5 #1 2nd weekend (Jun 26-28) ~$70.8M (-56%), $298M domestic; Supergirl $37M open; Jackass: Best and Last new |
+| Jul 2 | Sports | World Cup knockouts: USA 2-0 Bosnia, England 2-1 DR Congo, Belgium 3-2 Senegal (AET); R16 began Jul 2. Wimbledon: Ben Shelton (4) upset by Otto Virtanen, Svitolina (8) out, Serena on wildcard. NBA FA: (reported) Jaylen Brown to 76ers for Paul George, LeBron leaves Lakers (land Walker Kessler), Norman Powell to Bulls. MLB: Brewers 53-32 best record |
+| Jul 2 | Deaths | Victor Willis (74, Village People lead singer / "YMCA" co-writer, Jun 30); David Clayton-Thomas (84, Blood Sweat & Tears, Jun 24); Ann Blyth (98, Mildred Pierce actress, Jun 24); Om Malik (59, tech journalist/GigaOm, Jun 24) |
+| Jul 2 | News | Eastern US record heat dome; Trump vows long July 4 (250th) National Mall speech; heavy Russian strikes on Kyiv; Pope Leo excommunicates SSPX members; US-Iran talks show "positive progress" via Qatar/Pakistan mediators |
+
+_Last updated: July 2, 2026 (v35)_
