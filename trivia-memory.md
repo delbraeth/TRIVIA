@@ -2941,4 +2941,68 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jul 2 | Deaths | Victor Willis (74, Village People lead singer / "YMCA" co-writer, Jun 30); David Clayton-Thomas (84, Blood Sweat & Tears, Jun 24); Ann Blyth (98, Mildred Pierce actress, Jun 24); Om Malik (59, tech journalist/GigaOm, Jun 24) |
 | Jul 2 | News | Eastern US record heat dome; Trump vows long July 4 (250th) National Mall speech; heavy Russian strikes on Kyiv; Pope Leo excommunicates SSPX members; US-Iran talks show "positive progress" via Qatar/Pakistan mediators |
 
-_Last updated: July 2, 2026 (v35)_
+## July 3, 2026 (v36)
+
+### Capitals
+| Jul 3 | Bosnia & Herzegovina | Sarajevo |
+| Jul 3 | Moldova | Chișinău |
+| Jul 3 | Bahrain | Manama |
+| Jul 3 | The Bahamas | Nassau |
+
+### Classic TV
+| Jul 3 | The Adventures of Rin Tin Tin (1954–59) | Corporal Rusty | Lee Aaker |
+| Jul 3 | Lassie (1954–73) | Timmy Martin | Jon Provost |
+| Jul 3 | Wagon Train (1957–65) | Major Seth Adams | Ward Bond |
+| Jul 3 | The Green Hornet (1966–67) | Kato | Bruce Lee |
+| Jul 3 | The Flying Nun (1967–70) | Sister Bertrille | Sally Field |
+| Jul 3 | Kolchak: The Night Stalker (1974–75) | Carl Kolchak | Darren McGavin |
+
+### Arts & Literature
+| Jul 3 | Anne of Green Gables (1908) author | L.M. Montgomery |
+| Jul 3 | The Wind in the Willows (1908) author | Kenneth Grahame |
+| Jul 3 | Alice's Adventures in Wonderland author | Lewis Carroll |
+| Jul 3 | I, Robot / Foundation series author | Isaac Asimov |
+| Jul 3 | Moulin Rouge cabaret poster painter | Henri de Toulouse-Lautrec |
+| Jul 3 | "Shall I compare thee to a summer's day?" | Shakespeare's Sonnet 18 |
+
+### Founded & Invented
+| Jul 3 | Adobe founded | 1982, John Warnock & Charles Geschke |
+| Jul 3 | Gucci founded | 1921, Florence (Guccio Gucci) |
+| Jul 3 | Chanel founded | 1910, Paris (Coco Chanel) |
+| Jul 3 | Michelin founded | 1889, France (Édouard & André Michelin) |
+| Jul 3 | First U.S. roller coaster patent (1885) | LaMarcus Adna Thompson |
+| Jul 3 | Fender guitars founded (1946) | Leo Fender |
+
+### General Trivia
+| Jul 3 | Animals | Koalas sleep up to ~22 hours a day |
+| Jul 3 | Animals | A snail can sleep for up to three years |
+| Jul 3 | Animals | Kangaroos can't walk backwards |
+| Jul 3 | Science | Vantablack absorbs ~99.96% of visible light |
+| Jul 3 | Astronomy | Saturn's moon Titan has lakes/rivers of liquid methane |
+| Jul 3 | Language | "Nerd" coined by Dr. Seuss in If I Ran the Zoo (1950) |
+| Jul 3 | Food | Lobster was once colonial "poverty food" |
+| Jul 3 | Body | Humans are the only animals with a true chin |
+| Jul 3 | Geography | Challenger Deep (Mariana Trench) = ocean's deepest point ~36,000 ft |
+| Jul 3 | Geography | Angel Falls (Venezuela) = world's tallest waterfall ~3,212 ft |
+| Jul 3 | Sports | Olympic gold medal is mostly silver (~6g gold required) |
+
+### Songs
+| Jul 3 | Bitter Sweet Symphony | The Verve | 1997 |
+| Jul 3 | No Diggity | Blackstreet ft. Dr. Dre & Queen Pen | 1996 |
+| Jul 3 | Iris | Goo Goo Dolls | 1998 |
+| Jul 3 | Hips Don't Lie | Shakira ft. Wyclef Jean | 2006 |
+| Jul 3 | How You Remind Me | Nickelback | 2001 |
+| Jul 3 | Torn | Natalie Imbruglia | 1997 |
+
+### This Day in History
+| Jul 3 | July 3 (Washington takes command of Continental Army 1775; Battle of Gettysburg ends / Pickett's Charge 1863; Idaho becomes 43rd state 1890) | — |
+| Jul 3 | National Days: Independence Day observed; National Fried Clam Day; National Eat Your Beans Day; National Compliment Your Mirror Day; Air Conditioning Appreciation Day | — |
+
+### Sports / Current Events
+| Jul 3 | Reds | 40-46, 5th NL Central 13.5 GB (Brewers 53-32); last 5 L-L-L-L-W (streak W1); snapped 4-game skid with 7-2 win @ Milwaukee Jul 2; TODAY host Baltimore Orioles 7:10 PM ET |
+| Jul 3 | Box Office | Toy Story 5 #1 2nd wknd (Jun 26-28) ~$70.8M, ~$298M domestic; Supergirl $37M open; opening Jul 3-5: Minions & Monsters, Young Washington |
+| Jul 3 | Sports | World Cup R32 knockouts: Egypt beat Australia on PKs; Jul 3 Argentina-Cabo Verde (Miami), Colombia-Ghana (KC); R16 begins Jul 4. Wimbledon: 15 seeds out in 4 days, Medvedev (8) upset by Struff, Andreeva (5) out to Krejcikova, Sinner/Djokovic into R3. MLB ASG starters: Ohtani (NL), Ernie Clement (AL), game Jul 14 Philadelphia. NHL FA: Bobrovsky to Toronto, Ovechkin re-signs Washington, Hischier extends NJ. NBA: Ayton to Wizards, signings begin Jul 6 |
+| Jul 3 | Deaths | Mignon Dunn (98, Met Opera mezzo-soprano, Jun 28); Vlado Janevski (65, N. Macedonia's first Eurovision act, Jun 28); Ali Ideflawen (69, Algerian Kabyle singer, Jun 28); Antoinette Miggiani (88, Maltese soprano, Jun 29) |
+| Jul 3 | Current Events | Record heat dome (185M+ under alerts, DC hit 102°F breaking 1872 record); America's 250th (Semiquincentennial) weekend; Iran begins dayslong funeral for slain supreme leader; Taylor Swift & Travis Kelce donate to 20 charities ahead of wedding |
+
+_Last updated: July 3, 2026 (v36)_
