@@ -3005,4 +3005,68 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jul 3 | Deaths | Mignon Dunn (98, Met Opera mezzo-soprano, Jun 28); Vlado Janevski (65, N. Macedonia's first Eurovision act, Jun 28); Ali Ideflawen (69, Algerian Kabyle singer, Jun 28); Antoinette Miggiani (88, Maltese soprano, Jun 29) |
 | Jul 3 | Current Events | Record heat dome (185M+ under alerts, DC hit 102°F breaking 1872 record); America's 250th (Semiquincentennial) weekend; Iran begins dayslong funeral for slain supreme leader; Taylor Swift & Travis Kelce donate to 20 charities ahead of wedding |
 
-_Last updated: July 3, 2026 (v36)_
+## July 6, 2026 (v37)
+
+### Capitals
+| Jul 6 | Kentucky | Frankfort |
+| Jul 6 | North Dakota | Bismarck |
+| Jul 6 | Croatia | Zagreb |
+| Jul 6 | Latvia | Riga |
+
+### Classic TV
+| Jul 6 | The Fugitive (1963-67) | Dr. Richard Kimble | David Janssen |
+| Jul 6 | Get Smart (1965-70) | Maxwell Smart / Agent 86 | Don Adams |
+| Jul 6 | Sanford and Son (1972-77) | Fred Sanford | Redd Foxx |
+| Jul 6 | Barney Miller (1975-82) | Captain Barney Miller | Hal Linden |
+| Jul 6 | Dallas (1978-91) | J.R. Ewing | Larry Hagman |
+| Jul 6 | Quantum Leap (1989-93) | Dr. Sam Beckett | Scott Bakula |
+
+### Arts & Literature
+| Jul 6 | Crime and Punishment / The Brothers Karamazov author | Fyodor Dostoevsky |
+| Jul 6 | War and Peace / Anna Karenina author | Leo Tolstoy |
+| Jul 6 | The Starry Night painter | Vincent van Gogh |
+| Jul 6 | Pride and Prejudice author | Jane Austen |
+| Jul 6 | Bolero composer | Maurice Ravel |
+| Jul 6 | The Scream painter | Edvard Munch |
+
+### Founded & Invented
+| Jul 6 | Netflix founded | 1997, Reed Hastings & Marc Randolph |
+| Jul 6 | Starbucks founded | 1971, Seattle (Pike Place) |
+| Jul 6 | Airbnb founded | 2008, Chesky/Gebbia/Blecharczyk |
+| Jul 6 | First Ferris wheel (1893 Chicago World's Fair) | George W. G. Ferris Jr. |
+| Jul 6 | Europe's first movable-type printing press (c.1440) | Johannes Gutenberg |
+| Jul 6 | Basketball invented (1891) | James Naismith |
+
+### General Trivia
+| Jul 6 | Geography | Sudan has ~2x more ancient pyramids than Egypt (Kingdom of Kush) |
+| Jul 6 | Food | Cashews grow on the bottom of the cashew apple fruit |
+| Jul 6 | Language | Hawaiian alphabet has only 12 letters (5 vowels, 7 consonants) |
+| Jul 6 | Astronomy | Venus (not Mercury) is hottest planet, ~900F, thick CO2 atmosphere |
+| Jul 6 | Animals | An ostrich's eye is bigger than its brain |
+| Jul 6 | Space | Great Wall of China NOT visible from space with naked eye |
+| Jul 6 | Botany | Bananas/avocados are berries; strawberries/raspberries are not |
+| Jul 6 | Animals | Sloths can hold breath ~40 min, longer than dolphins |
+| Jul 6 | Geography | Antarctica is the world's largest desert (defined by precipitation) |
+| Jul 6 | Cards | King of Hearts is the only king with no mustache in a standard deck |
+| Jul 6 | History | Napoleon was ~5'6"-5'7" (average for era); "short" was British propaganda |
+
+### Songs
+| Jul 6 | Everlong | Foo Fighters | 1997 |
+| Jul 6 | Gangsta's Paradise | Coolio ft. L.V. | 1995 |
+| Jul 6 | Black | Pearl Jam | 1991 |
+| Jul 6 | This Love | Maroon 5 | 2004 |
+| Jul 6 | Complicated | Avril Lavigne | 2002 |
+| Jul 6 | Since U Been Gone | Kelly Clarkson | 2004 |
+
+### This Day in History
+| Jul 6 | July 6 (Continental Congress establishes the dollar as US currency 1785; Pasteur administers rabies vaccine to Joseph Meister 1885; Lennon meets McCartney 1957) | - |
+| Jul 6 | National Days: National Fried Chicken Day; National Hand Roll Day; National Air Traffic Control Day; International Kissing Day | - |
+
+### Sports / Current Events
+| Jul 6 | Reds | 41-48, 5th NL Central 14.5 GB (Brewers 55-33); last 5 L-W-L-L-W (streak W1); beat Baltimore 3-2 Jul 5; NO GAME today, next host Phillies Tue Jul 7 7:10 PM ET |
+| Jul 6 | Box Office | Minions & Monsters #1 franchise-low open $36.4M 3-day/$61.4M 5-day; Toy Story 5 past $366M; Supergirl -77%; opening Jul 10-12: Moana (live-action), Evil Dead Burn |
+| Jul 6 | Sports | World Cup: USMNT won group, beat Bosnia 2-0, face Belgium R16 Fri Jul 10 Inglewood; Wimbledon week 2, Eala v Paolini R4; MLB ASG Philly Jul 14, Derby Jul 13 Netflix (Harper 9th/Legend, Freeman 10th, Ohtani 6th); NHL: Flyers 5yr/$90M offer sheet to Leo Carlsson, Bobrovsky to Toronto; NBA signings open Jul 6, champ Knicks add Drummond 1yr/$3.8M, Wiggins ext Miami; NFL camps report Jul 22-28 |
+| Jul 6 | Deaths | Victor Willis (74, Village People frontman, co-wrote YMCA, Jun 30); Mike Wallace (historian, Pulitzer-winning Gotham co-author, Jul 5); Antoinette Miggiani (88, Maltese soprano, Jun 29); Fernando Kliche (Uruguayan actor, Jul 3) |
+| Jul 6 | Current Events | Trump at NATO summit in Ankara, to meet Zelensky (100+ protesters detained); USMNT World Cup fever, Balogun ban suspended; Super Typhoon Bavi hits N. Mariana Islands; Paul Pelosi hit-and-run in CA |
+
+_Last updated: July 6, 2026 (v37)_
