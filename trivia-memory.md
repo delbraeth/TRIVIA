@@ -3133,3 +3133,68 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jul 8 | Current Events | US struck 80+ targets in Iran & reimposed oil sanctions after ship attacks in Strait of Hormuz (Iran vows "crushing response"); Hamas set to cede Gaza to technocratic body; NATO summit in Turkey, Trump praises Erdogan/F-35 talk; July forecast hottest US month |
 
 _Last updated: July 8, 2026 (v38)_
+
+## July 9, 2026 (v39)
+
+### Capitals
+| Jul 9 | France | Paris |
+| Jul 9 | Italy | Rome |
+| Jul 9 | Germany | Berlin |
+| Jul 9 | India | New Delhi |
+
+### Classic TV
+| Jul 9 | Cheyenne (1955–63) | Cheyenne Bodie | Clint Walker |
+| Jul 9 | Bat Masterson (1958–61) | Bat Masterson | Gene Barry |
+| Jul 9 | The Real McCoys (1957–63) | Grandpa Amos McCoy | Walter Brennan |
+| Jul 9 | The Time Tunnel (1966–67) | Dr. Tony Newman | James Darren |
+| Jul 9 | Peter Gunn (1958–61) | Peter Gunn | Craig Stevens |
+| Jul 9 | The Ghost & Mrs. Muir (1968–70) | Carolyn Muir | Hope Lange |
+
+### Arts & Literature
+| Jul 9 | "Ozymandias" sonnet poet | Percy Bysshe Shelley |
+| Jul 9 | "The Rime of the Ancient Mariner" poet | Samuel Taylor Coleridge |
+| Jul 9 | The Carnival of the Animals composer | Camille Saint-Saëns |
+| Jul 9 | The Third of May 1808 painter | Francisco Goya |
+| Jul 9 | Twenty Thousand Leagues Under the Sea author | Jules Verne |
+| Jul 9 | Mrs. Dalloway / To the Lighthouse author | Virginia Woolf |
+
+### Founded & Invented
+| Jul 9 | Barbed wire patent (1874) | Joseph Glidden |
+| Jul 9 | First practical helicopter (1939) | Igor Sikorsky |
+| Jul 9 | First powered vacuum cleaner (1901) | Hubert Cecil Booth |
+| Jul 9 | Revolver patent (1836) | Samuel Colt |
+| Jul 9 | 7UP first sold | 1929 (Charles Leiper Grigg) |
+| Jul 9 | Parking meter (1935) | Carl Magee |
+
+### General Trivia
+| Jul 9 | Language | "Q" is the only letter not in any US state name |
+| Jul 9 | Botany | Broccoli, cauliflower, kale, cabbage all same species (Brassica oleracea) |
+| Jul 9 | Food | "Hawaiian" pizza was invented in Canada (Sam Panopoulos, 1962) |
+| Jul 9 | Animals | Bactrian camels have 2 humps; dromedaries 1 (B vs D on their sides) |
+| Jul 9 | Body | Teeth are the only body part that can't repair/heal themselves |
+| Jul 9 | Body | The groove between nose and upper lip is the "philtrum" |
+| Jul 9 | Did You Know | More plastic pink flamingos in the US than real ones in the wild |
+| Jul 9 | Space | Buzz Aldrin took Communion on the Moon — first food/drink consumed there |
+| Jul 9 | Animals | Pigeons can be trained to tell a Monet from a Picasso |
+| Jul 9 | Language | In Italian the "@" symbol is "chiocciola" (snail) |
+
+### Songs
+| Jul 9 | Loser | Beck | 1994 |
+| Jul 9 | All the Small Things | blink-182 | 1999 |
+| Jul 9 | One Week | Barenaked Ladies | 1998 |
+| Jul 9 | Steal My Sunshine | Len | 1999 |
+| Jul 9 | Flagpole Sitta | Harvey Danger | 1997 |
+| Jul 9 | Learn to Fly | Foo Fighters | 1999 |
+
+### This Day in History
+| Jul 9 | July 9 (Braddock routed at Battle of the Monongahela 1755; "Rock Around the Clock" first rock #1 on Billboard 1955; Warhol's Campbell's Soup Cans debut at Ferus Gallery 1962) | - |
+| Jul 9 | National Days: Argentina Independence Day; National Sugar Cookie Day; Nunavut Day (Canada); Fashion Day | - |
+
+### Sports / Current Events
+| Jul 9 | Reds | 42-49, 5th NL Central 15.5 GB (Brewers 58-34); last 5 L-L-W-L-W (streak W1, 3-7 L10); beat Phillies 11-5 Jul 8; GAME TONIGHT vs Phillies series finale 7:10 PM ET |
+| Jul 9 | Box Office | Minions & Monsters #1 franchise-low $36.4M 3-day/$61.4M 5-day; Toy Story 5 past $366M; opening Jul 10-12: Moana (live-action), Evil Dead Burn, The Invite (A24) |
+| Jul 9 | Sports | World Cup QFs: France-Morocco (Foxborough) & Spain-Belgium (Inglewood) Jul 9-10; final 8 = France, Morocco, Spain, Belgium, Norway, England, Argentina, Switzerland. Wimbledon women's semis today (Gauff v Muchova; Kostyuk v Nosková), men's semis Fri (Sinner-Djokovic, Zverev). MLB ASG Philly Jul 14/Derby Jul 13 Netflix, Brewers 58-34 best NL. NBA: Donovan Mitchell 4yr/$273M ext Cavs, Middleton to Wizards. NHL: Hischier 5yr/$11.7M AAV Devils, Byram to Blackhawks 6yr/$12.5M |
+| Jul 9 | Deaths | Gordon S. Wood (92, Pulitzer historian, struck by car, Jul 7); Robbie Francevic (84, NZ racing champ, Jul 6); Slaine Kelly (43, Irish actress, cancer, Jul 5); Lauren Bennett (36, "Party Rock Anthem" vocalist, Jul 6) |
+| Jul 9 | Current Events | US-Iran ceasefire in doubt after fresh strikes (Iran fires toward Bahrain/Kuwait/Qatar); Trump-Zelensky at NATO Turkey summit, US to license Ukraine Patriot production; Russia missile/drone barrage kills 22+ Ukraine; Marine Le Pen to run for French presidency despite monitor; Venezuela quake toll past 3,300 |
+
+_Last updated: July 9, 2026 (v39)_
