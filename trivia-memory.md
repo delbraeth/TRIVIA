@@ -3069,4 +3069,67 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jul 6 | Deaths | Victor Willis (74, Village People frontman, co-wrote YMCA, Jun 30); Mike Wallace (historian, Pulitzer-winning Gotham co-author, Jul 5); Antoinette Miggiani (88, Maltese soprano, Jun 29); Fernando Kliche (Uruguayan actor, Jul 3) |
 | Jul 6 | Current Events | Trump at NATO summit in Ankara, to meet Zelensky (100+ protesters detained); USMNT World Cup fever, Balogun ban suspended; Super Typhoon Bavi hits N. Mariana Islands; Paul Pelosi hit-and-run in CA |
 
-_Last updated: July 6, 2026 (v37)_
+## July 8, 2026 (v38)
+
+### Capitals
+| Jul 8 | California | Sacramento |
+| Jul 8 | Minnesota | St. Paul |
+| Jul 8 | Ecuador | Quito |
+| Jul 8 | Sweden | Stockholm |
+
+### Classic TV
+| Jul 8 | The Fall Guy (1981-86) | Colt Seavers | Lee Majors |
+| Jul 8 | Simon & Simon (1981-89) | Rick & A.J. Simon | Gerald McRaney & Jameson Parker |
+| Jul 8 | Matlock (1986-95) | Ben Matlock | Andy Griffith |
+| Jul 8 | Buck Rogers in the 25th Century (1979-81) | Buck Rogers | Gil Gerard |
+| Jul 8 | Perfect Strangers (1986-93) | Balki Bartokomous | Bronson Pinchot |
+| Jul 8 | Alice (1976-85) | Alice Hyatt | Linda Lavin |
+
+### Arts & Literature
+| Jul 8 | Walden / "Civil Disobedience" author | Henry David Thoreau |
+| Jul 8 | The Last of the Mohicans author | James Fenimore Cooper |
+| Jul 8 | Polish Romantic composer of nocturnes/polonaises | Frédéric Chopin |
+| Jul 8 | Olympia / Le Déjeuner sur l'herbe painter | Édouard Manet |
+| Jul 8 | "The Charge of the Light Brigade" poet | Alfred, Lord Tennyson |
+| Jul 8 | The Color Purple author (1983 Pulitzer) | Alice Walker |
+
+### Founded & Invented
+| Jul 8 | Costco first warehouse (Seattle) | 1983 |
+| Jul 8 | Barbie doll debut (Ruth Handler / Mattel) | 1959 |
+| Jul 8 | Stethoscope invented | René Laennec, 1816 |
+| Jul 8 | Windshield wiper patented | Mary Anderson, 1903 |
+| Jul 8 | Chocolate chip cookie invented | Ruth Wakefield (Toll House Inn), 1938 |
+| Jul 8 | Adidas founded (Adi Dassler, Germany) | 1949 |
+
+### General Trivia
+| Jul 8 | Animals | Sea otters hold hands / wrap in kelp while sleeping so they don't drift apart |
+| Jul 8 | Geography | Australia (~4,000 km wide) is wider than the Moon (~3,475 km diameter) |
+| Jul 8 | Language | "OK" comes from an 1830s Boston newspaper joke abbreviation of "oll korrect" |
+| Jul 8 | Animals | A group of flamingos is called a "flamboyance" |
+| Jul 8 | Food | In the 1830s ketchup was sold as a patent medicine for indigestion |
+| Jul 8 | Biology | A blue whale's heart is ~size of a small car, ~400 lbs |
+| Jul 8 | History | A medieval "moment" was a real time unit of ~90 seconds |
+| Jul 8 | Art | The Mona Lisa has no visible eyebrows or eyelashes |
+| Jul 8 | Science | Ounce for ounce, human bone is stronger than steel |
+| Jul 8 | Space | Apollo footprints on the Moon could last millions of years (no wind/water) |
+
+### Songs
+| Jul 8 | Livin' la Vida Loca | Ricky Martin | 1999 |
+| Jul 8 | Last Resort | Papa Roach | 2000 |
+| Jul 8 | Gin and Juice | Snoop Dogg | 1994 |
+| Jul 8 | Sugar, We're Goin Down | Fall Out Boy | 2005 |
+| Jul 8 | Bad Day | Daniel Powter | 2005 |
+| Jul 8 | Only Happy When It Rains | Garbage | 1995 |
+
+### This Day in History
+| Jul 8 | July 8 (Vasco da Gama sets sail from Lisbon for India 1497; Wall Street Journal first published 1889; Roswell "flying disc" press release 1947) | - |
+| Jul 8 | National Days: SCUD Day; National Chocolate with Almonds Day; National Freezer Pop Day; National Video Game Day | - |
+
+### Sports / Current Events
+| Jul 8 | Reds | 41-49, 5th NL Central 16.5 GB (Brewers 58-33); last 5 W-L-L-W-L (streak L1, 3-7 L10); lost 4-1 to Phillies Jul 7; GAME IN PROGRESS today Jul 8 vs Phillies, Reds led 7-4 late (first pitch 7:10 ET) |
+| Jul 8 | Box Office | Minions & Monsters #1 franchise-low $36.4M 3-day/$61.4M 5-day; Toy Story 5 past $366M; opening Jul 10-12: Moana (live-action), The Invite (A24, Rogen/Wilde/Cruz/Norton), Evil Dead Burn |
+| Jul 8 | Sports | World Cup R16: USMNT v Belgium Fri Jul 10 Inglewood; Wimbledon quarterfinals; MLB ASG Philly Jul 14, Derby Jul 13 Netflix, Brewers 58-33 best NL, Royals beat Phillies 15-1; NBA: Celtics trade Jaylen Brown to 76ers, SL debuts Darryn Peterson & Cameron Boozer; NHL: Giroux re-signs Senators (20th yr), Flames sign Simon Nemec 5yr/$36.25M; WNBA All-Star reserves named (Ogwumike), Valkyries surging |
+| Jul 8 | Deaths | Beaky/John Dymond (81, of Dave Dee Dozy Beaky Mick & Tich, Jul 5); Lauren Bennett (36, "Party Rock Anthem" vocalist, Jul 6); Gordon S. Wood (92, Pulitzer historian, struck by car, Jul 7) |
+| Jul 8 | Current Events | US struck 80+ targets in Iran & reimposed oil sanctions after ship attacks in Strait of Hormuz (Iran vows "crushing response"); Hamas set to cede Gaza to technocratic body; NATO summit in Turkey, Trump praises Erdogan/F-35 talk; July forecast hottest US month |
+
+_Last updated: July 8, 2026 (v38)_
