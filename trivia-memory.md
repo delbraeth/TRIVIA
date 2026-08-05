@@ -3197,4 +3197,72 @@ _Last updated: July 8, 2026 (v38)_
 | Jul 9 | Deaths | Gordon S. Wood (92, Pulitzer historian, struck by car, Jul 7); Robbie Francevic (84, NZ racing champ, Jul 6); Slaine Kelly (43, Irish actress, cancer, Jul 5); Lauren Bennett (36, "Party Rock Anthem" vocalist, Jul 6) |
 | Jul 9 | Current Events | US-Iran ceasefire in doubt after fresh strikes (Iran fires toward Bahrain/Kuwait/Qatar); Trump-Zelensky at NATO Turkey summit, US to license Ukraine Patriot production; Russia missile/drone barrage kills 22+ Ukraine; Marine Le Pen to run for French presidency despite monitor; Venezuela quake toll past 3,300 |
 
-_Last updated: July 9, 2026 (v39)_
+---
+
+## August 5, 2026 (v40)
+
+### Capitals
+| Aug 5 | Malawi | Lilongwe |
+| Aug 5 | Nicaragua | Managua |
+| Aug 5 | Montenegro | Podgorica |
+| Aug 5 | Palau | Ngerulmud |
+| Aug 5 | NOTE | All 50 US state capitals now exhausted — future runs should be all-world or reuse oldest states |
+
+### Classic TV
+| Aug 5 | Peyton Place (1964–69) | Allison MacKenzie | Mia Farrow |
+| Aug 5 | The Courtship of Eddie's Father (1969–72) | Tom Corbett | Bill Bixby |
+| Aug 5 | Room 222 (1969–74) | Pete Dixon | Lloyd Haynes |
+| Aug 5 | Hardcastle and McCormick (1983–86) | Judge Milton C. Hardcastle | Brian Keith |
+| Aug 5 | Silver Spoons (1982–87) | Derek Taylor | Jason Bateman |
+| Aug 5 | The Practice (1997–2004) | Bobby Donnell | Dylan McDermott |
+
+### Arts & Literature
+| Aug 5 | First Japanese Nobel Literature laureate (1968) | Yasunari Kawabata |
+| Aug 5 | The Godfather (1969) author | Mario Puzo |
+| Aug 5 | The Fighting Temeraire / Rain, Steam and Speed painter | J.M.W. Turner |
+| Aug 5 | "Resurrection" Symphony No. 2 composer | Gustav Mahler |
+| Aug 5 | Ficciones / The Aleph author | Jorge Luis Borges |
+| Aug 5 | The Little Mermaid statue sculptor (1913) | Edvard Eriksen |
+
+### Founded & Invented
+| Aug 5 | First portable fire extinguisher (1818) | George William Manby |
+| Aug 5 | Jeep WWII manufacturer | Willys-Overland (Bantam prototype 1940) |
+| Aug 5 | Modern pin tumbler lock (1861–65) | Linus Yale Jr. |
+| Aug 5 | Hasbro founded | 1923, Hassenfeld Brothers, Providence RI |
+| Aug 5 | Whirlpool bath / Jacuzzi (1956) | Candido Jacuzzi |
+| Aug 5 | Instant ramen (1958) | Momofuku Ando |
+
+### General Trivia
+| Aug 5 | Science | Helium — only element found in space (1868 Sun spectrum) before Earth |
+| Aug 5 | Geography | Nauru has no official capital; offices in Yaren district |
+| Aug 5 | Food | Ripe cranberries bounce; graded on "bounce boards" |
+| Aug 5 | History | Harvard (1636) is older than calculus (1660s–70s) |
+| Aug 5 | Sports | Olympic gold medals are mostly silver — ~6g gold plating required |
+| Aug 5 | Pop Culture | Mario debuted in Donkey Kong (1981) as carpenter "Jumpman" |
+| Aug 5 | Animals | A group of ladybugs is a "loveliness" |
+| Aug 5 | Language | "Dord" — ghost word in Webster's 1934–1947 from "D or d" (density) |
+| Aug 5 | Space | Enceladus plumes feed Saturn's E ring |
+| Aug 5 | Did You Know | Nishiyama Onsen Keiunkan (Japan, 705 AD) — oldest hotel, 52 generations |
+| Aug 5 | History | Great Molasses Flood, Boston 1919 — 2.3M gallons, ~35 mph, 21 dead |
+| Aug 5 | Science | Human bone ~4x compressive strength of concrete pound for pound |
+
+### Songs
+| Aug 5 | Regulate | Warren G feat. Nate Dogg | 1994 |
+| Aug 5 | Interstate Love Song | Stone Temple Pilots | 1994 |
+| Aug 5 | Breakfast at Tiffany's | Deep Blue Something | 1995 |
+| Aug 5 | Fly Away | Lenny Kravitz | 1998 |
+| Aug 5 | Meet Virginia | Train | 1998 |
+| Aug 5 | Hey Ya! | OutKast | 2003 |
+
+### This Day in History
+| Aug 5 | August 5 (Statue of Liberty pedestal cornerstone laid 1884; first electric traffic signal, Cleveland 1914; Marilyn Monroe found dead 1962; Reagan fires 11,000+ PATCO air traffic controllers 1981) | - |
+| Aug 5 | National Days: National Oyster Day; National Underwear Day; National Work Like a Dog Day; International Traffic Light Day; National Dash Cam Day | - |
+
+### Sports / Current Events
+| Aug 5 | Reds | 54-58, 5th NL Central 15.5 GB (Brewers 70-43); last 5 W-W-L-W-W (streak W2, 6-4 L10); took 3 of 4 from Pirates incl 10-2, beat Athletics 5-4 Aug 4; GAME TONIGHT vs Athletics 6:40 PM ET |
+| Aug 5 | Box Office | Spider-Man: Brand New Day #1 with $360.1M — biggest domestic opening ever (passed Endgame $357.1M); records for Thursday previews ($72M) and single day ($168M Fri); The Odyssey $51M/$395M total = biggest overall weekend in history; opening Aug 7-9: Super Troopers 3, Ice Cream Man, One Night Only, The Last House |
+| Aug 5 | Sports | NFL camps week 2, HOF Game Aug 6 Cardinals-Panthers; Seahawks defending SB LX champs open vs Patriots Sept 9; Jalon Walker (ATL) feared torn ACL, Coby Bryant (CHI) out 8-10 wks. MLB: Brewers 70-43 best, Dodgers 69-45 (L5), Braves 68-45 (W6), Padres 8-2 L10. Soccer: Messi's first Miami game post-WC, 2-2 draw w/ Columbus; Lewandowski 2 goals in Chicago Fire home debut; Leagues Cup begins. World Cup final recap: Spain 1-0 Argentina, Ferran Torres 106', MetLife, Jul 19. NCAA: preseason Coaches Poll — Ohio State #1 (38/72 firsts), Oregon 2, Georgia 3, Texas 4, Notre Dame 5; AP poll Aug 17. WNBA: trade deadline Aug 2, 15 teams (Portland Fire, Toronto Tempo), FIBA break Aug 31-Sep 16 |
+| Aug 5 | Deaths | David Z (78, Grammy producer/engineer — Prince, Fine Young Cannibals, Jonny Lang, Aug 2); Peter Gill (86, Welsh playwright/director, Aug 4); Jimmy Cricket (80, Irish comedian b. James Mulgrew, Aug 3); Andrzej Morozowski (69, Polish TV journalist, Aug 4); Allan Nascimento (34, Brazilian UFC flyweight, Aug 3) |
+| Aug 5 | Current Events | Cargo ship hit by projectile off Oman in Strait of Hormuz, crew abandoned ship, one missing; Iran-Oman near deal to reopen strait. Berlin police kill suspect in Pride attack (1 dead, 29 wounded). Jocelyn Benson wins Michigan Dem gubernatorial primary with 84%. Todd Blanche AG nomination back on track (Cornyn, Tillis). Record European heat waves and wildfires; arson arrest in Washington state. Multi-state cyclosporiasis outbreak (AR, IA, MO, NE, NH, NC) |
+
+_Last updated: August 5, 2026 (v40)_
