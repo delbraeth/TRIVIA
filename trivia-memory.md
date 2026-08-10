@@ -2299,4 +2299,81 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 7 | Deaths | Robby Albarado (52, jockey, 2007 Preakness on Curlin, after heart surgery); Didier Decoin (81, French novelist, 1977 Prix Goncourt, Aug 5); Peter Lai (76, HK lyricist/actor, Aug 5); David Owori (27, Ugandan footballer SC Villa, Aug 5) |
 | Aug 7 | Current Events | Trump says he called off large-scale Iran strike; 20M+ Shia pilgrims at Arbaeen in Karbala; NM judge orders Meta to pay additional $567M in child-safety suit; Britain drought/food shortage warnings, heat alerts 8 regions >30C; school shooting Nonthaburi province Thailand Aug 7; Fauci contempt-of-Congress resolution advances out of Senate committee on party lines |
 
-_Last updated: August 7, 2026 (v42)_
+---
+
+## August 10, 2026 (v43)
+
+### Capitals
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 10 | Kazakhstan | Astana (Nur-Sultan 2019-22, then back to Astana) |
+| Aug 10 | Bolivia | Sucre (constitutional capital; La Paz = seat of government) |
+| Aug 10 | Tanzania | Dodoma (not Dar es Salaam) |
+| Aug 10 | Denmark | Copenhagen |
+
+### Classic TV
+| Week | Show | Character | Actor |
+|------|------|-----------|-------|
+| Aug 10 | Gunsmoke (1955-75) | Marshal Matt Dillon | James Arness |
+| Aug 10 | The Man from U.N.C.L.E. (1964-68) | Napoleon Solo | Robert Vaughn |
+| Aug 10 | WKRP in Cincinnati (1978-82) | Dr. Johnny Fever | Howard Hesseman |
+| Aug 10 | Kojak (1973-78) | Lt. Theo Kojak | Telly Savalas |
+| Aug 10 | Dynasty (1981-89) | Alexis Colby | Joan Collins |
+| Aug 10 | Northern Exposure (1990-95) | Dr. Joel Fleischman | Rob Morrow |
+
+### Arts & Literature
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 10 | Novel opening "the clocks were striking thirteen" | 1984 - George Orwell |
+| Aug 10 | Painter of Nighthawks (1942) | Edward Hopper |
+| Aug 10 | Composer of Rhapsody in Blue (1924) | George Gershwin |
+| Aug 10 | Author of Things Fall Apart (1958) | Chinua Achebe |
+| Aug 10 | Playwright, Death of a Salesman (1949 Pulitzer) | Arthur Miller |
+| Aug 10 | Poet, "Because I could not stop for Death" | Emily Dickinson |
+
+### Founded & Invented
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 10 | Play-Doh original product / company | Wallpaper cleaner, Kutol Products of Cincinnati (toy relaunch 1956) |
+| Aug 10 | Kevlar inventor / year | Stephanie Kwolek, DuPont, 1965 |
+| Aug 10 | Microwave oven inventor | Percy Spencer, Raytheon, 1945 (melted candy bar near magnetron) |
+| Aug 10 | Nintendo founded / original product | 1889, Kyoto - hanafuda playing cards |
+| Aug 10 | Bubble Wrap original intended product (1957) | Textured wallpaper |
+| Aug 10 | First item scanned with a UPC barcode | Wrigley's Juicy Fruit 10-pack, Troy OH, 1974 |
+
+### General Trivia
+| Week | Topic | Fact |
+|------|-------|------|
+| Aug 10 | Food | Honey never spoils - 3,000-yr-old edible honey found in Egyptian tombs |
+| Aug 10 | Geography | Canada has more lakes (~2 million) than the rest of the world combined |
+| Aug 10 | Animals | A group of porcupines is a "prickle" |
+| Aug 10 | Food | Worcestershire sauce is made with fermented anchovies |
+| Aug 10 | History | France's last guillotine execution (1977) - same year as Star Wars |
+| Aug 10 | Biology | Humans share ~60% of their DNA with bananas |
+| Aug 10 | Space | Saturn is less dense than water - it would float |
+| Aug 10 | Sports | Olympic torch relay isn't ancient - invented for the 1936 Berlin Games |
+| Aug 10 | Language | "Muscle" from Latin musculus = "little mouse" |
+| Aug 10 | Pop Culture | James Earl Jones uncredited as Darth Vader's voice in 1977 Star Wars |
+| Aug 10 | Did You Know | Scotland's national animal is the unicorn |
+| Aug 10 | Travel | Shortest scheduled flight: Westray to Papa Westray, Scotland (~90 sec) |
+
+### Songs
+| Aug 10 | Under the Bridge | Red Hot Chili Peppers | 1991 |
+| Aug 10 | Waterfalls | TLC | 1995 |
+| Aug 10 | 1979 | The Smashing Pumpkins | 1996 |
+| Aug 10 | Smooth | Santana feat. Rob Thomas | 1999 |
+| Aug 10 | The Middle | Jimmy Eat World | 2001 |
+| Aug 10 | Crazy | Gnarls Barkley | 2006 |
+
+### This Day in History
+| Aug 10 | August 10 (Louvre opens to the public 1793; first electric guitar patent #2,089,171 to George Beauchamp for the Rickenbacker "Frying Pan" 1937; The Wizard of Oz world premiere in Green Bay WI 1939; Pete Rose passes Stan Musial for the NL career hits record with #3,631 in 1981) | - |
+| Aug 10 | National Days: National S'mores Day; National Lazy Day; World Lion Day; National Spoil Your Dog Day; Duran Duran Appreciation Day; Ecuador Independence Day (1809) | - |
+
+### Sports / Current Events
+| Aug 10 | Reds | 56-61, 5th NL Central 17.5 GB (Brewers 74-44); last 5 W-W-L-L-L (streak L3, 6-4 L10); swept Athletics at home 5-4, 3-2, 6-5 then swept BY Nationals 3-5, 2-8, 1-7; NO GAME TODAY (off day), next @ White Sox Tue Aug 11 7:40 PM ET. Source: MLB Stats API |
+| Aug 10 | Box Office | Spider-Man: Brand New Day #1 2nd weekend $145M (-60%), $655M domestic in 10 days (biggest 10-day ever), ~$1.67B worldwide; first film to clear $500M domestic in opening week (7 days); 3rd-biggest 2nd weekend ever. Tom Holland asked Sony to delay 6 months to shoot Nolan's The Odyssey first - Odyssey finished #2 this weekend ($31.5M, $461M dom, Nolan's biggest ever). Top 5: One Night Only $5.7M, Super Troopers 3 $4.0M, Toy Story 5 $3.9M. Opening Aug 14-16: The End of Oak Street, PAW Patrol: The Dino Movie, The Brink of War, The Wrong Girls |
+| Aug 10 | Sports | NFL: HOF Game Aug 6 Panthers 33-Cardinals 30 on last play; Class of 2026 enshrined Aug 8 (Brees, Fitzgerald, Kuechly, Roger Craig, Vinatieri); Jalon Walker (ATL) torn ACL out for season, Nic Scourton (CAR) out too; preseason Wk1 opens Aug 13. MLB: Brewers 74-44 best, Braves 71-47, Rays 71-46, Dodgers 70-48; Gerrit Cole 1,000th K as a Yankee Aug 8 (fastest Yankee, 139 games). Soccer: Leagues Cup MD2 MLS 12 wins-Liga MX 6, FC Cincinnati beat Pumas 2-0, Messi becomes Leagues Cup all-time top scorer (14) Aug 5, Monterrey beat Miami 2-1 Aug 8, QFs Aug 25-27. Golf: Michael Brennan wins Wyndham Championship Aug 9 ($1.53M), FedExCup playoffs start Aug 13 TPC Southwind. Tennis: National Bank Open Montreal/Toronto, Fonseca upsets Ruud; Cincinnati Open Aug 13-23. WNBA: Lynx 27-7 best, Liberty 111-71 over Aces Aug 9, Mystics 7 straight, Storm 6-28 eliminated. NHL: Penguins sign Ville Koivunen 8yr/$32M. NCAA: Coaches Poll Aug 4 Ohio State #1 (38/72 firsts), AP poll Aug 17 |
+| Aug 10 | Deaths | Don Nelson (86, HOF coach, 2nd-winningest in NBA history, 5 titles as a Celtics player, Aug 9); Ben Jones (84, "Cooter" on The Dukes of Hazzard, 2-term GA congressman, Aug 9); Jorge Messi (68, Lionel Messi's father/agent, Aug 8); Violet Hensley (109, Arkansas "Whittlin' Fiddler," Aug 7); Dory Funk Jr. (85, NWA world champion, Aug 4); Robby Albarado (52, 2x Preakness-winning jockey, Aug 4) |
+| Aug 10 | Current Events | Iran published conditions Aug 8 to reopen Strait of Hormuz (end war, lift counterblockade/sanctions, release frozen assets, Iranian control + tolls); Brent ~$84.39. Houthi drones hit Saudi Aramco Jazan refinery Aug 9. Spokane WA wildfires: 7,000+ acres, 600-700 structures, ~60,000 evacuated; BC declared state of emergency Aug 8. Michigan Senate primary Aug 4: Abdul El-Sayed narrowly beat Haley Stevens. Trump signed 15% polysilicon tariff + price floors Aug 6 (effective Dec 4). Measles at 35-year high, ~2,300-2,450 US cases, most since 1991. Cuba's 6th nationwide blackout of 2026, ~10M without power |
+
+_Last updated: August 10, 2026 (v43)_
