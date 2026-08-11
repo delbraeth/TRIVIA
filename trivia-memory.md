@@ -2376,4 +2376,81 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 10 | Deaths | Don Nelson (86, HOF coach, 2nd-winningest in NBA history, 5 titles as a Celtics player, Aug 9); Ben Jones (84, "Cooter" on The Dukes of Hazzard, 2-term GA congressman, Aug 9); Jorge Messi (68, Lionel Messi's father/agent, Aug 8); Violet Hensley (109, Arkansas "Whittlin' Fiddler," Aug 7); Dory Funk Jr. (85, NWA world champion, Aug 4); Robby Albarado (52, 2x Preakness-winning jockey, Aug 4) |
 | Aug 10 | Current Events | Iran published conditions Aug 8 to reopen Strait of Hormuz (end war, lift counterblockade/sanctions, release frozen assets, Iranian control + tolls); Brent ~$84.39. Houthi drones hit Saudi Aramco Jazan refinery Aug 9. Spokane WA wildfires: 7,000+ acres, 600-700 structures, ~60,000 evacuated; BC declared state of emergency Aug 8. Michigan Senate primary Aug 4: Abdul El-Sayed narrowly beat Haley Stevens. Trump signed 15% polysilicon tariff + price floors Aug 6 (effective Dec 4). Measles at 35-year high, ~2,300-2,450 US cases, most since 1991. Cuba's 6th nationwide blackout of 2026, ~10M without power |
 
-_Last updated: August 10, 2026 (v43)_
+---
+
+## August 11, 2026 (v44)
+
+### Capitals
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 11 | Uruguay | Montevideo |
+| Aug 11 | Senegal | Dakar |
+| Aug 11 | Mongolia | Ulaanbaatar |
+| Aug 11 | Sri Lanka | Sri Jayawardenepura Kotte (Colombo = largest city / commercial capital) |
+
+### Classic TV
+| Week | Show | Character | Actor |
+|------|------|-----------|-------|
+| Aug 11 | Bonanza (1959-73) | Ben Cartwright | Lorne Greene |
+| Aug 11 | Hawaii Five-O (1968-80) | Det. Capt. Steve McGarrett | Jack Lord |
+| Aug 11 | The Odd Couple (1970-75) | Felix Unger | Tony Randall |
+| Aug 11 | Hill Street Blues (1981-87) | Capt. Frank Furillo | Daniel J. Travanti |
+| Aug 11 | The Golden Girls (1985-92) | Blanche Devereaux | Rue McClanahan |
+| Aug 11 | Star Trek: The Next Generation (1987-94) | Capt. Jean-Luc Picard | Patrick Stewart |
+
+### Arts & Literature
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 11 | Les Miserables / The Hunchback of Notre-Dame author | Victor Hugo |
+| Aug 11 | Brave New World (1932) author | Aldous Huxley |
+| Aug 11 | Invisible Man (1952) author | Ralph Ellison |
+| Aug 11 | Impression, Sunrise (1872) painter - named Impressionism | Claude Monet |
+| Aug 11 | Peter and the Wolf (1936) composer | Sergei Prokofiev |
+| Aug 11 | First songwriter to win Nobel Literature (2016) | Bob Dylan |
+
+### Founded & Invented
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 11 | WD-40 - what "40" means | 40th formula; "Water Displacement, 40th attempt," Rocket Chemical Co. San Diego 1953, for the Atlas missile |
+| Aug 11 | Band-Aid inventor | Earle Dickson, 1920, Johnson & Johnson - for his accident-prone wife Josephine |
+| Aug 11 | Modern air conditioning inventor / purpose | Willis Carrier, 1902 - humidity control at a Brooklyn printing plant, not comfort |
+| Aug 11 | Frisbee origin | Frisbie Pie Company tins; Wham-O "Pluto Platter" 1957, renamed Frisbee 1958 |
+| Aug 11 | Origin of the name "Crayola" | French craie (chalk) + oleaginous (oily); Alice Binney, 1903, Binney & Smith |
+| Aug 11 | First US fast-food hamburger chain | White Castle, 1921, Wichita KS (white porcelain/steel to fight ground-beef stigma) |
+
+### General Trivia
+| Week | Topic | Fact |
+|------|-------|------|
+| Aug 11 | Geography | Alaska is the westernmost, northernmost AND easternmost US state (Aleutians cross the 180th meridian) |
+| Aug 11 | History (Local) | Roebling Suspension Bridge (Cincinnati, 1866) was world's longest suspension bridge; Roebling then built the Brooklyn Bridge |
+| Aug 11 | History | Shortest war on record: Anglo-Zanzibar War 1896, ~38 minutes |
+| Aug 11 | Animals | Elephants are the only mammals that can't jump |
+| Aug 11 | Language | "Dreamt" is the only common English word ending in -mt |
+| Aug 11 | Science | One teaspoon of healthy soil has more microorganisms than there are people on Earth |
+| Aug 11 | Body | Stomach lining replaces itself every 3-4 days or the acid would digest the stomach |
+| Aug 11 | Food | Peanuts are legumes, not nuts; cashews grow one per fruit, hanging off the bottom |
+| Aug 11 | Sports | A regulation MLB baseball has exactly 108 double stitches, still hand-sewn |
+| Aug 11 | Space | Apollo footprints on the Moon will last millions of years - no wind or water |
+| Aug 11 | Music | Most-sampled recording ever: the "Amen break," 6 sec of drums from "Amen, Brother," The Winstons 1969 B-side |
+| Aug 11 | Did You Know | More public libraries in the US (~17,000 outlets) than McDonald's restaurants (~13,500) |
+
+### Songs
+| Aug 11 | Been Caught Stealing | Jane's Addiction | 1990 |
+| Aug 11 | Runaway Train | Soul Asylum | 1993 |
+| Aug 11 | Tubthumping | Chumbawamba | 1997 |
+| Aug 11 | I Want It That Way | Backstreet Boys | 1999 |
+| Aug 11 | Stacy's Mom | Fountains of Wayne | 2003 |
+| Aug 11 | Use Somebody | Kings of Leon | 2008 |
+
+### This Day in History
+| Aug 11 | August 11 (DJ Kool Herc's back-to-school party at 1520 Sedgwick Ave, Bronx 1973 - birth of hip-hop; Watts riots begin in LA 1965, 34 dead over six days; Mall of America opens in Bloomington MN 1992) | - |
+| Aug 11 | National Days: Hip Hop Day; National Son and Daughter Day; National Presidential Joke Day; Play in the Sand Day; National Raspberry Bombe Day; Global Kinetic Sand Day; National Fufu Day; Chad Independence Day (1960) | - |
+
+### Sports / Current Events
+| Aug 11 | Reds | 56-61 (.479), 5th NL Central 17.0 GB (Brewers 74-45); last 5 W-W-L-L-L (streak L3, 6-4 L10); swept Athletics at home then swept BY Nationals 3-5, 2-8, 1-7; off day Aug 10; TODAY @ Chicago White Sox 7:40 PM ET. Source: MLB Stats API |
+| Aug 11 | Box Office | Spider-Man: Brand New Day #1 2nd weekend $145M (-60%), $655M domestic in 10 days, ~$1.67B WW. NEW ANGLE USED: $1B worldwide in 6 days (2nd-fastest ever, behind Endgame's 5); biggest domestic opening weekend ever $360M; biggest single Monday ever $46M; highest-grossing 2026 film in 7 days. Top 5: Odyssey $31.5M ($461M dom, Nolan's biggest), One Night Only $5.7M, Super Troopers 3 $4.0M, Toy Story 5 $3.9M. Opening Aug 14-16: The End of Oak Street, The Brink of War, PAW Patrol: The Dino Movie, Six: The Musical Live! |
+| Aug 11 | Sports | WNBA: Kayla McBride 10 threes (WNBA single-game record) + career-high 43, Lynx 103-90 over Wings Aug 9; Lynx franchise-record 18 threes, first team to clinch playoff spot, won 12 of 13. MLB: Max Scherzer passed Walter Johnson for 10th all-time in Ks (3,516) vs PHI Aug 8; Brewers 74-45 best, Cubs 69-50. NFL: Aug 10 injuries - Cade Mays (DET, fractured hand), Isiah Pacheco (DET, torn MCL), Laremy Tunsil (WAS, torn triceps); Teddy Bridgewater retires again; joint practices start Aug 11 (DAL-LAR, IND-NE, TB-NYJ); preseason Wk1 Aug 13. Soccer: FC Cincinnati beat Pachuca 3-1 Aug 4 and Pumas 2-0 Aug 7, vs Atlas Aug 11; Leagues Cup Aug 4-Sep 6, QFs Aug 25-27. Golf: FedExCup playoffs open Aug 13, FedEx St. Jude at TPC Southwind, 69 players (Berger WD), Scheffler #1 and +500 favorite, top 50 advance. Tennis: Cincinnati Open Aug 13-23, Sabalenka top women's seed, Zverev/Djokovic/Auger-Aliassime/Medvedev on men's side. NHL: Koivunen 8yr/$32M PIT, Grebenkin 2yr/$2.2M PHI, Bedard 5yr/$15M AAV CHI. NCAA: Coaches Poll Ohio State #1, AP poll Aug 17 |
+| Aug 11 | Deaths | Don Nelson (86, HOF coach, 2nd-winningest NBA, 1,335-1,063 over 31 seasons, 5 titles as a Celtics player, invented the point forward, Aug 9 in Frisco TX after a stroke); Ben Jones (84, "Cooter" on The Dukes of Hazzard, 2-term GA congressman, heart attack Aug 9); Jorge Messi (68, Lionel Messi's father/agent, Aug 8); Violet Hensley (109, Arkansas "Whittlin' Fiddler," ~80 handmade violins, Aug 7); Tommy Detamore (70, Texas steel guitarist/producer, Aug 5); Robby Albarado (52, jockey, 5,000+ wins, 2x Preakness incl. Curlin 2007, Aug 4) |
+| Aug 11 | Current Events | COLOMBIA EARTHQUAKE Aug 10: M7.4 in western Colombia, strongest recorded this century there; at least 132 dead / 570 injured (Cali 85, Pereira 66; damage in Quibdo, Manizales); state of national disaster. Todd Blanche confirmed US Attorney General 50-49 in an overnight Senate vote Aug 8 (Collins & Murkowski the only GOP no votes; Cassidy decisive). Federal court: no White House ballroom without Congressional approval. Netanyahu says Israel "rejects" the US-backed Board of Peace Gaza disarmament roadmap. Iran near a final pact with Oman to reopen Strait of Hormuz; Houthis hit a Saudi Aramco refinery. Abelardo de la Espriella sworn in as Colombia's president. Ukrainian drone attack killed at least 13 in Russia. Monsoon flooding in India, Brahmaputra over its banks |
+
+_Last updated: August 11, 2026 (v44)_
