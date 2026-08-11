@@ -2421,17 +2421,17 @@ _Last updated: July 8, 2026 (v38)_
 ### General Trivia
 | Week | Topic | Fact |
 |------|-------|------|
-| Aug 11 | Geography | Alaska is the westernmost, northernmost AND easternmost US state (Aleutians cross the 180th meridian) |
-| Aug 11 | History (Local) | Roebling Suspension Bridge (Cincinnati, 1866) was world's longest suspension bridge; Roebling then built the Brooklyn Bridge |
-| Aug 11 | History | Shortest war on record: Anglo-Zanzibar War 1896, ~38 minutes |
-| Aug 11 | Animals | Elephants are the only mammals that can't jump |
-| Aug 11 | Language | "Dreamt" is the only common English word ending in -mt |
-| Aug 11 | Science | One teaspoon of healthy soil has more microorganisms than there are people on Earth |
-| Aug 11 | Body | Stomach lining replaces itself every 3-4 days or the acid would digest the stomach |
-| Aug 11 | Food | Peanuts are legumes, not nuts; cashews grow one per fruit, hanging off the bottom |
+| Aug 11 | History (Local) | Roebling Suspension Bridge (Cincinnati, 1866) longest suspension bridge in the world at 1,057 ft; Roebling then built the Brooklyn Bridge |
+| Aug 11 | Geography | ~80% of Nevada is federally owned land - highest share of any state |
+| Aug 11 | Architecture | Pentagon has ~2x the bathrooms it needs - built 1941 in segregated Virginia, FDR ordered they never be used that way |
+| Aug 11 | Language | "Big Ben" is the bell, not the tower; tower renamed Elizabeth Tower in 2012 (was just the Clock Tower) |
+| Aug 11 | Animals | Narwhal "tusk" is a canine tooth spiraling through the upper lip, up to 10 ft, full of nerve endings |
+| Aug 11 | Space | Olympus Mons (Mars) ~3x the height of Everest, base about the size of Arizona |
+| Aug 11 | Science | Roman concrete gets STRONGER in seawater - seawater + volcanic ash grows interlocking crystals |
+| Aug 11 | Food | A Twinkie's real shelf life is ~45 days, not decades |
 | Aug 11 | Sports | A regulation MLB baseball has exactly 108 double stitches, still hand-sewn |
-| Aug 11 | Space | Apollo footprints on the Moon will last millions of years - no wind or water |
-| Aug 11 | Music | Most-sampled recording ever: the "Amen break," 6 sec of drums from "Amen, Brother," The Winstons 1969 B-side |
+| Aug 11 | Business | Nike paid student Carolyn Davidson $35 for the Swoosh in 1971 |
+| Aug 11 | Tech | "Wi-Fi" doesn't stand for anything - branding-firm name; "Wireless Fidelity" was a dropped slogan |
 | Aug 11 | Did You Know | More public libraries in the US (~17,000 outlets) than McDonald's restaurants (~13,500) |
 
 ### Songs
