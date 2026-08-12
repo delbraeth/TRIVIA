@@ -318,62 +318,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 18 | Capital of Wyoming | Cheyenne |
-| May 18 | Capital of Thailand | Bangkok |
-| May 18 | Capital of Maine | Augusta |
-| May 18 | Capital of Ireland | Dublin |
 
-| May 18 | The Andy Griffith Show | Sheriff Andy Taylor | Andy Griffith |
-| May 18 | M*A*S*H | Capt. "Hawkeye" Pierce | Alan Alda |
-| May 18 | Magnum, P.I. | Thomas Magnum | Tom Selleck |
-| May 18 | Murder, She Wrote | Jessica Fletcher | Angela Lansbury |
-| May 18 | Bewitched | Samantha Stephens | Elizabeth Montgomery |
-| May 18 | Columbo | Lt. Columbo | Peter Falk |
 
-| May 18 | "It was the best of times" opener — A Tale of Two Cities (1859) | Charles Dickens |
-| May 18 | Author of Beloved (1987 Pulitzer; 1993 Nobel Lit) | Toni Morrison |
-| May 18 | Composer of Swan Lake / Nutcracker / 1812 Overture | Pyotr Ilyich Tchaikovsky |
-| May 18 | Painter of Guernica (1937) | Pablo Picasso |
-| May 18 | Norwegian playwright of A Doll's House (1879) | Henrik Ibsen |
-| May 18 | Designer of Vietnam Veterans Memorial (1981, Yale undergrad) | Maya Lin |
 
-| May 18 | Hewlett-Packard founding year/city/founders | 1939, Palo Alto garage (Hewlett & Packard); birthplace of Silicon Valley |
-| May 18 | Pizza Hut founded year/city/founders | 1958, Wichita KS, Dan & Frank Carney ($600 from mom) |
-| May 18 | Tupperware inventor and year | Earl Tupper, 1946 (Tupperware Parties via Brownie Wise) |
-| May 18 | Tabasco sauce inventor and year | Edmund McIlhenny, 1868, Avery Island LA |
-| May 18 | Spotify founders/year/country | Daniel Ek & Martin Lorentzon, 2006, Stockholm Sweden |
-| May 18 | Q-tips original brand name (1923) | "Baby Gays" — Leo Gerstenzang; renamed Q-tips 1926 |
 
-| May 18 | Biology | Octopuses have 3 hearts and blue copper-based blood (hemocyanin); main heart stops when swimming |
-| May 18 | Evolution | Sharks predate trees — sharks ~450M yrs vs first trees ~385M yrs |
-| May 18 | Astronomy | Lightning bolt ~30,000K — ~5× hotter than the Sun's surface (~5,778K) |
-| May 18 | Food | Honey never spoils — 3,000-yr-old Egyptian tomb honey still edible |
-| May 18 | Botany | Bananas are berries; strawberries are not (aggregate accessory fruits) |
-| May 18 | History | Cleopatra lived closer to first Pizza Hut (1958) than to Great Pyramid (~2560 BC) |
-| May 18 | Language | Hawaiian alphabet has 13 letters incl. the ʻokina |
-| May 18 | Animals | Wombat scat is cube-shaped — only known cube-pooping animal |
-| May 18 | Astronomy | Pluto hasn't completed 1 orbit since 1930 discovery (248-yr year) |
-| May 18 | Geography | Antarctica is the largest desert (~5.5M sq mi); <2 in/yr precipitation interior |
-| May 18 | Anatomy | Babies born w/ ~270 bones; adults 206 (skull plates fuse) |
-| May 18 | Etymology | Pencil "lead" is graphite — misidentified in 1500s Cumbria |
-| May 18 | Sports | Reds 24-23 .511 5th NL Central 5 GB Cubs (29-18); L10 4-6, streak L2; @ Phillies 6:40 PM ET |
-| May 18 | Sports | NBA Conf Finals tip off: Thunder-Spurs (W) tonight 8:30 PM NBC; Knicks-Cavs (E) Tue 5/19 8 PM ESPN |
-| May 18 | Sports | NHL R2 G7 Canadiens-Sabres tonight 7:30 PM ESPN; W Final Avalanche-Knights starts Wed 5/20 |
-| May 18 | Sports | MLS: Messi G+A, Inter Miami 2-0 Portland first Nu Stadium win; 13G/6A, 18 GC |
-| May 18 | NFL | OTAs begin league-wide; Rodgers signs 1-yr/$25M Steelers, QB1 reps |
-| May 18 | Box Office | Michael ~$26M 4th wknd; $580M dom/$703M global; Obsession #2 $16M open |
-| May 18 | Deaths | Donald Gibb (71, Ogre in Revenge of the Nerds, May 12); Clarence Carter (90, blues/soul "Patches" "Strokin'", May 14); Claudine Longet (84, French singer/actress Love Is Blue, May 15) |
-| May 18 | News | NBA Conf Finals begin; Rodgers to Steelers; Mt St Helens 46th anniversary; Ukraine drone strike near Moscow kills 4; UAE nuclear plant drone fire; Mandalorian and Grogu opens 5/22; Amnesty: 2025 state executions 44-yr high |
 
-| May 18 | May 18 (Mt St Helens erupts 1980 — 57 killed; Napoleon proclaimed Emperor 1804; Bath School disaster 1927 — 44 killed; US Selective Service Act 1917) | — |
-| May 18 | National Days: International Museum Day; World AIDS Vaccine Day; I Love Reese's Day; Visit Your Relatives Day; National No Dirty Dishes Day; Victoria Day (Canada); Norway Constitution Day | — |
 
-| May 18 | Mr. Jones | Counting Crows | 1993 |
-| May 18 | Black Hole Sun | Soundgarden | 1994 |
-| May 18 | 1979 | The Smashing Pumpkins | 1995 |
-| May 18 | Don't Speak | No Doubt | 1996 |
-| May 18 | Bitter Sweet Symphony | The Verve | 1997 |
-| May 18 | Hot in Herre | Nelly | 2002 |
 
 
 | May 20b | Capital of Iran | Tehran |
@@ -2453,4 +2403,87 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 11 | Deaths | Don Nelson (86, HOF coach, 2nd-winningest NBA, 1,335-1,063 over 31 seasons, 5 titles as a Celtics player, invented the point forward, Aug 9 in Frisco TX after a stroke); Ben Jones (84, "Cooter" on The Dukes of Hazzard, 2-term GA congressman, heart attack Aug 9); Jorge Messi (68, Lionel Messi's father/agent, Aug 8); Violet Hensley (109, Arkansas "Whittlin' Fiddler," ~80 handmade violins, Aug 7); Tommy Detamore (70, Texas steel guitarist/producer, Aug 5); Robby Albarado (52, jockey, 5,000+ wins, 2x Preakness incl. Curlin 2007, Aug 4) |
 | Aug 11 | Current Events | COLOMBIA EARTHQUAKE Aug 10: M7.4 in western Colombia, strongest recorded this century there; at least 132 dead / 570 injured (Cali 85, Pereira 66; damage in Quibdo, Manizales); state of national disaster. Todd Blanche confirmed US Attorney General 50-49 in an overnight Senate vote Aug 8 (Collins & Murkowski the only GOP no votes; Cassidy decisive). Federal court: no White House ballroom without Congressional approval. Netanyahu says Israel "rejects" the US-backed Board of Peace Gaza disarmament roadmap. Iran near a final pact with Oman to reopen Strait of Hormuz; Houthis hit a Saudi Aramco refinery. Abelardo de la Espriella sworn in as Colombia's president. Ukrainian drone attack killed at least 13 in Russia. Monsoon flooding in India, Brahmaputra over its banks |
 
-_Last updated: August 11, 2026 (v44)_
+---
+
+## August 12, 2026 (v45)
+
+### Capitals
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 12 | Morocco | Rabat (not Casablanca) |
+| Aug 12 | Nigeria | Abuja (moved from Lagos 1991) |
+| Aug 12 | Myanmar | Naypyidaw (purpose-built; moved from Yangon 2005) |
+| Aug 12 | Croatia | Zagreb |
+
+### Classic TV
+| Week | Show | Character | Actor |
+|------|------|-----------|-------|
+| Aug 12 | Get Smart (1965-70) | Maxwell Smart | Don Adams |
+| Aug 12 | The Fugitive (1963-67) | Dr. Richard Kimble | David Janssen |
+| Aug 12 | Lost in Space (1965-68) | Dr. Zachary Smith | Jonathan Harris |
+| Aug 12 | Barney Miller (1975-82) | Capt. Barney Miller | Hal Linden |
+| Aug 12 | Dallas (1978-91) | J.R. Ewing | Larry Hagman |
+| Aug 12 | Quantum Leap (1989-93) | Dr. Sam Beckett | Scott Bakula |
+
+### Arts & Literature
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 12 | "It is a truth universally acknowledged..." opener | Pride and Prejudice (1813) - Jane Austen |
+| Aug 12 | Painter of American Gothic (1930) | Grant Wood |
+| Aug 12 | Composer of Bolero (1928) | Maurice Ravel |
+| Aug 12 | Author of Catch-22 (1961) | Joseph Heller |
+| Aug 12 | Poet of "Ozymandias" (1818) | Percy Bysshe Shelley |
+| Aug 12 | One Hundred Years of Solitude (1967); Nobel 1982 | Gabriel Garcia Marquez |
+
+### Founded & Invented
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 12 | Velcro inventor / inspiration | George de Mestral, 1941 (patented 1955) - burdock burrs on his dog; velours + crochet |
+| Aug 12 | Riveted blue jeans patent 1873 | Jacob Davis (Reno tailor) & Levi Strauss |
+| Aug 12 | Microsoft founded where/when | Albuquerque NM, 1975 (Gates & Allen, near Altair maker MITS) |
+| Aug 12 | Super Glue accidental discovery | Harry Coover, 1942 - trying to make clear plastic gun sights; sold 1958 |
+| Aug 12 | Slinky inventor | Richard James, 1943, naval engineer; wife Betty named it |
+| Aug 12 | What IKEA stands for | Ingvar Kamprad, Elmtaryd (farm), Agunnaryd (village); founded 1943 at age 17 |
+
+### General Trivia
+| Week | Topic | Fact |
+|------|-------|------|
+| Aug 12 | Astronomy | Neptune (discovered 1846) completed its first full orbit only in 2011 - 165-yr year |
+| Aug 12 | Animals | A sloth can take up to a month to digest a single leaf |
+| Aug 12 | Geography | Mauna Kea measured from the seafloor (~33,500 ft) is taller than Everest (29,032 above sea level) |
+| Aug 12 | Food | Vanilla = 2nd-most-expensive spice after saffron; hand-pollinated outside Mexico |
+| Aug 12 | History | Roman laundries used stale urine (ammonia); Vespasian taxed it - "pecunia non olet" |
+| Aug 12 | Language | Longest dictionary word: pneumonoultramicroscopicsilicovolcanoconiosis (45 letters), coined 1935 |
+| Aug 12 | Biology | Slightly more bacterial cells than human cells in the body (~1.3:1) |
+| Aug 12 | Sports | First basketball hoops were actual peach baskets; bottoms not cut out until ~1900 |
+| Aug 12 | Space | Apollo footprints on the Moon could last millions of years - no wind or water |
+| Aug 12 | Business | Michelin Guide created by a tire company (1900) to encourage more driving |
+| Aug 12 | Pop Culture | Star Trek's transporter exists because landing the Enterprise every episode was too expensive to film |
+| Aug 12 | Science | Bananas are slightly radioactive (potassium-40) - the "banana equivalent dose" |
+
+### Songs
+| Week | Song | Artist | Year |
+|------|------|--------|------|
+| Aug 12 | Enter Sandman | Metallica | 1991 |
+| Aug 12 | Loser | Beck | 1994 |
+| Aug 12 | Wonderwall | Oasis | 1995 |
+| Aug 12 | Torn | Natalie Imbruglia | 1997 |
+| Aug 12 | Yeah! | Usher feat. Lil Jon & Ludacris | 2004 |
+| Aug 12 | Chasing Cars | Snow Patrol | 2006 |
+
+### This Day in History
+| Week | Date Used | Events |
+|------|-----------|--------|
+| Aug 12 | August 12 (IBM PC model 5150 goes on sale 1981 - 45th anniversary; Susan Hendrickson discovers "Sue" the T. rex in South Dakota 1990; Hawaii formally annexed by the US at Iolani Palace 1898 + Spanish-American War armistice protocol same day) | - |
+| Aug 12 | National Days: National Vinyl Record Day; World Elephant Day; International Youth Day (UN); National Middle Child Day; National Sewing Machine Day; IBM PC Day; Baseball Fans Day; National Julienne Fries Day; National Gooey Butter Cake Day | - |
+
+### Sports / Current Events
+| Week | Topic | Detail |
+|------|-------|--------|
+| Aug 12 | Reds | 57-61 (.483), 4th NL Central, 16.0 GB (Brewers 74-46); last 5 W-L-L-L-W (streak W1, 6-4 L10); beat White Sox 5-4 in 10 Aug 11 (De La Cruz sac fly scored McLain; Stephenson tying bases-loaded single in 8th; Pagan 14th save); TODAY @ Chicago White Sox 7:40 PM ET. Source: MLB Stats API |
+| Aug 12 | Box Office | Spider-Man: Brand New Day #1. NEW ANGLE USED: final 2nd-weekend actuals $144.2M (-60%), 3rd-biggest 2nd weekend ever; $654.3M domestic; ~$1.67B WW; $225M production budget recouped in ~2 days ($72M previews + $168M Friday). Odyssey $31.7M ($460M+ dom, Nolan's biggest); One Night Only $5.5M. Opening Aug 14-16: The End of Oak Street (David Robert Mitchell, WB, $30-45M tracking), PAW Patrol: The Dino Movie (Cal Brunker, $14-19M), The Brink of War (Angel, Jeff Daniels as Reagan / J.K. Simmons as Gorbachev, ~$4.5M), The Wrong Girls |
+| Aug 12 | Sports | Tennis: Cincinnati Open main draw starts Aug 13 (Mason OH), runs to Aug 23; draw ceremony Aug 11; 9 top-10 players, 10 Grand Slam champs; Serena & Venus Williams reunite in doubles on a wild card. MLB: Rays won 8th straight 12-4 over Athletics Aug 11, Taylor Walls homered from both sides, Nick Martinez complete game; Rays 73-46 lead AL East. WNBA: Fever 106-92 over Liberty Aug 11 (Kelsey Mitchell 28, Caitlin Clark double-double); Rivals Week Aug 8-14. NFL: preseason Wk1 Aug 13-15 all 32 teams; No.1 pick Fernando Mendoza debuts for Raiders vs ARI; Cowboys at SEA; Rams-Chiefs; Harbaugh's Giants host Vikings; Rodgers says no advantage to preseason snaps while McCarthy wants him to play. Golf: FedEx St. Jude Championship Aug 13-16 TPC Southwind, $20M purse, 750 pts, top 70 no cut, top 50 advance; Scheffler #1, Rose defending champ, Fleetwood defending FedExCup, McIlroy returns. Soccer: FC Cincinnati lost 2-1 to Atlas Aug 11 (Evander 44'), finish league phase 2-1, 6 pts; QFs Aug 25-27. NBA: Dillon Brooks 3yr/$73M ext with PHX Aug 8; Lonnie Walker IV to DEN, KCP to PHI. NHL: Calvin Pickard 1yr/$1M MIN; Hendrix Lapierre 2yr/$1.3M AAV PIT |
+| Aug 12 | Deaths | Fiorenza Marchegiani (73, Italian actress, Aug 11); Andrzej Zaborski (75, Polish actor/theatre director, Aug 11); Vyacheslav Vorobyov (63, Russian footballer Kuban/KAMAZ, Aug 11); Alejandro Castellanos (46, Honduran swimmer, heart attack, Aug 10); Tommy Detamore (70, Texas steel guitarist/producer, Aug 5). Carried over as "still in the news": Don Nelson (86), Ben Jones (84), Jorge Messi (68) |
+| Aug 12 | Current Events | Colombia M7.4 quake death toll passes 200 (forensic institute received 202 bodies); strongest in 47 years; foreign aid arriving; first crisis for new president Abelardo de la Espriella. Minnesota primaries Aug 11: Amy Klobuchar wins DFL gubernatorial nod (first woman to lead a major MN gov ticket), faces GOP House Speaker Lisa Demuth, who beat Trump-endorsed Mike Lindell (Demuth also first woman for her party); open Senate seat = Peggy Flanagan (D) vs Michele Tafoya (R), the former Sunday Night Football sideline reporter. Connecticut: Luke Bronin unseats 14-term Rep. John Larson in CT-01 Dem primary. Wisconsin: David Crowley wins Dem gubernatorial primary over Francesca Hong. Iran-Oman reported near a deal to reopen the Strait of Hormuz |
+
+_Last updated: August 12, 2026 (v45)_
