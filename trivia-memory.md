@@ -24,10 +24,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 |------|----------|--------|
 
 
-| May 20 | Capital of South Carolina | Columbia |
-| May 20 | Capital of Mexico | Mexico City |
-| May 20 | Capital of Estonia | Tallinn |
-| May 20 | Capital of Botswana | Gaborone |
 | Jun 18 | Nevada | Carson City |
 | Jun 18 | Missouri | Jefferson City |
 | Jun 18 | Greece | Athens |
@@ -40,6 +36,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 24 | North Carolina | Raleigh |
 | Jun 24 | Chile | Santiago |
 | Jun 24 | Indonesia | Jakarta |
+| Aug 13 | Bhutan | Thimphu |
+| Aug 13 | Namibia | Windhoek |
+| Aug 13 | Latvia | Riga |
+| Aug 13 | Suriname | Paramaribo |
 
 
 
@@ -54,12 +54,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 20 | The Untouchables | Eliot Ness | Robert Stack |
-| May 20 | My Three Sons | Steve Douglas | Fred MacMurray |
-| May 20 | McMillan & Wife | Stewart McMillan | Rock Hudson |
-| May 20 | The Prisoner | Number Six | Patrick McGoohan |
-| May 20 | F Troop | Capt. Wilton Parmenter | Ken Berry |
-| May 20 | Xena: Warrior Princess | Xena | Lucy Lawless |
 | Jun 18 | The Rifleman (1958–63) | Lucas McCain | Chuck Connors |
 | Jun 18 | Maverick (1957–62) | Bret Maverick | James Garner |
 | Jun 18 | Maude (1972–78) | Maude Findlay | Bea Arthur |
@@ -78,6 +72,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 24 | The Streets of San Francisco (1972–77) | Det. Lt. Mike Stone | Karl Malden |
 | Jun 24 | Baretta (1975–78) | Det. Tony Baretta | Robert Blake |
 | Jun 24 | The Phil Silvers Show (1955–59) | Sgt. Ernie Bilko | Phil Silvers |
+| Aug 13 | The Andy Griffith Show (1960-68) | Deputy Barney Fife | Don Knotts |
+| Aug 13 | The Wild Wild West (1965-69) | James West | Robert Conrad |
+| Aug 13 | All in the Family (1971-79) | Archie Bunker | Carroll O'Connor |
+| Aug 13 | Banacek (1972-74) | Thomas Banacek | George Peppard |
+| Aug 13 | Cheers (1982-93) | Sam Malone | Ted Danson |
+| Aug 13 | Moonlighting (1985-89) | Maddie Hayes | Cybill Shepherd |
 
 
 ---
@@ -90,12 +90,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 20 | A Farewell to Arms | Ernest Hemingway |
-| May 20 | The Great Wave off Kanagawa | Katsushika Hokusai |
-| May 20 | The Barber of Seville (opera) | Gioachino Rossini |
-| May 20 | A Wrinkle in Time | Madeleine L'Engle |
-| May 20 | The Gulf Stream / Snap the Whip painter | Winslow Homer |
-| May 20 | The Aeneid | Virgil |
 | Jun 18 | Dracula (1897) author | Bram Stoker |
 | Jun 18 | Little Women author | Louisa May Alcott |
 | Jun 18 | "Clair de Lune" composer | Claude Debussy |
@@ -114,6 +108,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 24 | "Carmina Burana" (1936) composer | Carl Orff |
 | Jun 24 | Oedipus Rex tragedian | Sophocles |
 | Jun 24 | Dune (1965) author | Frank Herbert |
+| Aug 13 | Crime and Punishment (1866) author | Fyodor Dostoevsky |
+| Aug 13 | Girl with a Pearl Earring (c.1665) painter | Johannes Vermeer |
+| Aug 13 | The Four Seasons (c.1725) composer | Antonio Vivaldi |
+| Aug 13 | "Do I dare to eat a peach?" / Prufrock poet | T.S. Eliot |
+| Aug 13 | Slaughterhouse-Five (1969) author | Kurt Vonnegut |
+| Aug 13 | Sculptor of David (1504) / Sistine ceiling | Michelangelo |
 
 
 ---
@@ -125,18 +125,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 20 | Botany | Bananas are berries; strawberries are not |
-| May 20 | Animals | Mosquitoes kill more humans/year than any animal |
-| May 20 | Aviation | 'Black box' flight recorder is painted bright orange |
-| May 20 | Animal Group | A group of foxes is a 'skulk' (or 'leash') |
-| May 20 | Astronomy | Sun = 99.86% of solar system's mass |
-| May 20 | History | Pope John Paul I served only 33 days in 1978 |
-| May 20 | History | Bayeux Tapestry is embroidery, not tapestry; ~230 ft long |
-| May 20 | UK History | Tower of London by decree must keep 6 ravens |
-| May 20 | Business | Kongō Gumi (578 AD Japan) — world's oldest company |
-| May 20 | Language | Papua New Guinea has 800+ living languages |
-| May 20 | Invention | Eyeglasses invented in Italy ~1290 |
-| May 20 | Biology | Komodo dragon bite is venomous (confirmed 2009) |
 | Jun 18 | Science | Teaspoon of neutron-star material ≈ 6 billion tons |
 | Jun 18 | Geography | Russia spans 11 time zones (most of any country) |
 | Jun 18 | Food | Carrots were originally purple; orange bred in the Netherlands |
@@ -161,6 +149,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 24 | Food | Tomatoes once feared as "poison apples" (lead from pewter plates) |
 | Jun 24 | Science | Glass is an "amorphous solid" |
 | Jun 24 | Animals | A blue whale's tongue can weigh as much as an elephant |
+| Aug 13 | Trivia | Guinness Book of Records invented 1954 to settle pub arguments |
+| Aug 13 | Geography | Alaska is both westernmost AND easternmost US state (Aleutians cross 180th meridian) |
+| Aug 13 | Language | "Avocado" from Nahuatl ahuacatl, which also meant "testicle" |
+| Aug 13 | Sports | Stanley Cup misspellings never corrected - 1972 "BQSTQN BRUINS" |
+| Aug 13 | Food | Ketchup sold as medicine in the 1830s - "tomato pills" |
+| Aug 13 | Body | You're ~1 cm taller in the morning - spinal discs compress |
+| Aug 13 | Space | Astronauts say space smells like seared steak / spent gunpowder |
+| Aug 13 | History | Wyoming gave women the vote in 1869, 51 yrs before the 19th Amendment |
+| Aug 13 | Animals | A group of flamingos is a "flamboyance" |
+| Aug 13 | Science | A teaspoon of healthy soil holds more microorganisms than people on Earth |
+| Aug 13 | Pop Culture | "Happy Birthday to You" under copyright until a 2016 court settlement |
+| Aug 13 | Local (Cincinnati) | Cincinnati chili "ways" from Macedonian brothers Tom & John Kiradjieff, Empress Chili 1922 |
 
 
 ---
@@ -171,9 +171,9 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 |------|----------------------------------------------|
 
 
-| May 20 | May 20 (Homestead Act 1862; Lindbergh 1927; Earhart 1932) |
 | Jun 18 | June 18 (Battle of Waterloo 1815; War of 1812 declared 1812; Sally Ride first American woman in space 1983) |
 | Jun 23 | June 23 (Typewriter patented 1868; IOC founded 1894; Title IX enacted 1972; Tim Burton's Batman released 1989) |
+| Aug 13 | August 13 (Berlin Wall goes up 1961 - 65th anniv; Tenochtitlan falls to Cortes 1521 - 505 yrs; pay phone patented by William Gray of Hartford CT 1889; also Florence Nightingale dies 1910, Opha May Johnson first woman US Marine 1918) |
 
 
 ---
@@ -182,7 +182,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
-| May 20 | World Bee Day · World Metrology Day · National Rescue Dog Day · Clinical Trials Day · National Be a Millionaire Day |
 
 
 ---
@@ -191,6 +190,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Go Fishing Day; International Picnic Day; National Splurge Day; International Sushi Day; Autistic Pride Day |
 | Jun 23 | National Pink Day; National Detroit-Style Pizza Day; National Hydration Day; National Pecan Sandies Day; Pink Flamingo Day; International Widows' Day; UN Public Service Day |
 | Jun 24 | World UFO Day; International Fairy Day; National Pralines Day; Celebration of the Senses; Swim a Lap Day; National Parchment Day; St. John's Day (Midsummer) |
+| Aug 13 | International Lefthanders Day; National Prosecco Day; National Filet Mignon Day; National Blame Someone Else Day; Central African Republic Independence Day (1960) |
 
 ---
 
@@ -205,12 +205,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 |------|----------|--------|
 
 
-| May 20 | Yahoo! founders/year | 1994, Jerry Yang & David Filo (Stanford) |
-| May 20 | Sony Walkman release year | 1979 (TPS-L2) |
-| May 20 | Computer mouse inventor | Douglas Engelbart (1964, patented 1970) |
-| May 20 | Pac-Man release | Namco, 1980, designed by Toru Iwatani |
-| May 20 | White-Out / Liquid Paper inventor | Bette Nesmith Graham, 1956 (Michael Nesmith's mother) |
-| May 20 | Frozen food industry pioneer | Clarence Birdseye, 1920s |
 | Jun 18 | Who invented dynamite (1867)? | Alfred Nobel |
 | Jun 18 | Toyota Motor Corporation founded year | 1937 (Kiichiro Toyoda) |
 | Jun 18 | Inventor of electronic television (1927) | Philo Farnsworth |
@@ -229,6 +223,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 24 | First powered airplane flight (1903) | Wright Brothers |
 | Jun 24 | Lamborghini founded (1963) | Ferruccio Lamborghini |
 | Jun 24 | Lockstitch sewing machine patent (1846) | Elias Howe |
+| Aug 13 | Barbie creator/year | Ruth Handler, Mattel, 1959 (named for daughter Barbara) |
+| Aug 13 | Monopoly - patent vs true origin | Charles Darrow patented 1935; from Lizzie Magie's 1904 "The Landlord's Game" |
+| Aug 13 | Corn flakes inventors | Kellogg brothers, Battle Creek MI, 1894 accident; company 1906 |
+| Aug 13 | Dishwasher inventor | Josephine Cochrane, 1886 |
+| Aug 13 | Duct tape origin | 1943, Vesta Stoudt's idea, made by Johnson & Johnson; called "duck tape" |
+| Aug 13 | Procter & Gamble founded | 1837 Cincinnati; William Procter (candles) & James Gamble (soap), brothers-in-law |
 
 
 ---
@@ -881,6 +881,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 18 | Stay (I Missed You) | Lisa Loeb & Nine Stories | 1994 |
 | Jun 18 | Sex and Candy | Marcy Playground | 1997 |
 | Jun 18 | You Oughta Know | Alanis Morissette | 1995 |
+| Aug 13 | Jeremy | Pearl Jam | 1991 |
+| Aug 13 | Self Esteem | The Offspring | 1994 |
+| Aug 13 | Ironic | Alanis Morissette | 1996 |
+| Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
+| Aug 13 | In da Club | 50 Cent | 2003 |
+| Aug 13 | Kids | MGMT | 2008 |
 
 
 ## June 9, 2026 (v22)
@@ -2486,4 +2492,86 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 12 | Deaths | Fiorenza Marchegiani (73, Italian actress, Aug 11); Andrzej Zaborski (75, Polish actor/theatre director, Aug 11); Vyacheslav Vorobyov (63, Russian footballer Kuban/KAMAZ, Aug 11); Alejandro Castellanos (46, Honduran swimmer, heart attack, Aug 10); Tommy Detamore (70, Texas steel guitarist/producer, Aug 5). Carried over as "still in the news": Don Nelson (86), Ben Jones (84), Jorge Messi (68) |
 | Aug 12 | Current Events | Colombia M7.4 quake death toll passes 200 (forensic institute received 202 bodies); strongest in 47 years; foreign aid arriving; first crisis for new president Abelardo de la Espriella. Minnesota primaries Aug 11: Amy Klobuchar wins DFL gubernatorial nod (first woman to lead a major MN gov ticket), faces GOP House Speaker Lisa Demuth, who beat Trump-endorsed Mike Lindell (Demuth also first woman for her party); open Senate seat = Peggy Flanagan (D) vs Michele Tafoya (R), the former Sunday Night Football sideline reporter. Connecticut: Luke Bronin unseats 14-term Rep. John Larson in CT-01 Dem primary. Wisconsin: David Crowley wins Dem gubernatorial primary over Francesca Hong. Iran-Oman reported near a deal to reopen the Strait of Hormuz |
 
-_Last updated: August 12, 2026 (v45)_
+
+## August 13, 2026 (v46)
+
+### Capitals
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 13 | Bhutan | Thimphu (few/no traffic lights) |
+| Aug 13 | Namibia | Windhoek |
+| Aug 13 | Latvia | Riga |
+| Aug 13 | Suriname | Paramaribo (only Dutch-speaking country in South America) |
+
+### Classic TV
+| Week | Show | Character | Actor |
+|------|------|-----------|-------|
+| Aug 13 | The Andy Griffith Show (1960-68) | Deputy Barney Fife | Don Knotts |
+| Aug 13 | The Wild Wild West (1965-69) | James West | Robert Conrad |
+| Aug 13 | All in the Family (1971-79) | Archie Bunker | Carroll O'Connor |
+| Aug 13 | Banacek (1972-74) | Thomas Banacek | George Peppard |
+| Aug 13 | Cheers (1982-93) | Sam Malone | Ted Danson |
+| Aug 13 | Moonlighting (1985-89) | Maddie Hayes | Cybill Shepherd |
+
+### Arts & Literature
+| Week | Topic / Question | Answer |
+|------|-----------------|--------|
+| Aug 13 | Crime and Punishment (1866) author | Fyodor Dostoevsky |
+| Aug 13 | Girl with a Pearl Earring (c.1665) painter | Johannes Vermeer |
+| Aug 13 | The Four Seasons (c.1725) composer | Antonio Vivaldi |
+| Aug 13 | "Do I dare to eat a peach?" / The Love Song of J. Alfred Prufrock poet | T.S. Eliot |
+| Aug 13 | Slaughterhouse-Five (1969), "So it goes" author | Kurt Vonnegut |
+| Aug 13 | Sculptor of David (1504) / Sistine Chapel ceiling | Michelangelo |
+
+### Founded & Invented
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 13 | Barbie creator / year | Ruth Handler, Mattel, 1959 - named for daughter Barbara (Ken = son) |
+| Aug 13 | Monopoly - patent vs true origin | Charles Darrow patented 1935; descends from Lizzie Magie's 1904 "The Landlord's Game," designed to criticize land monopolies |
+| Aug 13 | Corn flakes inventors | Kellogg brothers, Battle Creek MI - 1894 accident with left-out boiled wheat; company founded 1906 |
+| Aug 13 | Dishwasher inventor | Josephine Cochrane, 1886 - wealthy hostess tired of servants chipping her china |
+| Aug 13 | Duct tape origin | 1943 - Vesta Stoudt's idea, manufactured by Johnson & Johnson to waterproof WWII ammo boxes; originally "duck tape" |
+| Aug 13 | Procter & Gamble founded | 1837, Cincinnati - William Procter (candlemaker) & James Gamble (soapmaker), brothers-in-law pushed together by their father-in-law |
+
+### General Trivia
+| Week | Category | Topic/Fact |
+|------|----------|-----------|
+| Aug 13 | Trivia | Guinness Book of Records invented 1954 to settle pub arguments - Guinness MD lost a bet about Europe's fastest game bird |
+| Aug 13 | Geography | Alaska is both westernmost AND easternmost US state - Aleutians cross the 180th meridian |
+| Aug 13 | Language | "Avocado" from Nahuatl ahuacatl, which also meant "testicle" |
+| Aug 13 | Sports | Stanley Cup misspellings are never corrected - 1972 Bruins engraved "BQSTQN BRUINS" |
+| Aug 13 | Food | Ketchup sold as medicine in the 1830s - "tomato pills" for indigestion/diarrhea/jaundice |
+| Aug 13 | Body | You're ~1 cm taller in the morning - spinal discs compress over the day |
+| Aug 13 | Space | Astronauts say space smells like seared steak or spent gunpowder |
+| Aug 13 | History | Wyoming gave women the vote in 1869 - 51 yrs before the 19th Amendment; refused statehood in 1890 without it |
+| Aug 13 | Animals | A group of flamingos is a "flamboyance" |
+| Aug 13 | Science | A teaspoon of healthy soil holds more microorganisms than there are people on Earth |
+| Aug 13 | Pop Culture | "Happy Birthday to You" under copyright until a 2016 court settlement put it in public domain |
+| Aug 13 | Local (Cincinnati) | Cincinnati chili "ways" (3/4/5-way) from Macedonian brothers Tom & John Kiradjieff, Empress Chili 1922, next to a burlesque house |
+
+### Songs
+| Week | Song | Artist | Year |
+|------|------|--------|------|
+| Aug 13 | Jeremy | Pearl Jam | 1991 |
+| Aug 13 | Self Esteem | The Offspring | 1994 |
+| Aug 13 | Ironic | Alanis Morissette | 1996 |
+| Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
+| Aug 13 | In da Club | 50 Cent | 2003 |
+| Aug 13 | Kids | MGMT | 2008 |
+
+### This Day in History
+| Week | Date Used | Events |
+|------|-----------|--------|
+| Aug 13 | August 13 (Berlin Wall - East Germany seals the border overnight across 27 miles 1961, 65th anniversary; Tenochtitlan falls to Cortes after 93-day siege 1521, 505 yrs, last emperor Cuauhtemoc; coin-operated pay telephone patented by William Gray of Hartford CT 1889; also Florence Nightingale dies 1910 and Opha May Johnson becomes first woman to enlist in US Marine Corps 1918) | - |
+| Aug 13 | National Days: International Lefthanders Day; National Prosecco Day; National Filet Mignon Day; National Blame Someone Else Day; Central African Republic Independence Day (1960) | - |
+
+### Sports / Current Events
+| Week | Topic | Detail |
+|------|-------|--------|
+| Aug 13 | Reds | 57-62 (.479), 4th NL Central, 16.0 GB (Brewers 74-47); last 5 L-L-L-W-L (streak L1, 5-5 L10); shut out 5-0 by White Sox Aug 12 after a 5-4 extras win Aug 11; 6 of last 8 lost; Pirates 58-64 a half game back. TODAY @ Chicago White Sox 2:10 PM ET (getaway day, series finale). Source: MLB Stats API |
+| Aug 13 | Box Office | Spider-Man: Brand New Day #1. NEW ANGLE USED: all-time chart position - ~$1.67B WW ($654.3M dom / $1.013B intl), 12th-highest-grossing film ever; $1B in 6 days (2nd fastest ever behind Endgame's 3 days) and 2nd fastest to $1B international; now chasing $2B, which only 7 films have ever reached; became highest-grossing film of 2026 in 7 days. Opening Aug 14-16: The End of Oak Street (David Robert Mitchell, WB, $30-45M), PAW Patrol: The Dino Movie (Cal Brunker, $14-19M), The Brink of War (Jeff Daniels as Reagan / J.K. Simmons as Gorbachev), Six: The Musical Live! |
+| Aug 13 | Sports | NFL: preseason Wk1 opens TONIGHT - Lions at Bengals 7:00 PM ET Paycor Stadium (local angle); 6 Thursday games, all 32 teams Aug 13-15 (Packers-Steelers 7:00 NFL Net, Colts-Patriots 7:30, Cardinals-Raiders 8:00, Chargers-Texans 8:00, Titans-49ers 9:00 NFL Net). Tennis: Cincinnati Open main draw opens TODAY in Mason OH thru Aug 23; Jack Draper & Gael Monfils headline day 1; Wednesday qualifying washed out by rain. Golf: FedExCup Playoffs open - FedEx St. Jude Championship, TPC Southwind Memphis, 69 players no cut, top 50 advance; Scheffler & McIlroy paired 9:30 AM ET. MLB: Rays win 9th straight 8-4 at Athletics, 74-46 best record in baseball; Cubs 12-6 over Nationals to 71-50; Brewers lose 3rd straight 4-3 at San Diego, NL Central lead down to 3. WNBA: Aces 86-76 snapped Mystics' 7-game win streak (A'ja Wilson 26/13/4blk, 17th double-double; Jackie Young 25); Fever 106-94 Mercury; Liberty 92-76 Sparks. Soccer: Inter Miami eliminated from Leagues Cup, lost 3-2 at home to Club Leon Aug 12, Messi off the bench after returning from his father's funeral; PSG beat Aston Villa 2-1 in Salzburg to retain UEFA Super Cup (Kvaratskhelia 20') |
+| Aug 13 | Deaths | Reggie Bannister (80, Reggie in the Phantasm series, Aug 9, Crestline CA, Lewy body dementia/Parkinson's); Robby Albarado (52, jockey, 5,000+ wins, Curlin's regular rider, Saratoga Springs NY after heart surgery); Jon Cypher (94, Chief Fletcher Daniels on Hill Street Blues / Gen. Marcus Craig on Major Dad, Aug 3, Central Point OR); David Z (78, Grammy-winning producer/engineer, Purple Rain, Prince/Fine Young Cannibals/Etta James, Aug 2 Burbank CA). Carried over: Fiorenza Marchegiani (73, Aug 11). NOTE: search engine falsely reported Brenda Fricker as dying Aug 13, 2026 - she actually died in July 2026; do not reuse |
+| Aug 13 | Current Events | Karoline Leavitt stepping down as White House press secretary at end of August (Trump announced Aug 12 on Truth Social); at 28 the youngest ever in the role and first to give birth while serving (2nd child in May); staying on as outside adviser. Iran rejects Trump's claim the Strait of Hormuz is open/under US control - Persian Gulf Strait Authority says it remains blocked. Wisconsin governor's race set: David Crowley narrowly beat Francesca Hong for the Dem nod, faces Rep. Tom Tiffany in November. Putin issued an escalation warning aboard a missile warship during a naval exercise. China calls the India border "generally stable" amid Arunachal Pradesh tension; rejected India's renaming of 27 places |
+
+_Last updated: August 13, 2026 (v46)_
