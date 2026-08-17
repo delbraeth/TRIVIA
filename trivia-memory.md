@@ -40,6 +40,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | Namibia | Windhoek |
 | Aug 13 | Latvia | Riga |
 | Aug 13 | Suriname | Paramaribo |
+| Aug 17 | Ethiopia | Addis Ababa (HQ of the African Union) |
+| Aug 17 | Vietnam | Hanoi |
+| Aug 17 | Iceland | Reykjavík (northernmost capital of a sovereign state) |
+| Aug 17 | Fiji | Suva (on Viti Levu) |
 
 
 
@@ -78,6 +82,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | Banacek (1972-74) | Thomas Banacek | George Peppard |
 | Aug 13 | Cheers (1982-93) | Sam Malone | Ted Danson |
 | Aug 13 | Moonlighting (1985-89) | Maddie Hayes | Cybill Shepherd |
+| Aug 17 | Columbo (1971–2003) | Lt. Columbo | Peter Falk |
+| Aug 17 | The Mary Tyler Moore Show (1970–77) | Lou Grant | Ed Asner |
+| Aug 17 | The Untouchables (1959–63) | Eliot Ness | Robert Stack |
+| Aug 17 | Sanford and Son (1972–77) | Fred Sanford | Redd Foxx |
+| Aug 17 | Miami Vice (1984–90) | Det. Sonny Crockett | Don Johnson |
+| Aug 17 | The Six Million Dollar Man (1974–78) | Steve Austin | Lee Majors |
 
 
 ---
@@ -114,6 +124,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | "Do I dare to eat a peach?" / Prufrock poet | T.S. Eliot |
 | Aug 13 | Slaughterhouse-Five (1969) author | Kurt Vonnegut |
 | Aug 13 | Sculptor of David (1504) / Sistine ceiling | Michelangelo |
+| Aug 17 | The Old Man and the Sea (1952) author | Ernest Hemingway |
+| Aug 17 | "It was the best of times…" opener | A Tale of Two Cities — Charles Dickens |
+| Aug 17 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai |
+| Aug 17 | "New World" Symphony No. 9 (1893) composer | Antonín Dvořák |
+| Aug 17 | "Do not go gentle into that good night" poet | Dylan Thomas |
+| Aug 17 | Beloved (1987) author | Toni Morrison |
 
 
 ---
@@ -161,6 +177,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | Science | A teaspoon of healthy soil holds more microorganisms than people on Earth |
 | Aug 13 | Pop Culture | "Happy Birthday to You" under copyright until a 2016 court settlement |
 | Aug 13 | Local (Cincinnati) | Cincinnati chili "ways" from Macedonian brothers Tom & John Kiradjieff, Empress Chili 1922 |
+| Aug 17 | History | Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid |
+| Aug 17 | Geography | Africa is the only continent in all four hemispheres |
+| Aug 17 | Science | Mpemba effect — hot water can freeze faster than cold under some conditions |
+| Aug 17 | Food | A pineapple plant takes ~2 years to produce one fruit |
+| Aug 17 | Animals | A group of owls is a "parliament" |
+| Aug 17 | Space | Jupiter's Great Red Spot shrinking — ~3 Earths wide a century ago, ~1 now |
+| Aug 17 | Language | "Nerd" first in print in Dr. Seuss's If I Ran the Zoo (1950) |
+| Aug 17 | Sports | Basketball's first hoops (1891) were peach baskets; ball retrieved by ladder after each score |
+| Aug 17 | Pop Culture | Sean Connery wore a toupee in every James Bond film |
+| Aug 17 | Did You Know | Eiffel Tower had a 20-year permit; saved because it worked as a radio antenna |
+| Aug 17 | Body | 2014 study: human nose can distinguish ~1 trillion smells (not 10,000) |
+| Aug 17 | Local (Cincinnati) | Music Hall built over a paupers' cemetery/Potter's Field; remains found in the 2016–17 restoration |
+| Aug 17 | Reds bar-bet | First MLB night game: May 24, 1935, Crosley Field, Reds 2–1 Phillies; FDR threw the switch from the White House |
 
 
 ---
@@ -191,6 +220,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jun 23 | National Pink Day; National Detroit-Style Pizza Day; National Hydration Day; National Pecan Sandies Day; Pink Flamingo Day; International Widows' Day; UN Public Service Day |
 | Jun 24 | World UFO Day; International Fairy Day; National Pralines Day; Celebration of the Senses; Swim a Lap Day; National Parchment Day; St. John's Day (Midsummer) |
 | Aug 13 | International Lefthanders Day; National Prosecco Day; National Filet Mignon Day; National Blame Someone Else Day; Central African Republic Independence Day (1960) |
+| Aug 17 | National Thrift Shop Day; Black Cat Appreciation Day; National Nonprofit Day; National Massachusetts Day; Balloon Airmail Day; National I Love My Feet Day; Indonesia Independence Day (1945); Gabon Independence Day (1960); Discovery Day (Yukon) |
 
 ---
 
@@ -326,172 +356,28 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 20b | Capital of Iran | Tehran |
-| May 20b | Capital of Singapore | Singapore (city-state) |
-| May 20b | Capital of South Dakota | Pierre |
-| May 20b | Capital of Lithuania | Vilnius |
-
-| May 20b | The Partridge Family | Shirley Partridge | Shirley Jones |
-| May 20b | Knots Landing | Karen MacKenzie (née Fairgate) | Michele Lee |
-| May 20b | The Equalizer (1985) | Robert McCall | Edward Woodward |
-| May 20b | NewsRadio | Dave Nelson | Dave Foley |
-| May 20b | Spin City | Mike Flaherty | Michael J. Fox |
-| May 20b | Will & Grace | Will Truman | Eric McCormack |
-
-| May 20b | A Clockwork Orange (1962) | Anthony Burgess |
-| May 20b | The Hay Wain (1821) | John Constable |
-| May 20b | Tristan und Isolde (1865 opera) | Richard Wagner |
-| May 20b | Middlesex (2003 Pulitzer) | Jeffrey Eugenides |
-| May 20b | The Awakening (1899) | Kate Chopin |
-| May 20b | Sculptor of Mount Rushmore | Gutzon Borglum |
-
-| May 20b | Hot Wheels — year/company/creator | 1968, Mattel (Elliot Handler) |
-| May 20b | Scrabble — inventor/original name | Alfred Mosher Butts, 1933 — "Lexiko"; rebranded by James Brunot 1948 |
-| May 20b | Trivial Pursuit — year/city | 1979, Montreal (Chris Haney & Scott Abbott) |
-| May 20b | Sony PlayStation — Japan release | December 3, 1994 |
-| May 20b | Honda Motor Co — year/founder | 1948, Soichiro Honda |
-| May 20b | iPod — release date/project lead | October 23, 2001 (Tony Fadell) |
-
-| May 20b | Animals | Greenland sharks live up to ~400 years (oldest known vertebrate) |
-| May 20b | Geography | Atacama Desert — parts gone 500+ years without rain |
-| May 20b | History | Coconut water used as IV plasma substitute in WWII Pacific |
-| May 20b | Biology | Wood frogs freeze solid in winter, thaw alive in spring |
-| May 20b | Geography | Great Pyramid of Cholula (Mexico) — world's largest pyramid by volume |
-| May 20b | Science | Spider silk ~5× stronger than steel by weight |
-| May 20b | Animals | Sea otters — ~1M hairs per sq inch, densest fur in animal kingdom |
-| May 20b | Geography | Bay of Fundy (NS/ME) — world's highest tides (~50 ft) |
-| May 20b | Animals | Cats sweat only through their paw pads |
-| May 20b | Astronomy | Voyager 1 — interstellar space since 2012, farthest human-made object |
-| May 20b | Sports | Reds 26-24, .520, 4th NL Central 4 GB Brewers; beat Phillies 9-4 today (W2, L10 5-5); no game Thu, vs STL Fri 5/22 |
-| May 20b | Sports | NBA Conf Finals: Knicks 22-pt OT comeback G1 vs Cavs (Brunson 38); Spurs 122-115 2OT G1 vs Thunder (Wemby 41/24); both G1s went to OT |
-| May 20b | Sports | NHL Conf Finals begin: VGK @ COL Wed 5/20 8 ET; MTL @ CAR Thu 5/21 8 ET |
-| May 20b | Sports | NFL: Rodgers reports Steelers OTAs day one (1-yr/$25M) |
-| May 20b | MLS | Inter Miami 2-0 Portland (first Nu Stadium home win); La Familia silent protest 85 min; Messi 4G/4A May |
-| May 20b | Box Office | Michael $26.1M #1 (4th wknd, $580M dom/$703M global); Devil Wears Prada 2 $17.8M; Obsession opens #3 $17.1M |
-| May 20b | Deaths | Brad Arnold (48, 3 Doors Down lead singer, kidney cancer); Claudine Longet (84); Clarence Carter (90) |
-
-| May 20b | May 20 (First Council of Nicaea 325; Cuba indep from US occupation 1902; first Auschwitz prisoners 1940) | — |
-| May 20b | National Days: National Streaming Day; National Pick Strawberries Day; National Juice Slush Day; EMS for Children Day; Cannes Film Festival | — |
-
-| May 20b | U Can't Touch This | MC Hammer | 1990 |
-| May 20b | Friday I'm in Love | The Cure | 1992 |
-| May 20b | Karma Police | Radiohead | 1997 |
-| May 20b | Bring Me to Life | Evanescence | 2003 |
-| May 20b | Misery Business | Paramore | 2007 |
-| May 20b | Hey, Soul Sister | Train | 2009 |
 
 
-| May 21 | Capital of New Hampshire | Concord |
-| May 21 | Capital of Malaysia | Kuala Lumpur |
-| May 21 | Capital of Rhode Island | Providence |
-| May 21 | Capital of Azerbaijan | Baku |
-
-| May 21 | I Spy | Alexander Scott | Bill Cosby |
-| May 21 | Hercules: The Legendary Journeys | Hercules | Kevin Sorbo |
-| May 21 | The Drew Carey Show | Drew Carey | Drew Carey |
-| May 21 | Hunter | Sgt. Rick Hunter | Fred Dryer |
-| May 21 | Diagnosis: Murder | Dr. Mark Sloan | Dick Van Dyke |
-| May 21 | Simon & Simon | A.J. & Rick Simon | Jameson Parker & Gerald McRaney |
-
-| May 21 | F. Scott Fitzgerald's 1920 debut novel | This Side of Paradise |
-| May 21 | Author of The Sound and the Fury (1929); Nobel 1949 | William Faulkner |
-| May 21 | English composer of "Pomp and Circumstance Marches" | Edward Elgar |
-| May 21 | Author of A Room with a View (1908) and Howards End | E.M. Forster |
-| May 21 | Composer of Adagio for Strings (1936) | Samuel Barber |
-| May 21 | Mexican muralist; Detroit Industry; husband of Frida Kahlo | Diego Rivera |
-
-| May 21 | Volkswagen Beetle first produced year/country | 1938, Germany (Porsche design; KdF-Wagen program) |
-| May 21 | Cotton gin inventor and year | Eli Whitney, 1793 (patented 1794) |
-| May 21 | Costco founded year/founders/city | 1983, Seattle WA (Jeff Brotman & James Sinegal) |
-| May 21 | First handheld cellular phone call — who/when | Martin Cooper (Motorola), April 3, 1973 |
-| May 21 | Dynamite inventor and year | Alfred Nobel, 1867 |
-| May 21 | Marvel Comics founded year/original name | 1939 as "Timely Publications" (Martin Goodman); renamed 1961 |
-
-| May 21 | Animals | Bumblebees recognize human faces; teach each other novel tasks (ball-rolling) |
-| May 21 | Science | Helium discovered in Sun's spectrum 1868 — 27 yrs before found on Earth |
-| May 21 | Astronomy | Saturn's north pole hexagonal storm ~20,000 mi wide (wider than 2 Earths) |
-| May 21 | History | Coca-Cola contained ~9 mg cocaine/glass until 1903 (switched to "spent" coca leaves) |
-| May 21 | Animals | Group of butterflies = "kaleidoscope" (or "flutter") |
-| May 21 | Botany | Strawberries ~200 seeds outside; aren't true berries (bananas/watermelons are) |
-| May 21 | Geography | Lake Titicaca (Peru/Bolivia) = highest navigable lake (~12,500 ft) |
-| May 21 | Language | "Pangram" = sentence using every letter; quick brown fox is 33 letters |
-| May 21 | Engineering | Hoover Dam concrete still curing today (will harden 100+ more years) |
-| May 21 | History | Vikings reached North America (L'Anse aux Meadows) ~1000 AD — 500 yrs before Columbus |
-| May 21 | Astronomy | Mount Everest grows ~4 mm/year (Indian Plate subducting under Eurasian) |
-| May 21 | Anatomy | Index finger has more touch receptors than middle; lips/tongue most sensitive |
-| May 21 | Sports | Reds 26-24 .520 T-4th NL Central 4.5 GB Brewers (29-18); no game today; vs STL Fri 5/22 6:40 PM ET |
-| May 21 | Sports | NBA Conf Finals: Knicks 115-104 OT G1 vs Cavs (Brunson 38, 22-pt comeback); G2 tonight; Spurs/Thunder 1-1 (Wemby 41/24 G1 2OT) |
-| May 21 | Sports | NHL Conf Finals: Hurricanes-Canadiens G1 tonight 8 ET; Vegas 4-2 Avalanche G1 |
-| May 21 | Sports | NFL OTAs underway; Rodgers reports Steelers day one (1-yr/$25M) |
-| May 21 | MLS | Messi MLS Team of Matchday; 4G/4A in May; Miami 2-0 Portland first home win at Nu Stadium |
-| May 21 | Box Office | Michael $26.1M #1 4th wknd ($580M dom/$703M global); Prada 2 $17.8M; Obsession $17.1M open; Mandalorian & Grogu opens 5/22 (~$82M projected) |
-| May 21 | Deaths | Tom Kane (64, voice of Yoda in Clone Wars, Powerpuff Girls Utonium, Archer narrator, May 18); Brad Arnold (48, 3 Doors Down, May 18); Claudine Longet (84, May 15) |
-
-| May 21 | Crash Into Me | Dave Matthews Band | 1996 |
-| May 21 | Stan (feat. Dido) | Eminem | 2000 |
-| May 21 | Ms. Jackson | OutKast | 2000 |
-| May 21 | Maps | Yeah Yeah Yeahs | 2003 |
-| May 21 | Float On | Modest Mouse | 2004 |
-| May 21 | Hey There Delilah | Plain White T's | 2006 |
-
-| May 21 | May 21 (FIFA founded Paris 1904; Leopold & Loeb murder Bobby Franks 1924; Rajiv Gandhi assassinated 1991) | — |
-| May 21 | National Days: International Tea Day (UN); World Day for Cultural Diversity (UN); Global Accessibility Awareness Day; Red Cross Founder's Day; Talk Like Yoda Day; National Waitstaff Day | — |
 
 
-| May 22 | Capital of Philippines | Manila |
-| May 22 | Capital of Jordan | Amman |
-| May 22 | Capital of Colombia | Bogotá |
-| May 22 | Capital of Burkina Faso | Ouagadougou |
 
-| May 22 | The Big Valley | Victoria Barkley | Barbara Stanwyck |
-| May 22 | The Donna Reed Show | Donna Stone | Donna Reed |
-| May 22 | Route 66 | Tod Stiles | Martin Milner |
-| May 22 | Petticoat Junction | Kate Bradley | Bea Benaderet |
-| May 22 | The Saint | Simon Templar | Roger Moore |
-| May 22 | The Facts of Life | Edna Garrett | Charlotte Rae |
 
-| May 22 | Amy Tan — 1989 SF immigrant mothers/daughters novel | The Joy Luck Club |
-| May 22 | Frank Herbert — 1965 desert-planet sci-fi epic | Dune |
-| May 22 | "And miles to go before I sleep" closes which Frost poem | Stopping by Woods on a Snowy Evening |
-| May 22 | French sculptor of "The Thinker" / "The Kiss" | Auguste Rodin |
-| May 22 | American Pop artist of Ben-Day dot comic-strip paintings | Roy Lichtenstein |
-| May 22 | German Romantic composer of Lullaby/Wiegenlied + German Requiem | Johannes Brahms |
 
-| May 22 | Sears, Roebuck founded year/founders | 1893, Richard Sears + Alvah Roebuck, Chicago |
-| May 22 | Edison practical incandescent bulb patent year | 1879 (US Patent 223,898) |
-| May 22 | Chocolate chip cookie inventor & inn name | Ruth Wakefield, 1938, Toll House Inn (Whitman MA) |
-| May 22 | Marriott founded year / humble origin | 1927, J. Willard Marriott — A&W root beer stand in DC |
-| May 22 | Insulin isolated year/team | 1921, Banting & Best, U. of Toronto |
-| May 22 | Salk polio vaccine declared safe date | April 12, 1955 (announced from U. Michigan) |
 
-| May 22 | Geography | Greenland is world's largest island (~836,330 sq mi); not a continent |
-| May 22 | Geography | Dead Sea shore — lowest dry land on Earth (~1,410 ft below sea level) |
-| May 22 | Botany | Hyperion (CA coast redwood) tallest tree ~380 ft; discovered 2006 |
-| May 22 | History | Iceland's Althing (930 AD) oldest continuously functioning legislature |
-| May 22 | Animals | Group of crocodiles = "float" (water) or "bask" (land); can stay submerged 1+ hour |
-| May 22 | Law/Food | Nix v. Hedden (1893) — tomato ruled a vegetable for US tariffs |
-| May 22 | Astronomy | Mercury (not Venus) is on average closest planet to Earth (mathematical curiosity) |
-| May 22 | Tech | First text message Dec 3, 1992 — "Merry Christmas" via Vodafone (Neil Papworth) |
-| May 22 | Animals | Bald eagle nests can weigh 2+ tons; largest ~2.7 tons in Florida |
-| May 22 | Animals | Wolverine = largest land mustelid (weasel family), not a bear |
-| May 22 | Etymology | "Banana republic" coined by O. Henry — Cabbages and Kings (1904) |
-| May 22 | Animals | Blue whale tongue weighs like an elephant; heart size of small car |
-| May 22 | Sports | Reds 26-24 .520 T-4th NL Central 4.5 GB Brewers (29-18); STL game today PPD rain; doubleheader Sat 5/23 |
-| May 22 | Sports | NBA: Knicks 2-0 over Cavs (G2 109-93 Thu); Spurs/Thunder 1-1, G3 Fri 8:30 ET |
-| May 22 | Sports | NHL Conf Finals: Vegas 1-0 Avs (G2 Fri); Hurricanes-Habs E G1 Thu (CAR 8-0 PO entering) |
-| May 22 | NASCAR | Kyle Busch dies at 41 May 21 — Coca-Cola 600 weekend |
-| May 22 | NFL | Rodgers reports to Steelers OTAs day one; first OTA pass to Michael Pittman Jr. |
-| May 22 | Box Office | Michael $26.1M #1 4th wknd; Prada 2 $17.8M; Obsession $17.1M open; Mandalorian & Grogu opens 5/22 ($12M previews, $80M 3-day proj) |
 
-| May 22 | May 22 (Great Chilean Earthquake 1960 — 9.5 strongest ever; Apollo 10 LM 8.4 nm from Moon 1969; Joplin EF5 tornado 2011 — 158 killed) | — |
-| May 22 | National Days: National Maritime Day; International Day for Biological Diversity (UN); National Road Trip Day; Bitcoin Pizza Day; National Vanilla Pudding Day; Harvey Milk Day; National Don't Fry Day | — |
 
-| May 22 | California Love | 2Pac feat. Dr. Dre & Roger Troutman | 1995 |
-| May 22 | November Rain | Guns N' Roses | 1991 |
-| May 22 | Killing In The Name | Rage Against the Machine | 1992 |
-| May 22 | No Diggity | Blackstreet feat. Dr. Dre & Queen Pen | 1996 |
-| May 22 | SexyBack | Justin Timberlake feat. Timbaland | 2006 |
-| May 22 | Welcome to the Black Parade | My Chemical Romance | 2006 |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 | May 25 | Capital of Serbia | Belgrade |
@@ -2532,6 +2418,12 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 13 | Dishwasher inventor | Josephine Cochrane, 1886 - wealthy hostess tired of servants chipping her china |
 | Aug 13 | Duct tape origin | 1943 - Vesta Stoudt's idea, manufactured by Johnson & Johnson to waterproof WWII ammo boxes; originally "duck tape" |
 | Aug 13 | Procter & Gamble founded | 1837, Cincinnati - William Procter (candlemaker) & James Gamble (soapmaker), brothers-in-law pushed together by their father-in-law |
+| Aug 17 | Coca-Cola invented | John Pemberton, Atlanta pharmacist, 1886; bookkeeper Frank Robinson named it and wrote the script logo |
+| Aug 17 | Post-it Notes origin | Spencer Silver's failed weak adhesive at 3M 1968; Art Fry used it for hymnal bookmarks; national launch 1980 |
+| Aug 17 | Ford Motor Company founded | 1903, Detroit — Henry Ford's third car company; Model T 1908 |
+| Aug 17 | Teflon inventor | Roy Plunkett, DuPont, 1938 — accident, gas cylinder polymerized to white powder |
+| Aug 17 | Amazon's original name | "Cadabra" — 1994, Bezos, Bellevue WA garage; changed after a lawyer misheard it as "cadaver" |
+| Aug 17 | Graeter's founded (Local) | 1870, Cincinnati — Louis Charles Greater, street cart; French pot process, 2 gallons at a time |
 
 ### General Trivia
 | Week | Category | Topic/Fact |
@@ -2563,6 +2455,7 @@ _Last updated: July 8, 2026 (v38)_
 | Week | Date Used | Events |
 |------|-----------|--------|
 | Aug 13 | August 13 (Berlin Wall - East Germany seals the border overnight across 27 miles 1961, 65th anniversary; Tenochtitlan falls to Cortes after 93-day siege 1521, 505 yrs, last emperor Cuauhtemoc; coin-operated pay telephone patented by William Gray of Hartford CT 1889; also Florence Nightingale dies 1910 and Opha May Johnson becomes first woman to enlist in US Marine Corps 1918) | - |
+| Aug 17 | August 17 (Robert Fulton's North River Steam Boat leaves NYC for Albany 1807; Woodstock's scheduled final day 1969 — Hendrix closed Monday morning Aug 18; Double Eagle II first transatlantic balloon flight lands near Paris 1978; first commercial compact disc pressed 1982 — ABBA's The Visitors)  |
 | Aug 13 | National Days: International Lefthanders Day; National Prosecco Day; National Filet Mignon Day; National Blame Someone Else Day; Central African Republic Independence Day (1960) | - |
 
 ### Sports / Current Events
@@ -2574,4 +2467,89 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 13 | Deaths | Reggie Bannister (80, Reggie in the Phantasm series, Aug 9, Crestline CA, Lewy body dementia/Parkinson's); Robby Albarado (52, jockey, 5,000+ wins, Curlin's regular rider, Saratoga Springs NY after heart surgery); Jon Cypher (94, Chief Fletcher Daniels on Hill Street Blues / Gen. Marcus Craig on Major Dad, Aug 3, Central Point OR); David Z (78, Grammy-winning producer/engineer, Purple Rain, Prince/Fine Young Cannibals/Etta James, Aug 2 Burbank CA). Carried over: Fiorenza Marchegiani (73, Aug 11). NOTE: search engine falsely reported Brenda Fricker as dying Aug 13, 2026 - she actually died in July 2026; do not reuse |
 | Aug 13 | Current Events | Karoline Leavitt stepping down as White House press secretary at end of August (Trump announced Aug 12 on Truth Social); at 28 the youngest ever in the role and first to give birth while serving (2nd child in May); staying on as outside adviser. Iran rejects Trump's claim the Strait of Hormuz is open/under US control - Persian Gulf Strait Authority says it remains blocked. Wisconsin governor's race set: David Crowley narrowly beat Francesca Hong for the Dem nod, faces Rep. Tom Tiffany in November. Putin issued an escalation warning aboard a missile warship during a naval exercise. China calls the India border "generally stable" amid Arunachal Pradesh tension; rejected India's renaming of 27 places |
 
-_Last updated: August 13, 2026 (v46)_
+
+---
+
+## August 17, 2026 (v47)
+
+### Capitals
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 17 | Ethiopia | Addis Ababa (also HQ of the African Union) |
+| Aug 17 | Vietnam | Hanoi (not Ho Chi Minh City) |
+| Aug 17 | Iceland | Reykjavík (northernmost capital of a sovereign state) |
+| Aug 17 | Fiji | Suva (on Viti Levu; people guess Nadi) |
+
+### Classic TV
+| Week | Show | Character | Actor |
+|------|------|-----------|-------|
+| Aug 17 | Columbo (1971–2003) | Lt. Columbo | Peter Falk |
+| Aug 17 | The Mary Tyler Moore Show (1970–77) | Lou Grant | Ed Asner |
+| Aug 17 | The Untouchables (1959–63) | Eliot Ness | Robert Stack |
+| Aug 17 | Sanford and Son (1972–77) | Fred Sanford | Redd Foxx |
+| Aug 17 | Miami Vice (1984–90) | Det. Sonny Crockett | Don Johnson |
+| Aug 17 | The Six Million Dollar Man (1974–78) | Steve Austin | Lee Majors |
+
+### Arts & Literature
+| Week | Topic / Question | Answer |
+|------|-----------------|--------|
+| Aug 17 | The Old Man and the Sea (1952) author | Ernest Hemingway (Pulitzer 1953, Nobel 1954) |
+| Aug 17 | "It was the best of times, it was the worst of times" opener | A Tale of Two Cities — Charles Dickens |
+| Aug 17 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai |
+| Aug 17 | "New World" Symphony No. 9 (1893) composer | Antonín Dvořák (written in New York) |
+| Aug 17 | "Do not go gentle into that good night" poet | Dylan Thomas (villanelle, for his dying father) |
+| Aug 17 | Beloved (1987) author | Toni Morrison (Pulitzer 1988; Nobel 1993) |
+
+### Founded & Invented
+| Week | Question | Answer |
+|------|----------|--------|
+| Aug 17 | Coca-Cola invented | John Pemberton, Atlanta pharmacist, 1886; bookkeeper Frank Robinson named it and wrote the script logo |
+| Aug 17 | Post-it Notes origin | Spencer Silver's too-weak adhesive at 3M 1968; Art Fry used it for hymnal bookmarks; national launch 1980 |
+| Aug 17 | Ford Motor Company founded | 1903, Detroit — Henry Ford's third attempt at a car company; Model T 1908 |
+| Aug 17 | Teflon inventor | Roy Plunkett, DuPont, 1938 — accident; a supposedly empty gas cylinder had polymerized to white powder |
+| Aug 17 | Amazon's original name | "Cadabra" — 1994, Bezos, Bellevue WA garage; changed after a lawyer misheard it as "cadaver" |
+| Aug 17 | Graeter's founded (Local) | 1870, Cincinnati — Louis Charles Greater, street cart; still French pot process, 2 gallons at a time |
+
+### General Trivia
+| Week | Category | Topic/Fact |
+|------|----------|-----------|
+| Aug 17 | History | Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid |
+| Aug 17 | Geography | Africa is the only continent in all four hemispheres |
+| Aug 17 | Science | Mpemba effect — hot water can freeze faster than cold under some conditions; named for a Tanzanian schoolboy, 1963 |
+| Aug 17 | Food | A pineapple plant takes about two years to produce a single fruit |
+| Aug 17 | Animals | A group of owls is a "parliament" |
+| Aug 17 | Space | Jupiter's Great Red Spot is shrinking — ~3 Earths wide a century ago, ~1 Earth now |
+| Aug 17 | Language | "Nerd" first appeared in print in Dr. Seuss's If I Ran the Zoo (1950) |
+| Aug 17 | Sports | Basketball's first hoops (1891) were peach baskets — someone climbed a ladder after every score |
+| Aug 17 | Pop Culture | Sean Connery wore a toupee in every James Bond film he made |
+| Aug 17 | Did You Know | Eiffel Tower had a 20-year permit and was slated for demolition; saved because it worked as a radio antenna |
+| Aug 17 | Body | A 2014 study estimated the human nose distinguishes ~1 trillion smells; the "10,000" figure came from a 1927 guess |
+| Aug 17 | Local (Cincinnati) | Music Hall was built over a Potter's Field / paupers' cemetery; remains uncovered again in the 2016–17 restoration |
+| Aug 17 | Reds bar-bet | First MLB night game: May 24, 1935, Crosley Field, Reds 2–1 Phillies; FDR threw the switch from the White House |
+
+### Songs
+| Week | Song | Artist | Year |
+|------|------|--------|------|
+| Aug 17 | Black Hole Sun | Soundgarden | 1994 |
+| Aug 17 | No Rain | Blind Melon | 1992 |
+| Aug 17 | Gangsta's Paradise | Coolio feat. L.V. | 1995 |
+| Aug 17 | Bitter Sweet Symphony | The Verve | 1997 |
+| Aug 17 | Clocks | Coldplay | 2002 |
+| Aug 17 | Seven Nation Army | The White Stripes | 2003 |
+
+### This Day in History
+| Week | Date Used | Events |
+|------|-----------|--------|
+| Aug 17 | August 17 (Robert Fulton's North River Steam Boat departs NYC for Albany 1807; Woodstock's scheduled final day 1969 — overran into Monday, Hendrix closed at ~9am Aug 18 to ~30,000 left; Double Eagle II completes first transatlantic balloon flight, lands near Paris 1978; first commercial compact disc pressed 1982 at a Philips plant in Germany — ABBA's The Visitors, 44th anniversary) | - |
+| Aug 17 | National Days: National Thrift Shop Day; Black Cat Appreciation Day; National Nonprofit Day; National Massachusetts Day; Balloon Airmail Day; National I Love My Feet Day; Indonesia Independence Day (1945); Gabon Independence Day (1960); Discovery Day (Yukon) | - |
+
+### Sports / Current Events
+| Week | Topic | Detail |
+|------|-------|--------|
+| Aug 17 | Reds | 59-64 (.480), 5th/last NL Central, 17.0 GB (Brewers 77-48); last 5 oldest→newest L-W-W-L-L (streak L2, 4-6 L10); won 1-0 over Miami Aug 14, then lost 8-4 and 7-1 to drop the homestand series; now behind Pittsburgh (61-65) for last place. TODAY: split doubleheader vs St. Louis at GABP — G1 1:40 PM ET (makeup of 5/24 PPD), G2 6:40 PM ET (Rhett Lowder). Source: MLB Stats API |
+| Aug 17 | Box Office | Spider-Man: Brand New Day #1 third straight weekend, $70.0M (-51%), $785.8M domestic in 17 days. NEW ANGLE USED: crossed $2B worldwide over the weekend — 8th film ever, new Sony record; and its $360M opening weekend broke Avengers: Endgame's all-time domestic opening record ($357M, held since 2019). Behind: The Odyssey $23.2M ($504.7M dom), The End of Oak Street $21.0M (new), PAW Patrol: The Dino Movie $20.5M (new). Weekend total $160.1M. Opening Aug 21-23: Mutiny (Jason Statham), Insidious: Out of the Further (Jacob Chase / Amelia Eve), The Magic Faraway Tree (Andrew Garfield, Claire Foy, Nicola Coughlan), Tony (Matt Johnson, Dominic Sessa as young Anthony Bourdain) |
+| Aug 17 | Sports | Tennis (LOCAL): Cincinnati Open running Aug 13-23 at Lindner Family Tennis Center, Mason OH — Sabalenka needed 6 match points to beat Talia Gibson 6-2 7-6(2); Ben Shelton upset by 79th-ranked Jaime Faria of Portugal 6-4 6-4 (Faria's first top-10 win); Rybakina d. Townsend, Andreeva d. Oliynykova 6-1 6-0, Swiatek (def champ) d. Arango 6-3 6-0, Gauff d. Samsonova 2-6 6-4 6-1, Auger-Aliassime d. Tsitsipas 6-3 7-5, Medvedev d. Trungelliti, Fritz d. Michelsen (smashed racquet). NFL (LOCAL): Bengals beat Lions 16-14 in preseason opener Aug 13 at Paycor; PS Wk2 Aug 20-23, Bengals at Eagles. Golf: Scottie Scheffler won the FedEx St. Jude Championship at -17, TPC Southwind; BMW Championship Aug 18-23 at Bellerive, top 50. MLB: Brewers 77-48 best record, took 3 of 4 at Dodger Stadium; Orioles swept Rays at the Trop to take the last AL WC spot (Rays best home record in the sport 41-21). WNBA: Lynx 92-87 over Aces Aug 15 (Olivia Miles 23/8, Napheesa Collier 19); Valkyries 24-9. NASCAR: Joey Logano won at Richmond Aug 15 (2nd of 2026); Kyle Larson won 4th Knoxville Nationals hours later. Soccer: Arsenal 3-0 Man City in the Community Shield Aug 16; PL opens Aug 21 (Arsenal v Coventry City); Barcelona agreed deal with Man City for Rodri; Ronaldo says "probably my last year"; Cameroon beat Malawi for first WAFCON title. Leagues Cup QFs Aug 25-26: Austin-Toluca, Leon-RSL, America-Columbus Crew, Chicago Fire-Monterrey |
+| Aug 17 | Deaths | Tommy John (83, LHP, 288 wins over 26 seasons, 4x All-Star, last pitch at 46; the 1974 Frank Jobe elbow reconstruction is named for him; died Sat Aug 15); Hayden Panettiere (36, Heroes / Nashville / Scream, found dead Aug 16 in Greenville SC, no signs of foul play, cause not released, memoir "This Is Me: A Reckoning" this year); Ruby Andrews (79, Chicago soul singer, "Casanova (Your Playing Days Are Over)", Aug 13); Prichard Colon (33, Puerto Rican boxer, brain injury from a 2015 bout, Aug 13); Christy Knowings (46, comedian, Nickelodeon's All That, Aug 11, severe asthma attack); Tyler Duckworth (44, MTV The Challenge: The Duel winner, announced Aug 13) |
+| Aug 17 | Current Events | Colombia earthquake (M7.4, Aug 10, San Jose del Palmar, most powerful this century) death toll now at least 288 with 200+ missing; Cali, Pereira, Quibdo, Manizales damaged. Historic Indiana flooding — 11+ inches of rain east of Indianapolis pushed the White River past its 1913 record, cresting ~24.9 ft at Noblesville, a foot over a 113-year mark; at least 7 deaths; Gov. Mike Braun state of emergency, National Guard, federal aid request. US and Iran missed their 60-day nuclear deadline; USS Washington heading to the Middle East to relieve the USS Lincoln. Kansas City Royals will play the 2027 Field of Dreams game in Dyersville IA vs the Red Sox |
+
+_Last updated: August 17, 2026 (v47)_
