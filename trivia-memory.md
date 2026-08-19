@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 19 | Mongolia | Ulaanbaatar (coldest national capital on Earth) |
+| Aug 19 | Morocco | Rabat (not Casablanca/Marrakesh) |
+| Aug 19 | New Zealand | Wellington (southernmost capital of a sovereign state) |
+| Aug 19 | Kazakhstan | Astana (Nur-Sultan 2019-2022) |
 
 
 | Jun 18 | Nevada | Carson City |
@@ -53,6 +57,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 19 | Green Acres (1965–71) | Oliver Wendell Douglas | Eddie Albert |
+| Aug 19 | The Fugitive (1963–67) | Dr. Richard Kimble | David Janssen |
+| Aug 19 | Barney Miller (1975–82) | Capt. Barney Miller | Hal Linden |
+| Aug 19 | Dallas (1978–91) | J.R. Ewing | Larry Hagman |
+| Aug 19 | Magnum, P.I. (1980–88) | Jonathan Higgins | John Hillerman |
+| Aug 19 | Quantum Leap (1989–93) | Adm. Al Calavicci | Dean Stockwell |
 
 
 
@@ -96,6 +106,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 19 | "It is a truth universally acknowledged…" opener | Pride and Prejudice (1813) — Jane Austen |
+| Aug 19 | The Persistence of Memory (1931) painter | Salvador Dalí |
+| Aug 19 | 1812 Overture composer | Pyotr Ilyich Tchaikovsky |
+| Aug 19 | The Grapes of Wrath (1939) author | John Steinbeck |
+| Aug 19 | "The Raven" (1845) poet | Edgar Allan Poe |
+| Aug 19 | "Happy families are all alike…" opener | Anna Karenina — Leo Tolstoy |
 
 
 
@@ -138,6 +154,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 19 | Science | Bananas are slightly radioactive (potassium-40); "banana equivalent dose" |
+| Aug 19 | Astronomy | Venus rotates backwards; its day (243 Earth days) is longer than its year (225) |
+| Aug 19 | Geography | Vatican City smallest country, ~0.19 sq mi |
+| Aug 19 | Language | "Set" has the most OED definitions (~430) |
+| Aug 19 | Animals | A group of porcupines is a "prickle" |
+| Aug 19 | Food | Worcestershire sauce contains fermented anchovies |
+| Aug 19 | History | Harvard founded 1636, ~30 yrs before calculus was invented |
+| Aug 19 | Sports | A smooth golf ball flies about half as far as a dimpled one |
+| Aug 19 | Pop Culture | Wilhelm Scream recorded 1951 for Distant Drums; used in 400+ films |
+| Aug 19 | Did You Know | Scotland's national animal is the unicorn |
+| Aug 19 | Biology | Humans share ~60% of DNA with bananas |
+| Aug 19 | Local (Cincinnati) | Cincinnati was "Porkopolis" — biggest US pork-packing center in the 1830s–40s |
+| Aug 19 | Reds bar-bet | 1869 Cincinnati Red Stockings — first openly all-salaried pro team; undefeated (~57–0–1) |
 
 
 
@@ -198,6 +227,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 19 | August 19 (USS Constitution beats HMS Guerrière 1812 → "Old Ironsides"; Gorbachev put under house arrest in Soviet coup 1991 — 35th anniv; Google IPO on Nasdaq at $85 in 2004; Syncom 3 first geostationary satellite 1964) |
 
 
 | Jun 18 | June 18 (Battle of Waterloo 1815; War of 1812 declared 1812; Sally Ride first American woman in space 1983) |
@@ -211,6 +241,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 19 | National Aviation Day (Orville Wright's birthday, set by FDR 1939); World Photography Day; World Humanitarian Day; International Orangutan Day; National Potato Day; National Soft Ice Cream Day; "Black Cow" Root Beer Float Day; National Hot & Spicy Food Day; Afghanistan Independence Day (1919) |
 
 
 ---
@@ -233,6 +264,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 19 | Microwave oven inventor | Percy Spencer (Raytheon, 1945) — chocolate bar melted near a magnetron |
+| Aug 19 | Riveted blue jeans patent | 1873 — Levi Strauss with tailor Jacob Davis of Reno |
+| Aug 19 | Nintendo founded / original product | 1889, Kyoto — hanafuda playing cards |
+| Aug 19 | Velcro inventor / inspiration | George de Mestral — burdock burrs on his dog, 1941; patented 1955 |
+| Aug 19 | Harley-Davidson founded | 1903, Milwaukee (William Harley + Davidson brothers) |
+| Aug 19 | Kroger founded (Local) | Barney Kroger, Cincinnati, 1883, with $372 of savings |
 
 
 | Jun 18 | Who invented dynamite (1867)? | Alfred Nobel |
@@ -267,6 +304,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 19 | Come As You Are | Nirvana | 1991 |
+| Aug 19 | Sabotage | Beastie Boys | 1994 |
+| Aug 19 | No Diggity | Blackstreet feat. Dr. Dre & Queen Pen | 1996 |
+| Aug 19 | Karma Police | Radiohead | 1997 |
+| Aug 19 | Last Nite | The Strokes | 2001 |
+| Aug 19 | Feel Good Inc. | Gorillaz feat. De La Soul | 2005 |
 
 ---
 
@@ -380,47 +423,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 25 | Capital of Serbia | Belgrade |
-| May 25 | Capital of Mozambique | Maputo |
-| May 25 | Capital of Kyrgyzstan | Bishkek |
-| May 25 | Capital of Oman | Muscat |
 
-| May 25 | Airwolf | Stringfellow Hawke | Jan-Michael Vincent |
-| May 25 | The Rifleman | Lucas McCain | Chuck Connors |
-| May 25 | Doogie Howser, M.D. | Doogie Howser | Neil Patrick Harris |
-| May 25 | Perfect Strangers | Balki Bartokomous | Bronson Pinchot |
-| May 25 | Scarecrow and Mrs. King | Lee Stetson | Bruce Boxleitner |
-| May 25 | McCloud | Marshal Sam McCloud | Dennis Weaver |
 
-| May 25 | Douglas Adams — "Answer to Life" from Hitchhiker's Guide | 42 |
-| May 25 | Only major female French Impressionist — mother/children paintings | Mary Cassatt |
-| May 25 | Paul Gauguin relocated to which island to paint | Tahiti (French Polynesia) |
-| May 25 | Middlemarch author / real name | George Eliot (Mary Ann Evans) |
-| May 25 | Roald Dahl children's novels | James and the Giant Peach / Charlie and the Chocolate Factory |
-| May 25 | "Water water everywhere" poem / poet | The Rime of the Ancient Mariner / Samuel Taylor Coleridge |
 
-| May 25 | Guinness Brewery founding year (9,000-yr lease) | 1759 |
-| May 25 | Marconi transatlantic radio signal destination province | Newfoundland (Signal Hill, St. John's) |
-| May 25 | X-rays named "X" because | Unknown nature of the radiation (X = unknown) |
-| May 25 | Red Bull inspired by drink from which country | Thailand (Krating Daeng) |
-| May 25 | Converse Chuck Taylors original sport | Basketball (1917) |
-| May 25 | ByteDance Chinese domestic version of TikTok | Douyin |
 
-| May 25 | Animals | Wombats only animals with cube-shaped droppings — prevents rolling off logs/rocks |
-| May 25 | Food/Culture | Fortune cookies invented in San Francisco (Japanese-American immigrants), not China |
-| May 25 | Astronomy | Earth has ~3 trillion trees — more than stars in the Milky Way (~100-400 billion) |
-| May 25 | Geography | Canary Islands named after dogs (Insula Canaria = Island of Dogs), not the bird |
-| May 25 | Science | Eiffel Tower grows ~6 inches (15 cm) taller in summer due to thermal expansion |
-| May 25 | Biology | Humans only mammals with true protruding chin bone |
-| May 25 | Records | Charles Osborne hiccuped for 68 years (1922-1990) — Guinness record |
-| May 25 | History | First US televised baseball game = Reds vs. Dodgers, August 26, 1939, NBC W2XBS |
-| May 25 | Animals | Flamingos naturally white/gray; pink color from carotenoids in their diet |
-| May 25 | Geography | Maine only US state with one-syllable name; borders only one other state (NH) |
-| May 25 | Math | 52! deck arrangements (~8×10^67) > atoms on Earth; every shuffle is likely unique |
-| May 25 | Weather | UK hottest May day in 79 years: 32.3°C at Kew Gardens, London (this week) |
 
-| May 25 | May 25 (Babe Ruth 714th/last HR at Forbes Field 1935; JFK moon challenge 1961; Star Wars release 1977 — 49th anniversary; AA Flt 191 O'Hare crash 1979 — 273 killed; Phoenix Mars lander touchdown 2008) | — |
-| May 25 | National Days: Memorial Day; National Wine Day; Geek Pride Day; Towel Day (Douglas Adams); National Tap Dance Day; African Liberation Day | — |
 
 
 | May 27 | Capital of Ecuador | Quito |
@@ -1864,7 +1871,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Jul 8 | Deaths | Beaky/John Dymond (81, of Dave Dee Dozy Beaky Mick & Tich, Jul 5); Lauren Bennett (36, "Party Rock Anthem" vocalist, Jul 6); Gordon S. Wood (92, Pulitzer historian, struck by car, Jul 7) |
 | Jul 8 | Current Events | US struck 80+ targets in Iran & reimposed oil sanctions after ship attacks in Strait of Hormuz (Iran vows "crushing response"); Hamas set to cede Gaza to technocratic body; NATO summit in Turkey, Trump praises Erdogan/F-35 talk; July forecast hottest US month |
 
-_Last updated: July 8, 2026 (v38)_
+## August 19, 2026 (v48)
+
+### Reds
+| Aug 19 | Record | 60–66, 5th NL Central, 18.0 GB (Brewers 78–48), .476, 7.5 back of last NL WC; L1 streak; 4–6 last 10; last 5 L,L,L,W,L. Split DH with STL Aug 17 (L 1–2, W 6–5), shut out 3–0 Aug 18. Today: Cardinals at Reds 6:40 PM ET. Source: MLB Stats API |
+
+### Box Office
+| Aug 19 | #1 | Spider-Man: Brand New Day — $70,711,990 weekend (-51%), $786.5M domestic in 17 days, past $2.02B worldwide (highest-grossing Spider-Man ever). Fun facts used: $47M opening Monday = biggest single Monday in history (beat Black Panther 2018); $1B in six days, 2nd-fastest ever; dir. Destin Daniel Cretton. Behind: The Odyssey $23.6M, The End of Oak Street $21.0M (new), PAW Patrol: The Dino Movie $20.3M (new). Weekend total $163.1M / 61 titles |
+| Aug 19 | Coming Aug 21–23 | Mutiny (Jason Statham); Insidious: Out of the Further (Lin Shaye, Brandon Perea); Spa Weekend (Palm Springs comedy); The Magic Faraway Tree (Garfield/Foy/Coughlan) |
+
+### Sports / Deaths / Current Events
+| Aug 19 | Sports | Tennis (LOCAL): Cincinnati Open Aug 13–23, Lindner Family Tennis Center, Mason — Mon R32: Zverev d. Atmane 7-6(4) 7-6(6); Rafael Jodar d. Tabilo 6-2 6-1 (3 games lost); Fils upset Lehecka; de Minaur, Cobolli, Mensik, Tommy Paul through; Fonseca withdrew injured; semis Aug 22, final Aug 23. NFL (LOCAL): Bengals host Chicago Bears preseason Wk2 Sat Aug 22, 7:00 PM ET at Paycor. MLB: Brewers 78-48 best record; Rays 75-49 lead AL; Dodgers 11-5 over Rockies Mon w/ 2 Ohtani HRs; AL Central four teams within 5.5. Golf: BMW Championship Aug 20-23 at Bellerive CC, St. Louis (top 50 → top 30). WNBA: Fever offense surging into playoffs (Clark/Mitchell); first-ever Fever trip to Toronto Tempo Aug 18. NASCAR: Joey Logano won Cook Out 400 at Richmond Aug 15 (2nd of 2026). Soccer: Premier League 2026-27 opens Fri Aug 21; Arsenal 3-0 Man City Community Shield Aug 16 |
+| Aug 19 | Deaths | O.J. Brigance (56, Ravens/Dolphins LB, first tackle of Super Bowl XXXV, only man to win both a Grey Cup and Super Bowl, ALS complications Aug 17); Laura Cardoso (98, Brazilian actress, ~7 decades, Aug 18); Fulvio Lucisano (98, Italian film producer, Aug 18); Mike Bailey (84, English footballer/manager — Charlton, Wolves, England — dementia complications Aug 17); Vedrana Rudan (76, Croatian journalist/novelist, Aug 18); Abdelaziz Guerda (79, Algerian actor/stage director, Aug 17) |
+| Aug 19 | Current Events | Meta child-safety trial opened Aug 18 in Oakland (state AGs allege Facebook/Instagram designed to addict minors). Florida primaries Aug 18 — Angie Nixon, democratic socialist, won the Democratic US Senate primary. US–Iran 60-day MOU expired with no deal; White House won't extend. Oman oil spill now spread across 2,000+ sq km and fouling beaches. Tropical Storm Lala damaged homes on Hawaii's Big Island; flooding across Midwest/Appalachia, heat alerts in the South. Border-wall construction in Big Bend National Park paused pending on-the-ground review |
+
+
+_Last updated: August 19, 2026 (v48)_
 
 ## July 9, 2026 (v39)
 
@@ -2552,4 +2574,19 @@ _Last updated: July 8, 2026 (v38)_
 | Aug 17 | Deaths | Tommy John (83, LHP, 288 wins over 26 seasons, 4x All-Star, last pitch at 46; the 1974 Frank Jobe elbow reconstruction is named for him; died Sat Aug 15); Hayden Panettiere (36, Heroes / Nashville / Scream, found dead Aug 16 in Greenville SC, no signs of foul play, cause not released, memoir "This Is Me: A Reckoning" this year); Ruby Andrews (79, Chicago soul singer, "Casanova (Your Playing Days Are Over)", Aug 13); Prichard Colon (33, Puerto Rican boxer, brain injury from a 2015 bout, Aug 13); Christy Knowings (46, comedian, Nickelodeon's All That, Aug 11, severe asthma attack); Tyler Duckworth (44, MTV The Challenge: The Duel winner, announced Aug 13) |
 | Aug 17 | Current Events | Colombia earthquake (M7.4, Aug 10, San Jose del Palmar, most powerful this century) death toll now at least 288 with 200+ missing; Cali, Pereira, Quibdo, Manizales damaged. Historic Indiana flooding — 11+ inches of rain east of Indianapolis pushed the White River past its 1913 record, cresting ~24.9 ft at Noblesville, a foot over a 113-year mark; at least 7 deaths; Gov. Mike Braun state of emergency, National Guard, federal aid request. US and Iran missed their 60-day nuclear deadline; USS Washington heading to the Middle East to relieve the USS Lincoln. Kansas City Royals will play the 2027 Field of Dreams game in Dyersville IA vs the Red Sox |
 
-_Last updated: August 17, 2026 (v47)_
+## August 19, 2026 (v48)
+
+### Reds
+| Aug 19 | Record | 60–66, 5th NL Central, 18.0 GB (Brewers 78–48), .476, 7.5 back of last NL WC; L1 streak; 4–6 last 10; last 5 L,L,L,W,L. Split DH with STL Aug 17 (L 1–2, W 6–5), shut out 3–0 Aug 18. Today: Cardinals at Reds 6:40 PM ET. Source: MLB Stats API |
+
+### Box Office
+| Aug 19 | #1 | Spider-Man: Brand New Day — $70,711,990 weekend (-51%), $786.5M domestic in 17 days, past $2.02B worldwide (highest-grossing Spider-Man ever). Fun facts used: $47M opening Monday = biggest single Monday in history (beat Black Panther 2018); $1B in six days, 2nd-fastest ever; dir. Destin Daniel Cretton. Behind: The Odyssey $23.6M, The End of Oak Street $21.0M (new), PAW Patrol: The Dino Movie $20.3M (new). Weekend total $163.1M / 61 titles |
+| Aug 19 | Coming Aug 21–23 | Mutiny (Jason Statham); Insidious: Out of the Further (Lin Shaye, Brandon Perea); Spa Weekend (Palm Springs comedy); The Magic Faraway Tree (Garfield/Foy/Coughlan) |
+
+### Sports / Deaths / Current Events
+| Aug 19 | Sports | Tennis (LOCAL): Cincinnati Open Aug 13–23, Lindner Family Tennis Center, Mason — Mon R32: Zverev d. Atmane 7-6(4) 7-6(6); Rafael Jodar d. Tabilo 6-2 6-1 (3 games lost); Fils upset Lehecka; de Minaur, Cobolli, Mensik, Tommy Paul through; Fonseca withdrew injured; semis Aug 22, final Aug 23. NFL (LOCAL): Bengals host Chicago Bears preseason Wk2 Sat Aug 22, 7:00 PM ET at Paycor. MLB: Brewers 78-48 best record; Rays 75-49 lead AL; Dodgers 11-5 over Rockies Mon w/ 2 Ohtani HRs; AL Central four teams within 5.5. Golf: BMW Championship Aug 20-23 at Bellerive CC, St. Louis (top 50 → top 30). WNBA: Fever offense surging into playoffs (Clark/Mitchell); first-ever Fever trip to Toronto Tempo Aug 18. NASCAR: Joey Logano won Cook Out 400 at Richmond Aug 15 (2nd of 2026). Soccer: Premier League 2026-27 opens Fri Aug 21; Arsenal 3-0 Man City Community Shield Aug 16 |
+| Aug 19 | Deaths | O.J. Brigance (56, Ravens/Dolphins LB, first tackle of Super Bowl XXXV, only man to win both a Grey Cup and Super Bowl, ALS complications Aug 17); Laura Cardoso (98, Brazilian actress, ~7 decades, Aug 18); Fulvio Lucisano (98, Italian film producer, Aug 18); Mike Bailey (84, English footballer/manager — Charlton, Wolves, England — dementia complications Aug 17); Vedrana Rudan (76, Croatian journalist/novelist, Aug 18); Abdelaziz Guerda (79, Algerian actor/stage director, Aug 17) |
+| Aug 19 | Current Events | Meta child-safety trial opened Aug 18 in Oakland (state AGs allege Facebook/Instagram designed to addict minors). Florida primaries Aug 18 — Angie Nixon, democratic socialist, won the Democratic US Senate primary. US–Iran 60-day MOU expired with no deal; White House won't extend. Oman oil spill now spread across 2,000+ sq km and fouling beaches. Tropical Storm Lala damaged homes on Hawaii's Big Island; flooding across Midwest/Appalachia, heat alerts in the South. Border-wall construction in Big Bend National Park paused pending on-the-ground review |
+
+
+_Last updated: August 19, 2026 (v48)_
