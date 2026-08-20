@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 20 | Myanmar | Naypyidaw (purpose-built, capital moved from Yangon 2005) |
+| Aug 20 | Bolivia | Sucre (constitutional capital; La Paz is seat of government) |
+| Aug 20 | Ghana | Accra |
+| Aug 20 | Nepal | Kathmandu |
 | Aug 19 | Mongolia | Ulaanbaatar (coldest national capital on Earth) |
 | Aug 19 | Morocco | Rabat (not Casablanca/Marrakesh) |
 | Aug 19 | New Zealand | Wellington (southernmost capital of a sovereign state) |
@@ -57,6 +61,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 20 | Bonanza (1959–73) | Ben Cartwright | Lorne Greene |
+| Aug 20 | Get Smart (1965–70) | Maxwell Smart / Agent 86 | Don Adams |
+| Aug 20 | WKRP in Cincinnati (1978–82) | Dr. Johnny Fever | Howard Hesseman |
+| Aug 20 | Hogan's Heroes (1965–71) | Col. Wilhelm Klink | Werner Klemperer |
+| Aug 20 | Hill Street Blues (1981–87) | Capt. Frank Furillo | Daniel J. Travanti |
+| Aug 20 | Twin Peaks (1990–91) | Special Agent Dale Cooper | Kyle MacLachlan |
 | Aug 19 | Green Acres (1965–71) | Oliver Wendell Douglas | Eddie Albert |
 | Aug 19 | The Fugitive (1963–67) | Dr. Richard Kimble | David Janssen |
 | Aug 19 | Barney Miller (1975–82) | Capt. Barney Miller | Hal Linden |
@@ -106,6 +116,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 20 | Wuthering Heights (1847) author | Emily Brontë (pen name Ellis Bell) |
+| Aug 20 | The Starry Night (1889) painter | Vincent van Gogh |
+| Aug 20 | "Ride of the Valkyries" / Ring cycle composer | Richard Wagner (Die Walküre) |
+| Aug 20 | Invisible Man (1952) author | Ralph Ellison |
+| Aug 20 | "The Road Not Taken" poet | Robert Frost |
+| Aug 20 | One Hundred Years of Solitude (1967) author | Gabriel García Márquez (Macondo) |
 | Aug 19 | "It is a truth universally acknowledged…" opener | Pride and Prejudice (1813) — Jane Austen |
 | Aug 19 | The Persistence of Memory (1931) painter | Salvador Dalí |
 | Aug 19 | 1812 Overture composer | Pyotr Ilyich Tchaikovsky |
@@ -154,6 +170,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 20 | Science | Sharks (~400M yrs) are older than trees (~350M yrs) |
+| Aug 20 | Space | More trees on Earth (~3 trillion) than stars in the Milky Way (~100–400 billion) |
+| Aug 20 | Geography | Maine is the only US state with a one-syllable name |
+| Aug 20 | Language | "Bookkeeper" — only common English word with three consecutive double letters |
+| Aug 20 | Animals | A group of ferrets is a "business" |
+| Aug 20 | Food | Fortune cookies were invented in California, not China |
+| Aug 20 | History | Shortest war on record: Anglo-Zanzibar War 1896, ~38 minutes |
+| Aug 20 | Body | Fingernails grow ~4× faster than toenails |
+| Aug 20 | Sports | Olympics awarded medals for art competitions 1912–1948 |
+| Aug 20 | Pop Culture | James Earl Jones uncredited as Darth Vader's voice in first two Star Wars films |
+| Aug 20 | Local (Cincinnati) | WLW ran 500,000 watts 1934–39 — most powerful US station ever licensed |
+| Aug 20 | Local (Cincinnati) | Roebling Suspension Bridge (1866) world's longest at opening; Roebling then designed the Brooklyn Bridge |
+| Aug 20 | Reds bar-bet | Johnny Vander Meer — only back-to-back no-hitters in MLB history (June 11 & 15, 1938) |
 | Aug 19 | Science | Bananas are slightly radioactive (potassium-40); "banana equivalent dose" |
 | Aug 19 | Astronomy | Venus rotates backwards; its day (243 Earth days) is longer than its year (225) |
 | Aug 19 | Geography | Vatican City smallest country, ~0.19 sq mi |
@@ -227,6 +256,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 20 | August 20 (8MK Detroit first commercial radio broadcast 1920 → WWJ; NFL organizing meeting in Canton OH with Jim Thorpe 1920; Viking 1 launched 1975; Prague Spring crushed by Soviet invasion 1968; Lou Gehrig's record 23rd career grand slam 1938; Darwin's natural selection first in print, Linnean Society 1858) |
 | Aug 19 | August 19 (USS Constitution beats HMS Guerrière 1812 → "Old Ironsides"; Gorbachev put under house arrest in Soviet coup 1991 — 35th anniv; Google IPO on Nasdaq at $85 in 2004; Syncom 3 first geostationary satellite 1964) |
 
 
@@ -241,6 +271,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 20 | National Radio Day; National Hazy IPA Day (third Thursday in August); National Bacon Lovers Day; National Chocolate Pecan Pie Day; National Accessible Air Travel Day; World Mosquito Day; International Day of Medical Transporters |
 | Aug 19 | National Aviation Day (Orville Wright's birthday, set by FDR 1939); World Photography Day; World Humanitarian Day; International Orangutan Day; National Potato Day; National Soft Ice Cream Day; "Black Cow" Root Beer Float Day; National Hot & Spicy Food Day; Afghanistan Independence Day (1919) |
 
 
@@ -264,6 +295,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 20 | Bubble wrap original purpose | Textured wallpaper — Fielding & Chavannes, 1957 (two sealed shower curtains) |
+| Aug 20 | Play-Doh original purpose (Local) | Wallpaper cleaner — Kutol Products, Cincinnati; repurposed as a toy mid-1950s |
+| Aug 20 | Coca-Cola inventor / year | John Pemberton, Atlanta pharmacist, 1886 (name & logo by bookkeeper Frank Robinson) |
+| Aug 20 | Microsoft founded where/when | Albuquerque, New Mexico, 1975 (near MITS/Altair 8800) |
+| Aug 20 | Three-point seat belt | Nils Bohlin, Volvo, 1959 — Volvo released the patent for free |
+| Aug 20 | First Jacuzzi whirlpool pump | Candido Jacuzzi, 1956, for his son's rheumatoid arthritis |
 | Aug 19 | Microwave oven inventor | Percy Spencer (Raytheon, 1945) — chocolate bar melted near a magnetron |
 | Aug 19 | Riveted blue jeans patent | 1873 — Levi Strauss with tailor Jacob Davis of Reno |
 | Aug 19 | Nintendo founded / original product | 1889, Kyoto — hanafuda playing cards |
@@ -304,6 +341,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 20 | Linger | The Cranberries | 1993 |
+| Aug 20 | Gin and Juice | Snoop Doggy Dogg | 1993 |
+| Aug 20 | One Week | Barenaked Ladies | 1998 |
+| Aug 20 | Last Resort | Papa Roach | 2000 |
+| Aug 20 | Maps | Yeah Yeah Yeahs | 2003 |
+| Aug 20 | Paper Planes | M.I.A. | 2007 |
 | Aug 19 | Come As You Are | Nirvana | 1991 |
 | Aug 19 | Sabotage | Beastie Boys | 1994 |
 | Aug 19 | No Diggity | Blackstreet feat. Dr. Dre & Queen Pen | 1996 |
@@ -1886,7 +1929,24 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 19 | Current Events | Meta child-safety trial opened Aug 18 in Oakland (state AGs allege Facebook/Instagram designed to addict minors). Florida primaries Aug 18 — Angie Nixon, democratic socialist, won the Democratic US Senate primary. US–Iran 60-day MOU expired with no deal; White House won't extend. Oman oil spill now spread across 2,000+ sq km and fouling beaches. Tropical Storm Lala damaged homes on Hawaii's Big Island; flooding across Midwest/Appalachia, heat alerts in the South. Border-wall construction in Big Bend National Park paused pending on-the-ground review |
 
 
-_Last updated: August 19, 2026 (v48)_
+---
+
+## August 20, 2026 (v49)
+
+### Reds
+| Aug 20 | Record | 61–66, 5th NL Central, 17.0 GB (Brewers 78–49), .480, 6.5 back of last NL WC; W1 streak; 5–5 last 10; last 5 (old→new) L,L,W,L,W. Beat STL 5–4 Aug 19 after being shut out 3–0 Aug 18. Today: Cardinals at Reds 12:40 PM ET day game, series finale, then @ ARI. Source: MLB Stats API |
+
+### Box Office
+| Aug 20 | #1 | Spider-Man: Brand New Day — $70,711,990 weekend (Aug 14 wknd still current), $786.5M domestic in 17 days, past $2.02B WW. Fun fact used THIS run: Glasgow doubled for NYC; three full city blocks built at Pinewood. (Aug 19 used the Monday record / $1B in six days / Cretton facts — do not reuse.) Behind: The Odyssey $23.6M, End of Oak Street $21.0M, PAW Patrol: Dino Movie $20.3M, Katseye: Wild Hearts $4.0M. Weekend total $163.1M / 63 titles |
+| Aug 20 | Coming Aug 21–23 | Mutiny (Statham, cargo ship revenge); Insidious: Out of the Further (Amelia Eve travels into The Further); Spa Weekend (Palm Springs comedy); The Magic Faraway Tree (Garfield/Foy/Coughlan) |
+
+### Sports / Deaths / Current Events
+| Aug 20 | Sports | Tennis (LOCAL): Cincinnati Open — top seeds OUT. Sara Bejlek (No. 35) d. world No. 1 Sabalenka 7-6(9-7) 6-4 (first top-10 win); Tommy Paul saved MP and d. top seed Zverev 4-6 7-6(8-6) 6-4; Gauff through 6-3 6-2 over Bouzkova; Alcaraz withdrew (wrist). QFs Aug 20–21, final Aug 23. MLB: Brewers 22–0 over Mariners Aug 18 — tied franchise record for runs, tied modern MLB record for largest shutout margin (Yelich, Hamilton, Bauers, Lara HRs). Golf: BMW Championship Aug 20–23 Bellerive CC St. Louis, $20M purse, no cut, 50 players, top 30 advance; Scheffler leads FedExCup, McIlroy in field; par 70 / 7,448 yds. NFL (LOCAL): Bengals 16–14 over Lions in preseason opener; host Bears Sat Aug 22 7 PM ET; traded No. 10 pick to NYG for DT Dexter Lawrence, signed edge Boye Mafe. WNBA: Lynx first to clinch; FIBA World Cup break early Sept, resume Sept 17, playoffs tip Sept 27. Soccer: Premier League 2026-27 opens Fri Aug 21; Arsenal 3-0 Man City in Community Shield Aug 16 |
+| Aug 20 | Deaths | Frank Beard (77, ZZ Top drummer — the one WITHOUT a beard, Aug 18); Hayden Panettiere (36, Claire Bennet on Heroes / Juliette Barnes on Nashville, Aug 16); Tommy John (83, 288-win pitcher, namesake of the elbow surgery Dr. Frank Jobe pioneered on him in 1974, Aug 15); Nikki Ross (52, singer, Aug 14); Prichard Colón (33, Puerto Rican boxer, 2015 brain injury, Aug 13); Christy Knowings (46, Nickelodeon All That, asthma attack, Aug 11); Ben "Cooter" Jones (84, Dukes of Hazzard + two terms in Congress from Georgia, Aug 9); O.J. Brigance (56, only man to win a Grey Cup and a Super Bowl, ALS, Aug 17) |
+| Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
+
+
+_Last updated: August 20, 2026 (v49)_
 
 ## July 9, 2026 (v39)
 
@@ -2589,4 +2649,21 @@ _Last updated: August 19, 2026 (v48)_
 | Aug 19 | Current Events | Meta child-safety trial opened Aug 18 in Oakland (state AGs allege Facebook/Instagram designed to addict minors). Florida primaries Aug 18 — Angie Nixon, democratic socialist, won the Democratic US Senate primary. US–Iran 60-day MOU expired with no deal; White House won't extend. Oman oil spill now spread across 2,000+ sq km and fouling beaches. Tropical Storm Lala damaged homes on Hawaii's Big Island; flooding across Midwest/Appalachia, heat alerts in the South. Border-wall construction in Big Bend National Park paused pending on-the-ground review |
 
 
-_Last updated: August 19, 2026 (v48)_
+---
+
+## August 20, 2026 (v49)
+
+### Reds
+| Aug 20 | Record | 61–66, 5th NL Central, 17.0 GB (Brewers 78–49), .480, 6.5 back of last NL WC; W1 streak; 5–5 last 10; last 5 (old→new) L,L,W,L,W. Beat STL 5–4 Aug 19 after being shut out 3–0 Aug 18. Today: Cardinals at Reds 12:40 PM ET day game, series finale, then @ ARI. Source: MLB Stats API |
+
+### Box Office
+| Aug 20 | #1 | Spider-Man: Brand New Day — $70,711,990 weekend (Aug 14 wknd still current), $786.5M domestic in 17 days, past $2.02B WW. Fun fact used THIS run: Glasgow doubled for NYC; three full city blocks built at Pinewood. (Aug 19 used the Monday record / $1B in six days / Cretton facts — do not reuse.) Behind: The Odyssey $23.6M, End of Oak Street $21.0M, PAW Patrol: Dino Movie $20.3M, Katseye: Wild Hearts $4.0M. Weekend total $163.1M / 63 titles |
+| Aug 20 | Coming Aug 21–23 | Mutiny (Statham, cargo ship revenge); Insidious: Out of the Further (Amelia Eve travels into The Further); Spa Weekend (Palm Springs comedy); The Magic Faraway Tree (Garfield/Foy/Coughlan) |
+
+### Sports / Deaths / Current Events
+| Aug 20 | Sports | Tennis (LOCAL): Cincinnati Open — top seeds OUT. Sara Bejlek (No. 35) d. world No. 1 Sabalenka 7-6(9-7) 6-4 (first top-10 win); Tommy Paul saved MP and d. top seed Zverev 4-6 7-6(8-6) 6-4; Gauff through 6-3 6-2 over Bouzkova; Alcaraz withdrew (wrist). QFs Aug 20–21, final Aug 23. MLB: Brewers 22–0 over Mariners Aug 18 — tied franchise record for runs, tied modern MLB record for largest shutout margin (Yelich, Hamilton, Bauers, Lara HRs). Golf: BMW Championship Aug 20–23 Bellerive CC St. Louis, $20M purse, no cut, 50 players, top 30 advance; Scheffler leads FedExCup, McIlroy in field; par 70 / 7,448 yds. NFL (LOCAL): Bengals 16–14 over Lions in preseason opener; host Bears Sat Aug 22 7 PM ET; traded No. 10 pick to NYG for DT Dexter Lawrence, signed edge Boye Mafe. WNBA: Lynx first to clinch; FIBA World Cup break early Sept, resume Sept 17, playoffs tip Sept 27. Soccer: Premier League 2026-27 opens Fri Aug 21; Arsenal 3-0 Man City in Community Shield Aug 16 |
+| Aug 20 | Deaths | Frank Beard (77, ZZ Top drummer — the one WITHOUT a beard, Aug 18); Hayden Panettiere (36, Claire Bennet on Heroes / Juliette Barnes on Nashville, Aug 16); Tommy John (83, 288-win pitcher, namesake of the elbow surgery Dr. Frank Jobe pioneered on him in 1974, Aug 15); Nikki Ross (52, singer, Aug 14); Prichard Colón (33, Puerto Rican boxer, 2015 brain injury, Aug 13); Christy Knowings (46, Nickelodeon All That, asthma attack, Aug 11); Ben "Cooter" Jones (84, Dukes of Hazzard + two terms in Congress from Georgia, Aug 9); O.J. Brigance (56, only man to win a Grey Cup and a Super Bowl, ALS, Aug 17) |
+| Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
+
+
+_Last updated: August 20, 2026 (v49)_
