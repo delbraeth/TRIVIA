@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 24 | Cambodia | Phnom Penh (confluence of Mekong, Tonlé Sap, Bassac) |
+| Aug 24 | Estonia | Tallinn (medieval Old Town, UNESCO site) |
+| Aug 24 | Botswana | Gaborone (purpose-built for 1966 independence) |
+| Aug 24 | Peru | Lima (founded 1535 by Pizarro, "City of the Kings") |
 | Aug 20 | Myanmar | Naypyidaw (purpose-built, capital moved from Yangon 2005) |
 | Aug 20 | Bolivia | Sucre (constitutional capital; La Paz is seat of government) |
 | Aug 20 | Ghana | Accra |
@@ -61,6 +65,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 24 | Star Trek (1966–69) | Mr. Spock | Leonard Nimoy |
+| Aug 24 | F Troop (1965–67) | Sgt. Morgan O'Rourke | Forrest Tucker |
+| Aug 24 | The Jeffersons (1975–85) | George Jefferson | Sherman Hemsley |
+| Aug 24 | Knots Landing (1979–93) | Karen Fairgate MacKenzie | Michele Lee |
+| Aug 24 | Murder, She Wrote (1984–96) | Jessica Fletcher | Angela Lansbury |
+| Aug 24 | Married... with Children (1987–97) | Al Bundy | Ed O'Neill |
 | Aug 20 | Bonanza (1959–73) | Ben Cartwright | Lorne Greene |
 | Aug 20 | Get Smart (1965–70) | Maxwell Smart / Agent 86 | Don Adams |
 | Aug 20 | WKRP in Cincinnati (1978–82) | Dr. Johnny Fever | Howard Hesseman |
@@ -116,6 +126,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 24 | "In a hole in the ground there lived a hobbit" | The Hobbit — J.R.R. Tolkien (1937) |
+| Aug 24 | The Birth of Venus (painting) | Sandro Botticelli, c. 1485, Uffizi |
+| Aug 24 | "The Blue Danube" waltz | Johann Strauss II (1866) |
+| Aug 24 | The Son of Man (bowler hat, green apple) | René Magritte |
+| Aug 24 | Their Eyes Were Watching God (1937) | Zora Neale Hurston |
+| Aug 24 | Fathers and Sons (1862), popularized "nihilist" | Ivan Turgenev |
 | Aug 20 | Wuthering Heights (1847) author | Emily Brontë (pen name Ellis Bell) |
 | Aug 20 | The Starry Night (1889) painter | Vincent van Gogh |
 | Aug 20 | "Ride of the Valkyries" / Ring cycle composer | Richard Wagner (Die Walküre) |
@@ -170,6 +186,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 24 | Animals | Group of pandas = "embarrassment"; otters romp/raft |
+| Aug 24 | Science | Venus flytrap counts — needs 2 trigger touches in ~20 sec |
+| Aug 24 | History | Krakatoa 1883 loudest recorded sound, heard 3,000 mi away |
+| Aug 24 | Nature | Methuselah bristlecone pine ~4,800 years old |
+| Aug 24 | Language | "Robot" from Czech robota, Čapek's R.U.R. (1920) |
+| Aug 24 | Everyday | Shoelace tip = aglet |
+| Aug 24 | Weather | Largest snowflake on record 15" — Fort Keogh, MT, 1887 |
+| Aug 24 | Geography | Mount Everest grows ~4 mm/year |
+| Aug 24 | Food | Cheese is the most stolen food in the world (~4%) |
+| Aug 24 | Sports | Olympic ring colors chosen to cover every 1913 national flag |
+| Aug 24 | Pop Culture | Lightsaber hum = projector motor + TV interference (Ben Burtt) |
+| Aug 24 | Local | Cincinnati has 400+ public outdoor staircases |
+| Aug 24 | Reds bar-bet | Frank Robinson only player to win MVP in both leagues (1961 NL / 1966 AL) |
 | Aug 20 | Science | Sharks (~400M yrs) are older than trees (~350M yrs) |
 | Aug 20 | Space | More trees on Earth (~3 trillion) than stars in the Milky Way (~100–400 billion) |
 | Aug 20 | Geography | Maine is the only US state with a one-syllable name |
@@ -256,6 +285,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 24 | August 24 (Vesuvius AD 79; British burn Washington 1814; Windows 95 1995; Pluto demoted 2006) |
 | Aug 20 | August 20 (8MK Detroit first commercial radio broadcast 1920 → WWJ; NFL organizing meeting in Canton OH with Jim Thorpe 1920; Viking 1 launched 1975; Prague Spring crushed by Soviet invasion 1968; Lou Gehrig's record 23rd career grand slam 1938; Darwin's natural selection first in print, Linnean Society 1858) |
 | Aug 19 | August 19 (USS Constitution beats HMS Guerrière 1812 → "Old Ironsides"; Gorbachev put under house arrest in Soviet coup 1991 — 35th anniv; Google IPO on Nasdaq at $85 in 2004; Syncom 3 first geostationary satellite 1964) |
 
@@ -271,6 +301,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 24 | National Waffle Day; National Peach Pie Day; National Knife Day; International Strange Music Day; Kobe Bryant Day |
 | Aug 20 | National Radio Day; National Hazy IPA Day (third Thursday in August); National Bacon Lovers Day; National Chocolate Pecan Pie Day; National Accessible Air Travel Day; World Mosquito Day; International Day of Medical Transporters |
 | Aug 19 | National Aviation Day (Orville Wright's birthday, set by FDR 1939); World Photography Day; World Humanitarian Day; International Orangutan Day; National Potato Day; National Soft Ice Cream Day; "Black Cow" Root Beer Float Day; National Hot & Spicy Food Day; Afghanistan Independence Day (1919) |
 
@@ -295,6 +326,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 24 | Google founded | 1998, Larry Page & Sergey Brin, Menlo Park garage (orig. "BackRub") |
+| Aug 24 | Rubik's Cube | Ernő Rubik, 1974 |
+| Aug 24 | Dr Pepper | 1885, Waco TX — oldest major US soft drink |
+| Aug 24 | Hershey Chocolate Company | Milton Hershey, 1894 |
+| Aug 24 | FedEx | Fred Smith, 1971 |
+| Aug 24 | Etch A Sketch | André Cassagnes; Ohio Art, 1960 |
 | Aug 20 | Bubble wrap original purpose | Textured wallpaper — Fielding & Chavannes, 1957 (two sealed shower curtains) |
 | Aug 20 | Play-Doh original purpose (Local) | Wallpaper cleaner — Kutol Products, Cincinnati; repurposed as a toy mid-1950s |
 | Aug 20 | Coca-Cola inventor / year | John Pemberton, Atlanta pharmacist, 1886 (name & logo by bookkeeper Frank Robinson) |
@@ -341,6 +378,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 24 | Just a Girl | No Doubt | 1995 |
+| Aug 24 | Cumbersome | Seven Mary Three | 1995 |
+| Aug 24 | Killing Me Softly With His Song | Fugees | 1996 |
+| Aug 24 | Otherside | Red Hot Chili Peppers | 1999 |
+| Aug 24 | Ms. Jackson | OutKast | 2000 |
+| Aug 24 | Bad Romance | Lady Gaga | 2009 |
 | Aug 20 | Linger | The Cranberries | 1993 |
 | Aug 20 | Gin and Juice | Snoop Doggy Dogg | 1993 |
 | Aug 20 | One Week | Barenaked Ladies | 1998 |
@@ -473,116 +516,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| May 27 | Capital of Ecuador | Quito |
-| May 27 | Capital of Slovakia | Bratislava |
-| May 27 | Capital of Tajikistan | Dushanbe |
-| May 27 | Capital of Belize | Belmopan |
-
-| May 27 | Spenser: For Hire | Spenser | Robert Urich |
-| May 27 | Gimme a Break! | Nell Harper | Nell Carter |
-| May 27 | The White Shadow | Ken Reeves | Ken Howard |
-| May 27 | Medical Center | Dr. Joe Gannon | Chad Everett |
-| May 27 | Alias Smith and Jones | Hannibal Heyes / Kid Curry | Pete Duel / Ben Murphy |
-| May 27 | Mr. Belvedere | George Belvedere | Christopher Hewett |
-
-| May 27 | Thomas Hardy — Dorset county fictional name | Wessex |
-| May 27 | Hermann Hesse — 1946 Nobel Prize novel | The Glass Bead Game (Magister Ludi) |
-| May 27 | Aleksandr Solzhenitsyn Nobel Prize year | 1970 |
-| May 27 | Jean Sibelius — Finnish anthem connection | Finlandia (1899) |
-| May 27 | George Bernard Shaw — refused which honor in 1925 | Nobel Prize (accepted only Nobel Medal) |
-| May 27 | Kazuo Ishiguro — 2017 Nobel Prize; key novel | The Remains of the Day |
-
-| May 27 | Home Depot | 1978 (Atlanta founders: Blank, Marcus, Langone) |
-| May 27 | Blockbuster | 1985 (Dallas, David Cook) |
-| May 27 | Cotton candy machine | 1897 (William Morrison & John Wharton) |
-| May 27 | TikTok | 2016 (ByteDance, Zhang Yiming) |
-| May 27 | Zoom | 2011 (Eric Yuan; launched 2013) |
-| May 27 | Leatherman multi-tool | 1983 (Tim Leatherman) |
-
-| May 27 | History | William Henry Harrison shortest presidency — died pneumonia 31 days (1841) |
-| May 27 | History | US 50-star flag designed by 17-yr-old Robert Heft as school project (got B-, then A after Congress adopted it) |
-| May 27 | Animals | Group of peacocks called a muster (males) or bevy (females) |
-| May 27 | Astronomy | Jupiter's Great Red Spot is a storm that has lasted 350+ years |
-| May 27 | Science | Tardigrades (water bears) survive in space, extreme heat/cold, radiation |
-| May 27 | Food | Nutella invented in WWII — cocoa scarce, hazelnuts used to stretch supply |
-| May 27 | Geography | Welsh village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch — 58 letters, longest place name in Europe |
-| May 27 | History | Typewriter (1868) invented before telephone (1876) |
-| May 27 | Geography | Norway's coastline (58,000 mi) longer than equator (24,901 mi) |
-| May 27 | History | Green Sahara existed 5,000-11,000 years ago; hippos and crocs in current desert regions |
-| May 27 | Science | Human brain uses ~20 watts of power — enough to power a dim light bulb |
-
-| May 27 | Sports | NBA Finals: Knicks vs. Pacers (East) — Knicks first Finals since 1999; Thunder beat Spurs for West |
-| May 27 | Sports | NHL: Conf Finals — VGK (West) vs. ? (East); CAR leads MTL 2-1 tonight G4 |
-| May 27 | Sports | MLS: Lionel Messi 13G/6A for Inter Miami 2026 |
-| May 27 | Sports | NFL: Aaron Rodgers reports to Pittsburgh Steelers OTAs |
-| May 27 | Deaths | Kyle Busch (41), NASCAR champion, died May 21 |
-| May 27 | Deaths | Doris Fisher (94), co-founder Gap Inc., died May 2026 |
-| May 27 | Deaths | Alex Ligertwood (79), lead vocalist for Santana, died May 2026 |
-| May 27 | Box Office | Mandalorian & Grogu #1 opening wknd $100M domestic 4-day / $163M global |
-| May 27 | Box Office | Michael (Michael Jackson biopic) approaching $800M WW |
-
-| May 27 | May 27 (St. Petersburg founded by Peter the Great 1703; Chrysler Building opened NYC 1930; Golden Gate Bridge Pedestrian Day 1937) | — |
-| May 27 | National Days: National Sunscreen Day; World Otter Day; National Flip Flop Day; Eid ul-Adha | — |
-
-| May 27 | In the End | Linkin Park | 2000 |
-| May 27 | Semi-Charmed Life | Third Eye Blind | 1997 |
-| May 27 | Santeria | Sublime | 1996 |
-| May 27 | Beautiful | Christina Aguilera | 2002 |
-| May 27 | Lightning Crashes | Live | 1994 |
 
 
-| May 28 | Capital of Austria | Vienna |
-| May 28 | Capital of the Philippines | Manila |
-| May 28 | Capital of Colombia | Bogotá |
-| May 28 | Capital of Romania | Bucharest |
 
-| May 28 | Mission: Impossible | Jim Phelps | Peter Graves |
-| May 28 | The Mod Squad | Linc Hayes | Clarence Williams III |
-| May 28 | Roseanne | Roseanne Conner | Roseanne Barr |
-| May 28 | Home Improvement | Tim "The Toolman" Taylor | Tim Allen |
-| May 28 | Night Court | Judge Harry T. Stone | Harry Anderson |
-| May 28 | NYPD Blue | Det. Andy Sipowicz | Dennis Franz |
 
-| May 28 | "Call me Ishmael" opening line novel / author | Moby-Dick / Herman Melville |
-| May 28 | Author of Don Quixote | Miguel de Cervantes (1605) |
-| May 28 | Toni Morrison debut novel | The Bluest Eye (1970) |
-| May 28 | William Faulkner fictional Mississippi county | Yoknapatawpha County |
-| May 28 | Beethoven 9th Symphony premiere year (while deaf) | 1824 |
-| May 28 | "Do not go gentle into that good night" poet | Dylan Thomas |
 
-| May 28 | McDonald's founded year / founders | 1940 / Dick & Mac McDonald |
-| May 28 | World Wide Web inventor / year | Tim Berners-Lee / 1989 (CERN) |
-| May 28 | Amazon founded year | 1994 (Jeff Bezos, Bellevue WA) |
-| May 28 | LEGO founding year / country | 1932 / Denmark (Ole Kirk Christiansen) |
-| May 28 | Polio vaccine developer / year | Jonas Salk / 1955 |
-| May 28 | Post-it Note inventor / what Silver tried to invent | Spencer Silver (strong adhesive, got weak one) → Art Fry applied 1974 → launched 1980 |
 
-| May 28 | Animals | Octopuses have 3 hearts and blue blood (copper-based hemocyanin) |
-| May 28 | Science | Lightning ~5× hotter than sun's surface (~30,000K vs 5,500K) |
-| May 28 | History | Napoleon was average height ~5'7" — myth from British propaganda + measurement confusion |
-| May 28 | Food | Honey never spoils — 3,000-yr-old edible honey found in Egyptian tombs |
-| May 28 | Geography | Canada has more lakes than rest of world combined (~60% of world's freshwater lakes) |
-| May 28 | History | Oxford Univ (teaching ~1096 AD) older than Aztec Empire (founded ~1345 AD) |
-| May 28 | Animals | Crows recognize individual human faces and hold grudges |
-| May 28 | Science | Water boils at 202°F/94°C atop Mt. Everest (lower atmospheric pressure) |
-| May 28 | Geography | Vatican City world's smallest country (~110 acres, ~size of golf course) |
-| May 28 | Language | "Queue" sounds same with last 4 letters removed |
 
-| May 28 | NBA Finals | Knicks in Finals (first since 1999); West Finals G6 TONIGHT Thunder vs Spurs OKC 3-2 |
-| May 28 | NHL | VGK swept COL — in Stanley Cup Finals; CAR leads MTL 3-1 East Final |
-| May 28 | Deaths | Sonny Rollins (95), jazz saxophonist, died May 25 |
-| May 28 | Deaths | Rob Base (59), rapper "It Takes Two", died May 22 |
-| May 28 | Deaths | Pierre Deny (69), Emily in Paris actor, died May 25 ALS |
-| May 28 | Box Office | Mandalorian & Grogu still #1; Martin Scorsese voices Hugo alien fry cook |
 
-| May 28 | May 28 (Volkswagen founded 1937 — 89th birthday; Dionne quintuplets born 1934; Belgium surrendered WWII 1940; Maya Angelou died 2014) | — |
-| May 28 | National Days: National Hamburger Day; Amnesty International Day; World Hunger Day; International Day of Action on Women's Health | — |
 
-| May 28 | Mr. Jones | Counting Crows | 1993 |
-| May 28 | Iris | The Goo Goo Dolls | 1998 |
-| May 28 | Drops of Jupiter | Train | 2001 |
-| May 28 | Don't Speak | No Doubt | 1996 |
-| May 28 | Black Hole Sun | Soundgarden | 1994 |
+
+
+
+
+
+
+
 
 
 | Jun 1 | Capital of Ohio | Columbus |
@@ -1946,7 +1895,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
 
 
-_Last updated: August 20, 2026 (v49)_
+_Last updated: August 24, 2026 (v50)_
 
 ## July 9, 2026 (v39)
 
@@ -2666,4 +2615,20 @@ _Last updated: August 20, 2026 (v49)_
 | Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
 
 
-_Last updated: August 20, 2026 (v49)_
+_Last updated: August 24, 2026 (v50)_
+
+## August 24, 2026 (v50)
+
+### Reds
+| 62–69, 5th NL Central, 19.0 GB (Brewers 81–50), .473, L1 streak, 3–7 L10. Last 5: W(5-4 STL), L(9-10 STL), L(0-9 @ARI), W(11-5 @ARI), L(3-5 @ARI). Today: @ San Francisco Giants 9:45 PM ET. Bar-bet: Frank Robinson only MVP in both leagues. Source: MLB Stats API. |
+
+### Box Office
+| #1 Spider-Man: Brand New Day, ~$39M 4th weekend, ~$855M domestic. Fun fact used: 7th-biggest 4th weekend ever; first film to lead four straight weekends since Avatar: Fire and Ash. Insidious: Out of the Further opened ~$25M. Coming Aug 28–30: Coyote vs. ACME, The Dog Stars, Buddy, Colony. |
+
+### Sports / Deaths / Current Events
+| Sports: Wyndham Clark won BMW Championship at Bellerive (3rd 2026 win); US Open qualifying/Fan Week begins Aug 24, main draw Aug 30; NFL preseason wk 2 — Bengals 27-9 over Bears (Aug 22), Nick Chubb retired, Kamara out a month, Higgins ACL, Biadasz indefinite; Brewers 81-50 best NL record; WNBA regular season ends Sept 24. |
+| Deaths: Nancy Kassebaum Baker (94, Aug 21, first woman elected to US Senate without following a husband); Bunny Levine (97, Aug 22, Gilmore Girls / Adam Sandler films); Michael Wright (70, Aug 19, The Five Heartbeats, Oz). NOTE: search engines surfaced Bob Weir as a current-week death — he actually died January 2026; do not reuse. |
+| Current events: Pentagon Iran war casualty count to 775 (18 deaths); Tropical Storm Moke hits Big Island a week after Hurricane Lala; Meta/Google/OpenAI/Amazon pledge own power+water costs after Abbott's Texas freeze; Trump renews Canada tariff criticism; Venezuela flooding. |
+| NOTE: This run executed on Monday Aug 24, 2026 (scheduled task fired off-Thursday). |
+
+_Last updated: August 24, 2026 (v50)_
