@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 25 | Uruguay | Montevideo (independence declared Aug 25, 1825) |
+| Aug 25 | Slovenia | Ljubljana (dragon on the coat of arms / Dragon Bridge) |
+| Aug 25 | Tanzania | Dodoma (moved inland from Dar es Salaam, official 1996) |
+| Aug 25 | Sri Lanka | Sri Jayawardenepura Kotte (legislative; Colombo is commercial) |
 | Aug 24 | Cambodia | Phnom Penh (confluence of Mekong, Tonlé Sap, Bassac) |
 | Aug 24 | Estonia | Tallinn (medieval Old Town, UNESCO site) |
 | Aug 24 | Botswana | Gaborone (purpose-built for 1966 independence) |
@@ -65,6 +69,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 25 | Gunsmoke (1955–75) | Marshal Matt Dillon | James Arness |
+| Aug 25 | Bewitched (1964–72) | Samantha Stephens | Elizabeth Montgomery |
+| Aug 25 | The Odd Couple (1970–75) | Felix Unger | Tony Randall |
+| Aug 25 | Taxi (1978–83) | Rev. Jim Ignatowski | Christopher Lloyd |
+| Aug 25 | St. Elsewhere (1982–88) | Dr. Donald Westphall | Ed Flanders |
+| Aug 25 | Northern Exposure (1990–95) | Chris Stevens | John Corbett |
 | Aug 24 | Star Trek (1966–69) | Mr. Spock | Leonard Nimoy |
 | Aug 24 | F Troop (1965–67) | Sgt. Morgan O'Rourke | Forrest Tucker |
 | Aug 24 | The Jeffersons (1975–85) | George Jefferson | Sherman Hemsley |
@@ -126,6 +136,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 25 | "Call me Ishmael" opener | Moby-Dick (1851) — Herman Melville |
+| Aug 25 | American Gothic (1930) painter | Grant Wood |
+| Aug 25 | Symphony No. 5 in C minor composer | Ludwig van Beethoven (1808) |
+| Aug 25 | Nighthawks (1942) painter | Edward Hopper |
+| Aug 25 | Brave New World (1932) author | Aldous Huxley |
+| Aug 25 | A Streetcar Named Desire (1947) playwright | Tennessee Williams |
 | Aug 24 | "In a hole in the ground there lived a hobbit" | The Hobbit — J.R.R. Tolkien (1937) |
 | Aug 24 | The Birth of Venus (painting) | Sandro Botticelli, c. 1485, Uffizi |
 | Aug 24 | "The Blue Danube" waltz | Johann Strauss II (1866) |
@@ -186,6 +202,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 25 | Science | Honey never spoils — 3,000-yr-old edible honey in Egyptian tombs |
+| Aug 25 | Geography | Canada holds ~62% of the world's lakes |
+| Aug 25 | Space | Saturn's density (0.69 g/cm³) is less than water — it would float |
+| Aug 25 | Animals | A group of hedgehogs is an "array" |
+| Aug 25 | Animals | Wombat droppings are cube-shaped (varying intestinal elasticity) |
+| Aug 25 | Body | Brain = ~2% of body weight but ~20% of oxygen/calories |
+| Aug 25 | Food | Nutmeg is hallucinogenic and toxic in large doses (myristicin) |
+| Aug 25 | Language | "Queue" sounds identical with the last four letters removed |
+| Aug 25 | Sports | Marathon 26.2 mi fixed at the 1908 London Olympics for the royal box |
+| Aug 25 | History | Last Civil War widow died 2020 — Helen Viola Jackson, 101 |
+| Aug 25 | Pop Culture | Mickey Mouse's voice (Wayne Allwine) married Minnie's (Russi Taylor), 1991 |
+| Aug 25 | Local (Cincinnati) | Union Terminal rotunda modeled as the Hall of Justice in Super Friends |
+| Aug 25 | Local (Cincinnati) | Rod Serling wrote for WLW/WKRC in Cincinnati; quit in 1955 over script censorship |
+| Aug 25 | Reds bar-bet | 1976 Reds only team to go undefeated through a full postseason (7–0) |
 | Aug 24 | Animals | Group of pandas = "embarrassment"; otters romp/raft |
 | Aug 24 | Science | Venus flytrap counts — needs 2 trigger touches in ~20 sec |
 | Aug 24 | History | Krakatoa 1883 loudest recorded sound, heard 3,000 mi away |
@@ -285,6 +315,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 25 | August 25 (National Park Service created 1916 — 110th anniv; Matthew Webb first to swim the English Channel 1875; Great Moon Hoax begins in the NY Sun 1835; Liberation of Paris completed 1944; Linus Torvalds announces Linux 1991 — 35th anniv; Neil Armstrong dies 2012) |
 | Aug 24 | August 24 (Vesuvius AD 79; British burn Washington 1814; Windows 95 1995; Pluto demoted 2006) |
 | Aug 20 | August 20 (8MK Detroit first commercial radio broadcast 1920 → WWJ; NFL organizing meeting in Canton OH with Jim Thorpe 1920; Viking 1 launched 1975; Prague Spring crushed by Soviet invasion 1968; Lou Gehrig's record 23rd career grand slam 1938; Darwin's natural selection first in print, Linnean Society 1858) |
 | Aug 19 | August 19 (USS Constitution beats HMS Guerrière 1812 → "Old Ironsides"; Gorbachev put under house arrest in Soviet coup 1991 — 35th anniv; Google IPO on Nasdaq at $85 in 2004; Syncom 3 first geostationary satellite 1964) |
@@ -301,6 +332,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 25 | National Banana Split Day; National Whiskey Sour Day; National Park Service Founders Day; National Kiss and Make Up Day; National Secondhand Wardrobe Day; last day of National Aviation Week; Uruguay Independence Day (1825) |
 | Aug 24 | National Waffle Day; National Peach Pie Day; National Knife Day; International Strange Music Day; Kobe Bryant Day |
 | Aug 20 | National Radio Day; National Hazy IPA Day (third Thursday in August); National Bacon Lovers Day; National Chocolate Pecan Pie Day; National Accessible Air Travel Day; World Mosquito Day; International Day of Medical Transporters |
 | Aug 19 | National Aviation Day (Orville Wright's birthday, set by FDR 1939); World Photography Day; World Humanitarian Day; International Orangutan Day; National Potato Day; National Soft Ice Cream Day; "Black Cow" Root Beer Float Day; National Hot & Spicy Food Day; Afghanistan Independence Day (1919) |
@@ -326,6 +358,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 25 | LEGO founded | 1932, Billund Denmark, Ole Kirk Christiansen; name from 'leg godt'; brick 1958 |
+| Aug 25 | Post-it Note | Spencer Silver (weak adhesive 1968) + Art Fry (1974), 3M; launched 1980 |
+| Aug 25 | Chocolate chip cookie | Ruth Wakefield, Toll House Inn MA, 1938; sold recipe to Nestlé |
+| Aug 25 | ATM | John Shepherd-Barron, Barclays Enfield London, 1967; 4-digit PIN due to his wife |
+| Aug 25 | Nike original name | Blue Ribbon Sports (1964); renamed Nike 1971; swoosh by Carolyn Davidson, $35 |
+| Aug 25 | Graeter's (Local) | 1870 Cincinnati, Louis Charles Graeter — French pot method, 2 gal at a time |
 | Aug 24 | Google founded | 1998, Larry Page & Sergey Brin, Menlo Park garage (orig. "BackRub") |
 | Aug 24 | Rubik's Cube | Ernő Rubik, 1974 |
 | Aug 24 | Dr Pepper | 1885, Waco TX — oldest major US soft drink |
@@ -378,6 +416,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 25 | Vogue | Madonna | 1990 |
+| Aug 25 | Black Hole Sun | Soundgarden | 1994 |
+| Aug 25 | Wonderwall | Oasis | 1995 |
+| Aug 25 | Santeria | Sublime | 1996 |
+| Aug 25 | Since U Been Gone | Kelly Clarkson | 2004 |
+| Aug 25 | Crazy | Gnarls Barkley | 2006 |
 | Aug 24 | Just a Girl | No Doubt | 1995 |
 | Aug 24 | Cumbersome | Seven Mary Three | 1995 |
 | Aug 24 | Killing Me Softly With His Song | Fugees | 1996 |
@@ -2631,4 +2675,27 @@ _Last updated: August 24, 2026 (v50)_
 | Current events: Pentagon Iran war casualty count to 775 (18 deaths); Tropical Storm Moke hits Big Island a week after Hurricane Lala; Meta/Google/OpenAI/Amazon pledge own power+water costs after Abbott's Texas freeze; Trump renews Canada tariff criticism; Venezuela flooding. |
 | NOTE: This run executed on Monday Aug 24, 2026 (scheduled task fired off-Thursday). |
 
-_Last updated: August 24, 2026 (v50)_
+---
+
+## August 25, 2026 (v51)
+
+| Item | Detail |
+|------|--------|
+| Reds | 62–70 .470, 5th NL Central, 19.5 GB (Brewers 81–50); L2 streak; 3–7 last 10; last 5 L-L-W-L-L; @ SF Giants 9:45 PM ET. Verified via MLB Stats API. |
+| Reds news | JJ Bleday hit for the cycle Aug 22 @ ARI (11–5 win) — 8th cycle in Reds history, first since Elly De La Cruz Jun 2023, 4th MLB cycle of 2026. |
+| Box Office | Spider-Man: Brand New Day #1 4th weekend ~$39M (7th-best 4th weekend ever); $2B WW in 3 weeks (2nd-fastest); highest-grossing 2026 release in 7 days; opening wknd ~$355M global (2nd-biggest ever). Insidious: Out of the Further opened ~$25M. |
+| Coming weekend | Aug 28–30: Coyote vs. ACME; The Dog Stars (Ridley Scott); Buddy; Colony. |
+| MLB | Royals 8-game win streak; White Sox 68–62 lead AL Central by 3.5; Astros part with GM; Ohtani nearing mound return; Arenado passed 2,000 hits. |
+| NFL | Cutdown to 53 by Sun Aug 30 6 PM ET; ~1,184 players released; waivers Mon Aug 31 1 PM ET. Bills signed S Geno Stone and OLB Mike Danna. |
+| NBA | Giannis traded MIL→MIA (4 players + 4 firsts); Kawhi to Toronto; LaMelo to Minnesota; Klay Thompson to Miami 2yr/$11.48M (Aug 23); Draymond back to GSW 1yr/$27.7M; DeRozan to Denver. |
+| NHL | Montreal signs Ivan Demidov 8yr × $9.15M AAV; max contract term drops 8→7 years next month; only 5 max-term deals since FA opened. |
+| MLS | Messi scored vs Philadelphia Aug 19; 923 career goals; 14G/10A in 18 MLS games; Inter Miami 2nd in East, 39 pts. |
+| NCAA | FCS opens Thu Aug 27; Week 0 Sat Aug 29 (UNC vs TCU in Dublin noon ET; USC vs San Jose State 3 PM ET NBC); first full Saturday Sept 5. |
+| Tennis | US Open qualifying began Mon Aug 24; main draw starts Aug 30. |
+| Golf | Tour Championship / FedExCup finale in Atlanta this week; Tommy Fleetwood defending. |
+| Deaths | Frank Beard (77, Aug 17, ZZ Top drummer, 57 years, the beardless one); Tommy John (83, Aug 16, 288 wins over 26 seasons, surgery namesake); Hayden Panettiere (36, Aug 16, Heroes/Nashville/Remember the Titans); Fulvio Lucisano (98, Aug 18, Italian producer); Laura Cardoso (98, Aug 18, Brazilian actress). |
+| Current events | US "economic D-Day" Iran sanctions expected by week's end (Bessent); Iran threatens to halt Persian Gulf oil exports and calls support for sanctions an act of war; 1,000+ Navy dependents still displaced from Bahrain; Trump promises more Canada tariffs after talks collapse; 160+ deported to Haiti post-TPS; Israeli strike near Al-Aqsa Hospital kills two brothers. |
+| NOTE | This run executed on Tuesday Aug 25, 2026 (scheduled task fired off-Thursday again). Box-office weekend is the same Aug 21–23 frame used in the v50 Aug 24 sheet — fresh angles were substituted ($2B/3wks, $355M opening, 2026 top-grosser in 7 days) rather than reusing the v50 fun fact. |
+
+
+_Last updated: August 25, 2026 (v51)_
