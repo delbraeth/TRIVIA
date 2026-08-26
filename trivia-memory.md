@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 26 | Croatia | Zagreb |
+| Aug 26 | Paraguay | Asunción (founded 1537, one of South America's oldest cities) |
+| Aug 26 | Malaysia | Kuala Lumpur (Putrajaya is administrative seat) |
+| Aug 26 | Senegal | Dakar (finish of the old Paris–Dakar Rally) |
 | Aug 25 | Uruguay | Montevideo (independence declared Aug 25, 1825) |
 | Aug 25 | Slovenia | Ljubljana (dragon on the coat of arms / Dragon Bridge) |
 | Aug 25 | Tanzania | Dodoma (moved inland from Dar es Salaam, official 1996) |
@@ -69,6 +73,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 26 | The Honeymooners (1955–56) | Ed Norton | Art Carney |
+| Aug 26 | Perry Mason (1957–66) | Perry Mason | Raymond Burr |
+| Aug 26 | The Waltons (1972–81) | John-Boy Walton | Richard Thomas |
+| Aug 26 | Charlie's Angels (1976–81) | Sabrina Duncan | Kate Jackson |
+| Aug 26 | The A-Team (1983–87) | B.A. Baracus | Mr. T (Laurence Tureaud) |
+| Aug 26 | The X-Files (1993–2002) | Dana Scully | Gillian Anderson |
 | Aug 25 | Gunsmoke (1955–75) | Marshal Matt Dillon | James Arness |
 | Aug 25 | Bewitched (1964–72) | Samantha Stephens | Elizabeth Montgomery |
 | Aug 25 | The Odd Couple (1970–75) | Felix Unger | Tony Randall |
@@ -136,6 +146,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 26 | The Bell Jar (1963) author | Sylvia Plath (pen name Victoria Lucas) |
+| Aug 26 | Guernica (1937) painter | Pablo Picasso |
+| Aug 26 | "Rhapsody in Blue" (1924) composer | George Gershwin |
+| Aug 26 | Catch-22 (1961) author | Joseph Heller |
+| Aug 26 | The Thinker / The Kiss sculptor | Auguste Rodin |
+| Aug 26 | "Because I could not stop for Death" poet | Emily Dickinson |
 | Aug 25 | "Call me Ishmael" opener | Moby-Dick (1851) — Herman Melville |
 | Aug 25 | American Gothic (1930) painter | Grant Wood |
 | Aug 25 | Symphony No. 5 in C minor composer | Ludwig van Beethoven (1808) |
@@ -202,6 +218,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 26 | Science | Octopuses have three hearts and blue blood (hemocyanin) |
+| Aug 26 | Geography | Parts of Atacama Desert have no recorded rainfall ever |
+| Aug 26 | Space | Apollo footprints on the Moon will last millions of years |
+| Aug 26 | Animals | A group of giraffes is a "tower" |
+| Aug 26 | Body | Roughly as many bacterial cells as human cells (~1.3:1) |
+| Aug 26 | Food | Ripe cranberries bounce — sorted with "bounce boards" |
+| Aug 26 | Language | "Pineapple" meant pine cone first; fruit named for resemblance |
+| Aug 26 | History | Reagan was a Rock River lifeguard credited with 77 rescues |
+| Aug 26 | Sports | NFL was the American Professional Football Association until 1922 |
+| Aug 26 | Pop Culture | Windows XP "Bliss" wallpaper is an unretouched Sonoma County photo |
+| Aug 26 | Did You Know | Peanut butter can be turned into diamond under extreme pressure |
+| Aug 26 | Local (Cincinnati) | Over-the-Rhine has one of the largest intact Italianate collections in the US |
+| Aug 26 | Reds bar-bet | Reds were first MLB team to fly to a road game — Cincinnati→Chicago, June 8, 1934 |
 | Aug 25 | Science | Honey never spoils — 3,000-yr-old edible honey in Egyptian tombs |
 | Aug 25 | Geography | Canada holds ~62% of the world's lakes |
 | Aug 25 | Space | Saturn's density (0.69 g/cm³) is less than water — it would float |
@@ -315,6 +344,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 26 | August 26 (19th Amendment certified 1920 — Women's Equality Day, 106th anniv; first large-scale hydroelectric plant at Niagara Falls 1895; Jimi Hendrix opens Electric Lady Studios 1970; "Hey Jude" tops UK chart 1968) |
 | Aug 25 | August 25 (National Park Service created 1916 — 110th anniv; Matthew Webb first to swim the English Channel 1875; Great Moon Hoax begins in the NY Sun 1835; Liberation of Paris completed 1944; Linus Torvalds announces Linux 1991 — 35th anniv; Neil Armstrong dies 2012) |
 | Aug 24 | August 24 (Vesuvius AD 79; British burn Washington 1814; Windows 95 1995; Pluto demoted 2006) |
 | Aug 20 | August 20 (8MK Detroit first commercial radio broadcast 1920 → WWJ; NFL organizing meeting in Canton OH with Jim Thorpe 1920; Viking 1 launched 1975; Prague Spring crushed by Soviet invasion 1968; Lou Gehrig's record 23rd career grand slam 1938; Darwin's natural selection first in print, Linnean Society 1858) |
@@ -332,6 +362,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 26 | National Dog Day; Women's Equality Day; National Cherry Popsicle Day; National Toilet Paper Day; National Webmistress Day; Make Your Own Luck Day |
 | Aug 25 | National Banana Split Day; National Whiskey Sour Day; National Park Service Founders Day; National Kiss and Make Up Day; National Secondhand Wardrobe Day; last day of National Aviation Week; Uruguay Independence Day (1825) |
 | Aug 24 | National Waffle Day; National Peach Pie Day; National Knife Day; International Strange Music Day; Kobe Bryant Day |
 | Aug 20 | National Radio Day; National Hazy IPA Day (third Thursday in August); National Bacon Lovers Day; National Chocolate Pecan Pie Day; National Accessible Air Travel Day; World Mosquito Day; International Day of Medical Transporters |
@@ -358,6 +389,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 26 | Slinky | Richard James, 1943 Navy engineer; ship stabilizer spring; Gimbels 1945 |
+| Aug 26 | Amazon founded | 1994, Jeff Bezos, Bellevue WA garage; first name choice "Cadabra" |
+| Aug 26 | WD-40 name | "Water Displacement, 40th formula" — Rocket Chemical Co., 1953 |
+| Aug 26 | Super Soaker | Lonnie Johnson, NASA/JPL engineer, 1982 heat-pump accident; launched 1990 |
+| Aug 26 | Band-Aid | Earle Dickson, J&J, 1920, for his accident-prone wife |
+| Aug 26 | Skyline Chili (Local) | 1949, Nicholas Lambrinides, Price Hill; named for the Cincinnati skyline view |
 | Aug 25 | LEGO founded | 1932, Billund Denmark, Ole Kirk Christiansen; name from 'leg godt'; brick 1958 |
 | Aug 25 | Post-it Note | Spencer Silver (weak adhesive 1968) + Art Fry (1974), 3M; launched 1980 |
 | Aug 25 | Chocolate chip cookie | Ruth Wakefield, Toll House Inn MA, 1938; sold recipe to Nestlé |
@@ -416,6 +453,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 26 | Loser | Beck | 1994 |
+| Aug 26 | Waterfalls | TLC | 1995 |
+| Aug 26 | Bitter Sweet Symphony | The Verve | 1997 |
+| Aug 26 | Seven Nation Army | The White Stripes | 2003 |
+| Aug 26 | Mr. Brightside | The Killers | 2004 |
+| Aug 26 | Rehab | Amy Winehouse | 2006 |
 | Aug 25 | Vogue | Madonna | 1990 |
 | Aug 25 | Black Hole Sun | Soundgarden | 1994 |
 | Aug 25 | Wonderwall | Oasis | 1995 |
@@ -2698,4 +2741,24 @@ _Last updated: August 24, 2026 (v50)_
 | NOTE | This run executed on Tuesday Aug 25, 2026 (scheduled task fired off-Thursday again). Box-office weekend is the same Aug 21–23 frame used in the v50 Aug 24 sheet — fresh angles were substituted ($2B/3wks, $355M opening, 2026 top-grosser in 7 days) rather than reusing the v50 fun fact. |
 
 
-_Last updated: August 25, 2026 (v51)_
+## August 26, 2026 (v52)
+
+| Item | Detail |
+|------|--------|
+| Reds | 62–71 .466, 5th NL Central, 19.5 GB (Brewers 81–51); L3 streak; 3–7 last 10; last 5 (oldest→newest) L-W-L-L-L; @ SF Giants 3:45 PM ET. Verified via MLB Stats API. |
+| Reds angle | 22–14 in one-run games, 9–4 in extras — they lose the blowouts, not the close ones. |
+| Box Office | Spider-Man: Brand New Day #1 4th weekend $39.0M (Aug 21–23); $854.9M domestic in 24 days; $2.2B+ WW. Fresh angle used: $2B in 17 days (2nd-fastest behind Endgame's 11) + outgrossed every other 2026 release's full run in 7 days. #2 Insidious: Out of the Further $25.1M debut; #3 The Odyssey $19.7M ($539M). |
+| Coming weekend | Aug 28–30: The Dog Stars (Ridley Scott); Coyote vs. ACME; Buddy; Cliffhanger (reboot). |
+| MLB | Brewers 81–51 best record in baseball, +5.5 on Cubs in NL Central. JJ Bleday cycle Aug 22 (8th in Reds history). |
+| NFL | Cutdown to 53 Sun Aug 30 6 PM ET; waivers Mon Aug 31 1 PM ET. Bengals: traded No. 10 pick for NT Dexter Lawrence, signed Jonathan Allen + Boye Mafe, re-signed Joe Flacco. |
+| NBA | Allen Robinson retired on his 33rd birthday (Aug 25); Klay Thompson to Miami after clearing waivers; DeRozan 1-yr in Denver; Shaedon Sharpe out ~6 months (meniscus). |
+| Tennis | US Open mixed doubles began Aug 25 — all doubles-specialist teams lost Day 1; Svitolina/Monfils beat No. 1s Siniáková/Patten. Singles main draw Aug 30. |
+| Golf | Tour Championship / FedExCup finale tees off Thu Aug 27 at East Lake. Scheffler No. 1 in standings; Fleetwood defending. |
+| NCAA | Ohio State preseason AP No. 1 (9th time), then Oregon, Georgia, Notre Dame, Texas. FCS opens Thu Aug 27; Week 0 Sat Aug 29 — UNC vs TCU in Dublin; No. 14 USC hosts San Jose State. |
+| MLS | Messi at 923 career goals; Inter Miami 2nd in East. |
+| Deaths | **Dolly Parton, 80 (Aug 25)** — Queen of Country, died in Nashville after a brief battle with cancer; private family funeral. James Lew (73, Aug 23, stunt coordinator, Emmy for Luke Cage). Michael Wright (69, Aug 19, The Five Heartbeats). Nikki Ross (52, Aug 14, Houston gospel singer). |
+| Current events | Dolly Parton tributes dominate the cycle; Iran defiant on new US sanctions while pursuing diplomacy via Oman/Pakistan; Canada retaliating in trade dispute after talks collapsed; Trump opened border to Mexican beef amid supply pinch; primaries in three states — Lindsey Graham's sister won the SC nomination to succeed him. |
+| NOTE | Executed Wednesday Aug 26, 2026 (task again fired off-Thursday). Box-office weekend frame is still Aug 21–23 (third consecutive sheet on that frame) — used entirely new angles ($854.9M domestic/24 days, $2B in 17 days vs Endgame's 11) rather than repeating v50/v51 facts. |
+
+
+_Last updated: August 26, 2026 (v52)_
