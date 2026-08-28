@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 28 | Bhutan | Thimphu (only national capital with no traffic lights) |
+| Aug 28 | Iceland | Reykjavík (northernmost capital of a sovereign state; "smoky bay") |
+| Aug 28 | Ecuador | Quito (~9,350 ft; one of first two UNESCO World Heritage cities, 1978) |
+| Aug 28 | Vietnam | Hanoi (not Ho Chi Minh City) |
 | Aug 27 | Azerbaijan | Baku (lowest-lying national capital, ~92 ft below sea level) |
 | Aug 27 | Colombia | Bogotá (~8,660 ft elevation) |
 | Aug 27 | Jordan | Amman (built on seven hills; Roman-era Philadelphia) |
@@ -77,6 +81,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 28 | The Beverly Hillbillies (1962–71) | Jed Clampett | Buddy Ebsen |
+| Aug 28 | Mission: Impossible (1966–73) | Jim Phelps | Peter Graves |
+| Aug 28 | M*A*S*H (1972–83) | Cpl. Maxwell Klinger | Jamie Farr |
+| Aug 28 | The Golden Girls (1985–92) | Sophia Petrillo | Estelle Getty |
+| Aug 28 | Night Court (1984–92) | Judge Harry Stone | Harry Anderson |
+| Aug 28 | Kojak (1973–78) | Lt. Theo Kojak | Telly Savalas |
 | Aug 27 | The Twilight Zone (1959–64) | Host/creator | Rod Serling |
 | Aug 27 | Rawhide (1959–65) | Rowdy Yates | Clint Eastwood |
 | Aug 27 | I Dream of Jeannie (1965–70) | Jeannie | Barbara Eden |
@@ -156,6 +166,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 28 | Frankenstein (1818) author | Mary Shelley (started at 18, "year without a summer") |
+| Aug 28 | The Scream (1893) painter | Edvard Munch |
+| Aug 28 | "In the Hall of the Mountain King" / Peer Gynt composer | Edvard Grieg (1875) |
+| Aug 28 | Things Fall Apart (1958) author | Chinua Achebe (title from Yeats) |
+| Aug 28 | Leaves of Grass poet | Walt Whitman |
+| Aug 28 | Death of a Salesman (1949) playwright | Arthur Miller (Pulitzer 1949) |
 | Aug 27 | "Beauty is truth, truth beauty" / Ode on a Grecian Urn poet | John Keats |
 | Aug 27 | The Night Watch (1642) painter | Rembrandt van Rijn |
 | Aug 27 | Boléro (1928) composer | Maurice Ravel |
@@ -234,6 +250,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 28 | Science | Bananas are slightly radioactive (potassium-40); "banana equivalent dose" |
+| Aug 28 | Space | A day on Venus (243 Earth days) is longer than its year (225) |
+| Aug 28 | Geography | Russia spans 11 time zones |
+| Aug 28 | Animals | A shrimp's heart is in its head |
+| Aug 28 | Body | Stomach lining replaces itself every 3–4 days |
+| Aug 28 | Food | Carrots were originally purple; orange bred by 17th-c. Dutch growers |
+| Aug 28 | Language | The dot over a lowercase i/j is a "tittle" |
+| Aug 28 | History | Oxford (teaching by 1096) is older than the Aztec Empire (1325) |
+| Aug 28 | Sports | Two basketballs fit side by side through an 18-inch rim |
+| Aug 28 | Pop Culture | "Wilhelm scream" (1951, Distant Drums) reused in 400+ films |
+| Aug 28 | Did You Know | Scotland's national animal is the unicorn |
+| Aug 28 | Local (Cincinnati) | Roebling Suspension Bridge (1866) longest in world at opening; Brooklyn Bridge prototype |
+| Aug 28 | Reds bar-bet | Named "Reds" because the 1869 Red Stockings first wore knee pants w/ visible red socks |
 | Aug 27 | Space | Neptune completed only one orbit since its 1846 discovery (finished 2011) |
 | Aug 27 | Science | Helium found in space (Sun spectrum, 1868) before it was found on Earth |
 | Aug 27 | Geography | Alaska has more coastline than the other 49 states combined |
@@ -373,6 +402,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 28 | August 28 (March on Washington / MLK "I Have a Dream" 1963 — 63rd anniv, ~250,000 marchers, Mahalia Jackson's "Tell them about the dream"; first radio commercial on WEAF NYC 1922 — Queensboro Realty, $50 for 10 min; Hurricane Katrina hits Cat 5 and New Orleans issues first-ever mandatory evacuation 2005) |
 | Aug 27 | August 27 (Battle of Brooklyn 1776 — 250th anniv; Edwin Drake first US oil well, Titusville PA 1859; Kellogg–Briand Pact signed 1928; Brian Epstein found dead 1967; LBJ born 1908) |
 | Aug 26 | August 26 (19th Amendment certified 1920 — Women's Equality Day, 106th anniv; first large-scale hydroelectric plant at Niagara Falls 1895; Jimi Hendrix opens Electric Lady Studios 1970; "Hey Jude" tops UK chart 1968) |
 | Aug 25 | August 25 (National Park Service created 1916 — 110th anniv; Matthew Webb first to swim the English Channel 1875; Great Moon Hoax begins in the NY Sun 1835; Liberation of Paris completed 1944; Linus Torvalds announces Linux 1991 — 35th anniv; Neil Armstrong dies 2012) |
@@ -392,6 +422,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 28 | National Thoughtful Day; Rainbow Bridge Remembrance Day; National Red Wine Day; National Power Rangers Day; National Bow Tie Day; National Cherry Turnover Day |
 | Aug 27 | National Just Because Day; National Petroleum Day; National Banana Lovers Day; National Pots de Crème Day; World Rock Paper Scissors Day; Tarzan Day; International Lottery Day; Lyndon Baines Johnson Day (Texas); Moldova Independence Day (1991); Be Kind to Humankind Week |
 | Aug 26 | National Dog Day; Women's Equality Day; National Cherry Popsicle Day; National Toilet Paper Day; National Webmistress Day; Make Your Own Luck Day |
 | Aug 25 | National Banana Split Day; National Whiskey Sour Day; National Park Service Founders Day; National Kiss and Make Up Day; National Secondhand Wardrobe Day; last day of National Aviation Week; Uruguay Independence Day (1825) |
@@ -420,6 +451,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 28 | Harvard founded | 1636 — oldest US university, 140 yrs before the country |
+| Aug 28 | Ballpoint pen | László Bíró, Hungarian journalist, patented 1938; "biro" in UK/AUS |
+| Aug 28 | Teflon | Roy Plunkett, DuPont, 1938 — accidental polymerization of refrigerant gas |
+| Aug 28 | Crayola name origin | Binney & Smith 1903; French *craie* (chalk) + "oleaginous"; first 8-pack a nickel |
+| Aug 28 | Sony founded | 1946 Tokyo, Masaru Ibuka & Akio Morita as Tokyo Tsushin Kogyo; renamed 1958 |
+| Aug 28 | U.S. Playing Card Co. (Local) | Cincinnati, traces to 1867; Bicycle brand 1885; Norwood plant until 2009 |
 | Aug 27 | Ford Motor Company founded | 1903, Detroit; Henry Ford + 11 investors, ~$28,000 |
 | Aug 27 | Frisbee | Walter Frederick Morrison's "Pluto Platter"; sold to Wham-O 1957 |
 | Aug 27 | First barcode scan | June 1974, Wrigley's gum, Marsh supermarket, Troy OH; patent Woodland & Silver 1952 |
@@ -490,6 +527,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 28 | Basket Case | Green Day | 1994 |
+| Aug 28 | Interstate Love Song | Stone Temple Pilots | 1994 |
+| Aug 28 | California Love | 2Pac feat. Dr. Dre & Roger Troutman | 1995 |
+| Aug 28 | Semi-Charmed Life | Third Eye Blind | 1997 |
+| Aug 28 | Clocks | Coldplay | 2002 |
+| Aug 28 | Float On | Modest Mouse | 2004 |
 | Aug 27 | Regulate | Warren G feat. Nate Dogg |
 | Aug 27 | Everlong | Foo Fighters |
 | Aug 27 | Torn | Natalie Imbruglia |
@@ -2622,4 +2665,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | NOTE | First actual-Thursday run in a while (v50–v52 fired Mon–Wed). Fourth consecutive sheet on the Aug 21–23 box-office frame — used the "4 straight #1 weekends = 2026 record / 3rd-highest domestic ever" angle, fresh vs v50–v52. |
 
 
-_Last updated: August 27, 2026 (v53)_
+## August 28, 2026 (v54)
+
+| Section | Content |
+|---------|---------|
+| Reds | 63–71 .470, 5th NL Central, 20.0 GB (Brewers 83–51); W1; last 10 4–6; last 5 W-L-L-L-W (Aug 22 W11-5 @ARI, Aug 23 L3-5 @ARI, Aug 24 L0-5 @SF, Aug 25 L1-3 @SF, Aug 26 W10-9 @SF). TODAY: Fri Aug 28 @ Cubs 2:20 PM ET at Wrigley. Source: MLB Stats API. |
+| Box Office | Spider-Man: Brand New Day #1 4th weekend $39.0M (Aug 21–23); $863.3M dom / $2.23B WW through Aug 26. NEW ANGLE (fresh vs v50–v53): the record $360M opening weekend — biggest debut in box office history, unseating Avengers: Endgame ($357.1M, 2019); Sunday estimate was $355M, actuals pushed it over Monday. #2 Insidious: Out of the Further $25.1M; #3 The Odyssey $19.7M. |
+| Coming This Weekend | Aug 28–30: The Dog Stars (Ridley Scott; Elordi/Qualley/Pearce/Wong, IMAX); Coyote vs. ACME (Forte/Cena); Buddy (mascot horror-comedy); The Whisper Man (Netflix; Adam Scott/De Niro/Keaton/Monaghan). |
+| Sports | NFL cutdown Sun Aug 30 6 PM ET, 90→53, ~1,184 cut; Bengals waived OT Cody Ford, swing tackle "still pretty open" per Zac Taylor, DL crunch w/ McKinnley Jackson & Kris Jenkins on bubble. NCAA: FCS Week 0 Thu; FBS opens Sat Aug 29, 8 games. Golf: TOUR Championship East Lake Aug 27–30, top 30 FedExCup. Tennis: US Open Aug 23–Sept 13, 22 days = longest edition ever, record $108M compensation (+20% vs $90M in 2025), Sabalenka top seed 8th straight slam. MLB: Brewers 83–51 best record; postseason Sept 29. NHL: TNT (72 games + 2027 Cup Final) & ESPN (100 exclusives) 2026-27 schedules out; season opens Sept 29 CAR-FLA and TOR-MTL; Quinn Hughes / Erik Karlsson trade chatter. |
+| Deaths | Tim Curry (80, d. Aug 25, Rocky Horror/Clue/IT/Muppet Treasure Island, Toluca Lake, wheelchair since 2012 stroke); Peter Cullen (85, d. Aug 26, voice of Optimus Prime 40+ yrs and Eeyore); Shelley Fabares (82, d. Aug 22, Donna Reed Show/Coach, "Johnny Angel" #1 1962, m. Mike Farrell); Dolly Parton (80, d. Aug 25, carried over). |
+| Current events | Himalayan flood on Nepal–Tibet border, Lhende Khola valley, 350+ dead / 1,300+ missing; Meta $17B settlement over teen social-media addiction; Iran blocked IAEA inspectors from bombed nuclear sites; Pentagon killed 4 in latest alleged drug-boat strikes; ICE arrests at Danbury CT school bus stops; Ukraine–Russia strikes, Moscow warns UK on arms; Dolly Parton death still dominating. |
+| NOTE | Ran Friday Aug 28 (scheduled task fired a day past Thursday). Fifth consecutive sheet on the Aug 21–23 box-office frame — pivoted to the all-time opening-weekend record angle since the "4 straight #1 weekends" angle was spent in v53. Tim Curry / Peter Cullen deaths were both missed by v53 and are the headline obits this run. |
+
+
+_Last updated: August 28, 2026 (v54)_
