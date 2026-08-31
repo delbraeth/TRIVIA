@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 31 | Canada | Ottawa (chosen by Queen Victoria 1857 as Toronto/Montreal compromise) |
+| Aug 31 | Turkey | Ankara (not Istanbul; moved 1923) |
+| Aug 31 | Belize | Belmopan (built inland after Hurricane Hattie, 1961; ~20,000 people) |
+| Aug 31 | Switzerland | Bern ("federal city"; no constitutional capital) |
 | Aug 28 | Bhutan | Thimphu (only national capital with no traffic lights) |
 | Aug 28 | Iceland | Reykjavík (northernmost capital of a sovereign state; "smoky bay") |
 | Aug 28 | Ecuador | Quito (~9,350 ft; one of first two UNESCO World Heritage cities, 1978) |
@@ -81,6 +85,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Aug 31 | The Andy Griffith Show (1960–68) | Deputy Barney Fife | Don Knotts |
+| Aug 31 | The Munsters (1964–66) | Herman Munster | Fred Gwynne |
+| Aug 31 | Dark Shadows (1966–71) | Barnabas Collins | Jonathan Frid |
+| Aug 31 | The Rockford Files (1974–80) | Jim Rockford | James Garner |
+| Aug 31 | Cheers (1982–93) | Cliff Clavin | John Ratzenberger |
+| Aug 31 | Wiseguy (1987–90) | Vinnie Terranova | Ken Wahl |
 | Aug 28 | The Beverly Hillbillies (1962–71) | Jed Clampett | Buddy Ebsen |
 | Aug 28 | Mission: Impossible (1966–73) | Jim Phelps | Peter Graves |
 | Aug 28 | M*A*S*H (1972–83) | Cpl. Maxwell Klinger | Jamie Farr |
@@ -166,6 +176,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Aug 31 | The Canterbury Tales author | Geoffrey Chaucer (begun c. 1387, Middle English, unfinished) |
+| Aug 31 | Girl with a Pearl Earring (c.1665) painter | Johannes Vermeer |
+| Aug 31 | The Four Seasons (1725) composer | Antonio Vivaldi ("the Red Priest") |
+| Aug 31 | "the clocks were striking thirteen" opener | Nineteen Eighty-Four — George Orwell |
+| Aug 31 | Paradise Lost (1667) poet | John Milton (blind, dictated; sold for £10) |
+| Aug 31 | The Handmaid's Tale (1985) author | Margaret Atwood |
 | Aug 28 | Frankenstein (1818) author | Mary Shelley (started at 18, "year without a summer") |
 | Aug 28 | The Scream (1893) painter | Edvard Munch |
 | Aug 28 | "In the Hall of the Mountain King" / Peer Gynt composer | Edvard Grieg (1875) |
@@ -250,6 +266,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Aug 31 | Science | Glass is an amorphous solid, not a slow-flowing liquid |
+| Aug 31 | Space | More trees on Earth (~3T) than stars in the Milky Way (100–400B) |
+| Aug 31 | Geography | Africa is the only continent in all four hemispheres |
+| Aug 31 | Animals | A group of flamingos is a "flamboyance" |
+| Aug 31 | Body | The human nose can distinguish ~1 trillion smells |
+| Aug 31 | Food | A pineapple plant takes ~2 years to make one fruit; once rented for parties |
+| Aug 31 | Language | "Set" has the most OED definitions (400+) |
+| Aug 31 | History | Anglo-Zanzibar War 1896 — shortest war, ~38 minutes |
+| Aug 31 | History | Great Fire of London 1666 — 13,200 houses lost, official death toll six |
+| Aug 31 | Sports | Golf ball dimples came from nicked balls flying farther |
+| Aug 31 | Pop Culture | Nintendo Wii's development codename was "Revolution" |
+| Aug 31 | Local (Cincinnati) | Music Hall (1878) built over a potter's field; remains found in renovations |
+| Aug 31 | Reds bar-bet | Johnny Vander Meer — only back-to-back no-hitters in MLB history (Jun 11 & 15, 1938) |
 | Aug 28 | Science | Bananas are slightly radioactive (potassium-40); "banana equivalent dose" |
 | Aug 28 | Space | A day on Venus (243 Earth days) is longer than its year (225) |
 | Aug 28 | Geography | Russia spans 11 time zones |
@@ -402,6 +431,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Aug 31 | August 31 (Princess Diana dies in Paris crash 1997 — 29th anniv, Pont de l'Alma tunnel; Gdańsk Agreement signed 1980 creating Solidarity; Charleston SC earthquake ~M7.0 1886, 60+ dead; Malaya independence / Merdeka Day 1957) |
 | Aug 28 | August 28 (March on Washington / MLK "I Have a Dream" 1963 — 63rd anniv, ~250,000 marchers, Mahalia Jackson's "Tell them about the dream"; first radio commercial on WEAF NYC 1922 — Queensboro Realty, $50 for 10 min; Hurricane Katrina hits Cat 5 and New Orleans issues first-ever mandatory evacuation 2005) |
 | Aug 27 | August 27 (Battle of Brooklyn 1776 — 250th anniv; Edwin Drake first US oil well, Titusville PA 1859; Kellogg–Briand Pact signed 1928; Brian Epstein found dead 1967; LBJ born 1908) |
 | Aug 26 | August 26 (19th Amendment certified 1920 — Women's Equality Day, 106th anniv; first large-scale hydroelectric plant at Niagara Falls 1895; Jimi Hendrix opens Electric Lady Studios 1970; "Hey Jude" tops UK chart 1968) |
@@ -422,6 +452,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Aug 31 | National Trail Mix Day; National Eat Outside Day; National Matchmaker Day; National South Carolina Day; National Diatomaceous Earth Day; Love Litigating Lawyers Day; Merdeka Day (Malaysia, 1957); National Heroes Day (Philippines) |
 | Aug 28 | National Thoughtful Day; Rainbow Bridge Remembrance Day; National Red Wine Day; National Power Rangers Day; National Bow Tie Day; National Cherry Turnover Day |
 | Aug 27 | National Just Because Day; National Petroleum Day; National Banana Lovers Day; National Pots de Crème Day; World Rock Paper Scissors Day; Tarzan Day; International Lottery Day; Lyndon Baines Johnson Day (Texas); Moldova Independence Day (1991); Be Kind to Humankind Week |
 | Aug 26 | National Dog Day; Women's Equality Day; National Cherry Popsicle Day; National Toilet Paper Day; National Webmistress Day; Make Your Own Luck Day |
@@ -451,6 +482,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Aug 31 | Twinkie | James Dewar, 1930, Continental Baking IL; original filling banana |
+| Aug 31 | Chuck E. Cheese founded | Nolan Bushnell (Atari founder), 1977 |
+| Aug 31 | Three-position traffic signal | Garrett Morgan, patented 1923, Cleveland; sold to GE for $40,000 |
+| Aug 31 | Toyota founded / name change | 1937, from Toyoda Automatic Loom Works; "t" for 8 katakana strokes |
+| Aug 31 | "Super Bowl" name origin | Lamar Hunt, from his kids' Super Ball toy |
+| Aug 31 | Rookwood Pottery (Local) | 1880 Cincinnati, Maria Longworth Nichols Storer — woman-owned manufacturer |
 | Aug 28 | Harvard founded | 1636 — oldest US university, 140 yrs before the country |
 | Aug 28 | Ballpoint pen | László Bíró, Hungarian journalist, patented 1938; "biro" in UK/AUS |
 | Aug 28 | Teflon | Roy Plunkett, DuPont, 1938 — accidental polymerization of refrigerant gas |
@@ -527,6 +564,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Aug 31 | Losing My Religion | R.E.M. | 1991 |
+| Aug 31 | No Rain | Blind Melon | 1992 |
+| Aug 31 | 1979 | The Smashing Pumpkins | 1995 |
+| Aug 31 | Doo Wop (That Thing) | Lauryn Hill | 1998 |
+| Aug 31 | The Middle | Jimmy Eat World | 2001 |
+| Aug 31 | Crazy in Love | Beyoncé feat. JAY-Z | 2003 |
 | Aug 28 | Basket Case | Green Day | 1994 |
 | Aug 28 | Interstate Love Song | Stone Temple Pilots | 1994 |
 | Aug 28 | California Love | 2Pac feat. Dr. Dre & Roger Troutman | 1995 |
@@ -2678,4 +2721,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | NOTE | Ran Friday Aug 28 (scheduled task fired a day past Thursday). Fifth consecutive sheet on the Aug 21–23 box-office frame — pivoted to the all-time opening-weekend record angle since the "4 straight #1 weekends" angle was spent in v53. Tim Curry / Peter Cullen deaths were both missed by v53 and are the headline obits this run. |
 
 
-_Last updated: August 28, 2026 (v54)_
+## August 31, 2026 (v55)
+
+| Section | Content |
+|---------|---------|
+| Reds | 65–72 .474, 5th NL Central, 20.0 GB (Brewers 85–52); W1; last 10 4–6; last 5 L-W-W-L-W (Aug 25 L1-3 @SF, Aug 26 W10-9 @SF, Aug 28 W10-8 @CHC, Aug 29 L5-17 @CHC, Aug 30 W7-5 @CHC). TODAY: Mon Aug 31 vs San Diego Padres 6:40 PM ET at GABP. Source: MLB Stats API. |
+| Box Office | NEW FRAME (Aug 28–30): Spider-Man: Brand New Day #1 for a 5th straight weekend, $22.2M (-43%), $891.5M domestic in 31 days. Whole 28-title chart only $69.2M. ANGLE (fresh vs v50–v54): it has passed Avengers: Endgame ($858.4M) for #2 all-time domestic, chasing Star Wars: The Force Awakens ($936.7M). #2 The Odyssey $14.3M ($563.8M total); #3 Insidious: Out of the Further $10.1M; #4 The Dog Stars $8.0M debut. Oddity: 2001's The Fast and the Furious charted on a re-release, day 9,201. |
+| Coming This Weekend | Sept 4–6: Onslaught (Adam Wingard; Adria Arjona, Rebecca Hall, Drew Starkey, Michael Biehn, R); By Any Means (Yahya Abdul-Mateen II, Mark Wahlberg as Greg Scarpa, 1960s Mississippi, R); Cars: 20th Anniversary re-release (G); Tom and Jerry: Forbidden Compass (animated, 90 min). |
+| Sports | Tennis: DJOKOVIC UPSET IN US OPEN R1 by Mariano Navone 7-6(5), 5-7, 4-6, 6-2, 6-1 — first-ever opening-round slam loss, ends record 78 straight R1 wins, earliest major exit since 2006 Aus Open, visibly ill, 70 UEs. Golf: Scottie Scheffler won TOUR Championship at East Lake by 3 over Viktor Hovland — 2nd FedExCup. MLB: White Sox 72–64 leading AL Central after three straight 100-loss seasons (verified via MLB Stats API). NFL: cutdown Sun Aug 30 6 PM ET; waivers awarded 1 PM ET Aug 31. Bengals finished preseason 3–0 — first undefeated preseason since 2006 and first of the Zac Taylor era, capped 30–13 at Philadelphia. NCAA: Week 0 Aug 29, No. 14 USC beat San Jose State 42–26 (only ranked team playing). MLS: Nashville SC 4, FC Cincinnati 0 (Aug 29 — Surridge, Mukhtar, Acosta, Qasem). NBA: Jonathan Kuminga 2yr/$12.4M to Minnesota; Bennedict Mathurin 2yr/$16M to New Orleans. |
+| Deaths | King Harald V of Norway (89, d. Aug 28, Europe's oldest reigning monarch, king since 1991, fled Nazis as a child, Olympic sailor; succeeded by Haakon VIII); Ratko Mladić (84, d. Aug 27, convicted of genocide at The Hague); Mary Tsingou (97, d. Aug 27, Fermi–Pasta–Ulam–Tsingou problem, one of the first programmers); Larry Christenson (72, d. Aug 28, lifelong Phillie, 1980 WS); Rubén Rada (83, d. Aug 26, Uruguayan candombe); Jackie Glass (70, d. Aug 28, O.J. Simpson 2008 trial judge / Swift Justice); Tony Mundine (75, d. Aug 30, Australian boxer); Franco Fontana (92, d. Aug 29, Italian color photographer). Carried over: Dolly Parton, Tim Curry, Peter Cullen. |
+| Current events | US struck two Iranian launchers on Larak Island Sun Aug 30 after IRGC prepared to fire rockets carrying sea mines into the Strait of Hormuz — first US strike on Iran since late July; IRGC fired ballistic missiles at King Hussein and al-Azraq bases in Jordan, Jordan intercepted 8 at dawn; month seven of the conflict. Norway: Haakon VIII succeeds Harald V. Ferry capsized off Northern Cyprus, 8 dead / 18 missing. Household squeeze coverage — airfares, buy-now-pay-later delinquencies. Dolly Parton death still dominant. |
+| NOTE | Ran Monday Aug 31 (scheduled task continues to fire on non-Thursdays). First run on the Aug 28–30 box-office frame after five straight sheets on Aug 21–23. King Harald V died the morning of Aug 28 and was missed by v54 — headline obit this run. Djokovic's first-round US Open loss is the biggest single sports item of the week. Aug 31 calendar date had never been used for This Day in History. |
+
+
+_Last updated: August 31, 2026 (v55)_
