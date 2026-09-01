@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 1 | Portugal | Lisbon (older than Rome; rebuilt after the 1755 earthquake) |
+| Sep 1 | Argentina | Buenos Aires ("good airs"; residents are porteños) |
+| Sep 1 | Kyrgyzstan | Bishkek (Frunze 1926–1991; named for a kumis churn paddle) |
+| Sep 1 | Madagascar | Antananarivo ("city of the thousand") |
 | Aug 31 | Canada | Ottawa (chosen by Queen Victoria 1857 as Toronto/Montreal compromise) |
 | Aug 31 | Turkey | Ankara (not Istanbul; moved 1923) |
 | Aug 31 | Belize | Belmopan (built inland after Hurricane Hattie, 1961; ~20,000 people) |
@@ -85,6 +89,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 1 | The Addams Family (1964–66) | Gomez Addams | John Astin |
+| Sep 1 | Lost in Space (1965–68) | Dr. Zachary Smith | Jonathan Harris |
+| Sep 1 | The Bob Newhart Show (1972–78) | Dr. Bob Hartley | Bob Newhart |
+| Sep 1 | Fantasy Island (1977–84) | Mr. Roarke | Ricardo Montalbán |
+| Sep 1 | Cagney & Lacey (1982–88) | Det. Mary Beth Lacey | Tyne Daly |
+| Sep 1 | NYPD Blue (1993–2005) | Det. Andy Sipowicz | Dennis Franz |
 | Aug 31 | The Andy Griffith Show (1960–68) | Deputy Barney Fife | Don Knotts |
 | Aug 31 | The Munsters (1964–66) | Herman Munster | Fred Gwynne |
 | Aug 31 | Dark Shadows (1966–71) | Barnabas Collins | Jonathan Frid |
@@ -176,6 +186,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 1 | "It was the best of times, it was the worst of times" opener | A Tale of Two Cities (1859) — Charles Dickens |
+| Sep 1 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai (Thirty-six Views of Mount Fuji) |
+| Sep 1 | Carmen (1875) composer | Georges Bizet (died three months after the premiere) |
+| Sep 1 | Don Quixote (1605) author | Miguel de Cervantes |
+| Sep 1 | "Do not go gentle into that good night" poet | Dylan Thomas (villanelle for his dying father) |
+| Sep 1 | Beloved (1987) author / first Black woman Nobel laureate in Literature | Toni Morrison (Pulitzer 1988, Nobel 1993) |
 | Aug 31 | The Canterbury Tales author | Geoffrey Chaucer (begun c. 1387, Middle English, unfinished) |
 | Aug 31 | Girl with a Pearl Earring (c.1665) painter | Johannes Vermeer |
 | Aug 31 | The Four Seasons (1725) composer | Antonio Vivaldi ("the Red Priest") |
@@ -266,6 +282,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 1 | Science | Mpemba effect — hot water can freeze faster than cold |
+| Sep 1 | Space | Olympus Mons ~2.5× Everest's height, roughly the footprint of Arizona |
+| Sep 1 | Geography | The Sahara is about the size of the contiguous US (~3.5M sq mi) |
+| Sep 1 | Animals | Sea otters hold hands while sleeping so they don't drift apart |
+| Sep 1 | Body | You're ~half an inch taller in the morning (spinal disc compression) |
+| Sep 1 | Food | Apples float because ~25% of their volume is air |
+| Sep 1 | Language | "Nerd" first appeared in print in Dr. Seuss's If I Ran the Zoo (1950) |
+| Sep 1 | History | Cleopatra lived closer to the Moon landing than to the Great Pyramid |
+| Sep 1 | Sports | The Olympic torch relay was invented for the 1936 Berlin Games |
+| Sep 1 | Pop Culture | The Hollywood sign read HOLLYWOODLAND until 1949 |
+| Sep 1 | Weather | Lightning is ~5× hotter than the Sun's surface (~50,000°F) |
+| Sep 1 | Math | Birthday paradox — 23 people gives ~50% odds of a shared birthday |
+| Sep 1 | Local (Cincinnati) | Spring Grove Cemetery — 2nd largest in the US (~733 acres), registered arboretum |
+| Sep 1 | Reds bar-bet | Pete Rose holds MLB records for hits (4,256), games (3,562) and at-bats (14,053) |
 | Aug 31 | Science | Glass is an amorphous solid, not a slow-flowing liquid |
 | Aug 31 | Space | More trees on Earth (~3T) than stars in the Milky Way (100–400B) |
 | Aug 31 | Geography | Africa is the only continent in all four hemispheres |
@@ -431,6 +461,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 1 | September 1 (Germany invades Poland 1939 — 87th anniv; Titanic wreck found by Ballard/Argo 1985; Bobby Fischer becomes world chess champion in Reykjavík 1972; Emma Nutt becomes first female telephone operator, Boston 1878) |
 | Aug 31 | August 31 (Princess Diana dies in Paris crash 1997 — 29th anniv, Pont de l'Alma tunnel; Gdańsk Agreement signed 1980 creating Solidarity; Charleston SC earthquake ~M7.0 1886, 60+ dead; Malaya independence / Merdeka Day 1957) |
 | Aug 28 | August 28 (March on Washington / MLK "I Have a Dream" 1963 — 63rd anniv, ~250,000 marchers, Mahalia Jackson's "Tell them about the dream"; first radio commercial on WEAF NYC 1922 — Queensboro Realty, $50 for 10 min; Hurricane Katrina hits Cat 5 and New Orleans issues first-ever mandatory evacuation 2005) |
 | Aug 27 | August 27 (Battle of Brooklyn 1776 — 250th anniv; Edwin Drake first US oil well, Titusville PA 1859; Kellogg–Briand Pact signed 1928; Brian Epstein found dead 1967; LBJ born 1908) |
@@ -452,6 +483,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 1 | National Forgiveness Day; National Burnt Ends Day; National Cherry Popover Day; National No Rhyme (Nor Reason) Day; National Chicken Boy Day; Emma M. Nutt Day; Ginger Cat Appreciation Day; American Chess Day; National Hotel Employee Day |
 | Aug 31 | National Trail Mix Day; National Eat Outside Day; National Matchmaker Day; National South Carolina Day; National Diatomaceous Earth Day; Love Litigating Lawyers Day; Merdeka Day (Malaysia, 1957); National Heroes Day (Philippines) |
 | Aug 28 | National Thoughtful Day; Rainbow Bridge Remembrance Day; National Red Wine Day; National Power Rangers Day; National Bow Tie Day; National Cherry Turnover Day |
 | Aug 27 | National Just Because Day; National Petroleum Day; National Banana Lovers Day; National Pots de Crème Day; World Rock Paper Scissors Day; Tarzan Day; International Lottery Day; Lyndon Baines Johnson Day (Texas); Moldova Independence Day (1991); Be Kind to Humankind Week |
@@ -482,6 +514,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 1 | Kevlar | Stephanie Kwolek, DuPont, 1965; 5× stronger than steel by weight |
+| Sep 1 | Starbucks founded | 1971 Pike Place Market, Seattle; named for Moby-Dick's first mate; sold beans only for a decade |
+| Sep 1 | Bubble gum / Dubble Bubble | Walter Diemer, Fleer accountant, 1928; pink was the only dye left on the shelf |
+| Sep 1 | Monopoly | Lizzie Magie's The Landlord's Game, patented 1904; Darrow sold to Parker Bros 1935, Magie paid $500 |
+| Sep 1 | Integrated circuit | Jack Kilby (TI, 1958) & Robert Noyce (Fairchild); Kilby Nobel 2000 |
+| Sep 1 | Cincinnati Bengals founded (Local) | Paul Brown, 1967 — the man fired by the Browns, the team named for him |
 | Aug 31 | Twinkie | James Dewar, 1930, Continental Baking IL; original filling banana |
 | Aug 31 | Chuck E. Cheese founded | Nolan Bushnell (Atari founder), 1977 |
 | Aug 31 | Three-position traffic signal | Garrett Morgan, patented 1923, Cleveland; sold to GE for $40,000 |
@@ -564,6 +602,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 1 | Enter Sandman | Metallica | 1991 |
+| Sep 1 | Say It Ain't So | Weezer | 1994 |
+| Sep 1 | Sex and Candy | Marcy Playground | 1997 |
+| Sep 1 | All the Small Things | blink-182 | 1999 |
+| Sep 1 | Bring Me to Life | Evanescence feat. Paul McCoy | 2003 |
+| Sep 1 | Hey There Delilah | Plain White T's | 2006 |
 | Aug 31 | Losing My Religion | R.E.M. | 1991 |
 | Aug 31 | No Rain | Blind Melon | 1992 |
 | Aug 31 | 1979 | The Smashing Pumpkins | 1995 |
@@ -795,275 +839,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
 | Aug 13 | In da Club | 50 Cent | 2003 |
 | Aug 13 | Kids | MGMT | 2008 |
-
-
-## June 9, 2026 (v22)
-
-### Capitals
-| Jun 9 | Luxembourg | Luxembourg City |
-| Jun 9 | Philippines | Manila |
-| Jun 9 | Jordan | Amman |
-| Jun 9 | Cameroon | Yaoundé |
-
-### Classic TV
-| Jun 9 | Monk (2002–09) | Adrian Monk | Tony Shalhoub |
-| Jun 9 | The Wire (2002–08) | Det. Jimmy McNulty | Dominic West |
-| Jun 9 | Marcus Welby, M.D. (1969–76) | Dr. Marcus Welby | Robert Young |
-| Jun 9 | Barnaby Jones (1973–80) | Barnaby Jones | Buddy Ebsen |
-| Jun 9 | Charmed (1998–2006) | Piper Halliwell | Holly Marie Combs |
-| Jun 9 | The Larry Sanders Show (1992–98) | Larry Sanders | Garry Shandling |
-
-### Arts & Literature
-| Jun 9 | Middlemarch (1871) author | George Eliot (Mary Ann Evans) |
-| Jun 9 | The Thinker sculptor | Auguste Rodin |
-| Jun 9 | Norwegian Wood (1987) author | Haruki Murakami |
-| Jun 9 | Washington Crossing the Delaware painter | Emanuel Leutze |
-| Jun 9 | Midnight's Children (1981) author | Salman Rushdie |
-| Jun 9 | The Kite Runner (2003) author | Khaled Hosseini |
-
-### Founded & Invented
-| Jun 9 | Safety razor patent (1901) | King Camp Gillette |
-| Jun 9 | Phonograph invented (1877) | Thomas Edison |
-| Jun 9 | First commercial airline flight (Jan 1, 1914) | St. Petersburg to Tampa, FL; pilot Tony Jannus; $5 fare |
-| Jun 9 | Wrigley Company (1891) | William Wrigley Jr.; originally sold baking powder; gum was the bonus |
-| Jun 9 | Colgate (1806) | William Colgate; originally soap, starch, and candles |
-| Jun 9 | Ziploc bag (1968) | Dow Chemical |
-
-### General Trivia
-| Jun 9 | Animals | Wolverines ("skunk bears") drive bears/mountain lions from carcasses |
-| Jun 9 | History | Roman Empire peak ~117 AD = ~70M people = ~20% of world population |
-| Jun 9 | Science | Electric eel is not an eel — it's a knifefish; generates up to 860 volts |
-| Jun 9 | Mandela Effect | Monopoly man (Rich Uncle Pennybags) never had a monocle |
-| Jun 9 | Science | Water expands ~9% when freezing — why ice floats, pipes burst |
-| Jun 9 | Geography | Tokyo metro (~37.4M) larger than entire population of Canada (~38M) |
-| Jun 9 | History | Cleopatra spoke 9 languages; first Ptolemaic ruler to learn Egyptian |
-| Jun 9 | Animals | Blue whale heart beats 2–6 times/min when diving deep |
-| Jun 9 | Food | Nutmeg (myristicin) causes hallucinations/toxicity in large doses |
-| Jun 9 | Biology | Human eye distinguishes ~10 million different colors |
-
-### Songs
-| Jun 9 | November Rain | Guns N' Roses | 1991 |
-| Jun 9 | Santeria | Sublime | 1996 |
-| Jun 9 | Teardrop | Massive Attack | 1998 |
-| Jun 9 | Beautiful | Christina Aguilera | 2002 |
-| Jun 9 | Take Me Out | Franz Ferdinand | 2004 |
-| Jun 9 | Chasing Cars | Snow Patrol | 2006 |
-
-### This Day in History
-| Jun 9 | June 9 (Kingsford Smith trans-Pacific 1928; Donald Duck debut 1934; Golan Heights captured 1967; Thatcher reelected 1983; Griffey 600th HR 2010) | — |
-| Jun 9 | National Days: National Donald Duck Day; National Food Truck Day; National Strawberry-Rhubarb Pie Day; International Dark 'n Stormy Day; World Tessellation Day | — |
-
-### Sports / Current Events
-| Jun 9 | Sports | NBA Finals: Knicks lead Spurs 2-1; G3 Spurs 115-111 MSG; Wembanyama 32/8/6; G4 Tue Jun 10 SA |
-| Jun 9 | Sports | NHL SCF: Golden Knights lead Hurricanes 2-1; G3 VGK 5-4 2OT; Marner fastest hat trick in Finals history (28 pts series); G4 tonight LV |
-| Jun 9 | Sports | FIFA World Cup 2026 opens June 11; Mexico vs South Africa at Azteca; first 48-team / 3-nation WC |
-| Jun 9 | Sports | MLB: Misiorowski (Brewers) 103.7 mph — MLB record for a starting pitcher |
-| Jun 9 | Sports | Reds 31-33 .484 NL Central 5th 9.5 GB; L4 streak; @ SD Padres 9:40 PM ET |
-| Jun 9 | Box Office | Scary Movie #1 ~$55M domestic / ~$105.5M global; Masters of Universe #2 ~$31M |
-| Jun 9 | Deaths | Anthony Head (72, Giles/Buffy, June 1); Peabo Bryson (75, R&B, June 2); Marjane Satrapi (56, Persepolis, June 4); Alan Hale (68, comet Hale-Bopp, June 6) |
-
-
-## June 10, 2026 (v23)
-
-### Capitals
-| Jun 10 | Fiji | Suva |
-| Jun 10 | Costa Rica | San José |
-| Jun 10 | Uzbekistan | Tashkent |
-| Jun 10 | Rwanda | Kigali |
-
-### Classic TV
-| Jun 10 | Gomer Pyle, U.S.M.C. (1964–69) | Gomer Pyle | Jim Nabors |
-| Jun 10 | Daniel Boone (1964–70) | Daniel Boone | Fess Parker |
-| Jun 10 | The Virginian (1962–71) | The Virginian | James Drury |
-| Jun 10 | Combat! (1962–67) | Sgt. Chip Saunders | Vic Morrow |
-| Jun 10 | Evening Shade (1990–94) | Wood Newton | Burt Reynolds |
-| Jun 10 | Crime Story (1986–88) | Lt. Mike Torello | Dennis Farina |
-
-### Arts & Literature
-| Jun 10 | The Call of the Wild / White Fang author | Jack London |
-| Jun 10 | Treasure Island author | Robert Louis Stevenson |
-| Jun 10 | "Surprise Symphony" / Father of the Symphony | Joseph Haydn |
-| Jun 10 | "I Wandered Lonely as a Cloud" (daffodils) poet | William Wordsworth |
-| Jun 10 | Around the World in Eighty Days author | Jules Verne |
-| Jun 10 | "View of Toledo" / elongated figures painter | El Greco |
-
-### Founded & Invented
-| Jun 10 | Oreo cookie debut (1912) | Nabisco |
-| Jun 10 | Automatic dishwasher (1886) | Josephine Cochrane |
-| Jun 10 | Dell (1984) | Michael Dell; started in his UT Austin dorm room |
-| Jun 10 | Intel (1968) | Gordon Moore & Robert Noyce |
-| Jun 10 | Sliced bread / bread-slicing machine (1928) | Otto Rohwedder |
-| Jun 10 | Toblerone (1908) | Swiss; hidden bear in the Matterhorn logo |
-
-### General Trivia
-| Jun 10 | Animals | Cows have regional "accents" in their moos |
-| Jun 10 | Did You Know | Vending machines cause more deaths/year on average than sharks |
-| Jun 10 | Pop Culture | Twitter's bird logo was named "Larry," after Larry Bird |
-| Jun 10 | Animals | Crocodiles cannot stick out their tongues |
-| Jun 10 | Food | Pound cake = a pound each of butter, sugar, flour, eggs |
-| Jun 10 | Geography | Point Nemo: ocean's most remote spot; nearest humans often on the ISS |
-| Jun 10 | Geography | Mt. Chimborazo (Ecuador), not Everest, is farthest from Earth's center |
-| Jun 10 | Science | Tungsten has the highest melting point of any metal (~6,192°F) |
-| Jun 10 | Biology | Axolotls regrow limbs, heart parts, even portions of their brain |
-| Jun 10 | Language | Fear of Friday the 13th = paraskevidekatriaphobia |
-
-### Songs
-| Jun 10 | Mr. Brightside | The Killers | 2004 |
-| Jun 10 | Zombie | The Cranberries | 1994 |
-| Jun 10 | Iris | Goo Goo Dolls | 1998 |
-| Jun 10 | Seven Nation Army | The White Stripes | 2003 |
-| Jun 10 | Hey Ya! | OutKast | 2003 |
-| Jun 10 | Crazy | Gnarls Barkley | 2006 |
-
-### This Day in History
-| Jun 10 | June 10 (Alcoholics Anonymous founded 1935; Six-Day War ceasefire 1967; The Sopranos finale 2007) | — |
-| Jun 10 | National Days: National Iced Tea Day; National Ballpoint Pen Day; National Egg Roll Day; National Black Cow Day | — |
-
-### Sports / Current Events
-| Jun 10 | Sports | NBA Finals: Knicks lead Spurs 2-1; G3 Spurs 115-111 MSG; G4 tonight Jun 10 MSG 8:30 ET |
-| Jun 10 | Sports | NHL SCF: Hurricanes-Golden Knights tied 2-2; G4 CAR 5-3 (Staal 2G); G5 Thu Jun 11 Carolina |
-| Jun 10 | Sports | FIFA World Cup opens Jun 11, Mexico vs South Africa at Azteca; Shakira opening ceremony |
-| Jun 10 | Sports | NFL minicamps: AJ Brown PHI->NE; Myles Garrett CLE->LAR; Mahomes record extension thru 2033 |
-| Jun 10 | Sports | NCAA: CWS field set, 8 teams to Omaha (record 5 SEC); starts Fri Jun 12 |
-| Jun 10 | Sports | Tennis: Zverev wins 1st major at French Open (def Cobolli); Mirra Andreeva wins women's |
-| Jun 10 | Sports | Reds 32-34 5th NL Central 9.5 GB; snapped 5-game skid (Stewart 11th-inn HR 5-3); @ SD 4:10 ET |
-| Jun 10 | Box Office | Scary Movie #1 $55M domestic / $105.5M global; Toy Story 5 (Jun 19) & Supergirl (Jun 26) upcoming |
-| Jun 10 | Deaths | Gordon S. Wood (92, historian); Talay Riley (35, singer); Sally Grace (74, actress); Sir John Swan (90, Bermuda premier) |
-
-## June 11, 2026 (v24)
-
-### Capitals
-| Jun 11 | Panama | Panama City |
-| Jun 11 | Zambia | Lusaka |
-| Jun 11 | Syria | Damascus |
-| Jun 11 | Belarus | Minsk |
-
-### Classic TV
-| Jun 11 | Batman (1966–68) | Bruce Wayne / Batman | Adam West |
-| Jun 11 | The Patty Duke Show (1963–66) | Patty & Cathy Lane | Patty Duke |
-| Jun 11 | Hazel (1961–66) | Hazel Burke | Shirley Booth |
-| Jun 11 | Martin (1992–97) | Martin Payne | Martin Lawrence |
-| Jun 11 | Star Trek: Deep Space Nine (1993–99) | Capt. Benjamin Sisko | Avery Brooks |
-| Jun 11 | JAG (1995–2005) | Harmon "Harm" Rabb Jr. | David James Elliott |
-
-### Arts & Literature
-| Jun 11 | The Chronicles of Narnia author | C.S. Lewis |
-| Jun 11 | "Ode on a Grecian Urn" poet | John Keats |
-| Jun 11 | "Luncheon of the Boating Party" painter | Pierre-Auguste Renoir |
-| Jun 11 | "Wedding March" (A Midsummer Night's Dream) composer | Felix Mendelssohn |
-| Jun 11 | The Cherry Orchard / The Seagull playwright | Anton Chekhov |
-| Jun 11 | "Ozymandias" poet | Percy Bysshe Shelley |
-
-### Founded & Invented
-| Jun 11 | Chevrolet (1911) | Louis Chevrolet & William Durant |
-| Jun 11 | Steel plow (1837) | John Deere |
-| Jun 11 | Elevator safety brake (1853) | Elisha Otis |
-| Jun 11 | Three-position traffic signal (1923) | Garrett Morgan |
-| Jun 11 | First ATM / cash machine (1967, London) | John Shepherd-Barron |
-| Jun 11 | Rolex (1905) | Hans Wilsdorf |
-
-### General Trivia
-| Jun 11 | Animals | Slugs have four noses |
-| Jun 11 | Language | "Dreamt" is the only common English word ending in "mt" |
-| Jun 11 | Did You Know | The Statue of Liberty wears a size 879 sandal |
-| Jun 11 | Language | The toothpaste blob on a brush is called a "nurdle" |
-| Jun 11 | Animals | A flock of swooping starlings is a "murmuration" |
-| Jun 11 | Science | Apple seeds contain amygdalin (releases trace cyanide when crushed) |
-| Jun 11 | Animals | Lobsters taste with their legs, smell with their antennae |
-| Jun 11 | Animals | Immortal jellyfish (Turritopsis dohrnii) can revert to an earlier life stage |
-| Jun 11 | History | "Baker's dozen" = 13; extra loaf to avoid penalties for short weight |
-| Jun 11 | Animals | Sea cucumbers expel their organs to defend themselves, then regrow them |
-| Jun 11 | Animals | Cats have a third eyelid (nictitating membrane) |
-| Jun 11 | Language | "Brunch" is a portmanteau first seen in an 1895 British magazine |
-
-### Songs
-| Jun 11 | Smells Like Teen Spirit | Nirvana | 1991 |
-| Jun 11 | Losing My Religion | R.E.M. | 1991 |
-| Jun 11 | Wonderwall | Oasis | 1995 |
-| Jun 11 | No Scrubs | TLC | 1999 |
-| Jun 11 | Smooth | Santana feat. Rob Thomas | 1999 |
-| Jun 11 | Yellow | Coldplay | 2000 |
-
-### This Day in History
-| Jun 11 | June 11 (Committee of Five named 1776; Wallace "schoolhouse door" / U. Alabama desegregated 1963; E.T. opens 1982) | — |
-| Jun 11 | National Days: National Corn on the Cob Day; National German Chocolate Cake Day; King Kamehameha Day (HI); Yarn Bombing Day | — |
-
-### Sports / Current Events
-| Jun 11 | Sports | FIFA World Cup opens today Jun 11 (US/Mexico/Canada co-host); Mexico opener at Estadio Azteca |
-| Jun 11 | Sports | NBA Finals: Knicks lead Spurs 3-1; G4 NYK 107-106 (29-pt comeback); G5 Sat Jun 13 San Antonio |
-| Jun 11 | Sports | NHL SCF: Golden Knights-Hurricanes tied 2-2; G4 CAR 5-3 (Staal 2G); G5 back in Carolina |
-| Jun 11 | Sports | NCAA: Men's CWS opens Fri Jun 12 Omaha; WVU-Troy & UNC-Ole Miss Day 1 (5 SEC teams) |
-| Jun 11 | Sports | NFL minicamps wrapping; Browns Sanders-Watson QB battle; camps break to late July |
-| Jun 11 | Sports | Reds 32-35 5th NL Central 9.5 GB / WC 3.0 back; lost SD finale 5-4; OFF today (home weekend next) |
-| Jun 11 | Box Office | Scary Movie #1 $55M domestic (franchise best) / $105.5M global, $30M budget; Wayans back after 25 yrs |
-| Jun 11 | Deaths | Anthony Head (72, Buffy/Ted Lasso); Marjane Satrapi (56, Persepolis); Ned Jarrett (93, NASCAR); James Handy (81, actor) |
-
-## June 12, 2026 (v25)
-
-### Capitals
-| Jun 12 | India | New Delhi |
-| Jun 12 | Angola | Luanda |
-| Jun 12 | Honduras | Tegucigalpa |
-| Jun 12 | Turkmenistan | Ashgabat |
-
-### Classic TV
-| Jun 12 | Gidget (1965–66) | Gidget (Frances Lawrence) | Sally Field |
-| Jun 12 | That Girl (1966–71) | Ann Marie | Marlo Thomas |
-| Jun 12 | The Monkees (1966–68) | Davy (himself) | Davy Jones |
-| Jun 12 | Space: 1999 (1975–77) | Cdr. John Koenig | Martin Landau |
-| Jun 12 | Fantasy Island (1977–84) | Mr. Roarke | Ricardo Montalbán |
-| Jun 12 | One Day at a Time (1975–84) | Ann Romano | Bonnie Franklin |
-
-### Arts & Literature
-| Jun 12 | First American Nobel Literature laureate (1930); Babbitt / Main Street | Sinclair Lewis |
-| Jun 12 | "Judith Slaying Holofernes" Baroque painter | Artemisia Gentileschi |
-| Jun 12 | "The Entertainer" ragtime composer | Scott Joplin |
-| Jun 12 | First African American to win a Pulitzer (1950, Annie Allen) | Gwendolyn Brooks |
-| Jun 12 | "A Good Man Is Hard to Find" author | Flannery O'Connor |
-| Jun 12 | All the King's Men author | Robert Penn Warren |
-
-### Founded & Invented
-| Jun 12 | Chipotle (1993) | Steve Ells (Denver) |
-| Jun 12 | Implantable cardiac pacemaker | Wilson Greatbatch |
-| Jun 12 | Spanx (2000) | Sara Blakely |
-| Jun 12 | QR code (1994) | Denso Wave / Masahiro Hara |
-| Jun 12 | First network email & "@" address (1971) | Ray Tomlinson |
-| Jun 12 | Trader Joe's (1967) | Joe Coulombe |
-
-### General Trivia
-| Jun 12 | Music | Spain & Bosnia national anthems have no official lyrics |
-| Jun 12 | Law/Animals | Switzerland: owning a single guinea pig can be illegal (social animals need pairs) |
-| Jun 12 | Nature | Total biomass of all ants ≈ total biomass of all humans |
-| Jun 12 | Sports | Tennis balls were white until 1972; switched to "optic yellow" for color TV |
-| Jun 12 | Biology | Some turtles breathe through their cloaca (rear) while hibernating underwater |
-| Jun 12 | Nature | Largest living organism is a honey fungus in Oregon (~3.7 sq mi) |
-| Jun 12 | Science | "Brain freeze" = sphenopalatine ganglioneuralgia |
-| Jun 12 | Anatomy | The "funny bone" is the ulnar nerve, not a bone |
-| Jun 12 | Etymology | The "$" sign likely evolved from the Spanish peso abbreviation |
-| Jun 12 | Language | "Strengths" is among the longest words with a single vowel |
-| Jun 12 | Environment | Recycling one aluminum can = ~3 hours of TV power |
-| Jun 12 | Science | More atoms in a glass of water than glasses of water in all the oceans |
-
-### Songs
-| Jun 12 | Glycerine | Bush | 1994 |
-| Jun 12 | One Headlight | The Wallflowers | 1996 |
-| Jun 12 | Slide | Goo Goo Dolls | 1998 |
-| Jun 12 | Drive | Incubus | 2001 |
-| Jun 12 | How to Save a Life | The Fray | 2005 |
-| Jun 12 | Feel Good Inc. | Gorillaz | 2005 |
-
-### This Day in History
-| Jun 12 | June 12 (Baseball Hall of Fame opens Cooperstown 1939; Medgar Evers assassinated 1963; Reagan "tear down this wall" 1987) | — |
-| Jun 12 | National Days: Loving Day (Loving v. Virginia 1967); Red Rose Day; Peanut Butter Cookie Day; National Jerky Day; International Falafel Day | — |
-
-### Sports / Current Events
-| Jun 12 | Sports | FIFA World Cup underway (48 teams; US/MEX/CAN): Mexico 2-0 South Africa (3 reds), Korea 2-1 Czechia; USMNT opens vs Paraguay tonight |
-| Jun 12 | Sports | NBA Finals: Knicks lead Spurs 3-1 (G4 29-pt comeback, Anunoby tip-in); G5 Sat Jun 13 San Antonio |
-| Jun 12 | Sports | NHL SCF: Hurricanes lead Golden Knights 3-2 (G5 CAR 4-2); can clinch G6 Sun in Las Vegas |
-| Jun 12 | Sports | MLB: Braves best record; Ohtani early Cy Young form; Yankees' Aaron Judge out with rib injury |
-| Jun 12 | Sports | Reds 32-35 5th NL Central 9.5 GB / WC 3.0 back; 1-6 last 7; host Arizona today 7:15 ET (Lodolo vs E. Rodriguez) |
-| Jun 12 | Box Office | Scary Movie #1 $55M domestic / $105.5M global, $30M budget; Wayans return after 25 yrs |
-| Jun 12 | Deaths | Peabo Bryson (75, R&B singer); Rick Adelman (79, NBA coach); Anthony Head (72, Buffy/Ted Lasso); Bill Cody (67, radio DJ) |
 
 
 ## June 17, 2026 (v26)
@@ -2734,4 +2509,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | NOTE | Ran Monday Aug 31 (scheduled task continues to fire on non-Thursdays). First run on the Aug 28–30 box-office frame after five straight sheets on Aug 21–23. King Harald V died the morning of Aug 28 and was missed by v54 — headline obit this run. Djokovic's first-round US Open loss is the biggest single sports item of the week. Aug 31 calendar date had never been used for This Day in History. |
 
 
-_Last updated: August 31, 2026 (v55)_
+
+## September 1, 2026 (v56)
+
+| Item | Detail |
+|------|--------|
+| Reds | 65–73 (.471), 5th NL Central, 20.0 GB behind Milwaukee (85–53). Streak L1, Last 10 4–6. Last 5: W 10–9 @SF (8/26), W 10–8 @CHC (8/28), L 5–17 @CHC (8/29), W 7–5 @CHC (8/30), L 0–5 vs SD (8/31). Today: vs San Diego, 6:40 p.m. ET at GABP. Source: MLB Stats API. |
+| Box office | Spider-Man: Brand New Day, $22.5M weekend ending Aug 30 — fifth straight #1, first since Avatar: Fire and Ash. Domestic ~$892M, #1 film of 2026. The Odyssey passed Deadpool & Wolverine as top R-rated film ever (~$1.35B WW). |
+| Coming this weekend | Onslaught (A24, Adam Wingard); Mayday (Ryan Reynolds/Kenneth Branagh); Cars 20th-anniversary re-release; Dark Hollow (VOD). |
+| Sports | US Open R1 — Alcaraz back from wrist injury beats Safiullin; Sabalenka beats Osorio chasing a 3-peat; Tsitsipas upsets No. 10 Arthur Fils; Sinner out, Djokovic already gone. Golf — Scheffler wins Tour Championship + 2nd FedEx Cup, passes Tiger for career earnings. NFL — cutdown to 53 (1,100+ released; Levis, Neal, Wills cut); season opens Sept 9 Seahawks–Patriots SB rematch; Bengals 3–0 preseason, open vs Tampa Bay. NCAA Week 0 — NAIA Louisiana Christian beats D-I Northwestern State 42–37, a first. MLS — Nashville 4, FC Cincinnati 0 (Aug 29). |
+| Deaths | Peter Cullen 85 (Aug 26, Optimus Prime/Eeyore); Michel Fano 96 (Aug 31); Miguel Zavaleta 71 (Aug 31, Suéter); Stjepan "Jimmy" Stanić 97 (Aug 30); Tony Mundine 75 (Aug 30); Franco Fontana 92 (Aug 29). Carryover: Dolly Parton, King Harald V, Tim Curry. |
+| Current events | John Ternus takes over as Apple CEO today, ending Tim Cook's 15-year run. Las Vegas jury convicts Duane "Keffe D" Davis of orchestrating Tupac Shakur's 1996 killing. Army Secretary Dan Driscoll stepping down. Dow −0.7% to 53,185.90. US–Iran conflict month seven — Larak Island strike Aug 30, Iranian missiles at two Jordan bases. |
+| NOTE | Ran Tuesday Sept 1 (scheduled task continues to fire on non-Thursdays). September 1 had never been used for This Day in History. Box office frame is unchanged from v55 (Aug 28–30) since the next weekend's numbers land Sept 6 — refreshed the angle and added the Sept 4–6 slate instead. Pruned run-detail sections v22–v25 (June 9–12) as older than 12 weeks. |
+
+_Last updated: September 1, 2026 (v56)_
