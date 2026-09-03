@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 3 | Norway | Oslo (Christiania/Kristiania 1624–1925) |
+| Sep 3 | Georgia (country) | Tbilisi ("warm place," named for sulfur hot springs) |
+| Sep 3 | Laos | Vientiane (on the Mekong, across from Thailand) |
+| Sep 3 | Chad | N'Djamena (founded 1900 as Fort-Lamy; renamed 1973) |
 | Sep 1 | Portugal | Lisbon (older than Rome; rebuilt after the 1755 earthquake) |
 | Sep 1 | Argentina | Buenos Aires ("good airs"; residents are porteños) |
 | Sep 1 | Kyrgyzstan | Bishkek (Frunze 1926–1991; named for a kumis churn paddle) |
@@ -89,6 +93,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 3 | The Dick Van Dyke Show (1961–66) | Buddy Sorrell | Morey Amsterdam |
+| Sep 3 | The Man from U.N.C.L.E. (1964–68) | Illya Kuryakin | David McCallum |
+| Sep 3 | Good Times (1974–79) | James Evans Sr. | John Amos |
+| Sep 3 | Laverne & Shirley (1976–83) | Lenny Kosnowski | Michael McKean |
+| Sep 3 | Remington Steele (1982–87) | Laura Holt | Stephanie Zimbalist |
+| Sep 3 | Picket Fences (1992–96) | Sheriff Jimmy Brock | Tom Skerritt |
 | Sep 1 | The Addams Family (1964–66) | Gomez Addams | John Astin |
 | Sep 1 | Lost in Space (1965–68) | Dr. Zachary Smith | Jonathan Harris |
 | Sep 1 | The Bob Newhart Show (1972–78) | Dr. Bob Hartley | Bob Newhart |
@@ -186,6 +196,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 3 | The Metamorphosis (1915) author | Franz Kafka (asked Max Brod to burn the manuscripts) |
+| Sep 3 | Painting that named Impressionism | Impression, Sunrise (1872) — Claude Monet |
+| Sep 3 | 1913 ballet premiere that caused a Paris riot | The Rite of Spring — Igor Stravinsky |
+| Sep 3 | Jane Eyre (1847) author | Charlotte Brontë (pen name Currer Bell) |
+| Sep 3 | The Sound and the Fury (1929) author | William Faulkner (title from Macbeth) |
+| Sep 3 | "Whistler's Mother" real title | Arrangement in Grey and Black No. 1 (1871) — James McNeill Whistler |
 | Sep 1 | "It was the best of times, it was the worst of times" opener | A Tale of Two Cities (1859) — Charles Dickens |
 | Sep 1 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai (Thirty-six Views of Mount Fuji) |
 | Sep 1 | Carmen (1875) composer | Georges Bizet (died three months after the premiere) |
@@ -282,6 +298,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 3 | Science | Triple point — water can boil and freeze simultaneously |
+| Sep 3 | Space | Uranus ~98° axial tilt — poles get 42 yrs light, 42 yrs dark |
+| Sep 3 | Geography | Pacific is shrinking a few cm/yr while the Atlantic grows |
+| Sep 3 | Animals | Sloths hold their breath ~40 min, longer than dolphins (~10) |
+| Sep 3 | Body | The body makes ~25 million new cells every second |
+| Sep 3 | Food | Most restaurant "wasabi" is dyed horseradish; real wasabi fades in ~15 min |
+| Sep 3 | Language | "Muscle" from Latin musculus, "little mouse" |
+| Sep 3 | History | Napoleon was ~5'7" — myth from French vs English inches |
+| Sep 3 | Math | Paper folded 42 times would reach the Moon |
+| Sep 3 | Sports | Every MLB ball rubbed with Lena Blackburne mud from a secret NJ spot |
+| Sep 3 | Pop Culture | Modern Santa image locked in by Haddon Sundblom's Coca-Cola ads, 1931 |
+| Sep 3 | Weather | Petrichor — coined 1964 by two Australian scientists; geosmin |
+| Sep 3 | Local (Cincinnati) | Findlay Market (1855) — oldest continuously operated public market in Ohio |
+| Sep 3 | Reds bar-bet | Team officially named the "Cincinnati Redlegs" 1953–1958 during the Red Scare |
 | Sep 1 | Science | Mpemba effect — hot water can freeze faster than cold |
 | Sep 1 | Space | Olympus Mons ~2.5× Everest's height, roughly the footprint of Arizona |
 | Sep 1 | Geography | The Sahara is about the size of the contiguous US (~3.5M sq mi) |
@@ -461,6 +491,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 3 | September 3 (Treaty of Paris signed 1783 — 243rd anniv; Britain & France declare war on Germany 1939; Viking 2 lands on Mars 1976 — 50th anniv; Sweden's "Dagen H" left-to-right driving switch 1967) |
 | Sep 1 | September 1 (Germany invades Poland 1939 — 87th anniv; Titanic wreck found by Ballard/Argo 1985; Bobby Fischer becomes world chess champion in Reykjavík 1972; Emma Nutt becomes first female telephone operator, Boston 1878) |
 | Aug 31 | August 31 (Princess Diana dies in Paris crash 1997 — 29th anniv, Pont de l'Alma tunnel; Gdańsk Agreement signed 1980 creating Solidarity; Charleston SC earthquake ~M7.0 1886, 60+ dead; Malaya independence / Merdeka Day 1957) |
 | Aug 28 | August 28 (March on Washington / MLK "I Have a Dream" 1963 — 63rd anniv, ~250,000 marchers, Mahalia Jackson's "Tell them about the dream"; first radio commercial on WEAF NYC 1922 — Queensboro Realty, $50 for 10 min; Hurricane Katrina hits Cat 5 and New Orleans issues first-ever mandatory evacuation 2005) |
@@ -483,6 +514,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 3 | National Welsh Rarebit Day; U.S. Bowling League Day; Skyscraper Day (Louis Sullivan's birthday); National Waffle Week (first full week of September) |
 | Sep 1 | National Forgiveness Day; National Burnt Ends Day; National Cherry Popover Day; National No Rhyme (Nor Reason) Day; National Chicken Boy Day; Emma M. Nutt Day; Ginger Cat Appreciation Day; American Chess Day; National Hotel Employee Day |
 | Aug 31 | National Trail Mix Day; National Eat Outside Day; National Matchmaker Day; National South Carolina Day; National Diatomaceous Earth Day; Love Litigating Lawyers Day; Merdeka Day (Malaysia, 1957); National Heroes Day (Philippines) |
 | Aug 28 | National Thoughtful Day; Rainbow Bridge Remembrance Day; National Red Wine Day; National Power Rangers Day; National Bow Tie Day; National Cherry Turnover Day |
@@ -514,6 +546,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 3 | eBay launched (Sept 3, 1995) | Pierre Omidyar, as "AuctionWeb"; first sale a broken laser pointer, $14.83 |
+| Sep 3 | Modern zipper | Gideon Sundback perfected 1913 ("separable fastener"); B.F. Goodrich coined "zipper" 1923 for galoshes |
+| Sep 3 | Super Glue (cyanoacrylate) | Harry Coover, Eastman Kodak, 1942 accident chasing clear gunsights; sold 1958 |
+| Sep 3 | Hasbro founded | 1923, Providence RI, Hassenfeld Brothers; coined "action figure" for G.I. Joe, 1964 |
+| Sep 3 | Stay-tab beverage can | Daniel Cudzik, Reynolds Metals, 1975; replaced Ermal Fraze's 1959 detachable pull-tab |
+| Sep 3 | Fifth Third Bank name (Local) | 1908 Cincinnati merger of Fifth National and Third National banks |
 | Sep 1 | Kevlar | Stephanie Kwolek, DuPont, 1965; 5× stronger than steel by weight |
 | Sep 1 | Starbucks founded | 1971 Pike Place Market, Seattle; named for Moby-Dick's first mate; sold beans only for a decade |
 | Sep 1 | Bubble gum / Dubble Bubble | Walter Diemer, Fleer accountant, 1928; pink was the only dye left on the shelf |
@@ -602,6 +640,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 3 | Two Princes | Spin Doctors | 1993 |
+| Sep 3 | What's Up? | 4 Non Blondes | 1993 |
+| Sep 3 | Gangsta's Paradise | Coolio feat. L.V. | 1995 |
+| Sep 3 | Slide | The Goo Goo Dolls | 1998 |
+| Sep 3 | Smooth | Santana feat. Rob Thomas | 1999 |
+| Sep 3 | Toxic | Britney Spears | 2003 |
 | Sep 1 | Enter Sandman | Metallica | 1991 |
 | Sep 1 | Say It Ain't So | Weezer | 1994 |
 | Sep 1 | Sex and Candy | Marcy Playground | 1997 |
@@ -2522,4 +2566,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | John Ternus takes over as Apple CEO today, ending Tim Cook's 15-year run. Las Vegas jury convicts Duane "Keffe D" Davis of orchestrating Tupac Shakur's 1996 killing. Army Secretary Dan Driscoll stepping down. Dow −0.7% to 53,185.90. US–Iran conflict month seven — Larak Island strike Aug 30, Iranian missiles at two Jordan bases. |
 | NOTE | Ran Tuesday Sept 1 (scheduled task continues to fire on non-Thursdays). September 1 had never been used for This Day in History. Box office frame is unchanged from v55 (Aug 28–30) since the next weekend's numbers land Sept 6 — refreshed the angle and added the Sept 4–6 slate instead. Pruned run-detail sections v22–v25 (June 9–12) as older than 12 weeks. |
 
-_Last updated: September 1, 2026 (v56)_
+
+## September 3, 2026 (v57)
+
+| Item | Detail |
+|------|--------|
+| Reds | 67–73 (.479), 5th NL Central, 20.0 GB behind Milwaukee (87–53); 6.5 back of the last WC spot. Streak W2, Last 10 5–5. Last 5: L 5–17 @CHC (8/29), W 7–5 @CHC (8/30), L 0–5 vs SD (8/31), W 4–3 vs SD (9/1), W 7–3 vs SD (9/2). TODAY: no game (off day); next Fri Sept 4 vs Milwaukee 6:10 p.m. ET at GABP. Splits used: 24–14 one-run, 9–4 extras, 33–46 vs winners. Source: MLB Stats API. |
+| Box office | Frame unchanged (weekend ending Aug 30) for a third straight run — next numbers land Sept 6. Spider-Man: Brand New Day $22.2M, fifth straight #1, ~$892M domestic. FRESH ANGLE this run: it is now #2 all-time domestic, past Endgame ($858.4M), chasing The Force Awakens ($936.7M). #2 The Odyssey $14.3M; #3 Insidious: Out of the Further; #4 The Dog Stars. Whole chart only $69.2M. |
+| Coming this weekend | Sept 4–6: Onslaught (Adam Wingard; Arjona/Hall/Starkey/Biehn, R); By Any Means (Yahya Abdul-Mateen II, Wahlberg as Greg Scarpa, R); Cars 20th-anniversary re-release (G); Tom and Jerry: Forbidden Compass (animated). |
+| Sports | HEADLINE — NBA punishes Clippers (Sept 2): 5 forfeited 1st-rounders 2029–2033, $30M fine, Ballmer suspended 1 yr, Gillian Zucker 1 yr, Lawrence Frank 6 months, Dennis "Uncle Dennis" Robertson 5-yr ban, Kawhi pays NBA $700K; paused Raptors trade can proceed. Tennis: US Open week 1 — Djokovic out in R1 to Mariano Navone (first-ever opening-round slam loss, ends 78-match R1 streak); Alcaraz back from wrist injury; Sabalenka chasing a 3-peat; Gauff in off the Cincinnati title. NFL: rosters at 53; Kirk Cousins named Raiders QB1 over rookie Fernando Mendoza; Bengals 3–0 preseason, open Sept 13 vs Tampa Bay 1 p.m. FOX ("Open In Orange"). NCAA: Week 1 opens tonight; Sat Sept 5 marquee — Clemson at LSU (Lane Kiffin debut, GameDay's 500th road show), Boise State at Oregon, Notre Dame–Wisconsin at Lambeau, Ole Miss–Louisville in Nashville. MLB: Stan Kroenke (new Angels owner) reportedly wants a $2.5B stadium; Devers homered off Skenes. MLS: FC Cincinnati at D.C. United Sat Sept 5 7:30 Apple TV (after 4–0 loss at Nashville Aug 29). Golf: Scheffler's TOUR Championship / 2nd FedExCup. |
+| Deaths | Cassandra Wilson 70 (Sept 1, jazz singer, 2× Grammy); Jean-Paul Rappeneau 94 (Sept 2, Cyrano de Bergerac); Chen Kuan-tai 80 (Sept 2, HK martial arts); Lau Siu Ming 94 (Sept 2, A Chinese Ghost Story); Gracindo Júnior 83 (Sept 2, Brazilian actor); Jimmy Batten 70 (Sept 2, British boxer). Carryover: Peter Cullen, King Harald V. |
+| Current events | US–Iran month seven: strikes exchanged Sept 2–3, CENTCOM hit IRGC sites, Iran claims attacks on US forces in Kuwait/UAE/Jordan/Bahrain/Iraq, US reports no casualties; Trump warns Iran would be "totally wiped out"; Iran claims a US strike hit a wedding, CENTCOM denies. Maduro and wife ask US judge to dismiss drug-trafficking indictment on head-of-state immunity. John Ternus took over as Apple CEO Sept 1. Clippers ruling. Kroenke's Angels purchase. |
+| NOTE | Actually ran on a Thursday for once. Sept 3 had never been used for This Day in History — Viking 2's 50th anniversary and the Treaty of Paris anchored it. eBay's Sept 3, 1995 launch was placed in Founded & Invented to double as a date tie-in. Box-office frame unchanged for a third run (v55/v56/v57) — new angle each time. Pruned thursday-trivia-2026-08-24.html per the 7-file archive window. |
+
+_Last updated: September 3, 2026 (v57)_
