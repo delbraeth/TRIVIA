@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 4 | Mongolia | Ulaanbaatar (coldest national capital on Earth) |
+| Sep 4 | Latvia | Riga (largest Baltic city; Art Nouveau capital) |
+| Sep 4 | Suriname | Paramaribo (South America's only Dutch-speaking country; UNESCO inner city) |
+| Sep 4 | Burkina Faso | Ouagadougou (home of FESPACO, Africa's largest film festival) |
 | Sep 3 | Norway | Oslo (Christiania/Kristiania 1624–1925) |
 | Sep 3 | Georgia (country) | Tbilisi ("warm place," named for sulfur hot springs) |
 | Sep 3 | Laos | Vientiane (on the Mekong, across from Thailand) |
@@ -93,6 +97,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 4 | Green Acres (1965–71) | Oliver Wendell Douglas | Eddie Albert |
+| Sep 4 | Hogan's Heroes (1965–71) | Col. Wilhelm Klink | Werner Klemperer |
+| Sep 4 | Barney Miller (1975–82) | Det. Phil Fish | Abe Vigoda |
+| Sep 4 | Magnum, P.I. (1980–88) | Jonathan Higgins | John Hillerman |
+| Sep 4 | Hill Street Blues (1981–87) | Sgt. Phil Esterhaus | Michael Conrad |
+| Sep 4 | Quantum Leap (1989–93) | Al Calavicci | Dean Stockwell |
 | Sep 3 | The Dick Van Dyke Show (1961–66) | Buddy Sorrell | Morey Amsterdam |
 | Sep 3 | The Man from U.N.C.L.E. (1964–68) | Illya Kuryakin | David McCallum |
 | Sep 3 | Good Times (1974–79) | James Evans Sr. | John Amos |
@@ -196,6 +206,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 4 | Crime and Punishment (1866) author | Fyodor Dostoevsky (written under gambling debts) |
+| Sep 4 | The Persistence of Memory (1931) painter | Salvador Dalí (melting clocks from Camembert) |
+| Sep 4 | "It is a truth universally acknowledged" opener | Pride and Prejudice (1813) — Jane Austen |
+| Sep 4 | "Ride of the Valkyries" / Ring cycle composer | Richard Wagner |
+| Sep 4 | The Old Man and the Sea (1952) author | Ernest Hemingway (Pulitzer 1953, Nobel 1954) |
+| Sep 4 | "The Road Not Taken" poet | Robert Frost |
 | Sep 3 | The Metamorphosis (1915) author | Franz Kafka (asked Max Brod to burn the manuscripts) |
 | Sep 3 | Painting that named Impressionism | Impression, Sunrise (1872) — Claude Monet |
 | Sep 3 | 1913 ballet premiere that caused a Paris riot | The Rite of Spring — Igor Stravinsky |
@@ -298,6 +314,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 4 | Science | Honey never spoils — 3,000-yr-old edible honey in Egyptian tombs |
+| Sep 4 | Space | Saturn is less dense than water — it would float |
+| Sep 4 | Geography | Canada has more lakes than the rest of the world combined |
+| Sep 4 | Animals | Octopus has three hearts and blue blood; the systemic heart stops when it swims |
+| Sep 4 | Body | ~1.3 bacterial cells for every human cell |
+| Sep 4 | Food | Peanuts are legumes, not nuts |
+| Sep 4 | Language | "Quarantine" from Italian quaranta giorni — 40 days |
+| Sep 4 | History | Great Pyramid tallest structure ~3,800 yrs until Lincoln Cathedral (c.1311) |
+| Sep 4 | Math | 52! ≈ 8×10^67 — your shuffle has never happened before |
+| Sep 4 | Sports | Naismith's peach baskets still had bottoms |
+| Sep 4 | Pop Culture | Buzz Lightyear was nearly named "Lunar Larry" |
+| Sep 4 | Weather | A cubic mile of fog holds less than a gallon of water |
+| Sep 4 | Local (Cincinnati) | Union Terminal (1933) largest half-dome in Western Hemisphere; model for Super Friends' Hall of Justice |
+| Sep 4 | Reds bar-bet | First MLB night game, Crosley Field May 24 1935 — FDR pressed the button from the White House |
 | Sep 3 | Science | Triple point — water can boil and freeze simultaneously |
 | Sep 3 | Space | Uranus ~98° axial tilt — poles get 42 yrs light, 42 yrs dark |
 | Sep 3 | Geography | Pacific is shrinking a few cm/yr while the Atlantic grows |
@@ -491,6 +521,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 4 | September 4 (Odoacer deposes Romulus Augustulus 476 — 1,550th anniv, traditional fall of Western Rome; Los Angeles founded by 44 pobladores 1781 — 245th; George Eastman patents roll-film camera & trademarks KODAK 1888; Little Rock Nine blocked by Arkansas National Guard 1957 AND Ford unveils the Edsel on "E-Day" the same day; System of a Down's Toxicity released 2001 — 25th) |
 | Sep 3 | September 3 (Treaty of Paris signed 1783 — 243rd anniv; Britain & France declare war on Germany 1939; Viking 2 lands on Mars 1976 — 50th anniv; Sweden's "Dagen H" left-to-right driving switch 1967) |
 | Sep 1 | September 1 (Germany invades Poland 1939 — 87th anniv; Titanic wreck found by Ballard/Argo 1985; Bobby Fischer becomes world chess champion in Reykjavík 1972; Emma Nutt becomes first female telephone operator, Boston 1878) |
 | Aug 31 | August 31 (Princess Diana dies in Paris crash 1997 — 29th anniv, Pont de l'Alma tunnel; Gdańsk Agreement signed 1980 creating Solidarity; Charleston SC earthquake ~M7.0 1886, 60+ dead; Malaya independence / Merdeka Day 1957) |
@@ -514,6 +545,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 4 | National Wildlife Day; National Newspaper Carrier Day; National Macadamia Nut Day; National Spice Blend Day; National Blood Donation Day; National Food Bank Day; National Lazy Mom's Day; National Chianti Day; National College Colors Day (Friday before Labor Day); World Sexual Health Day; National Waffle Week |
 | Sep 3 | National Welsh Rarebit Day; U.S. Bowling League Day; Skyscraper Day (Louis Sullivan's birthday); National Waffle Week (first full week of September) |
 | Sep 1 | National Forgiveness Day; National Burnt Ends Day; National Cherry Popover Day; National No Rhyme (Nor Reason) Day; National Chicken Boy Day; Emma M. Nutt Day; Ginger Cat Appreciation Day; American Chess Day; National Hotel Employee Day |
 | Aug 31 | National Trail Mix Day; National Eat Outside Day; National Matchmaker Day; National South Carolina Day; National Diatomaceous Earth Day; Love Litigating Lawyers Day; Merdeka Day (Malaysia, 1957); National Heroes Day (Philippines) |
@@ -546,6 +578,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 4 | Microwave oven | Percy Spencer, Raytheon, 1945 — melted candy bar near a magnetron; 1947 Radarange ~750 lbs |
+| Sep 4 | Nintendo founded | 1889, Kyoto, Fusajiro Yamauchi — hanafuda playing cards |
+| Sep 4 | Velcro | George de Mestral, 1941 burdock burrs; name = velours + crochet |
+| Sep 4 | Blue jeans / riveted denim | Levi Strauss + tailor Jacob Davis, patent May 20, 1873 |
+| Sep 4 | Roll-film camera / Kodak | George Eastman, patented Sept 4, 1888 (date tie-in); "You press the button, we do the rest" |
+| Sep 4 | Kroger founded (Local) | Barney Kroger, 1883, Pearl Street Cincinnati, $372 life savings |
 | Sep 3 | eBay launched (Sept 3, 1995) | Pierre Omidyar, as "AuctionWeb"; first sale a broken laser pointer, $14.83 |
 | Sep 3 | Modern zipper | Gideon Sundback perfected 1913 ("separable fastener"); B.F. Goodrich coined "zipper" 1923 for galoshes |
 | Sep 3 | Super Glue (cyanoacrylate) | Harry Coover, Eastman Kodak, 1942 accident chasing clear gunsights; sold 1958 |
@@ -640,6 +678,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 4 | Jeremy | Pearl Jam | 1992 |
+| Sep 4 | Song 2 | Blur | 1997 |
+| Sep 4 | I Want It That Way | Backstreet Boys | 1999 |
+| Sep 4 | Kryptonite | 3 Doors Down | 2000 |
+| Sep 4 | Chop Suey! | System of a Down | 2001 |
+| Sep 4 | Kids | MGMT | 2008 |
 | Sep 3 | Two Princes | Spin Doctors | 1993 |
 | Sep 3 | What's Up? | 4 Non Blondes | 1993 |
 | Sep 3 | Gangsta's Paradise | Coolio feat. L.V. | 1995 |
@@ -2579,4 +2623,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | US–Iran month seven: strikes exchanged Sept 2–3, CENTCOM hit IRGC sites, Iran claims attacks on US forces in Kuwait/UAE/Jordan/Bahrain/Iraq, US reports no casualties; Trump warns Iran would be "totally wiped out"; Iran claims a US strike hit a wedding, CENTCOM denies. Maduro and wife ask US judge to dismiss drug-trafficking indictment on head-of-state immunity. John Ternus took over as Apple CEO Sept 1. Clippers ruling. Kroenke's Angels purchase. |
 | NOTE | Actually ran on a Thursday for once. Sept 3 had never been used for This Day in History — Viking 2's 50th anniversary and the Treaty of Paris anchored it. eBay's Sept 3, 1995 launch was placed in Founded & Invented to double as a date tie-in. Box-office frame unchanged for a third run (v55/v56/v57) — new angle each time. Pruned thursday-trivia-2026-08-24.html per the 7-file archive window. |
 
-_Last updated: September 3, 2026 (v57)_
+
+## September 4, 2026 (v58)
+
+| Item | Detail |
+|------|--------|
+| Reds | 67–73 (.479), 5th NL Central, 19.5 GB behind Milwaukee (87–54, best record in the NL). Streak W2, Last 10 5–5. Last 5: L 5–17 @CHC (8/29), W 7–5 @CHC (8/30), L 0–5 vs SD (8/31), W 4–3 vs SD (9/1), W 7–3 vs SD (9/2). TODAY: vs Milwaukee Brewers 6:10 p.m. ET at GABP. Source: MLB Stats API. |
+| Box office | Frame STILL Aug 28–30 for a FOURTH straight run (next numbers land Sept 6). Spider-Man: Brand New Day $22.2M, 5th straight #1, ~$892M domestic. FRESH ANGLE v58: it is projected to take the 4-day Labor Day frame (~$22M) for a SIXTH consecutive #1 — only Avatar: Fire and Ash has managed a comparable streak in 2026. New openers tracking soft: By Any Means ~$5.5M, Onslaught ~$3M. |
+| Coming this weekend | Sept 4–6 (now actually opening): Onslaught (A24, Adam Wingard); By Any Means (Paramount, Abdul-Mateen II / Wahlberg); Cars 20th-anniversary re-release; Tom and Jerry: Forbidden Compass. |
+| Sports | HEADLINE — US Open R2 Thursday Sept 3: Khachanov upsets No. 3 Auger-Aliassime (played "dizzy & seeing spots"); van de Zandschulp stuns No. 6 de Minaur in straights; No. 1 Zverev survives Halys in five (second straight 5-setter); Fritz beats Bellucci 6-0 6-1 6-1; GAËL MONFILS' Grand Slam career ends, beaten by Learner Tien, hero's farewell. NFL: season opens WEDNESDAY Sept 9, Patriots at Seahawks 8:20 NBC — SB rematch, only 2nd non-Thursday Kickoff Game ever; Bengals open Sept 13 vs Tampa Bay 1pm FOX. GOLF (fresh): Presidents Cup rosters announced Sept 1 — US picks Schauffele, JT, Cantlay, Gotterup, Bridgeman, 21-yr-old Jackson Koivun; Internationals Conners, Echavarría, Im, Hisatsune, Taylor, Bezuidenhout; Medinah Sept 22–27. NBA: Clippers penalties (carryover). NCAA: Week 1 opened Thu with Colorado at Georgia Tech; Sat — Clemson at LSU (Kiffin debut), Boise St at Oregon, ND–Wisconsin at Lambeau. MLS: FC Cincinnati at D.C. United Sat 7:30 Apple TV. |
+| Deaths | LEAD — GLORIA STEINEM, 92 (d. Sept 2, announced Sept 3, NYC) — Ms. magazine co-founder, face of second-wave feminism, 1963 Playboy Bunny exposé. Also: Ada Yonath 87 (2009 Nobel in Chemistry, ribosome structure); Édouard Balladur 97 (French PM 1993–95); Cassandra Wilson 70 (Sept 1); Jean-Paul Rappeneau 94 (Sept 2); Jerry Stovall 85 (LSU CFB HOF); Franco Fontana 92 (Aug 29); Larry Christenson 72 (Aug 28). Carryover: King Harald V. NOT USED — Shelley Fabares (82) died Aug 22, outside the 7-day window. Carla Jeffery report unverified, omitted. |
+| Current events | US–Iran month seven, "we are stalled" — Iran drones at Kuwait and Bahrain a second straight night; Iran alleges a US missile hit a wedding (4 dead, 60+ wounded per Red Crescent), CENTCOM denies; VP Vance briefed Sept 3 and refused a timeline. Steinem's death leading US coverage. Maduro asks judge to dismiss drug indictment on head-of-state immunity. John Ternus Apple CEO since Sept 1. Food-safety and vaccine-guidance fights; data-center backlash push. Labor Day weekend. |
+| NOTE | Ran Friday Sept 4 (scheduled task continues to fire on non-Thursdays). Sept 4 had never been used for This Day in History — anchored by the 1,550th anniversary of the fall of the Western Roman Empire, LA's 245th, and Eastman's Kodak patent, which doubles as a Founded & Invented date tie-in. Chop Suey! chosen partly because Toxicity turned 25 today. Fourth consecutive run on the Aug 28–30 box-office frame; new angle each time (this one: the projected 6th straight #1). Pruned thursday-trivia-2026-08-25.html per the 7-file archive window. |
+
+_Last updated: September 4, 2026 (v58)_
