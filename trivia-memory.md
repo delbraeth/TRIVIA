@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 7 | Cuba | Havana (founded 1519; largest Caribbean city; UNESCO old town) |
+| Sep 7 | Albania | Tirana (Edi Rama had communist-era blocks painted in bright colors) |
+| Sep 7 | Malta | Valletta (built by Knights of St. John after the 1565 siege; whole city UNESCO) |
+| Sep 7 | Mozambique | Maputo (Lourenço Marques until 1975) |
 | Sep 4 | Mongolia | Ulaanbaatar (coldest national capital on Earth) |
 | Sep 4 | Latvia | Riga (largest Baltic city; Art Nouveau capital) |
 | Sep 4 | Suriname | Paramaribo (South America's only Dutch-speaking country; UNESCO inner city) |
@@ -97,6 +101,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 7 | Gilligan's Island (1964–67) | Thurston Howell III | Jim Backus |
+| Sep 7 | Welcome Back, Kotter (1975–79) | Vinnie Barbarino | John Travolta |
+| Sep 7 | Diff'rent Strokes (1978–86) | Philip Drummond | Conrad Bain |
+| Sep 7 | Murphy Brown (1988–98) | Murphy Brown | Candice Bergen |
+| Sep 7 | Law & Order (1990–2010) | Det. Lennie Briscoe | Jerry Orbach |
+| Sep 7 | Frasier (1993–2004) | Dr. Niles Crane | David Hyde Pierce |
 | Sep 4 | Green Acres (1965–71) | Oliver Wendell Douglas | Eddie Albert |
 | Sep 4 | Hogan's Heroes (1965–71) | Col. Wilhelm Klink | Werner Klemperer |
 | Sep 4 | Barney Miller (1975–82) | Det. Phil Fish | Abe Vigoda |
@@ -206,6 +216,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 7 | The Kiss (1907–08) painter | Gustav Klimt (real gold leaf; Vienna Golden Phase) |
+| Sep 7 | Lord of the Flies (1954) author | William Golding (Nobel 1983; ~20 rejections) |
+| Sep 7 | Messiah / "Hallelujah" chorus composer | George Frideric Handel (written in ~24 days, 1741; premiered Dublin) |
+| Sep 7 | 1922 novel of one Dublin day (Bloomsday) | Ulysses — James Joyce |
+| Sep 7 | I Know Why the Caged Bird Sings (1969) author | Maya Angelou ("On the Pulse of Morning," 1993 inauguration) |
+| Sep 7 | The Garden of Earthly Delights painter | Hieronymus Bosch (c. 1500 triptych) |
 | Sep 4 | Crime and Punishment (1866) author | Fyodor Dostoevsky (written under gambling debts) |
 | Sep 4 | The Persistence of Memory (1931) painter | Salvador Dalí (melting clocks from Camembert) |
 | Sep 4 | "It is a truth universally acknowledged" opener | Pride and Prejudice (1813) — Jane Austen |
@@ -314,6 +330,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 7 | Science | Gallium melts at 85°F — melts in your hand ("disappearing spoon") |
+| Sep 7 | Space | The Sun holds 99.86% of the solar system's mass |
+| Sep 7 | Geography | Dead Sea shore = lowest dry land, ~1,410 ft below sea level, dropping ~3 ft/yr |
+| Sep 7 | Body | Strongest muscle by weight is the masseter (jaw) |
+| Sep 7 | Language | "Nice" originally meant ignorant, from Latin nescius |
+| Sep 7 | History | Statue of Liberty was copper-brown in 1886; ~30 yrs to turn green |
+| Sep 7 | Math | "Googol" coined by 9-year-old Milton Sirotta, nephew of Edward Kasner |
+| Sep 7 | Sports | Golf banned in Scotland 1457 by James II (interfered with archery); re-banned 1471, 1491 |
+| Sep 7 | Pop Culture | Bob Ross painted every Joy of Painting piece three times |
+| Sep 7 | Weather | Largest US hailstone: Vivian SD, July 2010 — 8 in across, ~2 lbs |
+| Sep 7 | Food | Pineapple tongue-tingle = bromelain, a protein-digesting enzyme |
+| Sep 7 | Animals | Collective nouns: smack of jellyfish, prickle of porcupines, business of ferrets |
+| Sep 7 | Local (Cincinnati) | First fully paid professional fire department in the US, 1853 (volunteer companies kept brawling) |
+| Sep 7 | Reds bar-bet | Johnny Bench could hold seven baseballs in one hand |
 | Sep 4 | Science | Honey never spoils — 3,000-yr-old edible honey in Egyptian tombs |
 | Sep 4 | Space | Saturn is less dense than water — it would float |
 | Sep 4 | Geography | Canada has more lakes than the rest of the world combined |
@@ -521,6 +551,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 7 | September 7 (last known thylacine "Benjamin" dies at Hobart's Beaumaris Zoo 1936 — 90th anniv, basis of Australia's National Threatened Species Day; ESPN launches from Bristol CT 1979, first broadcast SportsCenter, founder Bill Rasmussen; "Uncle Sam" first in print in the Troy Post 1813, from meatpacker Samuel Wilson; Elizabeth I born at Greenwich 1533) |
 | Sep 4 | September 4 (Odoacer deposes Romulus Augustulus 476 — 1,550th anniv, traditional fall of Western Rome; Los Angeles founded by 44 pobladores 1781 — 245th; George Eastman patents roll-film camera & trademarks KODAK 1888; Little Rock Nine blocked by Arkansas National Guard 1957 AND Ford unveils the Edsel on "E-Day" the same day; System of a Down's Toxicity released 2001 — 25th) |
 | Sep 3 | September 3 (Treaty of Paris signed 1783 — 243rd anniv; Britain & France declare war on Germany 1939; Viking 2 lands on Mars 1976 — 50th anniv; Sweden's "Dagen H" left-to-right driving switch 1967) |
 | Sep 1 | September 1 (Germany invades Poland 1939 — 87th anniv; Titanic wreck found by Ballard/Argo 1985; Bobby Fischer becomes world chess champion in Reykjavík 1972; Emma Nutt becomes first female telephone operator, Boston 1878) |
@@ -545,6 +576,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 7 | Labor Day (first Monday in September); National Beer Lover's Day; Salami Day; National Acorn Squash Day; National Grandma Moses Day; National Neither Snow Nor Rain Day; National Threatened Species Day (Australia); Mouthguard Day; National Feel the Love Day |
 | Sep 4 | National Wildlife Day; National Newspaper Carrier Day; National Macadamia Nut Day; National Spice Blend Day; National Blood Donation Day; National Food Bank Day; National Lazy Mom's Day; National Chianti Day; National College Colors Day (Friday before Labor Day); World Sexual Health Day; National Waffle Week |
 | Sep 3 | National Welsh Rarebit Day; U.S. Bowling League Day; Skyscraper Day (Louis Sullivan's birthday); National Waffle Week (first full week of September) |
 | Sep 1 | National Forgiveness Day; National Burnt Ends Day; National Cherry Popover Day; National No Rhyme (Nor Reason) Day; National Chicken Boy Day; Emma M. Nutt Day; Ginger Cat Appreciation Day; American Chess Day; National Hotel Employee Day |
@@ -578,6 +610,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 7 | Shopping cart | Sylvan Goldman, 1937, Oklahoma City; hired actors to push them because shoppers refused |
+| Sep 7 | Wiffle Ball | David Mullany, 1953, Fairfield CT; name from "whiff" |
+| Sep 7 | Tupperware | Earl Tupper 1946; Brownie Wise invented the home party, then Tupper fired her |
+| Sep 7 | ATM | John Shepherd-Barron, Barclays Enfield 1967; 4-digit PIN because of his wife |
+| Sep 7 | Rubik's Cube | Ernő Rubik, 1974 — architecture professor; took him a month to solve it |
+| Sep 7 | King Records (Local) | Syd Nathan, 1943, Evanston Cincinnati; James Brown Live at the Apollo; integrated staff |
 | Sep 4 | Microwave oven | Percy Spencer, Raytheon, 1945 — melted candy bar near a magnetron; 1947 Radarange ~750 lbs |
 | Sep 4 | Nintendo founded | 1889, Kyoto, Fusajiro Yamauchi — hanafuda playing cards |
 | Sep 4 | Velcro | George de Mestral, 1941 burdock burrs; name = velours + crochet |
@@ -678,6 +716,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 7 | Wannabe | Spice Girls | 1996 |
+| Sep 7 | MMMBop | Hanson | 1997 |
+| Sep 7 | Beautiful Day | U2 | 2000 |
+| Sep 7 | Umbrella | Rihanna feat. JAY-Z | 2007 |
+| Sep 7 | I Gotta Feeling | The Black Eyed Peas | 2009 |
+| Sep 7 | TiK ToK | Kesha | 2009 |
 | Sep 4 | Jeremy | Pearl Jam | 1992 |
 | Sep 4 | Song 2 | Blur | 1997 |
 | Sep 4 | I Want It That Way | Backstreet Boys | 1999 |
@@ -2636,4 +2680,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | US–Iran month seven, "we are stalled" — Iran drones at Kuwait and Bahrain a second straight night; Iran alleges a US missile hit a wedding (4 dead, 60+ wounded per Red Crescent), CENTCOM denies; VP Vance briefed Sept 3 and refused a timeline. Steinem's death leading US coverage. Maduro asks judge to dismiss drug indictment on head-of-state immunity. John Ternus Apple CEO since Sept 1. Food-safety and vaccine-guidance fights; data-center backlash push. Labor Day weekend. |
 | NOTE | Ran Friday Sept 4 (scheduled task continues to fire on non-Thursdays). Sept 4 had never been used for This Day in History — anchored by the 1,550th anniversary of the fall of the Western Roman Empire, LA's 245th, and Eastman's Kodak patent, which doubles as a Founded & Invented date tie-in. Chop Suey! chosen partly because Toxicity turned 25 today. Fourth consecutive run on the Aug 28–30 box-office frame; new angle each time (this one: the projected 6th straight #1). Pruned thursday-trivia-2026-08-25.html per the 7-file archive window. |
 
-_Last updated: September 4, 2026 (v58)_
+---
+
+## September 7, 2026 (v59)
+
+| Section | Notes |
+|---------|-------|
+| Reds | 69–74 (.483), 5th NL Central, 18.5 GB — verified via MLB Stats API. Streak W2, L10 7–3 (best stretch of the year). Last 5 oldest→newest: 9/1 W 4–3 SD, 9/2 W 7–3 SD, 9/4 L 7–10 MIL, 9/5 W 5–3 MIL, 9/6 W 12–8 MIL. Today: at LA Dodgers 9:10 p.m. ET. Brewers 88–56 lead division. |
+| Box Office | Spider-Man: Brand New Day #1, $18.0M Labor Day weekend, SIXTH straight #1, $917.8M domestic in 38 days. NEW ANGLE: last superhero film with six straight #1s was Black Panther (2018); ~$80M from becoming 5th film ever to clear $1B domestic; only -20% on a holiday frame. #2 The Odyssey $13.0M ($584.8M), #3 Coyote vs. Acme $11.3M (-29%), #4 By Any Means $7.4M (new), #5 Insidious: Out of the Further $6.5M, #6 Cars 20th-anniv re-release $6.1M. Weekend total $82.8M / 31 films. Coming Sept 11–13: The Uprising (Greengrass/Garfield, Focus, 1381 Peasants' Revolt), Practical Magic 2 (Bier; Bullock & Kidman), Oasis: Don't Look Back in Anger (Disney doc), Runner (Angel), The Fix (Briarcliff). |
+| Sports | Tennis: US Open R16 — Alcaraz d. Tommy Paul 6-4 6-3 6-4; THREE American men in the QF (Tiafoe d. Medvedev, 10–0 at Louis Armstrong; Shelton d. Tsitsipas; unseeded Alex Michelsen, first unseeded man this century to reach US Open QF without dropping a set). Women: Sabalenka, Pegula, Noskova, Navarro through; men's final Sept 13. NFL: season opens Wed Sept 9 Patriots at Seahawks (NBC/Peacock, Super Bowl rematch, 2nd Kickoff Game ever not on a Thursday); Bengals open Sun Sept 13 vs Tampa Bay 1 p.m. FOX; Goodell signs extension; Giants extend Jameis Winston 2yr/$13M. NCAA Wk1: LSU 51 Clemson 10 (Kiffin's SEC debut); Notre Dame 41 Wisconsin 13 at Lambeau (28–3 2nd half); UMass 37 Rutgers 21 as 29-pt dogs — biggest upset since 2024. NHL: 2026–27 schedule out, opens Sept 29 CAR-FLA and TOR-MTL. Golf: quiet week, Presidents Cup Medinah Sept 22–27. FIBA Women's World Cup: USA held off Italy by 3. |
+| Deaths | LEAD — ROBIN MORGAN, 85 (Sept 5) — Sisterhood Is Powerful, founding editor of Ms., died three days after Gloria Steinem. Also: Wendell Berry 92 (Aug 31, Kentucky agrarian poet/novelist); Joe Morgan 95 (Sept 6 — the RED SOX MANAGER, "Morgan Magic" 1988, NOT the Big Red Machine 2B who died 2020); Edward Field 102 (Sept 6, poet, 1963 Lamont Prize); Andy Williams 48 (Sept 5, Every Time I Die guitarist / AEW's "The Butcher"); Erni Mangold 99 (Sept 5); Michael Mendl 82 (Sept 5); Bill Dundee 82 (Sept 6); Shirley Strum Kenny 92 (Sept 5). NOT USED — Hayden Panettiere report could not be date-verified; omitted. |
+| Current events | Iran war past day 190: Tehran slams US strikes on oil tankers and vows response; IRGC claims new attacks on US warships over the naval blockade; Trump says US may hit "Pickaxe Mountain" nuclear site "very soon"; Strait of Hormuz shipping still disrupted. Lebanon: 7+ killed, 20+ injured in Israeli strikes in the south. Germany: AfD heading for record result in Saxony-Anhalt. Ukraine: US says it sees progress toward a diplomatic resolution. Labor Day. John Ternus's first week as Apple CEO; Maduro immunity motion. |
+| NOTE | Ran MONDAY Sept 7 (Labor Day) — scheduled task continues to fire on non-Thursdays. Sept 7 had never been used for This Day in History; anchored on the 90th anniversary of the last thylacine, which also explains National Threatened Species Day in the same card. Memory log is now dense enough that most obvious capitals/TV/arts/founded/music picks were already burned — needed 3 rounds of candidate generation. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple IDs from the iTunes Search API. Pruned thursday-trivia-2026-08-26.html per the 7-file archive window. |
+
+_Last updated: September 7, 2026 (v59)_
