@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 8 | Finland | Helsinki (founded 1550 by Gustav I of Sweden to rival Tallinn) |
+| Sep 8 | Uzbekistan | Tashkent (largest city in Central Asia; only Central Asian city with a subway) |
+| Sep 8 | Zimbabwe | Harare (Salisbury until 1982) |
+| Sep 8 | Nicaragua | Managua (chosen 1852 as compromise between León and Granada) |
 | Sep 7 | Cuba | Havana (founded 1519; largest Caribbean city; UNESCO old town) |
 | Sep 7 | Albania | Tirana (Edi Rama had communist-era blocks painted in bright colors) |
 | Sep 7 | Malta | Valletta (built by Knights of St. John after the 1565 siege; whole city UNESCO) |
@@ -101,6 +105,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 8 | Adam-12 (1968–75) | Officer Pete Malloy | Martin Milner (also Route 66) |
+| Sep 8 | Emergency! (1972–79) | Paramedic Johnny Gage | Randolph Mantooth |
+| Sep 8 | Alice (1976–85) | Flo Castleberry ("Kiss my grits!") | Polly Holliday |
+| Sep 8 | Hawaii Five-O (1968–80) | Steve McGarrett | Jack Lord |
+| Sep 8 | Dynasty (1981–89) | Alexis Colby | Joan Collins (joined S2) |
+| Sep 8 | The Prisoner (1967–68) | Number Six | Patrick McGoohan (also co-creator) |
 | Sep 7 | Gilligan's Island (1964–67) | Thurston Howell III | Jim Backus |
 | Sep 7 | Welcome Back, Kotter (1975–79) | Vinnie Barbarino | John Travolta |
 | Sep 7 | Diff'rent Strokes (1978–86) | Philip Drummond | Conrad Bain |
@@ -216,6 +226,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 8 | Las Meninas (1656) painter | Diego Velázquez |
+| Sep 8 | Heart of Darkness (1899) author | Joseph Conrad |
+| Sep 8 | Eine kleine Nachtmusik / Requiem composer | Mozart |
+| Sep 8 | "Mrs. Dalloway said she would buy the flowers herself" opener | Mrs Dalloway (1925), Virginia Woolf |
+| Sep 8 | Christina's World (1948) painter | Andrew Wyeth |
+| Sep 8 | A Sunday Afternoon on the Island of La Grande Jatte painter | Georges Seurat |
 | Sep 7 | The Kiss (1907–08) painter | Gustav Klimt (real gold leaf; Vienna Golden Phase) |
 | Sep 7 | Lord of the Flies (1954) author | William Golding (Nobel 1983; ~20 rejections) |
 | Sep 7 | Messiah / "Hallelujah" chorus composer | George Frideric Handel (written in ~24 days, 1741; premiered Dublin) |
@@ -330,6 +346,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 8 | Space | Teaspoon of neutron-star material ≈ 6 billion tons |
+| Sep 8 | Geography | Istanbul only major city on two continents |
+| Sep 8 | Animals | Tardigrades survived vacuum of space (2007 ESA mission) |
+| Sep 8 | Body | Babies ~300 bones vs 206 in adults |
+| Sep 8 | Food | Ketchup sold as medicine in the 1830s (tomato pills) |
+| Sep 8 | Language | "Typewriter" types on the QWERTY top row only |
+| Sep 8 | History | Eiffel Tower was to be dismantled after 20 yrs; saved as a radio antenna |
+| Sep 8 | Sports | Olympic golds are mostly silver; last solid gold 1912 |
+| Sep 8 | Pop Culture | "Happy Birthday" copyright voided 2016, $14M settlement |
+| Sep 8 | Did You Know | Shortest commercial flight: Westray–Papa Westray, ~90 seconds |
+| Sep 8 | Local (Cincinnati) | Ingalls Building (1903) — world's first concrete-frame skyscraper, 4th & Vine |
+| Sep 8 | Reds bar-bet | Hank Aaron's 714th (Ruth-tying) HR hit in Cincinnati, Opening Day 4/4/1974 off Jack Billingham |
 | Sep 7 | Science | Gallium melts at 85°F — melts in your hand ("disappearing spoon") |
 | Sep 7 | Space | The Sun holds 99.86% of the solar system's mass |
 | Sep 7 | Geography | Dead Sea shore = lowest dry land, ~1,410 ft below sea level, dropping ~3 ft/yr |
@@ -551,6 +579,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 8 | September 8 (Star Trek premieres on NBC 1966 — 60th anniv, "The Man Trap"; Ford pardons Nixon 1974; Galveston hurricane 1900 ~8,000 dead; Michelangelo's David unveiled in Florence 1504) |
 | Sep 7 | September 7 (last known thylacine "Benjamin" dies at Hobart's Beaumaris Zoo 1936 — 90th anniv, basis of Australia's National Threatened Species Day; ESPN launches from Bristol CT 1979, first broadcast SportsCenter, founder Bill Rasmussen; "Uncle Sam" first in print in the Troy Post 1813, from meatpacker Samuel Wilson; Elizabeth I born at Greenwich 1533) |
 | Sep 4 | September 4 (Odoacer deposes Romulus Augustulus 476 — 1,550th anniv, traditional fall of Western Rome; Los Angeles founded by 44 pobladores 1781 — 245th; George Eastman patents roll-film camera & trademarks KODAK 1888; Little Rock Nine blocked by Arkansas National Guard 1957 AND Ford unveils the Edsel on "E-Day" the same day; System of a Down's Toxicity released 2001 — 25th) |
 | Sep 3 | September 3 (Treaty of Paris signed 1783 — 243rd anniv; Britain & France declare war on Germany 1939; Viking 2 lands on Mars 1976 — 50th anniv; Sweden's "Dagen H" left-to-right driving switch 1967) |
@@ -576,6 +605,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 8 | Star Trek Day; International Literacy Day (UNESCO); World Ampersand Day; National Ants on a Log Day; National Iguana Awareness Day; National Dog Walker Appreciation Day; National Waffle Week |
 | Sep 7 | Labor Day (first Monday in September); National Beer Lover's Day; Salami Day; National Acorn Squash Day; National Grandma Moses Day; National Neither Snow Nor Rain Day; National Threatened Species Day (Australia); Mouthguard Day; National Feel the Love Day |
 | Sep 4 | National Wildlife Day; National Newspaper Carrier Day; National Macadamia Nut Day; National Spice Blend Day; National Blood Donation Day; National Food Bank Day; National Lazy Mom's Day; National Chianti Day; National College Colors Day (Friday before Labor Day); World Sexual Health Day; National Waffle Week |
 | Sep 3 | National Welsh Rarebit Day; U.S. Bowling League Day; Skyscraper Day (Louis Sullivan's birthday); National Waffle Week (first full week of September) |
@@ -610,6 +640,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 8 | Air conditioning | Willis Carrier 1902 — humidity control for a Brooklyn printing plant |
+| Sep 8 | "Escalator" word origin | Otis/Seeberger trademark c.1900, later ruled generic; Jesse Reno 1892 Coney Island ride |
+| Sep 8 | McDonald's founded | 1940 San Bernardino (McDonald brothers); Ray Kroc franchise 1955, bought out 1961 |
+| Sep 8 | Bluetooth name origin | Harald "Bluetooth" Gormsson; logo = his runic initials |
+| Sep 8 | Kool-Aid | Edwin Perkins, Hastings NE, 1927 |
+| Sep 8 | Cincinnati Zoo opened (Local) | 1875 — 2nd-oldest US zoo; Martha the last passenger pigeon died there 1914 |
 | Sep 7 | Shopping cart | Sylvan Goldman, 1937, Oklahoma City; hired actors to push them because shoppers refused |
 | Sep 7 | Wiffle Ball | David Mullany, 1953, Fairfield CT; name from "whiff" |
 | Sep 7 | Tupperware | Earl Tupper 1946; Brownie Wise invented the home party, then Tupper fired her |
@@ -716,6 +752,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 8 | Tubthumping | Chumbawamba | 1997 | Tubthumper |
+| Sep 8 | Breakfast at Tiffany's | Deep Blue Something | 1995 | Home |
+| Sep 8 | Runaway Train | Soul Asylum | 1993 | Grave Dancers Union |
+| Sep 8 | Fly Away | Lenny Kravitz | 1998 | 5 |
+| Sep 8 | Crash Into Me | Dave Matthews Band | 1996 | Crash |
+| Sep 8 | The Way | Fastball | 1998 | All the Pain Money Can Buy |
 | Sep 7 | Wannabe | Spice Girls | 1996 |
 | Sep 7 | MMMBop | Hanson | 1997 |
 | Sep 7 | Beautiful Day | U2 | 2000 |
@@ -2693,4 +2735,15 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | Iran war past day 190: Tehran slams US strikes on oil tankers and vows response; IRGC claims new attacks on US warships over the naval blockade; Trump says US may hit "Pickaxe Mountain" nuclear site "very soon"; Strait of Hormuz shipping still disrupted. Lebanon: 7+ killed, 20+ injured in Israeli strikes in the south. Germany: AfD heading for record result in Saxony-Anhalt. Ukraine: US says it sees progress toward a diplomatic resolution. Labor Day. John Ternus's first week as Apple CEO; Maduro immunity motion. |
 | NOTE | Ran MONDAY Sept 7 (Labor Day) — scheduled task continues to fire on non-Thursdays. Sept 7 had never been used for This Day in History; anchored on the 90th anniversary of the last thylacine, which also explains National Threatened Species Day in the same card. Memory log is now dense enough that most obvious capitals/TV/arts/founded/music picks were already burned — needed 3 rounds of candidate generation. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple IDs from the iTunes Search API. Pruned thursday-trivia-2026-08-26.html per the 7-file archive window. |
 
-_Last updated: September 7, 2026 (v59)_
+## September 8, 2026 (v60)
+
+| Field | Value |
+|-------|-------|
+| Reds | 69–75, .479, 5th NL Central, 19.5 GB (MLB Stats API). Last 5 oldest→newest: 9/2 W 7–3 SD, 9/4 L 7–10 MIL, 9/5 W 5–3 MIL, 9/6 W 12–8 MIL, 9/7 L 3–6 @LAD. Streak L1, Last 10 6–4. Today: at Dodgers 10:10 p.m. ET. |
+| Box office | Spider-Man: Brand New Day #1, $18,175,000 (-19%), $917,937,000 domestic, day 38, 6th straight weekend at #1. Weekend total $88.67M / 35 films. Coming Sept 11–13: The Uprising, Practical Magic 2, Oasis doc, Runner, The Fix. |
+| Sports | US Open QFs Sept 8–9 (Alcaraz–Shelton, Tiafoe–Michelsen — American semifinalist guaranteed; Sabalenka 6th straight QF). NFL opens Wed 9/9 Patriots at Seahawks (SB LX rematch, Seattle champs); first regular-season game in Australia Thu 9/10 49ers–Rams at MCG on Netflix; Bengals open 9/13 vs TB. NCAA wk1: UMass 37-21 Rutgers, Michigan Hail Mary over W. Michigan, Miami 45-6 Stanford (Mensah 401/5); wk2 headline OSU at Texas. NHL camps open, season starts 9/29 with Carolina raising its first Cup banner; new 84-game schedule. Presidents Cup Medinah 9/22–27. |
+| Deaths | Matt Suhey 68 (9/6, Bears FB, Payton's lead blocker, SB XX) — NEW this run. Also carried: Robin Morgan 85, Joe Morgan 95 (Red Sox manager, NOT the Big Red Machine 2B), Edward Field 102, Bill Dundee 82. New: Georgina Lightning 63 (Cree filmmaker), Rihards Pīks 84, Sir Roger Jones 83, Barry Cleavin 86, Otto Jelinek 85, Serhat Kılıç 51, Richard Tesařík 80. Hayden Panettiere confirmed as Aug 16 — outside window, still omitted. |
+| Current events | Amazon Prime Air Flight 7598 (Boeing 767, 21 Air) overran MIA runway 30 on 9/6 — 5 dead, 5 injured, hit a van and SUV; NTSB investigating. AfD wins Saxony-Anhalt with 43.8% (39/83 seats, 3 short of majority). Iran drawing a new Persian Gulf line, day 190+. Bosnia recalls staff from Serbia over Mladić glorification. Nepal Trishuli River flash floods. Venice Film Festival through 9/12; lifetime Golden Lions to George Clooney and Ellen Burstyn. |
+| NOTE | Ran TUESDAY Sept 8 — scheduled task continues to fire on non-Thursdays. Sept 8 never previously used for This Day in History; anchored on the 60th anniversary of Star Trek's premiere, which also explains Star Trek Day in the same card. Star Trek was previously used in the TV card (Spock, Aug), so it was kept out of TV questions this run. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple IDs from the iTunes Search API (song.link/odesli now returns 401, so Spotify IDs came from site: searches). No rows exceeded the 12-week window, so no pruning of the tables was needed. Pruned thursday-trivia-2026-08-27.html per the 7-file archive window. |
+
+_Last updated: September 8, 2026 (v60)_
