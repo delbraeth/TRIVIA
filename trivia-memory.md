@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 9 | Ireland | Dublin (from Irish Dubh Linn, "black pool"; Viking settlement c. 841) |
+| Sep 9 | Romania | Bucharest (Palace of the Parliament — heaviest building on Earth) |
+| Sep 9 | Armenia | Yerevan (founded 782 BC as the fortress of Erebuni; older than Rome) |
+| Sep 9 | Honduras | Tegucigalpa (officially Tegucigalpa, M.D.C., merged with Comayagüela) |
 | Sep 8 | Finland | Helsinki (founded 1550 by Gustav I of Sweden to rival Tallinn) |
 | Sep 8 | Uzbekistan | Tashkent (largest city in Central Asia; only Central Asian city with a subway) |
 | Sep 8 | Zimbabwe | Harare (Salisbury until 1982) |
@@ -105,6 +109,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 9 | McHale's Navy (1962–66) | Ensign Charles Parker | Tim Conway |
+| Sep 9 | Batman (1966–68) | The Riddler | Frank Gorshin |
+| Sep 9 | The Mod Squad (1968–73) | Linc Hayes | Clarence Williams III |
+| Sep 9 | Dragnet (1967–70) | Officer Bill Gannon | Harry Morgan (later Col. Potter, M*A*S*H) |
+| Sep 9 | Newhart (1982–90) | Larry (of Larry, Darryl & Darryl) | William Sanderson |
+| Sep 9 | China Beach (1988–91) | Nurse Colleen McMurphy | Dana Delany |
 | Sep 8 | Adam-12 (1968–75) | Officer Pete Malloy | Martin Milner (also Route 66) |
 | Sep 8 | Emergency! (1972–79) | Paramedic Johnny Gage | Randolph Mantooth |
 | Sep 8 | Alice (1976–85) | Flo Castleberry ("Kiss my grits!") | Polly Holliday |
@@ -226,6 +236,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 9 | The Arnolfini Portrait (1434) painter | Jan van Eyck ("Jan van Eyck was here" signed on the wall) |
+| Sep 9 | The Call of the Wild (1903) author | Jack London (from his Klondike year) |
+| Sep 9 | "Mother died today. Or maybe yesterday" opener | The Stranger (1942) — Albert Camus |
+| Sep 9 | "I, too, sing America" / "Harlem" poet | Langston Hughes |
+| Sep 9 | The Importance of Being Earnest (1895) playwright | Oscar Wilde |
+| Sep 9 | Brandenburg Concertos (1721) composer | Johann Sebastian Bach |
 | Sep 8 | Las Meninas (1656) painter | Diego Velázquez |
 | Sep 8 | Heart of Darkness (1899) author | Joseph Conrad |
 | Sep 8 | Eine kleine Nachtmusik / Requiem composer | Mozart |
@@ -346,6 +362,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 9 | Space | No permanent "dark side" of the Moon — far side gets equal sunlight |
+| Sep 9 | Science | Metal feels colder than wood at the same temp because it conducts heat faster |
+| Sep 9 | Geography | Big/Little Diomede — US and Russia ~2.4 mi apart across the Date Line |
+| Sep 9 | Animals | Sharks (~450M yrs) predate trees (~350M yrs) |
+| Sep 9 | Body | Body heat in 30 min could boil a half-gallon of water |
+| Sep 9 | Food | Pound cake = 1 lb each butter, sugar, eggs, flour |
+| Sep 9 | Language | "Uncopyrightable" — longest common word with no repeated letters (15) |
+| Sep 9 | History | Betty White (b. Jan 1922) was born before sliced bread (1928) |
+| Sep 9 | Math | Zero has no Roman numeral |
+| Sep 9 | Sports | ~11 minutes of live-ball action in an NFL broadcast |
+| Sep 9 | Pop Culture | Simpsons' Springfield named for Springfield, Oregon |
+| Sep 9 | Weather | Raindrops are hamburger-bun shaped, not teardrops |
+| Sep 9 | Local (Cincinnati) | Nearly 400 sets of public outdoor hillside staircases |
+| Sep 9 | Reds bar-bet | 1990 Reds — only NL team to lead their division wire-to-wire, then swept the A's |
 | Sep 8 | Space | Teaspoon of neutron-star material ≈ 6 billion tons |
 | Sep 8 | Geography | Istanbul only major city on two continents |
 | Sep 8 | Animals | Tardigrades survived vacuum of space (2007 ESA mission) |
@@ -579,6 +609,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 9 | September 9 (Continental Congress names the nation "United States" 1776 — 250th anniv; California 31st state 1850; Elvis's first Ed Sullivan appearance 1956 — 70th anniv, ~60M viewers; Attica prison uprising begins 1971 — 55th anniv) |
 | Sep 8 | September 8 (Star Trek premieres on NBC 1966 — 60th anniv, "The Man Trap"; Ford pardons Nixon 1974; Galveston hurricane 1900 ~8,000 dead; Michelangelo's David unveiled in Florence 1504) |
 | Sep 7 | September 7 (last known thylacine "Benjamin" dies at Hobart's Beaumaris Zoo 1936 — 90th anniv, basis of Australia's National Threatened Species Day; ESPN launches from Bristol CT 1979, first broadcast SportsCenter, founder Bill Rasmussen; "Uncle Sam" first in print in the Troy Post 1813, from meatpacker Samuel Wilson; Elizabeth I born at Greenwich 1533) |
 | Sep 4 | September 4 (Odoacer deposes Romulus Augustulus 476 — 1,550th anniv, traditional fall of Western Rome; Los Angeles founded by 44 pobladores 1781 — 245th; George Eastman patents roll-film camera & trademarks KODAK 1888; Little Rock Nine blocked by Arkansas National Guard 1957 AND Ford unveils the Edsel on "E-Day" the same day; System of a Down's Toxicity released 2001 — 25th) |
@@ -605,6 +636,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 9 | National Teddy Bear Day; Care Bears Share Your Care Day; National "I Love Food" Day; National Wiener Schnitzel Day; National Grilled Chicken Day |
 | Sep 8 | Star Trek Day; International Literacy Day (UNESCO); World Ampersand Day; National Ants on a Log Day; National Iguana Awareness Day; National Dog Walker Appreciation Day; National Waffle Week |
 | Sep 7 | Labor Day (first Monday in September); National Beer Lover's Day; Salami Day; National Acorn Squash Day; National Grandma Moses Day; National Neither Snow Nor Rain Day; National Threatened Species Day (Australia); Mouthguard Day; National Feel the Love Day |
 | Sep 4 | National Wildlife Day; National Newspaper Carrier Day; National Macadamia Nut Day; National Spice Blend Day; National Blood Donation Day; National Food Bank Day; National Lazy Mom's Day; National Chianti Day; National College Colors Day (Friday before Labor Day); World Sexual Health Day; National Waffle Week |
@@ -640,6 +672,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 9 | 7-Eleven name origin | Southland Ice Co. 1927 Dallas; renamed 1946 for 7am–11pm hours |
+| Sep 9 | Silly Putty | James Wright, GE, 1943; Peter Hodgson put it in plastic eggs, 1950 |
+| Sep 9 | Pop-up toaster | Charles Strite, 1919, Minnesota factory mechanic |
+| Sep 9 | Scotch tape / name origin | Richard Drew, 3M, 1930; "Scotch" was an auto painter's insult about skimpy adhesive |
+| Sep 9 | First manned hot air balloon flight | Montgolfier brothers, Paris, Nov 1783 (test flight: sheep, duck, rooster) |
+| Sep 9 | Cincinnati Observatory (Local) | 1843 — oldest professional observatory in the US; John Quincy Adams laid the cornerstone in his last public speech; Mount Adams named for him |
 | Sep 8 | Air conditioning | Willis Carrier 1902 — humidity control for a Brooklyn printing plant |
 | Sep 8 | "Escalator" word origin | Otis/Seeberger trademark c.1900, later ruled generic; Jesse Reno 1892 Coney Island ride |
 | Sep 8 | McDonald's founded | 1940 San Bernardino (McDonald brothers); Ray Kroc franchise 1955, bought out 1961 |
@@ -752,6 +790,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 9 | Only Wanna Be with You | Hootie & the Blowfish | 1994 | Cracked Rear View |
+| Sep 9 | One Headlight | The Wallflowers | 1996 | Bringing Down the Horse |
+| Sep 9 | Save Tonight | Eagle-Eye Cherry | 1997 | Desireless |
+| Sep 9 | Genie in a Bottle | Christina Aguilera | 1999 | Christina Aguilera |
+| Sep 9 | Absolutely (Story of a Girl) | Nine Days | 2000 | The Madding Crowd |
+| Sep 9 | Numb | Linkin Park | 2003 | Meteora |
 | Sep 8 | Tubthumping | Chumbawamba | 1997 | Tubthumper |
 | Sep 8 | Breakfast at Tiffany's | Deep Blue Something | 1995 | Home |
 | Sep 8 | Runaway Train | Soul Asylum | 1993 | Grave Dancers Union |
@@ -1018,70 +1062,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ## June 17, 2026 (v26)
 
 ### Capitals
-| Jun 17 | Jamaica | Kingston |
-| Jun 17 | Vanuatu | Port Vila |
-| Jun 17 | Yemen | Sana'a |
-| Jun 17 | Brunei | Bandar Seri Begawan |
 
 ### Classic TV
-| Jun 17 | The Phil Silvers Show (1955-59) | Sgt. Ernie Bilko | Phil Silvers |
-| Jun 17 | Wanted: Dead or Alive (1958-61) | Josh Randall | Steve McQueen |
-| Jun 17 | Car 54, Where Are You? (1961-63) | Officer Gunther Toody | Joe E. Ross |
-| Jun 17 | What's Happening!! (1976-79) | Roger "Raj" Thomas | Ernest Thomas |
-| Jun 17 | Vega$ (1978-81) | Dan Tanna | Robert Urich |
-| Jun 17 | Bosom Buddies (1980-82) | Kip "Buffy" Wilson | Tom Hanks |
 
 ### Arts & Literature
-| Jun 17 | One Hundred Years of Solitude author | Gabriel García Márquez |
-| Jun 17 | Mrs Dalloway / To the Lighthouse author | Virginia Woolf |
-| Jun 17 | "Ride of the Valkyries" / Ring cycle composer | Richard Wagner |
-| Jun 17 | The Great Wave off Kanagawa artist | Katsushika Hokusai |
-| Jun 17 | Don Quixote author | Miguel de Cervantes |
-| Jun 17 | The Metamorphosis (Gregor Samsa) author | Franz Kafka |
 
 ### Founded & Invented
-| Jun 17 | Potato chip (1853, Saratoga Springs) | George Crum |
-| Jun 17 | Corn Flakes (1894, accidental) | Kellogg brothers |
-| Jun 17 | Cash register / "Incorruptible Cashier" (1879) | James Ritty |
-| Jun 17 | Escalator / inclined elevator (1896, Coney Island) | Jesse Reno |
-| Jun 17 | Gore-Tex (1969, stretched PTFE) | Bob Gore |
-| Jun 17 | Segway (2001) | Dean Kamen |
 
 ### General Trivia
-| Jun 17 | Food | Honey never spoils — 3,000-yr-old edible honey found in Egyptian tombs |
-| Jun 17 | Botany | Bananas are berries; strawberries are not |
-| Jun 17 | Animals | Octopuses have three hearts and blue (copper-based) blood |
-| Jun 17 | Nature | Sharks (~450M yrs) are older than trees (~390M yrs) |
-| Jun 17 | Science | A lightning bolt is ~5x hotter than the Sun's surface |
-| Jun 17 | History | Shortest war ever: Anglo-Zanzibar War (1896), ~38 minutes |
-| Jun 17 | Astronomy | Venus rotates opposite most planets; Sun rises in the west there |
-| Jun 17 | Language | A group of flamingos is a "flamboyance" |
-| Jun 17 | Geography | Scotland's national animal is the unicorn |
-| Jun 17 | Did You Know | Pringles designer Fredric Baur had ashes buried in a Pringles can |
-| Jun 17 | Science | Mpemba effect — hot water can freeze faster than cold |
-| Jun 17 | Math | More possible chess games than atoms in the observable universe |
 
 ### Songs
-| Jun 17 | Today | The Smashing Pumpkins | 1993 |
-| Jun 17 | Closing Time | Semisonic | 1998 |
-| Jun 17 | Last Nite | The Strokes | 2001 |
-| Jun 17 | The Middle | Jimmy Eat World | 2001 |
-| Jun 17 | Maps | Yeah Yeah Yeahs | 2003 |
-| Jun 17 | Are You Gonna Be My Girl | Jet | 2003 |
 
 ### This Day in History
-| Jun 17 | June 17 (Battle of Bunker Hill 1775; Statue of Liberty arrives NYC in 214 crates 1885; Watergate break-in 1972; O.J. Bronco chase 1994) | — |
-| Jun 17 | National Days: Eat Your Vegetables Day; National Root Beer Day; National Apple Strudel Day; National Cherry Tart Day; Global Garbage Man Day; Bunker Hill Day | — |
 
 ### Sports / Current Events
-| Jun 17 | Sports | NBA CHAMPIONS: Knicks beat Spurs 4-1 (G5 94-90 in SA); Brunson Finals MVP (45 in clincher); first NY title since 1973 |
-| Jun 17 | Sports | NHL: Hurricanes win Stanley Cup, beat Vegas 4-2 (G6 3-0 shutout Jun 14); Jordan Staal (37) Conn Smythe, oldest ever |
-| Jun 17 | Sports | FIFA World Cup group stage: USMNT won opener 4-1, next vs Australia Jun 19 Seattle; Cape Verde drew Spain, Saudi drew Uruguay |
-| Jun 17 | Sports | MLB: Brewers 44-26 best record / lead NL Central; Reds 35-37 5th, 10 GB, 3 GB WC; won 2 straight vs Mets (12-0, 5-3) |
-| Jun 17 | Reds | 35-37 5th NL Central 10.0 GB / WC 3.0 back; L-W-L-W-W last 5 (W2); vs NY Mets today 12:40 PM ET (Lodolo vs McLean) |
-| Jun 17 | Box Office | Disclosure Day (Spielberg sci-fi) #1, $44M open / 3,824 theaters / $115M budget; cast Blunt, O'Connor, Firth, Domingo |
-| Jun 17 | Deaths | Gene Shalit (99, Today show film critic, Jun 12); Oliver Tree (32, singer/performance artist, helicopter accident Jun 14) |
-| Jun 17 | News | Trump announces Iran peace deal (reopen Strait of Hormuz) at G7 France; B-52 crash; Sudan 1,000+ drone deaths; Congo Ebola outbreak |
 
 
 ## June 18, 2026 (v27)
@@ -2746,4 +2740,15 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | Amazon Prime Air Flight 7598 (Boeing 767, 21 Air) overran MIA runway 30 on 9/6 — 5 dead, 5 injured, hit a van and SUV; NTSB investigating. AfD wins Saxony-Anhalt with 43.8% (39/83 seats, 3 short of majority). Iran drawing a new Persian Gulf line, day 190+. Bosnia recalls staff from Serbia over Mladić glorification. Nepal Trishuli River flash floods. Venice Film Festival through 9/12; lifetime Golden Lions to George Clooney and Ellen Burstyn. |
 | NOTE | Ran TUESDAY Sept 8 — scheduled task continues to fire on non-Thursdays. Sept 8 never previously used for This Day in History; anchored on the 60th anniversary of Star Trek's premiere, which also explains Star Trek Day in the same card. Star Trek was previously used in the TV card (Spock, Aug), so it was kept out of TV questions this run. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple IDs from the iTunes Search API (song.link/odesli now returns 401, so Spotify IDs came from site: searches). No rows exceeded the 12-week window, so no pruning of the tables was needed. Pruned thursday-trivia-2026-08-27.html per the 7-file archive window. |
 
-_Last updated: September 8, 2026 (v60)_
+## September 9, 2026 (v61)
+
+| Section | Notes |
+|---------|-------|
+| Reds | 69–76, .476, 5th NL Central, 20.5 GB (MLB Stats API, standings + schedule endpoints). L2 streak, L10 5–5, 8.5 GB of the last WC. Tonight: at LAD, 10:10 p.m. ET. |
+| Box office | Spider-Man: Brand New Day #1, $18.25M (Sept 4–6 frame, -19%), $918.0M domestic in 38 days. Fun fact rotated to Coyote vs. Acme's tax-write-off shelving story (prior run used the $355M opening / 6-weekends fact). |
+| Sports | NFL opener tonight SEA-NE; Bengals open Sun vs TB (Open in Orange); MLB races + Misiorowski/Alvarez; US Open semi week; CFB week 2 (OSU at Texas); Solheim Cup at Bernardus Golf, Netherlands. |
+| Deaths | No new names surfaced for Sept 8–9; carried the Sept 2–6 set (Suhey, Dundee, Joe Morgan, Andy Williams, Steinem, Carla Jeffery). |
+| Current events | West Bank settlement-goods bans by France/Canada; Witkoff & Kushner in Kyiv after Moscow; US strikes on Iranian tankers; Houthi strikes on Saudi sites; Iceland summons US ambassador; Venice Film Festival wrap. |
+| NOTE | Ran WEDNESDAY Sept 9 — task continues to fire on non-Thursdays. Sept 9 not previously used for This Day in History. Michelangelo was swapped out of Arts (used Aug 13) for Bach; Rage Against the Machine and Lit were dropped from the music card because their studio tracks are not in the US iTunes catalog — replaced with Save Tonight. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple IDs from the iTunes Search API. Pruned Jun 17 rows (past the 12-week window) and thursday-trivia-2026-08-28.html per the 7-file archive window. |
+
+_Last updated: September 9, 2026 (v61)_
