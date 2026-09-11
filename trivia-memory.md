@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 11 | Slovakia | Bratislava (only national capital bordering two countries — Austria and Hungary) |
+| Sep 11 | Kenya | Nairobi (only capital with a national park inside city limits) |
+| Sep 11 | Oman | Muscat (natural harbor on the Gulf of Oman, ringed by the Al Hajar mountains) |
+| Sep 11 | Panama | Panama City (founded 1519, sacked by Henry Morgan 1671; Panamá Viejo ruins are UNESCO) |
 | Sep 10 | Bangladesh | Dhaka (rickshaw capital of the world, est. 1M) |
 | Sep 10 | Bulgaria | Sofia (named for the 6th-c. Hagia Sophia church; motto "Grows but does not age") |
 | Sep 10 | Serbia | Belgrade ("white city"; Danube + Sava confluence; destroyed/rebuilt ~40 times) |
@@ -109,6 +113,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 11 | Maude | Maude Findlay | Bea Arthur |
+| Sep 11 | The Love Boat | Capt. Merrill Stubing | Gavin MacLeod |
+| Sep 11 | CHiPs | Officer Frank 'Ponch' Poncherello | Erik Estrada |
+| Sep 11 | The Incredible Hulk | Dr. David Banner | Bill Bixby |
+| Sep 11 | Star Trek: The Next Generation | Lt. Cmdr. Data | Brent Spiner |
+| Sep 11 | Falcon Crest | Angela Channing | Jane Wyman |
 | Sep 10 | My Three Sons (1960–72) | Steve Douglas | Fred MacMurray (filmed his scenes in two ~65-day blocks a year) |
 | Sep 10 | Rhoda (1974–78) | Rhoda Morgenstern | Valerie Harper (wedding ep ~52M viewers) |
 | Sep 10 | Eight Is Enough (1977–81) | Tom Bradford | Dick Van Patten |
@@ -236,6 +246,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 11 | The Last Supper painter | Leonardo da Vinci |
+| Sep 11 | Fahrenheit 451 author | Ray Bradbury |
+| Sep 11 | Peter and the Wolf composer | Sergei Prokofiev |
+| Sep 11 | 'Ozymandias' poet | Percy Bysshe Shelley |
+| Sep 11 | Lolita / Pale Fire author | Vladimir Nabokov |
+| Sep 11 | Campbell's Soup Cans artist | Andy Warhol (32 canvases, one per 1962 variety) |
 | Sep 10 | Drip-painting American abstract expressionist | Jackson Pollock ("Jack the Dripper") |
 | Sep 10 | 321 Saturday Evening Post covers / Four Freedoms | Norman Rockwell |
 | Sep 10 | Late "cut-out" paper style after cancer surgery | Henri Matisse |
@@ -362,6 +378,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 11 | Science | Capsaicin heat — birds can't taste it; evolved to deter mammals |
+| Sep 11 | Space | Jupiter has 95+ moons; Ganymede is larger than Mercury |
+| Sep 11 | Geography | Caspian Sea is the largest lake on Earth — bigger than Japan |
+| Sep 11 | Animals | Crows recognize human faces and pass grudges to offspring |
+| Sep 11 | Body | Stapes in the middle ear is the smallest bone, ~3 mm |
+| Sep 11 | Food | Almonds are seeds of a peach-relative fruit, not true nuts |
+| Sep 11 | Language | 'Sandwich' from John Montagu, 4th Earl of Sandwich |
+| Sep 11 | History | Fax machine patented 1843 by Alexander Bain — 33 yrs before the telephone |
+| Sep 11 | Sports | 'Hat trick' from cricket — three wickets on three balls won a hat |
+| Sep 11 | Pop Culture | Oscar the Grouch was orange in Sesame Street season one |
+| Sep 11 | Weather | 'Watermelon snow' — pink from the algae Chlamydomonas nivalis |
+| Sep 11 | Local | Carew Tower 1930 — early 'city within a city'; tallest in Cincinnati ~80 yrs |
+| Sep 11 | Reds bar-bet | Joe Nuxhall pitched at 15 yrs 10 mos in 1944 — youngest in modern MLB |
 | Sep 10 | Science | Glass is not a slow-flowing liquid — old window sag is a manufacturing artifact |
 | Sep 10 | Space | Venus rotates backward; its day (243 Earth days) is longer than its year (225) |
 | Sep 10 | Geography | Africa is the only continent in all four hemispheres |
@@ -611,6 +640,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 11 | September 11 |
 | Sep 10 | September 10 (Battle of Lake Erie 1813 — Perry's "We have met the enemy and they are ours"; first drunk-driving arrest, London cabbie George Smith 1897; Large Hadron Collider first beam 2008) |
 | Sep 9 | September 9 (Continental Congress names the nation "United States" 1776 — 250th anniv; California 31st state 1850; Elvis's first Ed Sullivan appearance 1956 — 70th anniv, ~60M viewers; Attica prison uprising begins 1971 — 55th anniv) |
 | Sep 8 | September 8 (Star Trek premieres on NBC 1966 — 60th anniv, "The Man Trap"; Ford pardons Nixon 1974; Galveston hurricane 1900 ~8,000 dead; Michelangelo's David unveiled in Florence 1504) |
@@ -638,6 +668,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 11 | Patriot Day & National Day of Service and Remembrance; National Hot Cross Bun Day; National Make Your Bed Day; Stand Up to Cancer Day; Popcorn Days (Sept 11–13) |
 | Sep 10 | National TV Dinner Day; National Swap Ideas Day; National School Picture Day; Blame It on the Large Hadron Collider Day; World Suicide Prevention Day; Teachers' Day (China) |
 | Sep 9 | National Teddy Bear Day; Care Bears Share Your Care Day; National "I Love Food" Day; National Wiener Schnitzel Day; National Grilled Chicken Day |
 | Sep 8 | Star Trek Day; International Literacy Day (UNESCO); World Ampersand Day; National Ants on a Log Day; National Iguana Awareness Day; National Dog Walker Appreciation Day; National Waffle Week |
@@ -674,6 +705,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 11 | Liquid Paper / correction fluid | Bette Nesmith Graham, 1956, Dallas bank secretary; son Michael was a Monkee |
+| Sep 11 | Vulcanized rubber | Charles Goodyear, 1839 stove accident; Goodyear Tire named for him 1898 |
+| Sep 11 | Windshield wiper | Mary Anderson, patented 1903; patent expired before cars went mainstream |
+| Sep 11 | Twitter founded / first tweet | 2006, Jack Dorsey — 'just setting up my twttr' |
+| Sep 11 | Pringles can | Fredric Baur, P&G Cincinnati, 1966; his ashes buried in one, 2008 |
+| Sep 11 | Wendy's founded | 1969, Columbus OH, Dave Thomas; named for daughter Melinda 'Wendy' |
 | Sep 10 | Cash register | James Ritty, Dayton OH saloon owner, 1879; "Ritty's Incorruptible Cashier" → NCR |
 | Sep 10 | Gatorade | Dr. Robert Cade's team, Univ. of Florida, 1965 — named for the Gators |
 | Sep 10 | Ice resurfacer | Frank Zamboni, 1949, Paramount CA |
@@ -792,6 +829,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 11 | Black or White | Michael Jackson | 1991 |
+| Sep 11 | Fade Into You | Mazzy Star | 1993 |
+| Sep 11 | Flagpole Sitta | Harvey Danger | 1997 |
+| Sep 11 | Steal My Sunshine | Len | 1999 |
+| Sep 11 | Stacy's Mom | Fountains of Wayne | 2003 |
+| Sep 11 | Use Somebody | Kings of Leon | 2008 |
 | Sep 10 | Kiss Me | Sixpence None the Richer | 1997 | Sixpence None the Richer |
 | Sep 10 | Closing Time | Semisonic | 1998 | Feeling Strangely Fine |
 | Sep 10 | Say My Name | Destiny's Child | 1999 | The Writing's on the Wall |
@@ -1059,61 +1102,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
 | Aug 13 | In da Club | 50 Cent | 2003 |
 | Aug 13 | Kids | MGMT | 2008 |
-
-
-## June 17, 2026 (v26)
-
-### Capitals
-
-### Classic TV
-
-### Arts & Literature
-
-### Founded & Invented
-
-### General Trivia
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
-
-## June 18, 2026 (v27)
-
-### Capitals
-
-### Classic TV
-
-### Arts & Literature
-
-### Founded & Invented
-
-### General Trivia
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
-
-## June 18, 2026 (v28 — re-run; fresh content, supersedes v27)
-
-### Capitals
-
-### Classic TV
-
-### Arts & Literature
-
-### Founded & Invented
-
-### General Trivia
-
-### This Day in History
-
-### Sports / Current Events
 
 
 ## June 22, 2026 (v29)
@@ -2634,4 +2622,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | CENTCOM destroyed five Iranian oil tankers after missile attacks on a Navy warship; record Labor Day gas prices; Canada/France/UK banned trade with Israeli settlements and Canada tariffed ~$20B of US goods; Amazon-contracted 767 overran MIA runway Sept 6, five dead; LAUSD/NYC schools restricted student-facing generative AI; appeals court blocked IRS–ICE data sharing; record-size Microsoft Patch Tuesday. |
 | NOTE | Ran THURSDAY Sept 10 — first actual Thursday run in a while. WebSearch was intermittently unavailable for much of this run; Reds data came from the MLB Stats API, box office from The Numbers, NFL/CFB from the ESPN public scoreboard API, and deaths from the Wikipedia "Deaths in 2026" dump (dates inferred from alphabetical day-groupings, so individual death dates are approximate to ±1 day). Browser-pane access to Wikipedia was declined, so no browser fallback. Sept 10 not previously used for This Day in History. Heavy de-duplication required: first-choice picks for capitals, TV, arts, founded and music were nearly all recent repeats and were replaced. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple IDs from the iTunes Search API. Pruned Jun 18/Jun 22 rows (past the 12-week window) and thursday-trivia-2026-08-31.html per the 7-file archive window. |
 
-_Last updated: September 10, 2026 (v62)_
+
+## September 11, 2026 (v63)
+
+| Field | Detail |
+|-------|--------|
+| Reds | 69–77 (.473), 5th NL Central, 21.5 GB, 9.0 WCGB; L3; last 10 5–5. Verified via MLB Stats API standings + schedule. Today: at Milwaukee 7:45 p.m. ET. |
+| Box office | Weekend Sept 4–6: #1 Spider-Man: Brand New Day $18.18M (6th weekend at #1); Odyssey, Coyote vs. Acme, By Any Means, Insidious. Coming Sept 11–13: Practical Magic 2, The Uprising, Runner, Oasis doc, The Fix. |
+| Sports | NFL Wk1 (Seahawks 13-10 Patriots; 49ers 27-7 Rams in Melbourne — first NFL regular-season game in Oceania; Bengals vs TB Sun 1 ET); US Open men's semis today (Shelton/Tiafoe, Zverev/Khachanov), women's final Sabalenka vs Rybakina; Brewers 91-56 best record; #1 Ohio State at #4 Texas Sat; Solheim Cup opens at Bernardus; NHL preseason Sept 19, 84-game season, Hellebuyck trade request; MLS record $370M transfer spend. |
+| Deaths | Barry Melrose (70), Matt Suhey (68), Andy Williams of Every Time I Die (48), Gloria Steinem (92), Cassandra Wilson (70). |
+| Current events | Bangladesh measles deaths past 1,000 + US measles cases; August 2026 hottest month on record; SCOTUS blocked Missouri GOP map; GOP convention in Dallas / Trump $5,000 midterm pledge; Houthis seized Red Sea port near Bab al-Mandab; TPS for Salvadorans not terminated. |
+| NOTE | Scheduled run fired FRIDAY Sept 11 (task assumes Thursday) — header dated Friday, September 11, 2026. Sept 11 not previously used for This Day in History. All 6 Spotify track IDs verified via the public oEmbed endpoint; Apple Music IDs from the iTunes Search API. Heavy de-duplication: capitals, TV, arts, founded and music all checked against the full log. Pruned the v26/v27/v28 (June 17–18) run sections past the 12-week window and thursday-trivia-2026-09-01.html per the 7-file archive window. |
+
+_Last updated: September 11, 2026 (v63)_
+
