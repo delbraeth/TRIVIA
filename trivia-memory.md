@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 14 | Ecuador | Quito (highest official capital, 9,350 ft; among the first UNESCO World Heritage Sites, 1978) |
+| Sep 14 | Vietnam | Hanoi ("inside the river"; celebrated its 1,000th anniversary in 2010) |
+| Sep 14 | Iceland | Reykjavík ("smoky bay"; northernmost capital of a sovereign state) |
+| Sep 14 | Botswana | Gaborone (purpose-built at independence 1966; named for Chief Gaborone) |
 | Sep 11 | Slovakia | Bratislava (only national capital bordering two countries — Austria and Hungary) |
 | Sep 11 | Kenya | Nairobi (only capital with a national park inside city limits) |
 | Sep 11 | Oman | Muscat (natural harbor on the Gulf of Oman, ringed by the Al Hajar mountains) |
@@ -113,6 +117,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 14 | Combat! | Sgt. Chip Saunders | Vic Morrow |
+| Sep 14 | The Carol Burnett Show | Mrs. Wiggins / the charwoman / Eunice | Carol Burnett |
+| Sep 14 | One Day at a Time | Dwayne Schneider | Pat Harrington Jr. |
+| Sep 14 | Simon & Simon | Rick Simon | Gerald McRaney |
+| Sep 14 | Roseanne | Dan Conner | John Goodman |
+| Sep 14 | ER | Dr. Doug Ross | George Clooney |
 | Sep 11 | Maude | Maude Findlay | Bea Arthur |
 | Sep 11 | The Love Boat | Capt. Merrill Stubing | Gavin MacLeod |
 | Sep 11 | CHiPs | Officer Frank 'Ponch' Poncherello | Erik Estrada |
@@ -246,6 +256,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 14 | Les Misérables / Hunchback of Notre-Dame author | Victor Hugo |
+| Sep 14 | Liberty Leading the People painter | Eugène Delacroix |
+| Sep 14 | "Clair de Lune" composer | Claude Debussy (Suite bergamasque) |
+| Sep 14 | "Last night I dreamt I went to Manderley again" opener | Rebecca — Daphne du Maurier |
+| Sep 14 | "The Charge of the Light Brigade" poet | Alfred, Lord Tennyson |
+| Sep 14 | One Flew Over the Cuckoo's Nest author | Ken Kesey |
 | Sep 11 | The Last Supper painter | Leonardo da Vinci |
 | Sep 11 | Fahrenheit 451 author | Ray Bradbury |
 | Sep 11 | Peter and the Wolf composer | Sergei Prokofiev |
@@ -378,6 +394,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 14 | Science | Bananas are slightly radioactive — potassium-40 |
+| Sep 14 | Space | A day on Mercury lasts ~176 Earth days, twice its 88-day year |
+| Sep 14 | Geography | France has the most time zones of any country (12), not Russia (11) |
+| Sep 14 | Animals | Wombat droppings are cube-shaped so they don't roll off scent-marking rocks |
+| Sep 14 | Body | The cornea has no blood supply; it takes oxygen from the air |
+| Sep 14 | Food | Carrots were originally purple/white/yellow; orange bred in 17th-c. Netherlands |
+| Sep 14 | Language | The dot over a lowercase i or j is a "tittle" |
+| Sep 14 | History | Wyoming first US territory to grant women the vote, 1869 |
+| Sep 14 | Math | A "jiffy" is a real unit — 1/100 second in electronics |
+| Sep 14 | Sports | 24-second shot clock: Danny Biasone, 1954, 2,880 seconds ÷ 120 shots |
+| Sep 14 | Pop Culture | The "Wilhelm scream" (1951) used in 400+ films |
+| Sep 14 | Weather | Strongest surface gust: 253 mph, Barrow Island AUS, Cyclone Olivia 1996 |
+| Sep 14 | Local (Cincinnati) | Over-the-Rhine — one of the largest surviving Italianate collections in the US |
+| Sep 14 | Reds bar-bet | Tom Browning's perfect game, Sept 16 1988, first pitch 9:59 p.m. after a rain delay |
 | Sep 11 | Science | Capsaicin heat — birds can't taste it; evolved to deter mammals |
 | Sep 11 | Space | Jupiter has 95+ moons; Ganymede is larger than Mercury |
 | Sep 11 | Geography | Caspian Sea is the largest lake on Earth — bigger than Japan |
@@ -640,6 +670,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 14 | September 14 |
 | Sep 11 | September 11 |
 | Sep 10 | September 10 (Battle of Lake Erie 1813 — Perry's "We have met the enemy and they are ours"; first drunk-driving arrest, London cabbie George Smith 1897; Large Hadron Collider first beam 2008) |
 | Sep 9 | September 9 (Continental Congress names the nation "United States" 1776 — 250th anniv; California 31st state 1850; Elvis's first Ed Sullivan appearance 1956 — 70th anniv, ~60M viewers; Attica prison uprising begins 1971 — 55th anniv) |
@@ -668,6 +699,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 14 | National Cream-Filled Donut Day; National Coloring Day; National Sober Day; National Boss/Employee Exchange Day; National Live Creative Day; National Virginia Day; I'm On Top Of It Day |
 | Sep 11 | Patriot Day & National Day of Service and Remembrance; National Hot Cross Bun Day; National Make Your Bed Day; Stand Up to Cancer Day; Popcorn Days (Sept 11–13) |
 | Sep 10 | National TV Dinner Day; National Swap Ideas Day; National School Picture Day; Blame It on the Large Hadron Collider Day; World Suicide Prevention Day; Teachers' Day (China) |
 | Sep 9 | National Teddy Bear Day; Care Bears Share Your Care Day; National "I Love Food" Day; National Wiener Schnitzel Day; National Grilled Chicken Day |
@@ -705,6 +737,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 14 | Ferris wheel | George Washington Gale Ferris Jr., 1893 Chicago World's Fair — America's answer to the Eiffel Tower |
+| Sep 14 | Modern trampoline | George Nissen, 1936; name from Spanish trampolín |
+| Sep 14 | First home video game console | Magnavox Odyssey, 1972, Ralph Baer; no sound, plastic screen overlays |
+| Sep 14 | Cotton candy | Dentist William Morrison + confectioner John C. Wharton, patented 1897; "Fairy Floss" at the 1904 World's Fair |
+| Sep 14 | Aircraft "black box" flight recorder | David Warren, Australia, 1950s; painted orange |
+| Sep 14 | Cincinnati Red Stockings founded (local) | 1869 — first openly all-salaried pro baseball team; undefeated barnstorming tour |
 | Sep 11 | Liquid Paper / correction fluid | Bette Nesmith Graham, 1956, Dallas bank secretary; son Michael was a Monkee |
 | Sep 11 | Vulcanized rubber | Charles Goodyear, 1839 stove accident; Goodyear Tire named for him 1898 |
 | Sep 11 | Windshield wiper | Mary Anderson, patented 1903; patent expired before cars went mainstream |
@@ -829,6 +867,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 14 | Cannonball | The Breeders | 1993 |
+| Sep 14 | All I Wanna Do | Sheryl Crow | 1994 |
+| Sep 14 | All Star | Smash Mouth | 1999 |
+| Sep 14 | I Try | Macy Gray | 1999 |
+| Sep 14 | Are You Gonna Be My Girl | Jet | 2003 |
+| Sep 14 | Take Me Out | Franz Ferdinand | 2004 |
 | Sep 11 | Black or White | Michael Jackson | 1991 |
 | Sep 11 | Fade Into You | Mazzy Star | 1993 |
 | Sep 11 | Flagpole Sitta | Harvey Danger | 1997 |
@@ -1102,23 +1146,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
 | Aug 13 | In da Club | 50 Cent | 2003 |
 | Aug 13 | Kids | MGMT | 2008 |
-
-
-## June 22, 2026 (v29)
-
-### Capitals
-
-### Classic TV
-
-### Arts & Literature
-
-### Founded & Invented
-
-### General Trivia
-
-### This Day in History
-
-### Sports / Current Events
 
 
 ## June 23, 2026 (v30)
@@ -2634,5 +2661,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | Bangladesh measles deaths past 1,000 + US measles cases; August 2026 hottest month on record; SCOTUS blocked Missouri GOP map; GOP convention in Dallas / Trump $5,000 midterm pledge; Houthis seized Red Sea port near Bab al-Mandab; TPS for Salvadorans not terminated. |
 | NOTE | Scheduled run fired FRIDAY Sept 11 (task assumes Thursday) — header dated Friday, September 11, 2026. Sept 11 not previously used for This Day in History. All 6 Spotify track IDs verified via the public oEmbed endpoint; Apple Music IDs from the iTunes Search API. Heavy de-duplication: capitals, TV, arts, founded and music all checked against the full log. Pruned the v26/v27/v28 (June 17–18) run sections past the 12-week window and thursday-trivia-2026-09-01.html per the 7-file archive window. |
 
-_Last updated: September 11, 2026 (v63)_
+## September 14, 2026 (v64)
+
+| Section | Content |
+|---------|---------|
+| Reds | 70–79 (.470), 5th NL Central, 22.5 GB, 11.0 GB WC; L10 4–6; streak W1; last 5 L2-3, L1-14, L0-20, L9-13, W4-3; today vs. LA Dodgers 6:40 p.m. ET at GABP. Verified via MLB Stats API. |
+| Box Office | Weekend Sept 11–13: #1 Practical Magic 2 $30.0M (4,146 theaters); #2 Spider-Man: Brand New Day $8.4M; #3 The Odyssey $7.4M; #4 Runner $6.43M; #5 Coyote vs. Acme $6.24M. Coming Sept 18–20: Resident Evil, Shaun the Sheep: The Beast of Mossy Bottom, Daniel: The Fiery Furnace, Black Zombie. |
+| Sports | Bengals 33–27 over Buccaneers (McPherson two 55+ FGs, a franchise first); Cardinals 26–14 upset of Chargers; Bears 59–37 Panthers (96 pts, most in a Week 1 game); Zverev def. Shelton for first US Open title; Rybakina def. Sabalenka; Texas 24–23 over #1 Ohio State (Arch Manning); Oklahoma State 39–31 over #6 Oregon; Brewers 93–57; Nashville leads MLS East, Messi 18 goals; NHL camps open. |
+| Deaths | Barry Melrose 70; Mike McFarland 56; Ismael Laguna 83; André Pronovost 90; Bain Boehlke 87; Lucien Smith 37. |
+| Current events | 78th Primetime Emmys tonight (NBC/Peacock, Mariska Hargitay hosting; The Pitt 25 noms, Hacks 24); France and Canada join UK banning West Bank settlement goods, Israel moves to close British consulate; 25th anniversary of 9/11; Rep. Tom Tiffany escapes sinking plane; Amazon cargo plane Miami runway overrun findings. |
+| NOTE | Scheduled run fired MONDAY Sept 14 (task text assumes Thursday) — header dated Monday, September 14, 2026. Sept 14 not previously used for This Day in History. All 6 Spotify IDs verified via the public oEmbed endpoint; Apple Music IDs from the iTunes Search API (odesli/song.link now returns 401, so Spotify IDs were found by site-restricted search and oEmbed-verified). Pruned the v29 (June 22) run section past the 12-week window and thursday-trivia-2026-09-03.html per the 7-file archive window. |
+
+_Last updated: September 14, 2026 (v64)_
 
