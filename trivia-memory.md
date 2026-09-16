@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 16 | Lithuania | Vilnius (Užupis neighborhood declared itself an independent 'republic' in 1997 with its own constitution) |
+| Sep 16 | Brunei | Bandar Seri Begawan (Kampong Ayer, world's largest water village, on stilts beside downtown) |
+| Sep 16 | Guyana | Georgetown (only South American capital with English as official language; sits below sea level behind a seawall) |
+| Sep 16 | Turkmenistan | Ashgabat (Guinness record for highest concentration of white marble buildings) |
 | Sep 15 | Tunisia | Tunis (ruins of Carthage in its suburbs) |
 | Sep 15 | Cyprus | Nicosia (last divided capital in Europe; UN buffer zone) |
 | Sep 15 | Costa Rica | San José (founded 1738; country abolished its army 1948) |
@@ -113,6 +117,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 16 | Petticoat Junction (1963–70) | Uncle Joe Carson | Edgar Buchanan |
+| Sep 16 | Kung Fu (1972–75) | Kwai Chang Caine | David Carradine |
+| Sep 16 | The Streets of San Francisco (1972–77) | Lt. Mike Stone | Karl Malden |
+| Sep 16 | Soap (1977–81) | Benson DuBois | Robert Guillaume |
+| Sep 16 | Family Matters (1989–98) | Steve Urkel | Jaleel White |
+| Sep 16 | NewsRadio (1995–99) | Bill McNeal | Phil Hartman |
 | Sep 15 | Marcus Welby, M.D. (1969–76) | Dr. Marcus Welby | Robert Young (earlier Father Knows Best) |
 | Sep 15 | Vega$ (1978–81) | Dan Tanna | Robert Urich |
 | Sep 15 | Who's the Boss? (1984–92) | Tony Micelli | Tony Danza (former pro boxer) |
@@ -246,6 +256,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 16 | The Raft of the Medusa (1819) painter | Théodore Géricault (interviewed survivors; he was 27) |
+| Sep 16 | 'The Rime of the Ancient Mariner' poet | Samuel Taylor Coleridge (albatross around your neck) |
+| Sep 16 | The Count of Monte Cristo / The Three Musketeers author | Alexandre Dumas (both serialized 1844) |
+| Sep 16 | Turandot / 'Nessun dorma' composer | Giacomo Puccini (died before finishing it) |
+| Sep 16 | A Doll's House (1879) playwright | Henrik Ibsen ('the door slam heard round the world') |
+| Sep 16 | Dune (1965) author | Frank Herbert (~20 rejections; published by an auto-manual house) |
 | Sep 15 | Nude Descending a Staircase, No. 2 (1912) painter | Marcel Duchamp ("an explosion in a shingle factory") |
 | Sep 15 | Mexican painter of unflinching self-portraits after a streetcar accident | Frida Kahlo |
 | Sep 15 | Giant close-up flowers / New Mexico skulls | Georgia O'Keeffe |
@@ -378,6 +394,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 16 | Science | Helium discovered in the Sun's spectrum (1868) 27 yrs before found on Earth |
+| Sep 16 | Space | Neptune completed only one orbit since its 1846 discovery — finished 2011 |
+| Sep 16 | Geography | Russia and China tied for most land neighbors — 14 each |
+| Sep 16 | Animals | Koala fingerprints nearly indistinguishable from human ones |
+| Sep 16 | Body | Stomach acid pH 1–2, corrosive enough to dissolve a razor blade |
+| Sep 16 | Food | Nutmeg and mace come from the same fruit; mace is the red aril |
+| Sep 16 | Language | 'Robot' from Czech robota (forced labor), Čapek's 1920 play R.U.R. |
+| Sep 16 | History | France's last guillotine execution was 1977 |
+| Sep 16 | Sports | NBA three-point line not adopted until 1979–80; Chris Ford hit the first |
+| Sep 16 | Pop Culture | Mario named for Mario Segale, Nintendo of America's warehouse landlord |
+| Sep 16 | Weather | Sun dogs = parhelia, hexagonal ice crystals bending light 22° |
+| Sep 16 | Local (Cincinnati) | 'Porkopolis' — 1830s nickname; largest US pork-packing city |
+| Sep 16 | Reds bar-bet | 1975–76 Big Red Machine = last NL team to win back-to-back World Series |
 | Sep 15 | Science | Goosebumps = vestigial arrector pili muscles that once fluffed body hair |
 | Sep 15 | Space | Saturn is less dense than water — it would float |
 | Sep 15 | Animals | A platypus has no stomach; esophagus runs straight to intestine |
@@ -655,6 +684,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 16 | September 16 (Mayflower sails from Plymouth 1620; Grito de Dolores 1810 — Mexican independence; Cherokee Strip land run 1893; General Motors founded in Flint 1908; Wall Street bombing 1920, 38 killed, never solved) |
 | Sep 15 | September 15 (William Howard Taft born in Cincinnati 1857 — only person to serve as both President and Chief Justice; 16th Street Baptist Church bombing, Birmingham 1963 — 63rd anniv; google.com registered by Page & Brin 1997; Lehman Brothers files Chapter 11 2008) |
 | Sep 14 | September 14 |
 | Sep 11 | September 11 |
@@ -684,6 +714,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 16 | Mexican Independence Day; Mayflower Day; National Play-Doh Day; National Guacamole Day; National Cinnamon Raisin Bread Day; National Collect Rocks Day; National Stepfamily Day; Working Parents Day; International Day for the Preservation of the Ozone Layer; National Stay Away From Seattle Day; Anne Bradstreet Day |
 | Sep 15 | International Day of Democracy (UN); National IT Professionals Day; National Double Cheeseburger Day; National Linguine Day; National Cheese Toast Day; National Online Learning Day; National Neonatal Nurses Day; National Tackle Kids Cancer Day; Butterscotch Cinnamon Pie Day; Get Ready Day (third Tuesday) |
 | Sep 14 | National Cream-Filled Donut Day; National Coloring Day; National Sober Day; National Boss/Employee Exchange Day; National Live Creative Day; National Virginia Day; I'm On Top Of It Day |
 | Sep 11 | Patriot Day & National Day of Service and Remembrance; National Hot Cross Bun Day; National Make Your Bed Day; Stand Up to Cancer Day; Popcorn Days (Sept 11–13) |
@@ -721,6 +752,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 16 | 'Jeep' name origin | Disputed — likely slurred 'GP' (general purpose); others credit Eugene the Jeep from Popeye; Willys-Overland trademarked 1943 |
+| Sep 16 | Traffic cone | Charles D. Scanlon, LA street painter, patented 1943 |
+| Sep 16 | Fisher-Price founded | 1930, East Aurora NY — Herman Fisher, Irving Price, Helen Schelle |
+| Sep 16 | Graham cracker | Rev. Sylvester Graham, c. 1829 — bland whole-grain diet to curb carnal urges |
+| Sep 16 | Dixie Cup name origin | Hugh Moore's 1907 'Health Kup'; shared a building with the Dixie Doll Co.; renamed 1919 |
+| Sep 16 | Cincinnati Enquirer founded (Local) | 1841 — continuously published since; one of the oldest US dailies still in print |
 | Sep 15 | Segway | Dean Kamen, unveiled 2001; hyped for a year under the code name "Ginger" |
 | Sep 15 | NERF acronym | Non-Expanding Recreational Foam; Parker Brothers 1969, from a Reyn Guyer game prototype |
 | Sep 15 | Jenga | Leslie Scott, 1983; from Swahili kujenga, "to build"; she grew up playing it in Ghana |
@@ -845,6 +882,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 16 | Shine | Collective Soul | 1993 | Hints, Allegations & Things Left Unsaid |
+| Sep 16 | Lightning Crashes | Live | 1994 | Throwing Copper |
+| Sep 16 | Everything You Want | Vertical Horizon | 1999 | Everything You Want |
+| Sep 16 | Drops of Jupiter (Tell Me) | Train | 2001 | Drops of Jupiter |
+| Sep 16 | Yeah! (feat. Lil Jon & Ludacris) | Usher | 2004 | Confessions |
+| Sep 16 | Gold Digger (feat. Jamie Foxx) | Kanye West | 2005 | Late Registration |
 | Sep 15 | Zombie | The Cranberries | 1994 | No Need to Argue |
 | Sep 15 | Hey Jealousy | Gin Blossoms | 1992 | New Miserable Experience |
 | Sep 15 | Counting Blue Cars | Dishwalla | 1995 | Pet Your Friends |
@@ -2226,4 +2269,15 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | 78th Primetime Emmys Sept 14 — Widow's Bay won Outstanding Comedy Series and 14 Emmys total (record for a comedy); Matthew Rhys first to win all three lead categories and two in one night; Brent crude past $108; Dario Amodei 3,800-word essay urging AI to slow down; King Charles III AI gathering in Scotland; US measles cases at 35-year high; Amazon paused 21 Air operations. |
 | NOTE | Scheduled run fired TUESDAY Sept 15 (task text assumes Thursday) — header dated Tuesday, September 15, 2026. Sept 15 not previously used for This Day in History (Taft's Cincinnati birth gave the local tie-in). Box office frame repeats v64 because no new weekend has occurred; used a different fun fact. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (Lit "My Own Worst Enemy" and Green Day "American Idiot" were unavailable in the US iTunes catalog, so Push and Hollaback Girl were substituted). Pruned June 23–July 3 run sections (v30–v36) and stray Jun 23/24 table rows past the 12-week window; pruned thursday-trivia-2026-09-04.html per the 7-file archive window. |
 
-_Last updated: September 15, 2026 (v65)_
+## September 16, 2026 (v66)
+
+| Section | Content |
+|---------|---------|
+| Reds | 70–81 (.464), 5th NL Central, 24.0 GB, 12.0 GB of last WC. Last 5 old→new L L W L L (Sep 11 L 0–20 at MIL, Sep 12 L 9–13 at MIL, Sep 13 W 4–3 at MIL, Sep 14 L 1–4 vs LAD, Sep 15 L 0–4 vs LAD). Streak L2, last 10 3–7. Today vs. Dodgers 6:40 p.m. ET. Verified via MLB Stats API. |
+| Box office | Weekend Sept 11–13 (unchanged from v64/v65 — no new weekend yet): #1 Practical Magic 2 $30.0M; #2 Spider-Man: Brand New Day $8.4M; #3 The Odyssey $7.4M; #4 Runner $6.43M; #5 Coyote vs. Acme $6.24M. New fun fact used: the 1998 original was a money-losing flop revived purely by cable reruns and audience affection. Coming Sept 18–20: Resident Evil (Zach Cregger), The Weight (Hawke/Crowe), Shaun the Sheep: The Beast of Mossy Bottom, Daniel: The Fiery Furnace. |
+| Sports | US Open men's final Sept 13 — Alexander Zverev d. Ben Shelton 6-3 7-6(2) 5-7 6-2, his FIRST major; Shelton had beaten Alcaraz in a 5th-set tiebreak; Sinner missed the event injured. Women's Sept 12 — Rybakina d. Sabalenka 6-4 5-7 6-2. Bengals 1–0, at Houston Sun 1 p.m. CBS (Texans -2.5; HOU lost 36-31 to BUF). MLB: MIL 94–57, TB 91–59, LAD 92–59, ATL 89–63; AL Central CWS 77–74 vs CLE 77–75. NCAA: Texas No. 1 after 24–23 over Ohio State; Oregon 6→21 after losing 39–31 to Oklahoma State. NHL camps open ~Sept 17. WNBA playoffs start Sept 27. MLS Decision Day Oct 3. |
+| Deaths | Bob Mackie 87 (Sept 14, pneumonia — Cher/Carol Burnett costume designer, 9 Emmys); George Chuvalo 89 (Sept 12, on his birthday — never knocked down in 93 pro fights); Cheetah Chrome 71 (Sept 13); Barry Melrose 70 (Sept 9); Mike McFarland 56 (Sept 9). |
+| Current events | SCOTUS blocked the executive order restricting mail-in voting; Indonesia ferry capsized in the Java Sea (240+ aboard, ~130 missing on day 3); NOAA — hottest US summer on record (Jun–Aug); Pentagon IG report on Iran conflict cites depleted munitions stockpiles, IRGC claims two US drones downed over Hormuz; DOT announced $1.1B in airport grants; Dutch rail outage treated as possible sabotage; 78th Emmys (Sept 14) — Widow's Bay 14 wins. |
+| NOTE | Scheduled run fired WEDNESDAY Sept 16 (task text assumes Thursday) — header dated Wednesday, September 16, 2026. Sept 16 not previously used for This Day in History. Box office frame repeats v64/v65 because no new weekend has occurred; used a fresh fun fact. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. Verified and REJECTED several search-surfaced "recent" deaths as year-contaminated: Eric Dane (actually Feb 19, 2026), Chuck Russell (Jul 22), Garfield Sobers (Jul 17), Dolly Parton (Aug 25). All four candidate capitals from the usual shortlist (Nepal, Paraguay, Morocco, Bolivia, Estonia, Bhutan, Madagascar, Sri Lanka) were already in the log — went to Lithuania/Brunei/Guyana/Turkmenistan instead. No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-07.html per the 7-file archive window. |
+
+_Last updated: September 16, 2026 (v66)_
