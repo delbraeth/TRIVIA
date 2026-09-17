@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 17 | Eritrea | Asmara (entire city center UNESCO-listed for 1930s Italian modernist architecture) |
+| Sep 17 | North Macedonia | Skopje (birthplace of Mother Teresa; rebuilt after the 1963 earthquake) |
+| Sep 17 | Qatar | Doha (~80% of the national population; name from an Arabic word for a large tree) |
+| Sep 17 | Rwanda | Kigali (often called Africa's cleanest capital; plastic bags banned since 2008) |
 | Sep 16 | Lithuania | Vilnius (Užupis neighborhood declared itself an independent 'republic' in 1997 with its own constitution) |
 | Sep 16 | Brunei | Bandar Seri Begawan (Kampong Ayer, world's largest water village, on stilts beside downtown) |
 | Sep 16 | Guyana | Georgetown (only South American capital with English as official language; sits below sea level behind a seawall) |
@@ -117,6 +121,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 17 | Have Gun – Will Travel (1957–63) | Paladin | Richard Boone |
+| Sep 17 | The Rifleman (1958–63) | Lucas McCain | Chuck Connors (played in both the NBA and MLB) |
+| Sep 17 | Mannix (1967–75) | Joe Mannix | Mike Connors (b. Krekor Ohanian) |
+| Sep 17 | The Facts of Life (1979–88) | Edna Garrett | Charlotte Rae (character carried over from Diff'rent Strokes) |
+| Sep 17 | The Wonder Years (1988–93) | adult Kevin (narrator) | Daniel Stern (uncredited for years) |
+| Sep 17 | Wings (1990–97) | Antonio Scarpacci | Tony Shalhoub |
 | Sep 16 | Petticoat Junction (1963–70) | Uncle Joe Carson | Edgar Buchanan |
 | Sep 16 | Kung Fu (1972–75) | Kwai Chang Caine | David Carradine |
 | Sep 16 | The Streets of San Francisco (1972–77) | Lt. Mike Stone | Karl Malden |
@@ -256,6 +266,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 17 | The Planets (1916) composer | Gustav Holst (no Pluto — not yet discovered; based on astrology) |
+| Sep 17 | The Hay Wain (1821) painter | John Constable |
+| Sep 17 | "In my younger and more vulnerable years..." opener | The Great Gatsby (1925) — F. Scott Fitzgerald |
+| Sep 17 | Our Town (1938) playwright | Thornton Wilder (only person with Pulitzers for both fiction and drama) |
+| Sep 17 | First Black author to win a Pulitzer (1950, Annie Allen) | Gwendolyn Brooks |
+| Sep 17 | Judith Slaying Holofernes painter | Artemisia Gentileschi |
 | Sep 16 | The Raft of the Medusa (1819) painter | Théodore Géricault (interviewed survivors; he was 27) |
 | Sep 16 | 'The Rime of the Ancient Mariner' poet | Samuel Taylor Coleridge (albatross around your neck) |
 | Sep 16 | The Count of Monte Cristo / The Three Musketeers author | Alexandre Dumas (both serialized 1844) |
@@ -394,6 +410,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 17 | Space | Olympus Mons ~16 mi high, 370 mi across — slope too gentle to notice |
+| Sep 17 | Geography | Canada holds ~62% of the world's lakes |
+| Sep 17 | History | Shortest war ever — Anglo-Zanzibar War, Aug 27 1896, ~38 minutes |
+| Sep 17 | Math | 52! card orderings (~8×10^67) — a shuffled deck is almost certainly unique |
+| Sep 17 | Food | Worcestershire sauce was abandoned in a cellar ~18 months before Lea & Perrins retasted it |
+| Sep 17 | Language | "Dollar" from Joachimsthal, Bohemia — thalers |
+| Sep 17 | Sports | Naismith's first hoops were peach baskets with the bottoms in |
+| Sep 17 | Animals | Octopuses have three hearts and blue blood; two stop when swimming |
+| Sep 17 | Body | You're ~1 cm taller in the morning — spinal disc compression |
+| Sep 17 | Pop Culture | Movie "eagle" cry is a red-tailed hawk |
+| Sep 17 | Science | Mpemba effect — Erasto Mpemba, Tanzanian schoolboy, 1963 |
+| Sep 17 | Local (Cincinnati) | Music Hall (1878) built on a potter's field; ~200 sets of remains found in the 2016–17 restoration |
+| Sep 17 | Reds bar-bet | Ernie Lombardi — only catcher with two batting titles (1938 Reds .342, 1942 .330), and the slowest runner in baseball |
 | Sep 16 | Science | Helium discovered in the Sun's spectrum (1868) 27 yrs before found on Earth |
 | Sep 16 | Space | Neptune completed only one orbit since its 1846 discovery — finished 2011 |
 | Sep 16 | Geography | Russia and China tied for most land neighbors — 14 each |
@@ -684,6 +713,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 17 | September 17 (U.S. Constitution signed at the Pennsylvania State House 1787 — 239th anniv, 39 of 55 delegates; Battle of Antietam 1862 — bloodiest single day in American history, ~22,700 casualties, 164th; Camp David Accords signed at the White House by Sadat, Begin and Carter 1978; M*A*S*H premieres on CBS 1972) |
 | Sep 16 | September 16 (Mayflower sails from Plymouth 1620; Grito de Dolores 1810 — Mexican independence; Cherokee Strip land run 1893; General Motors founded in Flint 1908; Wall Street bombing 1920, 38 killed, never solved) |
 | Sep 15 | September 15 (William Howard Taft born in Cincinnati 1857 — only person to serve as both President and Chief Justice; 16th Street Baptist Church bombing, Birmingham 1963 — 63rd anniv; google.com registered by Page & Brin 1997; Lehman Brothers files Chapter 11 2008) |
 | Sep 14 | September 14 |
@@ -714,6 +744,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 17 | Constitution Day & Citizenship Day; National Apple Dumpling Day; National Monte Cristo Day; National Pawpaw Day; National Professional House Cleaners Day; International Grenache Day; International Patient Safety Day (WHO); Australian Citizenship Day; Free Queso Day; Time's Up Day |
 | Sep 16 | Mexican Independence Day; Mayflower Day; National Play-Doh Day; National Guacamole Day; National Cinnamon Raisin Bread Day; National Collect Rocks Day; National Stepfamily Day; Working Parents Day; International Day for the Preservation of the Ozone Layer; National Stay Away From Seattle Day; Anne Bradstreet Day |
 | Sep 15 | International Day of Democracy (UN); National IT Professionals Day; National Double Cheeseburger Day; National Linguine Day; National Cheese Toast Day; National Online Learning Day; National Neonatal Nurses Day; National Tackle Kids Cancer Day; Butterscotch Cinnamon Pie Day; Get Ready Day (third Tuesday) |
 | Sep 14 | National Cream-Filled Donut Day; National Coloring Day; National Sober Day; National Boss/Employee Exchange Day; National Live Creative Day; National Virginia Day; I'm On Top Of It Day |
@@ -752,6 +783,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 17 | PEZ original purpose | Adult anti-smoking peppermint, Vienna 1927; name from Pfefferminz; character heads added in the 1950s |
+| Sep 17 | SPAM | Hormel, 1937; name won a $100 contest; Hormel has never confirmed what it stands for |
+| Sep 17 | Tea bag | Accident — Thomas Sullivan, NY tea merchant, c. 1908; customers dunked the sample pouches |
+| Sep 17 | Listerine name / first use | Named for surgeon Joseph Lister; 1879 surgical antiseptic; also sold as floor cleaner before the 1920s "halitosis" campaign |
+| Sep 17 | Zippo lighter | George G. Blaisdell, Bradford PA, 1932; lifetime guarantee unchanged |
+| Sep 17 | Formica (Local) | Cincinnati 1912 — Westinghouse engineers Herbert Faber & Daniel O'Conor; an electrical insulator made as a substitute *for mica* |
 | Sep 16 | 'Jeep' name origin | Disputed — likely slurred 'GP' (general purpose); others credit Eugene the Jeep from Popeye; Willys-Overland trademarked 1943 |
 | Sep 16 | Traffic cone | Charles D. Scanlon, LA street painter, patented 1943 |
 | Sep 16 | Fisher-Price founded | 1930, East Aurora NY — Herman Fisher, Irving Price, Helen Schelle |
@@ -882,6 +919,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 17 | Champagne Supernova | Oasis | 1995 | (What's the Story) Morning Glory? |
+| Sep 17 | Kiss from a Rose | Seal | 1994 | Seal II |
+| Sep 17 | Buddy Holly | Weezer | 1994 | Weezer (Blue Album) |
+| Sep 17 | The Freshmen | The Verve Pipe | 1996 | Villains |
+| Sep 17 | No Scrubs | TLC | 1999 | FanMail |
+| Sep 17 | Viva La Vida | Coldplay | 2008 | Viva la Vida or Death and All His Friends |
 | Sep 16 | Shine | Collective Soul | 1993 | Hints, Allegations & Things Left Unsaid |
 | Sep 16 | Lightning Crashes | Live | 1994 | Throwing Copper |
 | Sep 16 | Everything You Want | Vertical Horizon | 1999 | Everything You Want |
@@ -2280,4 +2323,22 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Current events | SCOTUS blocked the executive order restricting mail-in voting; Indonesia ferry capsized in the Java Sea (240+ aboard, ~130 missing on day 3); NOAA — hottest US summer on record (Jun–Aug); Pentagon IG report on Iran conflict cites depleted munitions stockpiles, IRGC claims two US drones downed over Hormuz; DOT announced $1.1B in airport grants; Dutch rail outage treated as possible sabotage; 78th Emmys (Sept 14) — Widow's Bay 14 wins. |
 | NOTE | Scheduled run fired WEDNESDAY Sept 16 (task text assumes Thursday) — header dated Wednesday, September 16, 2026. Sept 16 not previously used for This Day in History. Box office frame repeats v64/v65 because no new weekend has occurred; used a fresh fun fact. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. Verified and REJECTED several search-surfaced "recent" deaths as year-contaminated: Eric Dane (actually Feb 19, 2026), Chuck Russell (Jul 22), Garfield Sobers (Jul 17), Dolly Parton (Aug 25). All four candidate capitals from the usual shortlist (Nepal, Paraguay, Morocco, Bolivia, Estonia, Bhutan, Madagascar, Sri Lanka) were already in the log — went to Lithuania/Brunei/Guyana/Turkmenistan instead. No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-07.html per the 7-file archive window. |
 
-_Last updated: September 16, 2026 (v66)_
+
+---
+
+## September 17, 2026 (v67)
+
+### Reds
+71–81, .467, 5th NL Central, 24.0 GB, 12.0 GB of the last NL wild card. Streak W1, L10 3–7. Last 5 (old→new): L 9–13 at MIL, W 4–3 at MIL, L 1–4 vs LAD, L 0–4 vs LAD, W 6–2 vs LAD. Today: vs. Dodgers, 12:40 p.m. ET at GABP. Verified from the MLB Stats API.
+
+### Box Office
+Weekend of Sept 11–13 (unchanged — no new weekend since v65/v66): #1 Practical Magic 2 $30.0M; Spider-Man: Brand New Day $8.4M; The Odyssey $7.4M; Runner $6.43M; Coyote vs. Acme $6.24M. Fresh fun fact used (Bullock/Kidman "set cleansing" story; 28-year sequel gap). Coming Sept 18–20: Resident Evil (Zach Cregger), The Weight (Hawke/Crowe), Shaun the Sheep: The Beast of Mossy Bottom, Daniel: The Fiery Furnace.
+
+### Sports / Deaths / Current Events
+NFL Week 2 opens Thu Sept 17 (Lions at Bills); Bengals 1–0, at Houston Sun 1 p.m. CBS. NHL camps opened Sept 16, exhibitions Sept 18, opening night Sept 29, schedule expands 82→84 games. MLB: MIL 95–57 best, TB 92–59 leads AL, LAD 92–60; AL Central CLE 78–75 / CWS 77–75; AL West HOU and TEX both 76–76; season ends Sept 27. NCAA: Texas No. 1 over Ohio State 24–23; Oregon 6th→21st after losing to Oklahoma State. Tennis: Zverev def. Shelton for his first major; Rybakina def. Sabalenka. WNBA returns from the FIBA World Cup pause (Aug 31–Sept 16); regular season ends Sept 24, playoffs Sept 27. MLS Decision Day Oct 3. Deaths: Barry Melrose 70 (Sept 15, Parkinson's — Kings coach to the 1993 Cup Final, 27 yrs at ESPN); Bob Mackie 87 (Sept 14, pneumonia — Cher/Carol Burnett costume designer, 9 Emmys); Cheetah Chrome 71 (Sept 13 — Dead Boys guitarist, Cleveland punk). Current events: 78th Primetime Emmys Sept 14 — The Pitt repeats Drama Series, Noah Wyle repeats lead actor; Widow's Bay (Apple TV) sweeps comedy with a record total for a comedy series, Matthew Rhys lead actor; Jean Smart's 8th Emmy (Hacks); Michael J. Fox gets the Bob Hope Humanitarian Award; Mariska Hargitay first non-comedian host since Lansbury 1993. Brent oil near/above $100, US diesel ~$6.20/gal. Pennsylvania third measles death, US cases a 35-year high. Gallup: 89% say federal corruption widespread, 20-yr high. Singapore offering >$55,000 per child.
+
+### Notes
+Run fired Thursday Sept 17 as intended. Sept 17 not previously used for This Day in History. Box office frame repeats v65/v66 (no new weekend yet) with a fresh fun fact. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. REJECTED as year-contaminated or unverifiable: a widely-aggregated "Joe Morgan died Sept 5, 2026 at 95" item (the two notable Joe Morgans both died in 2020). "You Oughta Know" and "Poker Face" dropped from the song list because the original studio recordings do not resolve on the US iTunes Search API — substituted Kiss from a Rose and The Freshmen. Nearly every first-choice capital/founded/song candidate was already logged; had to go several layers deep (Eritrea/N. Macedonia/Qatar/Rwanda; PEZ/SPAM/tea bag/Listerine/Zippo/Formica). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-08.html per the 7-file archive window.
+
+
+_Last updated: September 17, 2026_
