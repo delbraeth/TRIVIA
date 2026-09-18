@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 18 | Chile | Santiago (founded 1541; independence declared Sept 18, 1810 — Fiestas Patrias) |
+| Sep 18 | Bosnia and Herzegovina | Sarajevo ("Jerusalem of Europe"; mosque, synagogue, Catholic cathedral and Orthodox church within a few hundred yards; 1984 Winter Olympics) |
+| Sep 18 | Maldives | Malé (one of the densest cities on Earth, ~2 sq mi) |
+| Sep 18 | Zambia | Lusaka (named for Chief Lusaaka; capital 1935, moved from Livingstone) |
 | Sep 17 | Eritrea | Asmara (entire city center UNESCO-listed for 1930s Italian modernist architecture) |
 | Sep 17 | North Macedonia | Skopje (birthplace of Mother Teresa; rebuilt after the 1963 earthquake) |
 | Sep 17 | Qatar | Doha (~80% of the national population; name from an Arabic word for a large tree) |
@@ -121,6 +125,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 18 | The Virginian (1962–71) | the Virginian (never named) | James Drury |
+| Sep 18 | The Green Hornet (1966–67) | Kato | Bruce Lee |
+| Sep 18 | Quincy, M.E. (1976–83) | Dr. Quincy | Jack Klugman |
+| Sep 18 | The Greatest American Hero (1981–83) | Ralph Hinkley | William Katt |
+| Sep 18 | Empty Nest (1988–95) | Dr. Harry Weston | Richard Mulligan |
+| Sep 18 | Home Improvement (1991–99) | Wilson W. Wilson Jr. | Earl Hindman |
 | Sep 17 | Have Gun – Will Travel (1957–63) | Paladin | Richard Boone |
 | Sep 17 | The Rifleman (1958–63) | Lucas McCain | Chuck Connors (played in both the NBA and MLB) |
 | Sep 17 | Mannix (1967–75) | Joe Mannix | Mike Connors (b. Krekor Ohanian) |
@@ -266,6 +276,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 18 | Doctor Zhivago author, forced to decline the 1958 Nobel | Boris Pasternak |
+| Sep 18 | A Bar at the Folies-Bergère (1882) painter | Édouard Manet |
+| Sep 18 | Long Day's Journey into Night playwright, 1936 Nobel | Eugene O'Neill |
+| Sep 18 | "I write this sitting in the kitchen sink" opener | I Capture the Castle (1948), Dodie Smith |
+| Sep 18 | "Howl" (1956) poet | Allen Ginsberg |
+| Sep 18 | Wanderer above the Sea of Fog (c.1818) painter | Caspar David Friedrich |
 | Sep 17 | The Planets (1916) composer | Gustav Holst (no Pluto — not yet discovered; based on astrology) |
 | Sep 17 | The Hay Wain (1821) painter | John Constable |
 | Sep 17 | "In my younger and more vulnerable years..." opener | The Great Gatsby (1925) — F. Scott Fitzgerald |
@@ -410,6 +426,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 18 | Science | Glass is not a slow liquid — crown glass spun, heavy edge set down |
+| Sep 18 | Space | Venus rotates backward; day (243 d) longer than its year (225 d) |
+| Sep 18 | Geography | Istanbul is the only major city on two continents |
+| Sep 18 | Animals | A flamboyance of flamingos; pink comes from dietary carotenoids |
+| Sep 18 | Body | The nose can distinguish ~1 trillion scents, not 10,000 |
+| Sep 18 | Food | Pineapples are South American; reached Hawaii ~1813 |
+| Sep 18 | Language | "Quarantine" from Venetian quaranta giorni — 40 days |
+| Sep 18 | History | Oxford (c.1096) predates the founding of Tenochtitlán (1325) |
+| Sep 18 | Math | Birthday paradox — 23 people for >50%, 70 for 99.9% |
+| Sep 18 | Sports | Golf ball dimples added in the 1890s after scuffed balls flew farther |
+| Sep 18 | Pop Culture | Hollywood sign originally read HOLLYWOODLAND (1923 real estate ad) |
+| Sep 18 | Weather | ~100 lightning strikes/second; bolt heats air to ~50,000°F |
+| Sep 18 | Local (Cincinnati) | Roebling Suspension Bridge (1866) — longest in the world at opening; Brooklyn Bridge prototype |
+| Sep 18 | Reds bar-bet | Johnny Bench could hold seven baseballs in one hand |
 | Sep 17 | Space | Olympus Mons ~16 mi high, 370 mi across — slope too gentle to notice |
 | Sep 17 | Geography | Canada holds ~62% of the world's lakes |
 | Sep 17 | History | Shortest war ever — Anglo-Zanzibar War, Aug 27 1896, ~38 minutes |
@@ -713,6 +743,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 18 | September 18 (New York Times first edition 1851 — 175th anniv, penny paper, New-York Daily Times; National Security Act takes effect 1947 creating the U.S. Air Force, CIA and NSC — USAF's 79th birthday; Washington lays the Capitol cornerstone in Masonic regalia 1793, stone never found; Chile declares independence 1810 — Fiestas Patrias; Jimi Hendrix dies in London at 27, 1970 — 56th) |
 | Sep 17 | September 17 (U.S. Constitution signed at the Pennsylvania State House 1787 — 239th anniv, 39 of 55 delegates; Battle of Antietam 1862 — bloodiest single day in American history, ~22,700 casualties, 164th; Camp David Accords signed at the White House by Sadat, Begin and Carter 1978; M*A*S*H premieres on CBS 1972) |
 | Sep 16 | September 16 (Mayflower sails from Plymouth 1620; Grito de Dolores 1810 — Mexican independence; Cherokee Strip land run 1893; General Motors founded in Flint 1908; Wall Street bombing 1920, 38 killed, never solved) |
 | Sep 15 | September 15 (William Howard Taft born in Cincinnati 1857 — only person to serve as both President and Chief Justice; 16th Street Baptist Church bombing, Birmingham 1963 — 63rd anniv; google.com registered by Page & Brin 1997; Lehman Brothers files Chapter 11 2008) |
@@ -744,6 +775,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 18 | National Cheeseburger Day; Air Force Birthday; National POW/MIA Recognition Day (third Friday); National Rice Krispie Treats Day; National Red Velvet Cake Day; National Tradesmen Day; National HIV/AIDS and Aging Awareness Day; Chile Independence Day |
 | Sep 17 | Constitution Day & Citizenship Day; National Apple Dumpling Day; National Monte Cristo Day; National Pawpaw Day; National Professional House Cleaners Day; International Grenache Day; International Patient Safety Day (WHO); Australian Citizenship Day; Free Queso Day; Time's Up Day |
 | Sep 16 | Mexican Independence Day; Mayflower Day; National Play-Doh Day; National Guacamole Day; National Cinnamon Raisin Bread Day; National Collect Rocks Day; National Stepfamily Day; Working Parents Day; International Day for the Preservation of the Ozone Layer; National Stay Away From Seattle Day; Anne Bradstreet Day |
 | Sep 15 | International Day of Democracy (UN); National IT Professionals Day; National Double Cheeseburger Day; National Linguine Day; National Cheese Toast Day; National Online Learning Day; National Neonatal Nurses Day; National Tackle Kids Cancer Day; Butterscotch Cinnamon Pie Day; Get Ready Day (third Tuesday) |
@@ -783,6 +815,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 18 | Lava lamp | Edward Craven Walker, 1963 — British accountant, pub egg-timer inspiration, sold as the "Astro Lamp" |
+| Sep 18 | ICEE / Slurpee | Omar Knedlik, Kansas DQ, late 1950s — broken soda fountain; 7-Eleven licensed it 1965 as Slurpee |
+| Sep 18 | First American roller coaster | LaMarcus Thompson's Switchback Railway, Coney Island 1884, ~6 mph, a nickel |
+| Sep 18 | Crossword puzzle | Arthur Wynne, New York World, Dec 21 1913 — called "Word-Cross" |
+| Sep 18 | Chipotle founded | 1993, Denver, Steve Ells, $85,000 loan from his father |
+| Sep 18 | Gold Star Chili (Local) | 1965, Mount Washington — four Daoud brothers, Jordanian immigrants, bought Hamburger Heaven |
 | Sep 17 | PEZ original purpose | Adult anti-smoking peppermint, Vienna 1927; name from Pfefferminz; character heads added in the 1950s |
 | Sep 17 | SPAM | Hormel, 1937; name won a $100 contest; Hormel has never confirmed what it stands for |
 | Sep 17 | Tea bag | Accident — Thomas Sullivan, NY tea merchant, c. 1908; customers dunked the sample pouches |
@@ -919,6 +957,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 18 | Iris | The Goo Goo Dolls | 1998 | Dizzy Up the Girl |
+| Sep 18 | Don't Speak | No Doubt | 1995 | Tragic Kingdom |
+| Sep 18 | Wake Me Up When September Ends | Green Day | 2004 | American Idiot |
+| Sep 18 | The Scientist | Coldplay | 2002 | A Rush of Blood to the Head |
+| Sep 18 | Hey Ya! | OutKast | 2003 | Speakerboxxx/The Love Below |
+| Sep 18 | Glycerine | Bush | 1994 | Sixteen Stone |
 | Sep 17 | Champagne Supernova | Oasis | 1995 | (What's the Story) Morning Glory? |
 | Sep 17 | Kiss from a Rose | Seal | 1994 | Seal II |
 | Sep 17 | Buddy Holly | Weezer | 1994 | Weezer (Blue Album) |
@@ -2341,4 +2385,19 @@ NFL Week 2 opens Thu Sept 17 (Lions at Bills); Bengals 1–0, at Houston Sun 1 p
 Run fired Thursday Sept 17 as intended. Sept 17 not previously used for This Day in History. Box office frame repeats v65/v66 (no new weekend yet) with a fresh fun fact. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. REJECTED as year-contaminated or unverifiable: a widely-aggregated "Joe Morgan died Sept 5, 2026 at 95" item (the two notable Joe Morgans both died in 2020). "You Oughta Know" and "Poker Face" dropped from the song list because the original studio recordings do not resolve on the US iTunes Search API — substituted Kiss from a Rose and The Freshmen. Nearly every first-choice capital/founded/song candidate was already logged; had to go several layers deep (Eritrea/N. Macedonia/Qatar/Rwanda; PEZ/SPAM/tea bag/Listerine/Zippo/Formica). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-08.html per the 7-file archive window.
 
 
-_Last updated: September 17, 2026_
+## September 18, 2026 (v68)
+
+### Reds
+71–82, .464, 5th NL Central, 24.0 GB. Streak L1, L10 2–8 (worst 10-game run of the season). Last 5 (old→new): W 4–3 at MIL, L 1–4 vs LAD, L 0–4 vs LAD, W 6–2 vs LAD, L 2–8 vs LAD. Today: vs. Cubs, 6:40 p.m. ET at GABP. Verified from the MLB Stats API. NL Central: MIL 95–58, CHC 85–68, PIT 76–77, STL 75–78, CIN 71–82.
+
+### Box Office
+Weekend of Sept 11–13 (no new weekend yet): #1 Practical Magic 2 $30.0M; Spider-Man: Brand New Day $8.4M; The Odyssey $7.4M; Runner $6.43M; Coyote vs. Acme $6.24M. Fresh fun fact used (Brand New Day's six-week #1 streak ended; passed Endgame as top-grossing superhero film domestically) — different from v67's Bullock/Kidman fact. Coming Sept 18–20: Resident Evil (Cregger), The Weight (Hawke/Crowe), Shaun the Sheep: The Beast of Mossy Bottom, The Musical (Rob Lowe), Ghost in the Shell 4K re-release.
+
+### Sports / Deaths / Current Events
+NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston Sun 1 p.m. CBS, Burrow back tightness but expected to play; CIN defense forced 3 fumbles on TB's first four possessions in Wk 1. MLB season ends Sept 27. WNBA resumed Sept 17; MIN 31–9 locked into 1 or 2 seed, GSV chasing; regular season ends Sept 24, playoffs Sept 27. NHL camps opened Sept 16, exhibitions Sept 18, opening night Sept 29, 82→84 games. NCAA Week 4 opens tonight; Texas No. 1 over Ohio State 24–23, Oregon 6th→21st. MLS Decision Day Oct 3. Deaths: Peter Max 88 (Sept 14, NYC — psychedelic pop artist, painted a Boeing 777); Bob Mackie 87 (Sept 14, pneumonia); Rosalind Ashford 83 (Sept 15 — founding Vandella); George Chuvalo 89 (Sept 12, on his birthday — never knocked down in 93 fights, went the distance with Ali twice); Fredd Young 64 (Sept 15 — 4x Pro Bowl LB, Seahawks/Colts). Current events: 78th Emmys Sept 14 (Widow's Bay 14 wins, The Pitt repeats drama, Smart/Janney tied for most acting Emmys, Hargitay hosted); Israel–Lebanon Rome talks in October; King Charles III AI summit; Brent near $100, diesel ~$6.20; US measles a 35-year high after a third PA death.
+
+### Notes
+Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
+
+
+_Last updated: September 18, 2026_
