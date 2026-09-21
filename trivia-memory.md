@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 21 | Tajikistan | Dushanbe (Persian for "Monday"; grew from a village with a Monday market) |
+| Sep 21 | Angola | Luanda (founded by Portugal 1576; long among the costliest cities for expatriates) |
+| Sep 21 | Bahrain | Manama (Arabic "place of rest"; archipelago of ~50 natural islands) |
+| Sep 21 | Guatemala | Guatemala City (built after the 1773 earthquakes destroyed Antigua; ringed by volcanoes) |
 | Sep 18 | Chile | Santiago (founded 1541; independence declared Sept 18, 1810 — Fiestas Patrias) |
 | Sep 18 | Bosnia and Herzegovina | Sarajevo ("Jerusalem of Europe"; mosque, synagogue, Catholic cathedral and Orthodox church within a few hundred yards; 1984 Winter Olympics) |
 | Sep 18 | Maldives | Malé (one of the densest cities on Earth, ~2 sq mi) |
@@ -125,6 +129,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 21 | The Phil Silvers Show (1955–59) | M/Sgt. Ernie Bilko | Phil Silvers |
+| Sep 21 | The Partridge Family (1970–74) | Reuben Kincaid | Dave Madden |
+| Sep 21 | Cannon (1971–76) | Frank Cannon | William Conrad |
+| Sep 21 | Hart to Hart (1979–84) | Max | Lionel Stander |
+| Sep 21 | Little House on the Prairie (1974–83) | Nellie Oleson | Alison Arngrim |
+| Sep 21 | Coach (1989–97) | Luther Van Dam | Jerry Van Dyke |
 | Sep 18 | The Virginian (1962–71) | the Virginian (never named) | James Drury |
 | Sep 18 | The Green Hornet (1966–67) | Kato | Bruce Lee |
 | Sep 18 | Quincy, M.E. (1976–83) | Dr. Quincy | Jack Klugman |
@@ -276,6 +286,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 21 | Sherlock Holmes creator | Arthur Conan Doyle |
+| Sep 21 | Also sprach Zarathustra (2001 theme) composer | Richard Strauss (1896) |
+| Sep 21 | The Sleeping Gypsy / The Dream painter ("Le Douanier") | Henri Rousseau |
+| Sep 21 | Pygmalion (1913) playwright | George Bernard Shaw (Nobel + Oscar) |
+| Sep 21 | Where the Wild Things Are (1963) author-illustrator | Maurice Sendak |
+| Sep 21 | Native Son (1940) author | Richard Wright |
 | Sep 18 | Doctor Zhivago author, forced to decline the 1958 Nobel | Boris Pasternak |
 | Sep 18 | A Bar at the Folies-Bergère (1882) painter | Édouard Manet |
 | Sep 18 | Long Day's Journey into Night playwright, 1936 Nobel | Eugene O'Neill |
@@ -426,6 +442,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 21 | Space | Titan is the only other world with stable surface liquid — methane/ethane lakes |
+| Sep 21 | Body | The skeleton fully replaces itself roughly every 10 years |
+| Sep 21 | Geography | Lesotho, San Marino and Vatican City — only countries surrounded by one country |
+| Sep 21 | Food | Rhubarb leaves toxic (oxalic acid); US customs court reclassified rhubarb a fruit, 1947 |
+| Sep 21 | Language | "Strengths" — longest common English word with one vowel |
+| Sep 21 | Did You Know | Eiffel Tower grows ~6 in. taller in summer and leans away from the sun |
+| Sep 21 | Sports | An MLB ball has exactly 108 double stitches (216 total), all hand-sewn |
+| Sep 21 | History | Mammoths alive on Wrangel Island c.1650 BC — Great Pyramid already ~1,000 yrs old |
+| Sep 21 | Animals | Elephants are the only mammals that cannot jump |
+| Sep 21 | Nature | Some bamboo grows up to 35 inches in a single day |
+| Sep 21 | Pop Culture | Count von Count is built on arithmomania — vampire folklore about compulsive counting |
+| Sep 21 | Local (Cincinnati) | Josiah Warren's 1827 "Time Store" — goods priced in labor-hours; ran 3 yrs, profitably |
 | Sep 18 | Science | Glass is not a slow liquid — crown glass spun, heavy edge set down |
 | Sep 18 | Space | Venus rotates backward; day (243 d) longer than its year (225 d) |
 | Sep 18 | Geography | Istanbul is the only major city on two continents |
@@ -743,6 +771,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 21 | September 21 (ABC Monday Night Football debuts 1970 — Browns 31, Jets 21, Jackson/Meredith/Cosell, 56th anniv and also a Monday; "Yes, Virginia, there is a Santa Claus" in the New York Sun 1897 by Francis Pharcellus Church; The Hobbit published by Allen & Unwin 1937; Sandra Day O'Connor confirmed 99–0 as first woman on the Supreme Court 1981 — 45th anniv) |
 | Sep 18 | September 18 (New York Times first edition 1851 — 175th anniv, penny paper, New-York Daily Times; National Security Act takes effect 1947 creating the U.S. Air Force, CIA and NSC — USAF's 79th birthday; Washington lays the Capitol cornerstone in Masonic regalia 1793, stone never found; Chile declares independence 1810 — Fiestas Patrias; Jimi Hendrix dies in London at 27, 1970 — 56th) |
 | Sep 17 | September 17 (U.S. Constitution signed at the Pennsylvania State House 1787 — 239th anniv, 39 of 55 delegates; Battle of Antietam 1862 — bloodiest single day in American history, ~22,700 casualties, 164th; Camp David Accords signed at the White House by Sadat, Begin and Carter 1978; M*A*S*H premieres on CBS 1972) |
 | Sep 16 | September 16 (Mayflower sails from Plymouth 1620; Grito de Dolores 1810 — Mexican independence; Cherokee Strip land run 1893; General Motors founded in Flint 1908; Wall Street bombing 1920, 38 killed, never solved) |
@@ -775,6 +804,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 21 | International Day of Peace (UN); World Alzheimer's Day; Belize Independence Day (1981); Armenia Independence Day (1991); National Chai Day; National Pecan Cookie Day; National New York Day; Earth, Wind & Fire Day |
 | Sep 18 | National Cheeseburger Day; Air Force Birthday; National POW/MIA Recognition Day (third Friday); National Rice Krispie Treats Day; National Red Velvet Cake Day; National Tradesmen Day; National HIV/AIDS and Aging Awareness Day; Chile Independence Day |
 | Sep 17 | Constitution Day & Citizenship Day; National Apple Dumpling Day; National Monte Cristo Day; National Pawpaw Day; National Professional House Cleaners Day; International Grenache Day; International Patient Safety Day (WHO); Australian Citizenship Day; Free Queso Day; Time's Up Day |
 | Sep 16 | Mexican Independence Day; Mayflower Day; National Play-Doh Day; National Guacamole Day; National Cinnamon Raisin Bread Day; National Collect Rocks Day; National Stepfamily Day; Working Parents Day; International Day for the Preservation of the Ozone Layer; National Stay Away From Seattle Day; Anne Bradstreet Day |
@@ -815,6 +845,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 21 | "@" in email addresses | Ray Tomlinson, 1971 |
+| Sep 21 | QR code | Masahiro Hara, Denso Wave, 1994 — Toyota parts tracking; patent never enforced |
+| Sep 21 | Home Depot founded | 1978, Bernie Marcus & Arthur Blank; first stores Atlanta 1979 |
+| Sep 21 | First fully enclosed mall | Southdale Center, Edina MN, 1956, Victor Gruen |
+| Sep 21 | First commercial lithium-ion battery | Sony, 1991; Goodenough/Whittingham/Yoshino Nobel 2019 |
+| Sep 21 | Frisch's Big Boy (Local) | 1946, Dave Frisch, Central Parkway; family café dates to 1905 |
 | Sep 18 | Lava lamp | Edward Craven Walker, 1963 — British accountant, pub egg-timer inspiration, sold as the "Astro Lamp" |
 | Sep 18 | ICEE / Slurpee | Omar Knedlik, Kansas DQ, late 1950s — broken soda fountain; 7-Eleven licensed it 1965 as Slurpee |
 | Sep 18 | First American roller coaster | LaMarcus Thompson's Switchback Railway, Coney Island 1884, ~6 mph, a nickel |
@@ -957,6 +993,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 21 | Barely Breathing | Duncan Sheik | 1996 |
+| Sep 21 | Mr. Jones | Counting Crows | 1993 |
+| Sep 21 | Possum Kingdom | Toadies | 1994 |
+| Sep 21 | Stay (I Missed You) | Lisa Loeb & Nine Stories | 1994 |
+| Sep 21 | Santa Monica | Everclear | 1995 |
+| Sep 21 | The Distance | CAKE | 1996 |
 | Sep 18 | Iris | The Goo Goo Dolls | 1998 | Dizzy Up the Girl |
 | Sep 18 | Don't Speak | No Doubt | 1995 | Tragic Kingdom |
 | Sep 18 | Wake Me Up When September Ends | Green Day | 2004 | American Idiot |
@@ -2385,6 +2427,20 @@ NFL Week 2 opens Thu Sept 17 (Lions at Bills); Bengals 1–0, at Houston Sun 1 p
 Run fired Thursday Sept 17 as intended. Sept 17 not previously used for This Day in History. Box office frame repeats v65/v66 (no new weekend yet) with a fresh fun fact. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. REJECTED as year-contaminated or unverifiable: a widely-aggregated "Joe Morgan died Sept 5, 2026 at 95" item (the two notable Joe Morgans both died in 2020). "You Oughta Know" and "Poker Face" dropped from the song list because the original studio recordings do not resolve on the US iTunes Search API — substituted Kiss from a Rose and The Freshmen. Nearly every first-choice capital/founded/song candidate was already logged; had to go several layers deep (Eritrea/N. Macedonia/Qatar/Rwanda; PEZ/SPAM/tea bag/Listerine/Zippo/Formica). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-08.html per the 7-file archive window.
 
 
+## September 21, 2026 (v69)
+
+### Reds
+72–84, .462, 5th NL Central, 26.0 GB. Streak L2, L10 3–7. Last 5 (old→new): W 6–2 vs LAD, L 2–8 vs LAD, W 6–4 vs CHC, L 2–5 vs CHC, L 1–9 vs CHC. Today: NO GAME (off day); next Tue Sept 22 at Atlanta 7:15 p.m. ET, then 3 at Toronto to close. Verified from the MLB Stats API. NL Central: MIL 98–58, CHC 87–69, PIT 79–77, STL 76–80, CIN 72–84.
+
+### Box Office
+Weekend of Sept 18–20: #1 Resident Evil (Sony) $60.0M on 3,684 screens, $108.3M worldwide, $75M budget, 95% RT — biggest opening in franchise history, in Zach Cregger's career, and for an R-rated video-game adaptation. #2 Practical Magic 2 $12.1M (−60%); #3 Spider-Man: Brand New Day $6.5M; #4 The Odyssey $4.9M; #5 Coyote vs. Acme $4.5M; #9 The Weight $2.3M. Coming Sept 25–27: Heart of the Beast (Brad Pitt/J.K. Simmons/Anna Lambe, Paramount), Never After Dark, Charlie Harper, Forgotten Island.
+
+### Sports / Deaths / Current Events
+NFL: Bengals 20, Texans 6 (Sept 20) — CIN 2–0, Burrow 20/31 207 yds 2 TD, Chase 7-75-2 TD. Wk 2 injuries: Jayden Daniels elbow, Caleb Williams hamstring. MIN 9 CHI 3; PHI last-second over TEN; GB over NYJ in OT; BUF over DET on TNF. MLB: six clinched by 9/20 (TB, MIL, LAD, NYY, ATL, BOS); ATL won NL East 9/20; season ends 9/27, postseason 9/29. WNBA: all 8 playoff teams set (MIN, GSV, LV, ATL, IND, NY, WAS, DAL), no seeds locked, season ends 9/24, first round 9/27, Finals 10/17. GOLF: Presidents Cup Sept 24–27 at Medinah, Snedeker vs Ogilvy, Scheffler leads US, Jackson Koivun 21-yr-old rookie, Adam Scott 12th appearance. NCAA: Ole Miss beat LSU (Kiffin's Oxford return) → Ole Miss No. 4, LSU No. 10; Kentucky over No.-10 Texas A&M 31–21. NHL preseason; opening night 9/29, 84-game schedule. Deaths: Duncan Sheik 56 (Sept 17, organ failure — "Barely Breathing," Spring Awakening); Sandro Mazzola 83 (Sept 19 — Inter/Italy, 1968 Euro); Stephanie Cole 84 (Sept 18 — Tenko, Doc Martin); Jon Kyl 84 (Sept 17 — AZ senator); Michael Sweetney 43 (Sept 17 — Georgetown, Knicks/Bulls); Bryan "Bald Bryan" Bishop 48 (Sept 18 — Adam Carolla Show); Mike Burton 79 (Sept 18 — 3 Olympic swimming golds). Current events: UNGA week opens, ~130 heads of state, Guterres term ending, UN finances strained; Ukraine's largest-ever drone attack on Moscow during Russia's first parliamentary election since 2022 (United Russia 57.5%); US approved $2.7B air-defense sale to Ukraine; Saudi says Houthis fired a ballistic missile at Riyadh; TIFF wrapped — People's Choice to La bola negra (Netflix's first major theatrical under a 45-day window); Italy reports widening West Nile spread.
+
+### Notes
+Scheduled run fired MONDAY Sept 21 (task text assumes Thursday) — header dated Monday, September 21, 2026. Sept 21 not previously used for This Day in History, and the MNF anniversary landing on an actual Monday was used as the hook. Reds had no game today; today-row shows the off day and the next game. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. Lit's "My Own Worst Enemy" dropped — no original resolves on the US iTunes Search API; substituted Santa Monica (Everclear). Capitals: Paraguay, Nepal, Senegal and Papua New Guinea were all already logged — went to Tajikistan (Dushanbe = "Monday," tie-in), Angola, Bahrain, Guatemala. Wi-Fi name origin already logged (Aug 11) — used the "@" symbol instead. New local Founded entry: Frisch's Big Boy. New local general-trivia fact: the 1827 Cincinnati Time Store. No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-10.html per the 7-file archive window.
+
 ## September 18, 2026 (v68)
 
 ### Reds
@@ -2400,4 +2456,4 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 18, 2026_
+_Last updated: September 21, 2026_
