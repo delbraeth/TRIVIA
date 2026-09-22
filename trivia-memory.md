@@ -458,7 +458,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
-| Sep 22 | Space | Titan's methane/ethane lakes (repeat of Sep 21 Space slot — different framing, avoid reuse) |
+| Sep 22 | Space | Venus: day (243 Earth days) longer than its year (225); retrograde spin, Sun rises in the west |
 | Sep 22 | Body | Stomach lining replaces itself every 3–5 days |
 | Sep 22 | Geography | Russia borders 14 countries; 11 time zones |
 | Sep 22 | Food | Worcestershire sauce contains anchovies; 1837 batch aged 18 months in a cellar |
@@ -2503,5 +2503,5 @@ _Last updated: September 22, 2026_
 ## September 22, 2026 (v70)
 
 ### Notes
-Tuesday run (daily cadence). Reds record 72–84 verified from the MLB Stats API standings + schedule endpoints; today's game at Atlanta 7:15 p.m. ET. Box office weekend unchanged from the Sep 21 run (Sept 18–20 weekend still current on a Tuesday) — refreshed the fun fact with the worldwide total and the Austin Abrams/Rotten Tomatoes bar bet instead of repeating the Sep 21 framing. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API (Green Day's "Boulevard of Broken Dreams" dropped — no original studio recording resolved on the US iTunes Search API; substituted "Under the Bridge"). "Today" (Smashing Pumpkins) dropped — no Spotify track ID could be verified. Sept 22 not previously used for This Day in History. TV pool: went to Brady Bunch / Mister Ed / Flying Nun / Kolchak / Airwolf / The Nanny, checking actors against prior entries (skipped Barnaby Jones, Trapper John, Highway to Heaven because Ebsen/Roberts/Landon already appear). New local Founded entry: United Dairy Farmers. No 12-week pruning needed. Pruned thursday-trivia-2026-09-11.html per the 7-file archive window.
+Tuesday run (daily cadence). Reds record 72–84 verified from the MLB Stats API standings + schedule endpoints; today's game at Atlanta 7:15 p.m. ET. Box office weekend unchanged from the Sep 21 run (Sept 18–20 weekend still current on a Tuesday) — refreshed the fun fact with the worldwide total and the Austin Abrams/Rotten Tomatoes bar bet instead of repeating the Sep 21 framing. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API (Green Day's "Boulevard of Broken Dreams" dropped — no original studio recording resolved on the US iTunes Search API; substituted "Under the Bridge"). Caught and replaced a Titan/Saturn Space fact that duplicated the Sep 21 sheet — swapped in the Venus day-longer-than-year fact. "Today" (Smashing Pumpkins) dropped — no Spotify track ID could be verified. Sept 22 not previously used for This Day in History. TV pool: went to Brady Bunch / Mister Ed / Flying Nun / Kolchak / Airwolf / The Nanny, checking actors against prior entries (skipped Barnaby Jones, Trapper John, Highway to Heaven because Ebsen/Roberts/Landon already appear). New local Founded entry: United Dairy Farmers. No 12-week pruning needed. Pruned thursday-trivia-2026-09-11.html per the 7-file archive window.
 
