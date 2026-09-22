@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 22 | Slovenia | Ljubljana (dragon symbol; four dragons guard the Dragon Bridge; legend credits Jason and the Argonauts) |
+| Sep 22 | Namibia | Windhoek (~5,600 ft in the central highlands; Afrikaans for "windy corner") |
+| Sep 22 | Nepal | Kathmandu (named for Kasthamandap, a pavilion said to be built from a single tree) |
+| Sep 22 | Papua New Guinea | Port Moresby (no road connection to any other major town in the country) |
 | Sep 21 | Tajikistan | Dushanbe (Persian for "Monday"; grew from a village with a Monday market) |
 | Sep 21 | Angola | Luanda (founded by Portugal 1576; long among the costliest cities for expatriates) |
 | Sep 21 | Bahrain | Manama (Arabic "place of rest"; archipelago of ~50 natural islands) |
@@ -129,6 +133,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 22 | The Brady Bunch (1969–74) | Alice Nelson (housekeeper) | Ann B. Davis |
+| Sep 22 | Mister Ed (1961–66) | Wilbur Post | Alan Young |
+| Sep 22 | The Flying Nun (1967–70) | Sister Bertrille | Sally Field |
+| Sep 22 | Kolchak: The Night Stalker (1974–75) | Carl Kolchak | Darren McGavin |
+| Sep 22 | Airwolf (1984–87) | Stringfellow Hawke | Jan-Michael Vincent |
+| Sep 22 | The Nanny (1993–99) | Fran Fine | Fran Drescher |
 | Sep 21 | The Phil Silvers Show (1955–59) | M/Sgt. Ernie Bilko | Phil Silvers |
 | Sep 21 | The Partridge Family (1970–74) | Reuben Kincaid | Dave Madden |
 | Sep 21 | Cannon (1971–76) | Frank Cannon | William Conrad |
@@ -286,6 +296,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 22 | Middlemarch (1871) author | George Eliot (Mary Ann Evans) |
+| Sep 22 | The Turn of the Screw (1898) author | Henry James |
+| Sep 22 | "Tyger Tyger, burning bright" poet | William Blake |
+| Sep 22 | The Card Players / Mont Sainte-Victoire painter | Paul Cézanne |
+| Sep 22 | Hungarian Rhapsody No. 2 composer | Franz Liszt |
+| Sep 22 | The Road (2007 Pulitzer) author | Cormac McCarthy |
 | Sep 21 | Sherlock Holmes creator | Arthur Conan Doyle |
 | Sep 21 | Also sprach Zarathustra (2001 theme) composer | Richard Strauss (1896) |
 | Sep 21 | The Sleeping Gypsy / The Dream painter ("Le Douanier") | Henri Rousseau |
@@ -442,6 +458,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 22 | Space | Titan's methane/ethane lakes (repeat of Sep 21 Space slot — different framing, avoid reuse) |
+| Sep 22 | Body | Stomach lining replaces itself every 3–5 days |
+| Sep 22 | Geography | Russia borders 14 countries; 11 time zones |
+| Sep 22 | Food | Worcestershire sauce contains anchovies; 1837 batch aged 18 months in a cellar |
+| Sep 22 | Language | "Quarantine" from Venetian quaranta giorni |
+| Sep 22 | Animals | A flamboyance of flamingos; pink from carotenoids |
+| Sep 22 | Science | Glass is not a slow-moving liquid (cathedral-window myth) |
+| Sep 22 | History | Eiffel Tower was a temporary 20-year structure, saved by radio |
+| Sep 22 | Sports | Golf balls have 300–500 dimples; smooth balls fly half as far |
+| Sep 22 | Pop Culture | The Wilhelm scream (1951) in 400+ films |
+| Sep 22 | Did You Know | Honey never spoils; 3,000-year-old Egyptian honey |
+| Sep 22 | Local (Cincinnati) | Union Terminal half-dome (180 ft) and the Hall of Justice |
 | Sep 21 | Space | Titan is the only other world with stable surface liquid — methane/ethane lakes |
 | Sep 21 | Body | The skeleton fully replaces itself roughly every 10 years |
 | Sep 21 | Geography | Lesotho, San Marino and Vatican City — only countries surrounded by one country |
@@ -771,6 +799,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 22 | September 22 (preliminary Emancipation Proclamation 1862; Nathan Hale hanged 1776 — 250th anniv; Friends premieres on NBC 1994; Dempsey–Tunney "Long Count" fight at Soldier Field 1927) |
 | Sep 21 | September 21 (ABC Monday Night Football debuts 1970 — Browns 31, Jets 21, Jackson/Meredith/Cosell, 56th anniv and also a Monday; "Yes, Virginia, there is a Santa Claus" in the New York Sun 1897 by Francis Pharcellus Church; The Hobbit published by Allen & Unwin 1937; Sandra Day O'Connor confirmed 99–0 as first woman on the Supreme Court 1981 — 45th anniv) |
 | Sep 18 | September 18 (New York Times first edition 1851 — 175th anniv, penny paper, New-York Daily Times; National Security Act takes effect 1947 creating the U.S. Air Force, CIA and NSC — USAF's 79th birthday; Washington lays the Capitol cornerstone in Masonic regalia 1793, stone never found; Chile declares independence 1810 — Fiestas Patrias; Jimi Hendrix dies in London at 27, 1970 — 56th) |
 | Sep 17 | September 17 (U.S. Constitution signed at the Pennsylvania State House 1787 — 239th anniv, 39 of 55 delegates; Battle of Antietam 1862 — bloodiest single day in American history, ~22,700 casualties, 164th; Camp David Accords signed at the White House by Sadat, Begin and Carter 1978; M*A*S*H premieres on CBS 1972) |
@@ -804,6 +833,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 22 | First Day of Fall / autumnal equinox 8:05 p.m. ET; Hobbit Day; National Voter Registration Day; Elephant Appreciation Day; American Business Women's Day; National Ice Cream Cone Day; National States and Capitals Day; Falls Prevention Awareness Day |
 | Sep 21 | International Day of Peace (UN); World Alzheimer's Day; Belize Independence Day (1981); Armenia Independence Day (1991); National Chai Day; National Pecan Cookie Day; National New York Day; Earth, Wind & Fire Day |
 | Sep 18 | National Cheeseburger Day; Air Force Birthday; National POW/MIA Recognition Day (third Friday); National Rice Krispie Treats Day; National Red Velvet Cake Day; National Tradesmen Day; National HIV/AIDS and Aging Awareness Day; Chile Independence Day |
 | Sep 17 | Constitution Day & Citizenship Day; National Apple Dumpling Day; National Monte Cristo Day; National Pawpaw Day; National Professional House Cleaners Day; International Grenache Day; International Patient Safety Day (WHO); Australian Citizenship Day; Free Queso Day; Time's Up Day |
@@ -845,6 +875,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 22 | Dynamite inventor/year | Alfred Nobel, 1867 (premature obituary prompted the Nobel Prizes) |
+| Sep 22 | Safety pin | Walter Hunt, 1849 — ~3 hours' work, sold the patent for $400 |
+| Sep 22 | Pixar founded | 1986 — Steve Jobs bought Lucasfilm's graphics division for $5M |
+| Sep 22 | Adidas & Puma founders | Adolf "Adi" and Rudolf Dassler, Herzogenaurach, 1948–49 |
+| Sep 22 | Doritos invented | Disneyland, 1964 — Frito-Lay copied a park restaurant frying stale tortillas |
+| Sep 22 | United Dairy Farmers (Local) | 1938, Carl Lindner Sr., Norwood |
 | Sep 21 | "@" in email addresses | Ray Tomlinson, 1971 |
 | Sep 21 | QR code | Masahiro Hara, Denso Wave, 1994 — Toyota parts tracking; patent never enforced |
 | Sep 21 | Home Depot founded | 1978, Bernie Marcus & Arthur Blank; first stores Atlanta 1979 |
@@ -993,6 +1029,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 22 | Nothing Compares 2 U | Sinéad O'Connor | 1990 |
+| Sep 22 | Smells Like Teen Spirit | Nirvana | 1991 |
+| Sep 22 | Under the Bridge | Red Hot Chili Peppers | 1991 |
+| Sep 22 | The Impression That I Get | The Mighty Mighty Bosstones | 1997 |
+| Sep 22 | Ordinary People | John Legend | 2004 |
+| Sep 22 | Hips Don't Lie | Shakira feat. Wyclef Jean | 2006 |
 | Sep 21 | Barely Breathing | Duncan Sheik | 1996 |
 | Sep 21 | Mr. Jones | Counting Crows | 1993 |
 | Sep 21 | Possum Kingdom | Toadies | 1994 |
@@ -2456,4 +2498,10 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 21, 2026_
+_Last updated: September 22, 2026_
+
+## September 22, 2026 (v70)
+
+### Notes
+Tuesday run (daily cadence). Reds record 72–84 verified from the MLB Stats API standings + schedule endpoints; today's game at Atlanta 7:15 p.m. ET. Box office weekend unchanged from the Sep 21 run (Sept 18–20 weekend still current on a Tuesday) — refreshed the fun fact with the worldwide total and the Austin Abrams/Rotten Tomatoes bar bet instead of repeating the Sep 21 framing. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API (Green Day's "Boulevard of Broken Dreams" dropped — no original studio recording resolved on the US iTunes Search API; substituted "Under the Bridge"). "Today" (Smashing Pumpkins) dropped — no Spotify track ID could be verified. Sept 22 not previously used for This Day in History. TV pool: went to Brady Bunch / Mister Ed / Flying Nun / Kolchak / Airwolf / The Nanny, checking actors against prior entries (skipped Barnaby Jones, Trapper John, Highway to Heaven because Ebsen/Roberts/Landon already appear). New local Founded entry: United Dairy Farmers. No 12-week pruning needed. Pruned thursday-trivia-2026-09-11.html per the 7-file archive window.
+
