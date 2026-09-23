@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 23 | Bhutan | Thimphu (one of the only capitals with no traffic lights; a policeman directs the main intersection) |
+| Sep 23 | Bolivia | Sucre (constitutional capital, Supreme Court) + La Paz (legislature/president; highest seat of government, ~11,900 ft) |
+| Sep 23 | Madagascar | Antananarivo ('city of the thousand'; called Tana) |
+| Sep 23 | Croatia | Zagreb (Museum of Broken Relationships; 216-ft funicular, one of the shortest public ones anywhere) |
 | Sep 22 | Slovenia | Ljubljana (dragon symbol; four dragons guard the Dragon Bridge; legend credits Jason and the Argonauts) |
 | Sep 22 | Namibia | Windhoek (~5,600 ft in the central highlands; Afrikaans for "windy corner") |
 | Sep 22 | Nepal | Kathmandu (named for Kasthamandap, a pavilion said to be built from a single tree) |
@@ -133,6 +137,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 23 | The Lone Ranger (1949–57) | Tonto | Jay Silverheels (Mohawk, Six Nations; champion lacrosse player and boxer) |
+| Sep 23 | Leave It to Beaver (1957–63) | Eddie Haskell | Ken Osmond (later LAPD motorcycle officer; shot three times on duty, 1980) |
+| Sep 23 | Voyage to the Bottom of the Sea (1964–68) | Adm. Harriman Nelson | Richard Basehart (uncredited Knight Rider narrator) |
+| Sep 23 | Starsky & Hutch (1975–79) | Huggy Bear | Antonio Fargas (unaired spin-off pilot) |
+| Sep 23 | Perfect Strangers (1986–93) | Balki Bartokomous | Bronson Pinchot (invented the Mypos accent; Serge in Beverly Hills Cop) |
+| Sep 23 | Melrose Place (1992–99) | Amanda Woodward | Heather Locklear (hired for four episodes, stayed seven years) |
 | Sep 22 | The Brady Bunch (1969–74) | Alice Nelson (housekeeper) | Ann B. Davis |
 | Sep 22 | Mister Ed (1961–66) | Wilbur Post | Alan Young |
 | Sep 22 | The Flying Nun (1967–70) | Sister Bertrille | Sally Field |
@@ -296,6 +306,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 23 | American Gothic (1930) painter | Grant Wood (models: sister Nan and dentist Byron McKeeby; farmer and daughter, not wife) |
+| Sep 23 | Their Eyes Were Watching God (1937) author | Zora Neale Hurston (written in ~7 weeks in Haiti; Alice Walker found her unmarked grave 1973) |
+| Sep 23 | 'Because I could not stop for Death' poet | Emily Dickinson (fewer than a dozen of ~1,800 poems published in her lifetime) |
+| Sep 23 | Boléro (1928) composer | Maurice Ravel ('a piece for orchestra without music') |
+| Sep 23 | Death of a Salesman (1949) playwright | Arthur Miller (built the studio himself; Pulitzer 1949) |
+| Sep 23 | The Thinker sculptor | Auguste Rodin (originally 'The Poet'; Dante above The Gates of Hell) |
 | Sep 22 | Middlemarch (1871) author | George Eliot (Mary Ann Evans) |
 | Sep 22 | The Turn of the Screw (1898) author | Henry James |
 | Sep 22 | "Tyger Tyger, burning bright" poet | William Blake |
@@ -458,6 +474,19 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 23 | Space | Moon footprints last millions of years — no wind or water, only micrometeorite dust |
+| Sep 23 | Body | Fingernails grow ~4x faster than toenails; faster on the dominant hand |
+| Sep 23 | Geography | Africa is the only continent in all four hemispheres |
+| Sep 23 | Food | Ketchup sold as medicine — 1830s Ohio 'tomato pills' for indigestion |
+| Sep 23 | Language | 'Set' has the most OED senses of any English word (400+) |
+| Sep 23 | Animals | Sea otters hold hands while sleeping; pups anchored in kelp |
+| Sep 23 | Science | Water expands ~9% when it freezes — why ice floats and lakes freeze top-down |
+| Sep 23 | History | Anne Frank and Martin Luther King Jr. both born 1929 (also Hepburn, Grace Kelly) |
+| Sep 23 | Sports | Olympic gold medal is ≥92.5% silver with ~6g gold plating; last solid gold 1912 |
+| Sep 23 | Pop Culture | Monopoly's 'Marvin Gardens' is a misspelling of Marven Gardens; Parker Brothers apologized 1995 |
+| Sep 23 | Nature | Raindrops are not teardrop-shaped — spheres, then hamburger-bun shaped, break up past ~4mm |
+| Sep 23 | Local (Cincinnati) | The abandoned Cincinnati Subway under Central Parkway — ~2 mi of tunnel, built 1920–25, never used |
+| Sep 23 | Reds bar-bet | First MLB night game — May 24, 1935, Crosley Field; FDR threw the switch by telegraph; Reds 2–1 over Phillies |
 | Sep 22 | Space | Venus: day (243 Earth days) longer than its year (225); retrograde spin, Sun rises in the west |
 | Sep 22 | Body | Stomach lining replaces itself every 3–5 days |
 | Sep 22 | Geography | Russia borders 14 countries; 11 time zones |
@@ -799,6 +828,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 23 | September 23 (Neptune discovered 1846 — 180th anniv, Le Verrier's math + Galle's telescope; Nixon's 'Checkers' speech 1952, ~60M viewers; The Jetsons premieres 1962 — ABC's first color program; NY Knickerbockers adopt the first baseball rulebook 1845) |
 | Sep 22 | September 22 (preliminary Emancipation Proclamation 1862; Nathan Hale hanged 1776 — 250th anniv; Friends premieres on NBC 1994; Dempsey–Tunney "Long Count" fight at Soldier Field 1927) |
 | Sep 21 | September 21 (ABC Monday Night Football debuts 1970 — Browns 31, Jets 21, Jackson/Meredith/Cosell, 56th anniv and also a Monday; "Yes, Virginia, there is a Santa Claus" in the New York Sun 1897 by Francis Pharcellus Church; The Hobbit published by Allen & Unwin 1937; Sandra Day O'Connor confirmed 99–0 as first woman on the Supreme Court 1981 — 45th anniv) |
 | Sep 18 | September 18 (New York Times first edition 1851 — 175th anniv, penny paper, New-York Daily Times; National Security Act takes effect 1947 creating the U.S. Air Force, CIA and NSC — USAF's 79th birthday; Washington lays the Capitol cornerstone in Masonic regalia 1793, stone never found; Chile declares independence 1810 — Fiestas Patrias; Jimi Hendrix dies in London at 27, 1970 — 56th) |
@@ -833,6 +863,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 23 | National Snack Stick Day; National Checkers Day & Dogs in Politics Day; National Great American Pot Pie Day; Teal Talk Day; Innergize Day (day after the autumnal equinox); Restless Legs Awareness Day; Celebrate Bisexuality Day; International Day of Sign Languages (UN) |
 | Sep 22 | First Day of Fall / autumnal equinox 8:05 p.m. ET; Hobbit Day; National Voter Registration Day; Elephant Appreciation Day; American Business Women's Day; National Ice Cream Cone Day; National States and Capitals Day; Falls Prevention Awareness Day |
 | Sep 21 | International Day of Peace (UN); World Alzheimer's Day; Belize Independence Day (1981); Armenia Independence Day (1991); National Chai Day; National Pecan Cookie Day; National New York Day; Earth, Wind & Fire Day |
 | Sep 18 | National Cheeseburger Day; Air Force Birthday; National POW/MIA Recognition Day (third Friday); National Rice Krispie Treats Day; National Red Velvet Cake Day; National Tradesmen Day; National HIV/AIDS and Aging Awareness Day; Chile Independence Day |
@@ -875,6 +906,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 23 | Bubble wrap | Alfred Fielding & Marc Chavannes, 1957 — meant as textured wallpaper, then greenhouse insulation; IBM used it for packing in 1960 |
+| Sep 23 | Post-it Note | Spencer Silver's weak adhesive (1968) + Art Fry's hymnal bookmark (1974), 3M; national launch 1980 |
+| Sep 23 | LEGO founded | 1932, Ole Kirk Christiansen, Billund DK; from Danish 'leg godt'; interlocking brick patented 1958 |
+| Sep 23 | Slinky | Richard James, 1943 naval engineer; wife Betty named it; 400 sold in 90 min at Gimbels |
+| Sep 23 | Barcode / first UPC scan | Woodland & Silver patent 1952 (Morse code drawn in beach sand); first scan Wrigley's gum, Troy OH, June 26 1974 |
+| Sep 23 | Play-Doh / Kutol (Local) | Kutol Products, Cincinnati — wallpaper cleaner for coal soot; McVickers rebranded it as a toy in the mid-1950s |
 | Sep 22 | Dynamite inventor/year | Alfred Nobel, 1867 (premature obituary prompted the Nobel Prizes) |
 | Sep 22 | Safety pin | Walter Hunt, 1849 — ~3 hours' work, sold the patent for $400 |
 | Sep 22 | Pixar founded | 1986 — Steve Jobs bought Lucasfilm's graphics division for $5M |
@@ -1029,6 +1066,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 23 | Jump Around | House of Pain | 1992 |
+| Sep 23 | Black Hole Sun | Soundgarden | 1994 |
+| Sep 23 | Bitter Sweet Symphony | The Verve | 1997 |
+| Sep 23 | Hanging by a Moment | Lifehouse | 2000 |
+| Sep 23 | Seven Nation Army | The White Stripes | 2003 |
+| Sep 23 | Crazy | Gnarls Barkley | 2006 |
 | Sep 22 | Nothing Compares 2 U | Sinéad O'Connor | 1990 |
 | Sep 22 | Smells Like Teen Spirit | Nirvana | 1991 |
 | Sep 22 | Under the Bridge | Red Hot Chili Peppers | 1991 |
@@ -2498,10 +2541,14 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 22, 2026_
+_Last updated: September 23, 2026_
 
 ## September 22, 2026 (v70)
 
 ### Notes
 Tuesday run (daily cadence). Reds record 72–84 verified from the MLB Stats API standings + schedule endpoints; today's game at Atlanta 7:15 p.m. ET. Box office weekend unchanged from the Sep 21 run (Sept 18–20 weekend still current on a Tuesday) — refreshed the fun fact with the worldwide total and the Austin Abrams/Rotten Tomatoes bar bet instead of repeating the Sep 21 framing. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API (Green Day's "Boulevard of Broken Dreams" dropped — no original studio recording resolved on the US iTunes Search API; substituted "Under the Bridge"). Caught and replaced a Titan/Saturn Space fact that duplicated the Sep 21 sheet — swapped in the Venus day-longer-than-year fact. "Today" (Smashing Pumpkins) dropped — no Spotify track ID could be verified. Sept 22 not previously used for This Day in History. TV pool: went to Brady Bunch / Mister Ed / Flying Nun / Kolchak / Airwolf / The Nanny, checking actors against prior entries (skipped Barnaby Jones, Trapper John, Highway to Heaven because Ebsen/Roberts/Landon already appear). New local Founded entry: United Dairy Farmers. No 12-week pruning needed. Pruned thursday-trivia-2026-09-11.html per the 7-file archive window.
 
+## September 23, 2026 (v71)
+
+### Notes
+Wednesday run (daily cadence). Reds 73–84 verified from the MLB Stats API standings + schedule endpoints (W1 streak, last 10 4–6, 25.0 GB, 5th NL Central); last night's 4–0 shutout at Atlanta; today at Atlanta 7:15 p.m. ET. Box office weekend still Sept 18–20 (Resident Evil, $60.0M) — third run on the same weekend, so the fun fact was rotated again to the Cregger/Weapons personal best plus the Capcom 170M-units bar bet (Sep 21 and Sep 22 framings both avoided). All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) and "You Oughta Know" (Alanis Morissette) both dropped — no original studio recording resolves on the US iTunes Search API; substituted Jump Around and Black Hole Sun. Sept 23 not previously used for This Day in History. Capitals went all-world and off the beaten path (Bhutan, Bolivia's two-capital trick, Madagascar, Croatia). TV pool: Lone Ranger / Leave It to Beaver / Voyage to the Bottom of the Sea / Starsky & Hutch / Perfect Strangers / Melrose Place, actors checked against every prior row. New local Founded entry: Play-Doh via Kutol Products of Cincinnati. New local General entry: the abandoned Cincinnati Subway. New Reds bar-bet: first MLB night game, Crosley Field 1935. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-14.html per the 7-file archive window.
