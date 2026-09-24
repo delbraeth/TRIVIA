@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 24 | Belarus | Minsk (leveled in WWII; rebuilt as a showcase of Stalinist architecture) |
+| Sep 24 | Kiribati | South Tarawa (Kiribati is the only country in all four hemispheres; first to greet the new year) |
+| Sep 24 | Eswatini (Swaziland) | Mbabane (administrative) / Lobamba (legislative & royal; Queen Mother's seat) |
+| Sep 24 | Trinidad and Tobago | Port of Spain (birthplace of the steelpan; Republic Day is Sept 24) |
 | Sep 23 | Bhutan | Thimphu (one of the only capitals with no traffic lights; a policeman directs the main intersection) |
 | Sep 23 | Bolivia | Sucre (constitutional capital, Supreme Court) + La Paz (legislature/president; highest seat of government, ~11,900 ft) |
 | Sep 23 | Madagascar | Antananarivo ('city of the thousand'; called Tana) |
@@ -137,6 +141,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 24 | Sea Hunt (1958–61) | Mike Nelson | Lloyd Bridges (father of Jeff and Beau; all three networks passed, ran in syndication) |
+| Sep 24 | The Avengers (1961–69) | Emma Peel | Diana Rigg (name from production shorthand "man appeal" / M-appeal) |
+| Sep 24 | The Big Valley (1965–69) | Victoria Barkley | Barbara Stanwyck (film star of the '30s–'40s; Emmy winner, did her own riding) |
+| Sep 24 | What's Happening!! (1976–79) | Rerun Stubbs | Fred Berry (dancer with The Lockers; the red beret was his idea) |
+| Sep 24 | Growing Pains (1985–92) | Mike Seaver | Kirk Cameron (DiCaprio joined final season as Luke) |
+| Sep 24 | Sliders (1995–2000) | Quinn Mallory | Jerry O'Connell (was Vern in Stand by Me; brother Charlie joined in S4) |
 | Sep 23 | The Lone Ranger (1949–57) | Tonto | Jay Silverheels (Mohawk, Six Nations; champion lacrosse player and boxer) |
 | Sep 23 | Leave It to Beaver (1957–63) | Eddie Haskell | Ken Osmond (later LAPD motorcycle officer; shot three times on duty, 1980) |
 | Sep 23 | Voyage to the Bottom of the Sea (1964–68) | Adm. Harriman Nelson | Richard Basehart (uncredited Knight Rider narrator) |
@@ -306,6 +316,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 24 | Baroque painter, tenebrism, fled Rome 1606 after a killing | Caravaggio (died at 38; body never found) |
+| Sep 24 | Black grid lines with red/blue/yellow rectangles | Piet Mondrian (Neoplasticism; last canvas Victory Boogie Woogie) |
+| Sep 24 | The Catcher in the Rye (1951) author | J.D. Salinger (published nothing after 1965) |
+| Sep 24 | Piano Concerto No. 2, written after hypnotherapy | Sergei Rachmaninoff (dedicated to Dr. Nikolai Dahl) |
+| Sep 24 | "Stop all the clocks" / "Funeral Blues" poet | W.H. Auden (began as satire in a 1936 play) |
+| Sep 24 | Apollo and Daphne sculptor / St. Peter's colonnade | Gian Lorenzo Bernini |
 | Sep 23 | American Gothic (1930) painter | Grant Wood (models: sister Nan and dentist Byron McKeeby; farmer and daughter, not wife) |
 | Sep 23 | Their Eyes Were Watching God (1937) author | Zora Neale Hurston (written in ~7 weeks in Haiti; Alice Walker found her unmarked grave 1973) |
 | Sep 23 | 'Because I could not stop for Death' poet | Emily Dickinson (fewer than a dozen of ~1,800 poems published in her lifetime) |
@@ -474,6 +490,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 24 | Space | Saturn's rings may be younger than the dinosaurs — Cassini puts them at ~100–400M yrs, and they are raining into the planet |
+| Sep 24 | Science | Diamond and graphite are both pure carbon; graphite is more stable, so every diamond is slowly becoming pencil lead |
+| Sep 24 | Geography | Point Nemo, South Pacific — 1,670 mi from land; nearest humans are often aboard the ISS |
+| Sep 24 | Animals | Mantis shrimp punch accelerates like a .22 bullet; cavitation bubble boils water and emits light |
+| Sep 24 | Body | Humans have roughly the same hair-follicle density as chimpanzees; ours are thin, short and pale |
+| Sep 24 | Food | Caesar salad invented in Tijuana, Mexico, by Caesar Cardini on July 4, 1924 |
+| Sep 24 | Language | Contronyms — words that are their own opposite: cleave, sanction, dust, oversight |
+| Sep 24 | History | The Great Emu War, Australia 1932 — machine guns vs. emus; the emus won |
+| Sep 24 | Math | Benford's Law — ~30% of real-world numbers start with 1; used to detect accounting fraud |
+| Sep 24 | Sports | Dick Fosbury won 1968 Olympic high jump going over backwards; the Flop took over within 12 years |
+| Sep 24 | Pop Culture | Decca rejected The Beatles Jan 1, 1962 — "guitar groups are on the way out"; signed Brian Poole & the Tremeloes |
+| Sep 24 | Weather | It can snow above freezing but essentially never below −40° — air that cold holds no moisture |
+| Sep 24 | Local (Cincinnati) | Five hillside inclines (1872–1948) built Mount Adams, Price Hill and Clifton; Mount Adams incline closed 1948 |
+| Sep 24 | Reds bar-bet | The 1919 Reds — the team the Black Sox threw to — went 96–44; Hod Eller struck out six straight in Game 5 |
 | Sep 23 | Space | Moon footprints last millions of years — no wind or water, only micrometeorite dust |
 | Sep 23 | Body | Fingernails grow ~4x faster than toenails; faster on the dominant hand |
 | Sep 23 | Geography | Africa is the only continent in all four hemispheres |
@@ -828,6 +858,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 24 | September 24 (Nirvana's Nevermind released 1991 — 35th anniv, 46,251 copies pressed; "Black Friday" gold panic 1869, Gould & Fisk; 60 Minutes premieres on CBS 1968 — 58th anniv. Also noted: Judiciary Act 1789, Ben Johnson 9.79 in Seoul 1988, NMAAHC opens 2016) |
 | Sep 23 | September 23 (Neptune discovered 1846 — 180th anniv, Le Verrier's math + Galle's telescope; Nixon's 'Checkers' speech 1952, ~60M viewers; The Jetsons premieres 1962 — ABC's first color program; NY Knickerbockers adopt the first baseball rulebook 1845) |
 | Sep 22 | September 22 (preliminary Emancipation Proclamation 1862; Nathan Hale hanged 1776 — 250th anniv; Friends premieres on NBC 1994; Dempsey–Tunney "Long Count" fight at Soldier Field 1927) |
 | Sep 21 | September 21 (ABC Monday Night Football debuts 1970 — Browns 31, Jets 21, Jackson/Meredith/Cosell, 56th anniv and also a Monday; "Yes, Virginia, there is a Santa Claus" in the New York Sun 1897 by Francis Pharcellus Church; The Hobbit published by Allen & Unwin 1937; Sandra Day O'Connor confirmed 99–0 as first woman on the Supreme Court 1981 — 45th anniv) |
@@ -863,6 +894,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 24 | National Punctuation Day; National Bluebird of Happiness Day; National Cherries Jubilee Day; National Horchata Day; World Maritime Day (last Thursday in September); Heritage Day (South Africa); Republic Day (Trinidad and Tobago) |
 | Sep 23 | National Snack Stick Day; National Checkers Day & Dogs in Politics Day; National Great American Pot Pie Day; Teal Talk Day; Innergize Day (day after the autumnal equinox); Restless Legs Awareness Day; Celebrate Bisexuality Day; International Day of Sign Languages (UN) |
 | Sep 22 | First Day of Fall / autumnal equinox 8:05 p.m. ET; Hobbit Day; National Voter Registration Day; Elephant Appreciation Day; American Business Women's Day; National Ice Cream Cone Day; National States and Capitals Day; Falls Prevention Awareness Day |
 | Sep 21 | International Day of Peace (UN); World Alzheimer's Day; Belize Independence Day (1981); Armenia Independence Day (1991); National Chai Day; National Pecan Cookie Day; National New York Day; Earth, Wind & Fire Day |
@@ -906,6 +938,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 24 | Honda Motor Company founded | September 24, 1948, Soichiro Honda; started with surplus war-radio engines on bicycles; world's largest motorcycle maker |
+| Sep 24 | Shipping container | Malcom McLean, 1956; first voyage of the Ideal X cut loading from ~$5.83/ton to ~16 cents |
+| Sep 24 | Disposable safety razor | King C. Gillette, patented 1904; also wrote a utopian book proposing one giant company city powered by Niagara Falls |
+| Sep 24 | Jell-O | 1897 LeRoy NY; Pearle Wait sold the rights for $450 |
+| Sep 24 | Aspirin trademark | Bayer, 1899 — same company coined the brand name "Heroin" for a cough suppressant; Germany lost both trademarks at Versailles |
+| Sep 24 | Christian Moerlein Brewing (Local) | 1853 Over-the-Rhine; Ohio's largest brewery by the 1890s, first US beer to pass Germany's purity standard for export; killed by Prohibition 1919, revived 1981 |
 | Sep 23 | Bubble wrap | Alfred Fielding & Marc Chavannes, 1957 — meant as textured wallpaper, then greenhouse insulation; IBM used it for packing in 1960 |
 | Sep 23 | Post-it Note | Spencer Silver's weak adhesive (1968) + Art Fry's hymnal bookmark (1974), 3M; national launch 1980 |
 | Sep 23 | LEGO founded | 1932, Ole Kirk Christiansen, Billund DK; from Danish 'leg godt'; interlocking brick patented 1958 |
@@ -1066,6 +1104,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 24 | Run-Around | Blues Traveler | 1994 |
+| Sep 24 | Bullet With Butterfly Wings | The Smashing Pumpkins | 1995 |
+| Sep 24 | Brick | Ben Folds Five | 1997 |
+| Sep 24 | Truly Madly Deeply | Savage Garden | 1997 |
+| Sep 24 | The Reason | Hoobastank | 2004 |
+| Sep 24 | Stronger | Kanye West | 2007 |
 | Sep 23 | Jump Around | House of Pain | 1992 |
 | Sep 23 | Black Hole Sun | Soundgarden | 1994 |
 | Sep 23 | Bitter Sweet Symphony | The Verve | 1997 |
@@ -2541,7 +2585,7 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 23, 2026_
+_Last updated: September 24, 2026_
 
 ## September 22, 2026 (v70)
 
@@ -2552,3 +2596,8 @@ Tuesday run (daily cadence). Reds record 72–84 verified from the MLB Stats API
 
 ### Notes
 Wednesday run (daily cadence). Reds 73–84 verified from the MLB Stats API standings + schedule endpoints (W1 streak, last 10 4–6, 25.0 GB, 5th NL Central); last night's 4–0 shutout at Atlanta; today at Atlanta 7:15 p.m. ET. Box office weekend still Sept 18–20 (Resident Evil, $60.0M) — third run on the same weekend, so the fun fact was rotated again to the Cregger/Weapons personal best plus the Capcom 170M-units bar bet (Sep 21 and Sep 22 framings both avoided). All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) and "You Oughta Know" (Alanis Morissette) both dropped — no original studio recording resolves on the US iTunes Search API; substituted Jump Around and Black Hole Sun. Sept 23 not previously used for This Day in History. Capitals went all-world and off the beaten path (Bhutan, Bolivia's two-capital trick, Madagascar, Croatia). TV pool: Lone Ranger / Leave It to Beaver / Voyage to the Bottom of the Sea / Starsky & Hutch / Perfect Strangers / Melrose Place, actors checked against every prior row. New local Founded entry: Play-Doh via Kutol Products of Cincinnati. New local General entry: the abandoned Cincinnati Subway. New Reds bar-bet: first MLB night game, Crosley Field 1935. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-14.html per the 7-file archive window.
+
+## September 24, 2026 (v72)
+
+### Notes
+Thursday run. Reds 73–85 verified from the MLB Stats API standings + schedule endpoints (L1 streak, last 10 4–6, 26.0 GB, 5th NL Central, officially eliminated); last night 2–3 at Atlanta; today at Atlanta 7:15 p.m. ET, series finale. Box office weekend still Sept 18–20 (Resident Evil, $60.0M) — fourth run on the same weekend, so the fun fact was rotated again to the Afterlife full-run comparison ($60.1M lifetime vs. $60.0M in three days) plus the franchise-best B+ CinemaScore; Sep 21/22/23 framings all avoided. All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API. First-draft picks were re-checked against the full memory log and a large number were caught as repeats and replaced: Arts (Hopper/Nighthawks, Tolstoy, Melville, Vivaldi, Dylan Thomas, Toni Morrison all previously used → Caravaggio, Mondrian, Salinger, Rachmaninoff, Auden, Bernini); Founded (ballpoint pen, bubble gum, three-point seat belt, P&G all previously used → Gillette, Jell-O, Bayer/aspirin, Moerlein); General (cranberry bounce, Alaska/Aleutians, sharks-older-than-trees, "nice"/nescius, paper folded 42, marathon 26.2, James Earl Jones, Cincinnati staircases all used → Point Nemo, mantis shrimp, Caesar salad, contronyms, Benford's Law, Fosbury, Decca/Beatles, Cincinnati inclines); TV (Matlock/Andy Griffith used Jul 8 → Sliders); Reds bar-bet (Redlegs name used Sep 3 → 1919 Black Sox Series); Music (Everybody Hurts, You Get What You Give, This Love all used → Run-Around, Brick, The Reason). Sept 24 not previously used for This Day in History. Capitals all-world and all fresh (Belarus, Kiribati, Eswatini's two capitals, Trinidad and Tobago — the last tied to today's Republic Day). New local Founded entry: Christian Moerlein Brewing. New local General entry: the five Cincinnati hillside inclines. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-15.html per the 7-file archive window.
