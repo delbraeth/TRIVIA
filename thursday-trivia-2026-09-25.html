@@ -23,6 +23,7 @@
   li:last-child { border-bottom:none; }
   .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
   .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
   .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
   .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
   .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
@@ -35,6 +36,11 @@
   .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
   .music { border-top-color:#1db954; } .music h2 { color:#179443; }
   .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
   .reds-sub { text-align:center; font-size:13px; color:#555; margin-bottom:8px; }
   .reds-form { text-align:center; font-size:14px; margin-bottom:10px; }
   .w { color:#1b7f2a; font-weight:800; } .l { color:#c6011f; font-weight:800; }
@@ -82,26 +88,25 @@
 <div class="wrap">
 <div class="grid">
 
-  <div class="card reds">
-    <h2>⚾ Cincinnati Reds</h2>
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
     <div class="body">
-      <div class="reds-rec">74–85</div>
-      <div class="reds-sub">.465 · 5th in NL Central · 26.0 GB of Milwaukee</div>
-      <div class="reds-form">
-        Last 5 (old→new): <span class="l">L</span> <span class="l">L</span> <span class="w">W</span> <span class="l">L</span> <span class="w">W</span>
-        &nbsp;·&nbsp; Streak <span class="w">W1</span> &nbsp;·&nbsp; Last 10: 4–6
-      </div>
+      <div class="nfl-rec">469.0</div>
+      <div class="nfl-team">Kansas City Chiefs — yards per game</div>
+      <div class="nfl-sub">938 total yards · 2 games played · No. 1 in the NFL</div>
       <ul>
-        <li>Sep 19 — <span class="l">L 2–5</span> vs. Cubs</li>
-        <li>Sep 20 — <span class="l">L 1–9</span> vs. Cubs</li>
-        <li>Sep 22 — <span class="w">W 4–0</span> at Braves</li>
-        <li>Sep 23 — <span class="l">L 2–3</span> at Braves</li>
-        <li>Sep 24 — <span class="w">W 7–6</span> at Braves</li>
+        <li><span class="tag">1</span><strong>Kansas City Chiefs</strong> — 469.0/g &nbsp;<span style="color:#777;">(938 yds, 2 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 443.0/g &nbsp;<span style="color:#777;">(886 yds, 2 GP)</span></li>
+        <li><span class="tag">3</span><strong>Buffalo Bills</strong> — 435.5/g &nbsp;<span style="color:#777;">(871 yds, 2 GP)</span></li>
+        <li><span class="tag">4</span><strong>Baltimore Ravens</strong> — 434.5/g &nbsp;<span style="color:#777;">(869 yds, 2 GP)</span></li>
+        <li><span class="tag">5</span><strong>Carolina Panthers</strong> — 420.5/g &nbsp;<span style="color:#777;">(841 yds, 2 GP)</span></li>
       </ul>
-      <p style="margin-top:10px;font-size:12.5px;color:#666;">They took the finale in Atlanta 7–6 to close the road trip on a high note. Three games left, all at Toronto, and the season ends Sunday. Final NL Central shape — Milwaukee 100–59 (first NL club to 100), Cubs 88–71, Pirates 81–78, Cardinals 77–82, Reds 74–85.</p>
-      <div class="today-row">Today: <strong>at Toronto Blue Jays, 7:07 p.m. ET</strong> — series opener at Rogers Centre.</div>
-      <p style="font-size:12.5px;color:#444;margin-top:9px;"><strong>Bar bet:</strong> There has only ever been <strong>one double no-hitter</strong> in Major League history, and the Reds were in it. On May 2, 1917, Cincinnati's <strong>Fred Toney</strong> and the Cubs' <strong>Hippo Vaughn</strong> both carried no-hitters through nine innings in Chicago. Vaughn lost his in the 10th — the winning run driven in by <strong>Jim Thorpe</strong> — while Toney finished a 10-inning no-hitter to win 1–0.</p>
-      <p style="font-size:11.5px;color:#777;margin-top:8px;">Record verified from the MLB Stats API (standings + schedule endpoints).</p>
+      <p style="margin-top:10px;font-size:12.5px;color:#666;"><strong>Bar-bet trap:</strong> ask who leads the NFL in total offense and you will get two different right answers. By <em>raw season yards</em> it is <strong>Atlanta</strong> (1,063) — but only because the Falcons have played three games and most of the league has played two. Per game, Atlanta is eighth. Kansas City is doing it on a balanced split: 271.5 passing, 186.0 rushing, the only top-five offense averaging better than 180 on the ground.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> 326.0 yards per game (652 total, 2 games) — <strong>18th</strong> in the league on both measures. Split is 213.5 passing, 95.5 rushing; that ground number is the problem, and it is why they are 2–0 on defense and takeaways rather than on offense.
+      </div>
+      <div class="next-row">Next: <strong>Sunday at Pittsburgh, 1:00 p.m. ET</strong> — divisional play opens.</div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Verified from the ESPN team-stats endpoint (own-offense split), cross-checked against its published rank order.</p>
     </div>
   </div>
 
