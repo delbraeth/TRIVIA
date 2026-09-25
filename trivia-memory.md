@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 25 | Nauru | No official capital — the only country without one; government sits in Yaren district (whole country ~8 sq mi) |
+| Sep 25 | Netherlands | Amsterdam (constitutional capital) but The Hague is the seat of government, parliament, Supreme Court and the monarch |
+| Sep 25 | Togo | Lomé (sits directly on the Ghana border) |
+| Sep 25 | Indonesia | Jakarta, officially being replaced by Nusantara on Borneo; Jakarta sinking up to 10 in/yr in places |
 | Sep 24 | Belarus | Minsk (leveled in WWII; rebuilt as a showcase of Stalinist architecture) |
 | Sep 24 | Kiribati | South Tarawa (Kiribati is the only country in all four hemispheres; first to greet the new year) |
 | Sep 24 | Eswatini (Swaziland) | Mbabane (administrative) / Lobamba (legislative & royal; Queen Mother's seat) |
@@ -141,6 +145,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 25 | Julia (1968–71) | Julia Baker | Diahann Carroll (first Black woman to star in a network series in a non-servant role; Tony winner 1962) |
+| Sep 25 | The Monkees (1966–68) | drummer / himself | Micky Dolenz (child actor in Circus Boy at 11; couldn't play drums when cast; 1967 Emmy for Outstanding Comedy) |
+| Sep 25 | Chico and the Man (1974–78) | Chico Rodriguez | Freddie Prinze (just turned 20 at premiere; son Freddie Prinze Jr. was 10 months old when he died in 1977) |
+| Sep 25 | Knight Rider (1982–86) | Michael Knight | David Hasselhoff (KITT voiced by William Daniels — later Mr. Feeny — uncredited by his own request) |
+| Sep 25 | The Equalizer (1985–89) | Robert McCall | Edward Woodward (The Wicker Man; heart attack mid-run, Robert Mitchum filled in) |
+| Sep 25 | A Different World (1987–93) | Whitley Gilbert | Jasmine Guy (trained dancer; Debbie Allen took over directing in S2) |
 | Sep 24 | Sea Hunt (1958–61) | Mike Nelson | Lloyd Bridges (father of Jeff and Beau; all three networks passed, ran in syndication) |
 | Sep 24 | The Avengers (1961–69) | Emma Peel | Diana Rigg (name from production shorthand "man appeal" / M-appeal) |
 | Sep 24 | The Big Valley (1965–69) | Victoria Barkley | Barbara Stanwyck (film star of the '30s–'40s; Emmy winner, did her own riding) |
@@ -316,6 +326,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 25 | Moulin Rouge posters / modern advertising art | Henri de Toulouse-Lautrec (broken thighbones left him ~4'8"; died at 36) |
+| Sep 25 | First woman to win the Pulitzer for Fiction | Edith Wharton, 1921, The Age of Innocence (jury had voted for Main Street; trustees overruled) |
+| Sep 25 | Pictures at an Exhibition / Night on Bald Mountain composer | Modest Mussorgsky (1874 solo piano; famous version is Ravel's 1922 orchestration) |
+| Sep 25 | "so much depends / upon / a red wheel / barrow" poet | William Carlos Williams (full-time pediatrician in Rutherford NJ for 40+ years) |
+| Sep 25 | A Raisin in the Sun (1959) playwright | Lorraine Hansberry (first play by a Black woman on Broadway; title from Hughes's "Harlem"; died at 34) |
+| Sep 25 | "The past is a foreign country: they do things differently there" opener | The Go-Between, L.P. Hartley, 1953 |
 | Sep 24 | Baroque painter, tenebrism, fled Rome 1606 after a killing | Caravaggio (died at 38; body never found) |
 | Sep 24 | Black grid lines with red/blue/yellow rectangles | Piet Mondrian (Neoplasticism; last canvas Victory Boogie Woogie) |
 | Sep 24 | The Catcher in the Rye (1951) author | J.D. Salinger (published nothing after 1965) |
@@ -490,6 +506,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 25 | Space | Every planet lined up side by side just fits in the Earth–Moon gap (~238,000 mi of planets vs ~239,000 mi) |
+| Sep 25 | Science | Bismuth listed as heaviest stable element for 200 yrs; caught decaying in 2003, half-life ~1 billion times the age of the universe |
+| Sep 25 | Geography | Reno, Nevada is farther west than Los Angeles (California's coast swings east below Point Conception) |
+| Sep 25 | Animals | Axolotl regrows limbs, jaw, spinal cord and brain tissue, never leaves its larval form; critically endangered near Mexico City |
+| Sep 25 | Body | Each eye has a blind spot where the optic nerve exits the retina; the brain paints in the missing patch |
+| Sep 25 | Food | Every vanilla pod outside Mexico is hand-pollinated; technique worked out in 1841 by Edmond Albius, a 12-year-old enslaved boy on Réunion |
+| Sep 25 | Language | "Mortgage" = Old French "dead pledge" |
+| Sep 25 | History | Last US Civil War pension paid until 2020 — Irene Triplett, $73.13/month, father fought for both sides |
+| Sep 25 | Math | Monty Hall problem — switching wins 2/3; ~10,000 readers wrote to tell Marilyn vos Savant she was wrong, ~1,000 with PhDs |
+| Sep 25 | Sports | Indy 500 milk tradition began with Louis Meyer's buttermilk in 1936; a dairy exec saw the photo and made it permanent |
+| Sep 25 | Pop Culture | "The Twist" (Chubby Checker) is the only song to hit #1 on the Hot 100 in two separate runs (1960 and 1962) |
+| Sep 25 | Weather | Mawsynram, India — wettest inhabited place, ~467 in/yr; huts roofed with grass to muffle the rain noise |
+| Sep 25 | Local (Cincinnati) | Mount Airy Forest (1911) — first municipal reforestation project in the US; ~1,470 acres, over a million trees on exhausted farmland |
+| Sep 25 | Reds bar-bet | Only double no-hitter in MLB history — Fred Toney (CIN) vs. Hippo Vaughn (CHC), May 2, 1917; Vaughn lost his in the 10th, Jim Thorpe drove in the run, Toney finished a 10-inning no-no, Reds 1–0 |
 | Sep 24 | Space | Saturn's rings may be younger than the dinosaurs — Cassini puts them at ~100–400M yrs, and they are raining into the planet |
 | Sep 24 | Science | Diamond and graphite are both pure carbon; graphite is more stable, so every diamond is slowly becoming pencil lead |
 | Sep 24 | Geography | Point Nemo, South Pacific — 1,670 mi from land; nearest humans are often aboard the ISS |
@@ -858,6 +888,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 25 | September 25 (first Tommy John surgery, Dr. Frank Jobe on Tommy John 1974 — odds put at 1 in 100, John won 164 more games; Publick Occurrences, first American newspaper, Boston 1690, shut down after one issue; Sonny Liston KOs Floyd Patterson in 2:06 at Comiskey 1962. Also noted: Congress sends 12 amendments to the states 1789, Little Rock Nine's first full day 1957, Arnold Palmer dies 2016, Stamford Bridge 1066) |
 | Sep 24 | September 24 (Nirvana's Nevermind released 1991 — 35th anniv, 46,251 copies pressed; "Black Friday" gold panic 1869, Gould & Fisk; 60 Minutes premieres on CBS 1968 — 58th anniv. Also noted: Judiciary Act 1789, Ben Johnson 9.79 in Seoul 1988, NMAAHC opens 2016) |
 | Sep 23 | September 23 (Neptune discovered 1846 — 180th anniv, Le Verrier's math + Galle's telescope; Nixon's 'Checkers' speech 1952, ~60M viewers; The Jetsons premieres 1962 — ABC's first color program; NY Knickerbockers adopt the first baseball rulebook 1845) |
 | Sep 22 | September 22 (preliminary Emancipation Proclamation 1862; Nathan Hale hanged 1776 — 250th anniv; Friends premieres on NBC 1994; Dempsey–Tunney "Long Count" fight at Soldier Field 1927) |
@@ -894,6 +925,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 25 | National Comic Book Day; National One-Hit Wonder Day; National Quesadilla Day; National Lobster Day; National Daughter's Day; Math Storytelling Day; National Tune-Up Day; National Research Administrator Day; National Open the Magic Day; National Gay Men's HIV/AIDS Awareness Day (last Friday in September) |
 | Sep 24 | National Punctuation Day; National Bluebird of Happiness Day; National Cherries Jubilee Day; National Horchata Day; World Maritime Day (last Thursday in September); Heritage Day (South Africa); Republic Day (Trinidad and Tobago) |
 | Sep 23 | National Snack Stick Day; National Checkers Day & Dogs in Politics Day; National Great American Pot Pie Day; Teal Talk Day; Innergize Day (day after the autumnal equinox); Restless Legs Awareness Day; Celebrate Bisexuality Day; International Day of Sign Languages (UN) |
 | Sep 22 | First Day of Fall / autumnal equinox 8:05 p.m. ET; Hobbit Day; National Voter Registration Day; Elephant Appreciation Day; American Business Women's Day; National Ice Cream Cone Day; National States and Capitals Day; Falls Prevention Awareness Day |
@@ -938,6 +970,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 25 | Pyrex | Corning Glass Works, 1915; borosilicate developed for railroad lantern globes; Bessie Littleton baked a cake in a sawed-off battery jar |
+| Sep 25 | Vaseline | Robert Chesebrough, patented 1872, from "rod wax" on oil derricks; ate a spoonful daily, lived to 96 |
+| Sep 25 | Chuck Taylor / Converse All Star | Converse founded 1908; Chuck Taylor a semi-pro player hired as salesman 1921, name on the ankle patch 1932, never got a royalty |
+| Sep 25 | Red Bull | Dietrich Mateschitz, Austria 1987, adapted from Thai Krating Daeng ("red gaur") after it cured his jet lag |
+| Sep 25 | First drive-thru-only restaurant | In-N-Out, 1948, Baldwin Park CA; Harry & Esther Snyder's two-way speaker box, no indoor seating, no carhops |
+| Sep 25 | Cintas (Local) | 1929, Richard "Doc" Farmer collecting and laundering Cincinnati factory rags; now a Fortune 500 uniform company in Mason OH |
 | Sep 24 | Honda Motor Company founded | September 24, 1948, Soichiro Honda; started with surplus war-radio engines on bicycles; world's largest motorcycle maker |
 | Sep 24 | Shipping container | Malcom McLean, 1956; first voyage of the Ideal X cut loading from ~$5.83/ton to ~16 cents |
 | Sep 24 | Disposable safety razor | King C. Gillette, patented 1904; also wrote a utopian book proposing one giant company city powered by Niagara Falls |
@@ -1104,6 +1142,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 25 | Tennessee | Arrested Development | 1992 |
+| Sep 25 | Shimmer | Fuel | 1998 |
+| Sep 25 | Inside Out | Eve 6 | 1998 |
+| Sep 25 | Try Again | Aaliyah | 2000 |
+| Sep 25 | Fat Lip | Sum 41 | 2001 |
+| Sep 25 | 1985 | Bowling for Soup | 2004 |
 | Sep 24 | Run-Around | Blues Traveler | 1994 |
 | Sep 24 | Bullet With Butterfly Wings | The Smashing Pumpkins | 1995 |
 | Sep 24 | Brick | Ben Folds Five | 1997 |
@@ -2585,7 +2629,7 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 24, 2026_
+_Last updated: September 25, 2026_
 
 ## September 22, 2026 (v70)
 
@@ -2601,3 +2645,8 @@ Wednesday run (daily cadence). Reds 73–84 verified from the MLB Stats API stan
 
 ### Notes
 Thursday run. Reds 73–85 verified from the MLB Stats API standings + schedule endpoints (L1 streak, last 10 4–6, 26.0 GB, 5th NL Central, officially eliminated); last night 2–3 at Atlanta; today at Atlanta 7:15 p.m. ET, series finale. Box office weekend still Sept 18–20 (Resident Evil, $60.0M) — fourth run on the same weekend, so the fun fact was rotated again to the Afterlife full-run comparison ($60.1M lifetime vs. $60.0M in three days) plus the franchise-best B+ CinemaScore; Sep 21/22/23 framings all avoided. All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API. First-draft picks were re-checked against the full memory log and a large number were caught as repeats and replaced: Arts (Hopper/Nighthawks, Tolstoy, Melville, Vivaldi, Dylan Thomas, Toni Morrison all previously used → Caravaggio, Mondrian, Salinger, Rachmaninoff, Auden, Bernini); Founded (ballpoint pen, bubble gum, three-point seat belt, P&G all previously used → Gillette, Jell-O, Bayer/aspirin, Moerlein); General (cranberry bounce, Alaska/Aleutians, sharks-older-than-trees, "nice"/nescius, paper folded 42, marathon 26.2, James Earl Jones, Cincinnati staircases all used → Point Nemo, mantis shrimp, Caesar salad, contronyms, Benford's Law, Fosbury, Decca/Beatles, Cincinnati inclines); TV (Matlock/Andy Griffith used Jul 8 → Sliders); Reds bar-bet (Redlegs name used Sep 3 → 1919 Black Sox Series); Music (Everybody Hurts, You Get What You Give, This Love all used → Run-Around, Brick, The Reason). Sept 24 not previously used for This Day in History. Capitals all-world and all fresh (Belarus, Kiribati, Eswatini's two capitals, Trinidad and Tobago — the last tied to today's Republic Day). New local Founded entry: Christian Moerlein Brewing. New local General entry: the five Cincinnati hillside inclines. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-15.html per the 7-file archive window.
+
+## September 25, 2026 (v73)
+
+### Notes
+Friday run (daily cadence). Reds 74-85 verified from the MLB Stats API standings + schedule endpoints (W1 streak, last 10 4-6, 26.0 GB, 5th NL Central, eliminated); last night 7-6 win at Atlanta; today at Toronto 7:07 p.m. ET, first of the final three. Box office weekend still Sept 18-20 (Resident Evil, $60.15M) - fifth run on the same weekend, so the fun fact was rotated again to Cregger having never seen any of the six prior RE films, building from RE2/3/4, the $80M budget and the Prague/Dariusz Wolski IMAX shoot; the Sep 21/22/23/24 framings were all avoided. First-draft picks were checked against the full memory log and a large batch were caught as repeats and replaced: TV (Peyton Place/Mia Farrow used Aug 5, Ben Casey/Vince Edwards used Aug 6 -> Julia and The Monkees); Arts (Goya used Jul 9, Chopin used Jul 8, Saint-Saens used Jul 9 -> Toulouse-Lautrec, Mussorgsky); Founded (parking meter used Jul 9, fortune cookie used Aug 20 -> Pyrex, In-N-Out drive-thru); General (narwhal tusk used Aug 11, Stanley Cup misspellings used Aug 13, vanilla used Aug 12 and Aug 27 in the old framing, space-smells-like-seared-steak used Aug 13, Olympic art competitions used Aug 20, Findlay Market used Sep 3, Spring Grove used Sep 1, Martha the passenger pigeon used Sep 8 -> Earth-Moon planet gap, Indy 500 milk, a new vanilla angle centered on Edmond Albius, Mount Airy Forest); Music ("Complicated"/Avril Lavigne used Jul 6 -> "1985"/Bowling for Soup). Capitals were all-world and all fresh on the first pass. All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API - no drops this run, every song resolved first try. Sept 25 not previously used for This Day in History. New local Founded entry: Cintas. New local General entry: Mount Airy Forest. New Reds bar-bet: the 1917 Toney/Vaughn double no-hitter. Sports card covers NFL (Falcons 35-14 Packers on TNF; Bengals 2-0, at Pittsburgh Sunday), MLB final weekend (Brewers to 100 wins; AL Central and AL West both live), Presidents Cup (US 3-2 after Thursday four-ball at Medinah), NCAA Week 5 AP top five, NHL opener Sept 29 on the new 84-game schedule, WNBA playoffs, MLS Decision Day Oct 3. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-16.html per the 7-file archive window.
