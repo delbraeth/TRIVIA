@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 28 | Liberia | Monrovia (named for President James Monroe; only foreign capital named for a US president; founded 1822 by freed American slaves) |
+| Sep 28 | Kosovo | Pristina (Europe's newest capital — independence declared 2008; youngest population in Europe by median age) |
+| Sep 28 | Tuvalu | Funafuti (one of the smallest/lowest-lying countries; major national revenue from licensing the .tv internet domain) |
+| Sep 28 | Mauritius | Port Louis (island where the dodo lived and was wiped out within ~a century of Dutch arrival) |
 | Sep 25 | Nauru | No official capital — the only country without one; government sits in Yaren district (whole country ~8 sq mi) |
 | Sep 25 | Netherlands | Amsterdam (constitutional capital) but The Hague is the seat of government, parliament, Supreme Court and the monarch |
 | Sep 25 | Togo | Lomé (sits directly on the Ghana border) |
@@ -145,6 +149,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Sep 28 | Daktari (1966–69) | Dr. Marsh Tracy | Marshall Thompson (shot at Africa USA north of LA, not Kenya; Clarence the Cross-Eyed Lion and Judy the chimp) |
+| Sep 28 | Land of the Giants (1968–70) | Capt. Steve Burton | Gary Conway (Irwin Allen; ~$250k/episode, most expensive series on TV at the time) |
+| Sep 28 | Baretta (1975–78) | Tony Baretta | Robert Blake (cockatoo named Fred; "Don't do the crime if you can't do the time") |
+| Sep 28 | Gimme a Break! (1981–87) | Nell Harper | Nell Carter (Tony winner for Ain't Misbehavin'; Joey Lawrence's first regular role) |
+| Sep 28 | MacGyver (1985–92) | Angus MacGyver | Richard Dean Anderson (first name withheld until season 7) |
+| Sep 28 | 3rd Rock from the Sun (1996–2001) | Dick Solomon | John Lithgow (three Emmys for the role) |
 | Sep 25 | Julia (1968–71) | Julia Baker | Diahann Carroll (first Black woman to star in a network series in a non-servant role; Tony winner 1962) |
 | Sep 25 | The Monkees (1966–68) | drummer / himself | Micky Dolenz (child actor in Circus Boy at 11; couldn't play drums when cast; 1967 Emmy for Outstanding Comedy) |
 | Sep 25 | Chico and the Man (1974–78) | Chico Rodriguez | Freddie Prinze (just turned 20 at premiere; son Freddie Prinze Jr. was 10 months old when he died in 1977) |
@@ -326,6 +336,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Sep 28 | Portrait of Madame X (1884) painter | John Singer Sargent (Salon scandal over a fallen strap; repainted it and left Paris for London) |
+| Sep 28 | Finlandia (1899) composer | Jean Sibelius (covert protest under Russian censorship; performed under disguised titles) |
+| Sep 28 | The Remains of the Day / Never Let Me Go author | Kazuo Ishiguro (born Nagasaki, Nobel Prize in Literature 2017) |
+| Sep 28 | Ten-play "Pittsburgh Cycle" playwright | August Wilson (Pulitzers for Fences and The Piano Lesson; one play per decade of the 20th century) |
+| Sep 28 | Chilean poet, 1971 Nobel | Pablo Neruda (pen name; born Ricardo Eliécer Neftalí Reyes Basoalto, likely after Czech writer Jan Neruda) |
+| Sep 28 | Inventor of the mobile (sculpture) | Alexander Calder (trained mechanical engineer; Duchamp coined the name "mobile" in 1931) |
 | Sep 25 | Moulin Rouge posters / modern advertising art | Henri de Toulouse-Lautrec (broken thighbones left him ~4'8"; died at 36) |
 | Sep 25 | First woman to win the Pulitzer for Fiction | Edith Wharton, 1921, The Age of Innocence (jury had voted for Main Street; trustees overruled) |
 | Sep 25 | Pictures at an Exhibition / Night on Bald Mountain composer | Modest Mussorgsky (1874 solo piano; famous version is Ravel's 1922 orchestration) |
@@ -506,6 +522,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Sep 28 | Space | ISS orbits every ~90 min at ~17,500 mph — 16 sunrises and 16 sunsets per day |
+| Sep 28 | Science | Tungsten has the highest melting point of any metal, 6,192°F — why it's the filament in an incandescent bulb |
+| Sep 28 | Geography | Four Corners marker sits a few hundred feet off the intended survey line, but the legal rule is that the monument as set IS the boundary |
+| Sep 28 | Animals | A giraffe has exactly seven neck vertebrae — same as a human; each about 10 inches long |
+| Sep 28 | Body | Hiccups likely a gill-breathing evolutionary leftover; Charles Osborne of Iowa hiccupped continuously 1922–1990 (68 years) |
+| Sep 28 | Food | Durian banned on Singapore's subway — the only prohibition sign on the network with no fine printed under it |
+| Sep 28 | Language | "Boycott" is a surname — Capt. Charles Boycott, County Mayo land agent ostracized by tenants in 1880 |
+| Sep 28 | History | Pony Express lasted 18 months (Apr 1860–Oct 1861), shut down two days after the transcontinental telegraph was completed |
+| Sep 28 | Math | Europe didn't use zero until the 1200s — Fibonacci's Liber Abaci 1202; Florence banned Hindu-Arabic numerals in 1299 |
+| Sep 28 | Sports | Tennis "love" for zero — likely from French l'œuf (the egg); OED prefers "playing for love" |
+| Sep 28 | Pop Culture | The cat Brando strokes in The Godfather was a stray Coppola found on the Paramount lot; purring nearly forced an ADR redo |
+| Sep 28 | Weather | Hottest air temperature ever officially recorded: 134°F, Furnace Creek, Death Valley, July 10, 1913 — still disputed |
+| Sep 28 | Local (Cincinnati) | American Sign Museum, Camp Washington — only public museum of its kind in the US; indoor "Main Street" of restored neon |
+| Sep 28 | Reds bar-bet | Eric Davis homered in his first World Series at-bat (2-run shot off Dave Stewart, Game 1, 1990); lacerated a kidney in Game 4, left in an Oakland hospital and paid his own way home — start of his feud with Marge Schott |
 | Sep 25 | Space | Every planet lined up side by side just fits in the Earth–Moon gap (~238,000 mi of planets vs ~239,000 mi) |
 | Sep 25 | Science | Bismuth listed as heaviest stable element for 200 yrs; caught decaying in 2003, half-life ~1 billion times the age of the universe |
 | Sep 25 | Geography | Reno, Nevada is farther west than Los Angeles (California's coast swings east below Point Conception) |
@@ -888,6 +918,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Sep 28 | September 28 (Alexander Fleming discovers penicillin at St Mary's, London 1928 — 98th anniv; Ted Williams goes 6-for-8 in a doubleheader to finish at .406 in 1941 — 85th anniv, last .400 season; Paul Henderson's Summit Series Game 8 winner in Moscow with 34 seconds left, 1972. Also noted: siege of Yorktown begins 1781 (245th), first round-the-world flight completed in Seattle 1924 after 175 days, MS Estonia sinks in the Baltic 1994 killing 852, Rabin and Arafat sign Oslo II 1995, SpaceX Falcon 1 first privately developed liquid-fueled rocket to orbit 2008) |
 | Sep 25 | September 25 (first Tommy John surgery, Dr. Frank Jobe on Tommy John 1974 — odds put at 1 in 100, John won 164 more games; Publick Occurrences, first American newspaper, Boston 1690, shut down after one issue; Sonny Liston KOs Floyd Patterson in 2:06 at Comiskey 1962. Also noted: Congress sends 12 amendments to the states 1789, Little Rock Nine's first full day 1957, Arnold Palmer dies 2016, Stamford Bridge 1066) |
 | Sep 24 | September 24 (Nirvana's Nevermind released 1991 — 35th anniv, 46,251 copies pressed; "Black Friday" gold panic 1869, Gould & Fisk; 60 Minutes premieres on CBS 1968 — 58th anniv. Also noted: Judiciary Act 1789, Ben Johnson 9.79 in Seoul 1988, NMAAHC opens 2016) |
 | Sep 23 | September 23 (Neptune discovered 1846 — 180th anniv, Le Verrier's math + Galle's telescope; Nixon's 'Checkers' speech 1952, ~60M viewers; The Jetsons premieres 1962 — ABC's first color program; NY Knickerbockers adopt the first baseball rulebook 1845) |
@@ -925,6 +956,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Sep 28 | National Drink Beer Day; National Good Neighbor Day; National Family Day; National Strawberry Cream Pie Day; National North Carolina Day; National Prop Trading Day; International Poke Day; World Rabies Day; International Day for Universal Access to Information (UNESCO) |
 | Sep 25 | National Comic Book Day; National One-Hit Wonder Day; National Quesadilla Day; National Lobster Day; National Daughter's Day; Math Storytelling Day; National Tune-Up Day; National Research Administrator Day; National Open the Magic Day; National Gay Men's HIV/AIDS Awareness Day (last Friday in September) |
 | Sep 24 | National Punctuation Day; National Bluebird of Happiness Day; National Cherries Jubilee Day; National Horchata Day; World Maritime Day (last Thursday in September); Heritage Day (South Africa); Republic Day (Trinidad and Tobago) |
 | Sep 23 | National Snack Stick Day; National Checkers Day & Dogs in Politics Day; National Great American Pot Pie Day; Teal Talk Day; Innergize Day (day after the autumnal equinox); Restless Legs Awareness Day; Celebrate Bisexuality Day; International Day of Sign Languages (UN) |
@@ -970,6 +1002,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Sep 28 | Photocopying / Xerox | Chester Carlson, first xerographic image "10-22-38 ASTORIA" in Queens; rejected by 20+ companies incl. IBM and GE; Haloid licensed 1947 and renamed itself Xerox |
+| Sep 28 | Polaroid instant camera | Edwin Land — his 3-year-old daughter asked in 1943 why she couldn't see the photo; demonstrated 1947, first camera sold 1948 |
+| Sep 28 | Trivial Pursuit | Dec 15, 1979, Montreal — Chris Haney and Scott Abbott designed it in ~45 minutes after finding Scrabble pieces missing |
+| Sep 28 | KFC franchising | Harland Sanders started at 62 after a new interstate bypassed his Corbin KY restaurant; "Colonel" is an honorary Kentucky commission, not military |
+| Sep 28 | L.L. Bean guarantee | 1912 Maine Hunting Shoe — stitching failed, 90 of the first 100 pairs returned; Bean refunded all and made it policy |
+| Sep 28 | Kings Island (Local) | Opened April 29, 1972 — Taft Broadcasting moved from flood-prone Coney Island; The Racer restarted the coaster industry, The Beast (1979) still the longest wooden coaster |
 | Sep 25 | Pyrex | Corning Glass Works, 1915; borosilicate developed for railroad lantern globes; Bessie Littleton baked a cake in a sawed-off battery jar |
 | Sep 25 | Vaseline | Robert Chesebrough, patented 1872, from "rod wax" on oil derricks; ate a spoonful daily, lived to 96 |
 | Sep 25 | Chuck Taylor / Converse All Star | Converse founded 1908; Chuck Taylor a semi-pro player hired as salesman 1921, name on the ankle patch 1932, never got a royalty |
@@ -1142,6 +1180,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Sep 28 | Learning to Fly | Tom Petty and the Heartbreakers | 1991 |
+| Sep 28 | Cotton Eye Joe | Rednex | 1994 |
+| Sep 28 | Fly (feat. Super Cat) | Sugar Ray | 1997 |
+| Sep 28 | Mambo No. 5 (A Little Bit of...) | Lou Bega | 1999 |
+| Sep 28 | Hot in Herre | Nelly | 2002 |
+| Sep 28 | Bleeding Love | Leona Lewis | 2007 |
 | Sep 25 | Tennessee | Arrested Development | 1992 |
 | Sep 25 | Shimmer | Fuel | 1998 |
 | Sep 25 | Inside Out | Eve 6 | 1998 |
@@ -2629,7 +2673,7 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 25, 2026_
+_Last updated: September 28, 2026_
 
 ## September 22, 2026 (v70)
 
@@ -2650,3 +2694,8 @@ Thursday run. Reds 73–85 verified from the MLB Stats API standings + schedule 
 
 ### Notes
 Friday run (daily cadence). Reds 74-85 verified from the MLB Stats API standings + schedule endpoints (W1 streak, last 10 4-6, 26.0 GB, 5th NL Central, eliminated); last night 7-6 win at Atlanta; today at Toronto 7:07 p.m. ET, first of the final three. Box office weekend still Sept 18-20 (Resident Evil, $60.15M) - fifth run on the same weekend, so the fun fact was rotated again to Cregger having never seen any of the six prior RE films, building from RE2/3/4, the $80M budget and the Prague/Dariusz Wolski IMAX shoot; the Sep 21/22/23/24 framings were all avoided. First-draft picks were checked against the full memory log and a large batch were caught as repeats and replaced: TV (Peyton Place/Mia Farrow used Aug 5, Ben Casey/Vince Edwards used Aug 6 -> Julia and The Monkees); Arts (Goya used Jul 9, Chopin used Jul 8, Saint-Saens used Jul 9 -> Toulouse-Lautrec, Mussorgsky); Founded (parking meter used Jul 9, fortune cookie used Aug 20 -> Pyrex, In-N-Out drive-thru); General (narwhal tusk used Aug 11, Stanley Cup misspellings used Aug 13, vanilla used Aug 12 and Aug 27 in the old framing, space-smells-like-seared-steak used Aug 13, Olympic art competitions used Aug 20, Findlay Market used Sep 3, Spring Grove used Sep 1, Martha the passenger pigeon used Sep 8 -> Earth-Moon planet gap, Indy 500 milk, a new vanilla angle centered on Edmond Albius, Mount Airy Forest); Music ("Complicated"/Avril Lavigne used Jul 6 -> "1985"/Bowling for Soup). Capitals were all-world and all fresh on the first pass. All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API - no drops this run, every song resolved first try. Sept 25 not previously used for This Day in History. New local Founded entry: Cintas. New local General entry: Mount Airy Forest. New Reds bar-bet: the 1917 Toney/Vaughn double no-hitter. Sports card covers NFL (Falcons 35-14 Packers on TNF; Bengals 2-0, at Pittsburgh Sunday), MLB final weekend (Brewers to 100 wins; AL Central and AL West both live), Presidents Cup (US 3-2 after Thursday four-ball at Medinah), NCAA Week 5 AP top five, NHL opener Sept 29 on the new 84-game schedule, WNBA playoffs, MLS Decision Day Oct 3. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-16.html per the 7-file archive window.
+
+## September 28, 2026 (v74)
+
+### Notes
+Monday run (daily cadence). NFL card headlines the per-game leader from the ESPN team-stats endpoint, splitId '0' (own offense): Chicago Bears 443.0 yds/g on 886 total yards in 2 games, No. 1; ESPN's own ranks array agreed with the computed sort. Raw-yardage leader is the Rams (1,286) and the Bears are 26th on that list purely on games played — flagged as the bar-bet, with the note that Chicago hosts Philadelphia tonight (MNF, 8:15 ET). Bengals 339.0 yds/g (1,017 total, 3 GP), 15th per game and 13th in raw yards, 232.0 pass / 91.3 rush; 2–1 after losing 30–27 at Pittsburgh; next is Sunday vs. Jacksonville 1:00 p.m. ET at home on CBS. New box office weekend at last: Sept 25–27, Avengers: Endgame Encore $26.0M over Resident Evil $23.3M, Heart of the Beast $20.0M, Primetime $19.1M, Forgotten Island $12.8M; fun fact is the third-best re-release opening ever behind the 1997 Star Wars Special Edition and the 2011 Lion King 3-D, plus the ~$86M worldwide start. Coming-this-weekend subsection covers the Oct 2 slate (Digger, Verity, Your Mother Your Mother Your Mother, Beware Boiuna). MLB regular season final standings pulled from the MLB Stats API: Brewers 103–59, Dodgers 100–62, Astros won the AL West at exactly 81–81, Reds finished 75–87 fifth in the NL Central; Wild Card round opens Sept 29. Presidents Cup corrected against a primary recap after Wikipedia showed a stale partial score — US 17–13 after trailing 10.5–7.5 into Sunday singles and taking 9.5 of 12, 11th straight US win, Jackson Koivun the only unbeaten player. NCAA Week 5 results and the new AP poll taken from the ESPN scoreboard and rankings endpoints rather than search snippets (Florida 52–28 over No. 4 Ole Miss, Florida 21 to 8 in the poll). NHL opens Sept 29 with an ESPN tripleheader, Carolina the defending champion, first year of the 84-game schedule. NBA media day today; LeBron to Philadelphia, Giannis to Miami, Kawhi to Toronto; opener Oct 20. Deaths were rebuilt from the Wikipedia Deaths in 2026 wikitext after a page-summary fetch returned names (Greenspan, Clive Davis, James Burrows, Englert, Parazaider, Guillemot) that are all already in this log from an earlier run — none of them died this week; the verified new names are Mighty Sparrow, Pac (Benjamin Satterley, confirmed via news sources, died a day after his final match), Liu Huan, Bill Giles, Cyril Hilsum, Jackie Jackson, plus Siti Hasmah, Dee Brock, Chuck Varga, Ryszard Lenczewski, George Gillett. Sept 28 not previously used for This Day in History. First-draft picks were checked against the full memory log and a large batch were caught as repeats and replaced: capitals (Cote d'Ivoire, Palau, Kazakhstan, Benin-adjacent picks all previously used -> Liberia, Kosovo, Tuvalu, Mauritius); TV (The Fugitive, Bonanza, Get Smart, The Waltons, Miami Vice, Northern Exposure all used -> Daktari, Land of the Giants, Baretta, Gimme a Break!, MacGyver, 3rd Rock); Arts (Vermeer, Orwell, Tchaikovsky, T.S. Eliot, Tennessee Williams, Dvorak all used -> Sargent, Sibelius, Ishiguro, August Wilson, Neruda, Calder); Founded (Velcro, IKEA, WD-40, Band-Aid, Kroger, Skyline all used -> Xerox, Polaroid, Trivial Pursuit, KFC, L.L. Bean, Kings Island); General (tittle, neutron-star teaspoon, googol, WLW 500kW, 1990 wire-to-wire Reds, Redlegs, Sean Connery all used -> boycott, tungsten, Fibonacci/zero, American Sign Museum, Eric Davis 1990 World Series); Music (all six of the first-draft songs — Semi-Charmed Life, Torn, Interstate Love Song, You Get What You Give, Mr. Brightside, Crazy in Love — turned out to be prior entries, replaced with Learning to Fly, Cotton Eye Joe, Fly, Mambo No. 5, Hot in Herre, Bleeding Love). All 6 Spotify IDs oEmbed-verified in-session; all 6 Apple Music IDs from the iTunes Search API. New local Founded entry: Kings Island. New local General entry: American Sign Museum. New Reds bar-bet: Eric Davis's 1990 World Series. Publishing note: the cloud container's git proxy refused both git push and the GitHub Contents API for this repo, so the clone, commits and pushes were run from the local device shell instead. No 12-week pruning needed (oldest table rows Aug 13). Pruned thursday-trivia-2026-09-17.html per the 7-file archive window.
