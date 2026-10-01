@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 1 | Djibouti | Djibouti City (shares name; Camp Lemonnier, only permanent US base in Africa; China's first overseas base 2017; Lake Assal lowest point in Africa) |
+| Oct 1 | Vanuatu | Port Vila (formerly New Hebrides, Anglo-French condominium until 1980 — two police forces, two legal systems) |
+| Oct 1 | Liechtenstein | Vaduz (doubly landlocked, with Uzbekistan; major false-teeth exporter) |
+| Oct 1 | Cabo Verde | Praia (Santiago island; Cesária Évora, the "Barefoot Diva") |
 | Sep 30 | Sierra Leone | Freetown (founded 1792 for formerly enslaved people incl. Black Loyalists resettled from Nova Scotia; huge natural harbor) |
 | Sep 30 | Lesotho | Maseru (only country entirely above 1,000 m; enclaved by South Africa) |
 | Sep 30 | Samoa | Apia (Robert Louis Stevenson buried on Mount Vaea; skipped Fri Dec 30, 2011 by crossing the date line) |
@@ -157,6 +161,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 1 | That Girl (1966–71) | Ann Marie | Marlo Thomas |
+| Oct 1 | 77 Sunset Strip (1958–64) | Gerald "Kookie" Kookson III | Edd Byrnes |
+| Oct 1 | Wonder Woman (1975–79) | Diana Prince / Wonder Woman | Lynda Carter |
+| Oct 1 | Square Pegs (1982–83) | Patty Greene | Sarah Jessica Parker |
+| Oct 1 | All My Children | Erica Kane | Susan Lucci |
+| Oct 1 | Xena: Warrior Princess (1995–2001) | Xena | Lucy Lawless |
 | Sep 30 | McMillan & Wife (1971–77) | Commissioner Stewart McMillan | Rock Hudson |
 | Sep 30 | Police Woman (1974–78) | Sgt. Pepper Anderson | Angie Dickinson |
 | Sep 30 | The Bionic Woman (1976–78) | Jaime Sommers | Lindsay Wagner |
@@ -356,6 +366,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 1 | "Scarlett O'Hara was not beautiful…" opener | Gone with the Wind — Margaret Mitchell (1937 Pulitzer; heroine originally "Pansy") |
+| Oct 1 | Only American to exhibit with the French Impressionists | Mary Cassatt (invited by Degas) |
+| Oct 1 | Graduation march composer | Edward Elgar — Pomp and Circumstance No. 1 (Yale 1905) |
+| Oct 1 | First American woman to win the Nobel in Literature | Pearl S. Buck (1938; The Good Earth, 1932 Pulitzer) |
+| Oct 1 | Dracula author and day job | Bram Stoker — Lyceum Theatre business manager for Henry Irving |
+| Oct 1 | "Auld Lang Syne" poet | Robert Burns (1788; Burns Night Jan 25) |
 | Sep 30 | "All children, except one, grow up" opener | Peter Pan (Peter and Wendy, 1911) — J.M. Barrie (rights given to Great Ormond Street Hospital, 1929) |
 | Sep 30 | The Gleaners (1857) painter | Jean-François Millet |
 | Sep 30 | William Tell Overture composer | Gioachino Rossini (1829, his last opera) |
@@ -554,6 +570,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 1 | Food | Pumpkin Spice Latte (2003) had no real pumpkin until 2015 |
+| Oct 1 | Drink | Coffee origin legend — Ethiopian goatherd Kaldi and his dancing goats |
+| Oct 1 | Myth | Great Wall not visible from the Moon; Yang Liwei 2003 |
+| Oct 1 | History | Leaning Tower of Pisa leaned during construction; ~200 yrs to build; straightened ~17 in 1990–2001 |
+| Oct 1 | Engineering | Golden Gate Bridge "International Orange" began as primer; Navy wanted black-and-yellow stripes |
+| Oct 1 | Sports | Volleyball invented as "Mintonette," 1895, William G. Morgan, Holyoke MA |
+| Oct 1 | Sports | Abner Doubleday did not invent baseball — West Point cadet in 1839 |
+| Oct 1 | History | Gutzon Borglum died March 1941; son Lincoln finished Mount Rushmore |
+| Oct 1 | Hoax | 1934 Loch Ness "Surgeon's Photograph" was a toy submarine with a model head; confessed 1994 |
+| Oct 1 | Local | Goetta — pork/beef + pinhead oats; Glier's in Covington; Goettafest |
 | Sep 30 | Animals | Wood frogs freeze solid in winter — heart and breathing stop; glucose protects cells |
 | Sep 30 | Geography | Chimborazo's summit is the point farthest from Earth's center (equatorial bulge), not Everest |
 | Sep 30 | Language | "Goodbye" is a contraction of "God be with ye" |
@@ -971,6 +997,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 1 | October 1 (Walt Disney World opens 1971 — 55th anniv, $3.50 adult admission, ~27,000 acres via dummy companies; Roger Maris 61st HR off Tracy Stallard 1961, 23,154 fans, Frick "separate record"; Ford Model T introduced 1908 at $850. Also noted: Ruth called shot 1932, Jimmy Carter born 1924, Carson's first Tonight Show 1962, EPCOT 1982, Nigeria & Cyprus independence 1960) |
 | Sep 30 | September 30 (James Dean killed near Cholame CA 1955 — 71st anniv, first posthumous acting Oscar nominee; Babe Ruth's 60th HR off Tom Zachary 1927; The Flintstones premiere on ABC 1960, first prime-time animated series, Winston sponsor; also Magic Flute premiere 1791, Morton ether 1846, Hoover Dam dedicated 1935, James Meredith/Ole Miss 1962, Clemente 3,000th hit 1972, Cheers premiere 1982) |
 | Sep 29 | September 29 (Willie Mays' "The Catch" in Game 1 of the 1954 World Series — 72nd anniv; Chicago Tylenol murders begin 1982, source of tamper-evident packaging; Rudolf Diesel vanishes from a steamer 1913. Also noted: Hindenburg Line breached 1918 after a 56-hour bombardment, Babi Yar massacre begins 1941, Stacy Allison first American woman to summit Everest 1988, Dow falls a then-record 777.68 points in 2008, Gene Autry born 1907) |
 | Sep 28 | September 28 (Alexander Fleming discovers penicillin at St Mary's, London 1928 — 98th anniv; Ted Williams goes 6-for-8 in a doubleheader to finish at .406 in 1941 — 85th anniv, last .400 season; Paul Henderson's Summit Series Game 8 winner in Moscow with 34 seconds left, 1972. Also noted: siege of Yorktown begins 1781 (245th), first round-the-world flight completed in Seattle 1924 after 175 days, MS Estonia sinks in the Baltic 1994 killing 852, Rabin and Arafat sign Oslo II 1995, SpaceX Falcon 1 first privately developed liquid-fueled rocket to orbit 2008) |
@@ -1011,6 +1038,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 1 | National Pumpkin Spice Day; National Homemade Cookies Day; National Black Dog Day; National "JIFFY" Mix Day; National Fire Pup Day; National Hair Day; National Green City Day; International Coffee Day; World Vegetarian Day |
 | Sep 30 | National Chewing Gum Day; National Hot Mulled Cider Day; National Love People Day; Orange Shirt Day; National Women's Health & Fitness Day; National Mud Pack Day |
 | Sep 29 | National Coffee Day; National VFW Day; World Heart Day; Urban National Wildlife Refuge Day; National Silent E Day |
 | Sep 28 | National Drink Beer Day; National Good Neighbor Day; National Family Day; National Strawberry Cream Pie Day; National North Carolina Day; National Prop Trading Day; International Poke Day; World Rabies Day; International Day for Universal Access to Information (UNESCO) |
@@ -1059,6 +1087,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 1 | Pepsi original name | "Brad's Drink," 1893, Caleb Bradham, New Bern NC; renamed Pepsi-Cola 1898 |
+| Oct 1 | Lamborghini before cars | Tractors; Ferrari clutch complaint; founded 1963 |
+| Oct 1 | Q-tips original name | "Baby Gays," 1923, Leo Gerstenzang; Q = quality |
+| Oct 1 | Twister breakout | Johnny Carson & Eva Gabor on The Tonight Show, 1966 |
+| Oct 1 | Samsung origins | 1938 Daegu trading company — dried fish, vegetables, noodles; "three stars"; electronics 1969 |
+| Oct 1 | Local: United Dairy Farmers | Founded 1938 by Carl Lindner Sr. & children; first store Norwood OH, May 8, 1940 |
 | Sep 30 | Pizza Hut founded | 1958, Wichita KS, Dan & Frank Carney with $600 borrowed from their mother; small sign set the name |
 | Sep 30 | Hewlett-Packard name order | Coin toss, 1939 Palo Alto garage; Disney bought audio oscillators for Fantasia |
 | Sep 30 | Lincoln Logs | John Lloyd Wright (son of Frank Lloyd Wright), 1916, inspired by the Imperial Hotel, Tokyo foundations |
@@ -1249,6 +1283,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 1 | Gonna Make You Sweat (Everybody Dance Now) | C+C Music Factory | 1990 |
+| Oct 1 | Whoomp! (There It Is) | Tag Team | 1993 |
+| Oct 1 | Return of the Mack | Mark Morrison | 1996 |
+| Oct 1 | Fallin' | Alicia Keys | 2001 |
+| Oct 1 | Unwell | Matchbox Twenty | 2003 |
+| Oct 1 | Party in the U.S.A. | Miley Cyrus | 2009 |
 | Sep 30 | Groove Is in the Heart | Deee-Lite | 1990 |
 | Sep 30 | Tearin' Up My Heart | *NSYNC | 1997 |
 | Sep 30 | Man! I Feel Like a Woman! | Shania Twain | 1999 |
@@ -1601,69 +1641,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 13 | In da Club | 50 Cent | 2003 |
 | Aug 13 | Kids | MGMT | 2008 |
 
-
-## July 8, 2026 (v38)
-
-### Capitals
-| Jul 8 | California | Sacramento |
-| Jul 8 | Minnesota | St. Paul |
-| Jul 8 | Ecuador | Quito |
-| Jul 8 | Sweden | Stockholm |
-
-### Classic TV
-| Jul 8 | The Fall Guy (1981-86) | Colt Seavers | Lee Majors |
-| Jul 8 | Simon & Simon (1981-89) | Rick & A.J. Simon | Gerald McRaney & Jameson Parker |
-| Jul 8 | Matlock (1986-95) | Ben Matlock | Andy Griffith |
-| Jul 8 | Buck Rogers in the 25th Century (1979-81) | Buck Rogers | Gil Gerard |
-| Jul 8 | Perfect Strangers (1986-93) | Balki Bartokomous | Bronson Pinchot |
-| Jul 8 | Alice (1976-85) | Alice Hyatt | Linda Lavin |
-
-### Arts & Literature
-| Jul 8 | Walden / "Civil Disobedience" author | Henry David Thoreau |
-| Jul 8 | The Last of the Mohicans author | James Fenimore Cooper |
-| Jul 8 | Polish Romantic composer of nocturnes/polonaises | Frédéric Chopin |
-| Jul 8 | Olympia / Le Déjeuner sur l'herbe painter | Édouard Manet |
-| Jul 8 | "The Charge of the Light Brigade" poet | Alfred, Lord Tennyson |
-| Jul 8 | The Color Purple author (1983 Pulitzer) | Alice Walker |
-
-### Founded & Invented
-| Jul 8 | Costco first warehouse (Seattle) | 1983 |
-| Jul 8 | Barbie doll debut (Ruth Handler / Mattel) | 1959 |
-| Jul 8 | Stethoscope invented | René Laennec, 1816 |
-| Jul 8 | Windshield wiper patented | Mary Anderson, 1903 |
-| Jul 8 | Chocolate chip cookie invented | Ruth Wakefield (Toll House Inn), 1938 |
-| Jul 8 | Adidas founded (Adi Dassler, Germany) | 1949 |
-
-### General Trivia
-| Jul 8 | Animals | Sea otters hold hands / wrap in kelp while sleeping so they don't drift apart |
-| Jul 8 | Geography | Australia (~4,000 km wide) is wider than the Moon (~3,475 km diameter) |
-| Jul 8 | Language | "OK" comes from an 1830s Boston newspaper joke abbreviation of "oll korrect" |
-| Jul 8 | Animals | A group of flamingos is called a "flamboyance" |
-| Jul 8 | Food | In the 1830s ketchup was sold as a patent medicine for indigestion |
-| Jul 8 | Biology | A blue whale's heart is ~size of a small car, ~400 lbs |
-| Jul 8 | History | A medieval "moment" was a real time unit of ~90 seconds |
-| Jul 8 | Art | The Mona Lisa has no visible eyebrows or eyelashes |
-| Jul 8 | Science | Ounce for ounce, human bone is stronger than steel |
-| Jul 8 | Space | Apollo footprints on the Moon could last millions of years (no wind/water) |
-
-### Songs
-| Jul 8 | Livin' la Vida Loca | Ricky Martin | 1999 |
-| Jul 8 | Last Resort | Papa Roach | 2000 |
-| Jul 8 | Gin and Juice | Snoop Dogg | 1994 |
-| Jul 8 | Sugar, We're Goin Down | Fall Out Boy | 2005 |
-| Jul 8 | Bad Day | Daniel Powter | 2005 |
-| Jul 8 | Only Happy When It Rains | Garbage | 1995 |
-
-### This Day in History
-| Jul 8 | July 8 (Vasco da Gama sets sail from Lisbon for India 1497; Wall Street Journal first published 1889; Roswell "flying disc" press release 1947) | - |
-| Jul 8 | National Days: SCUD Day; National Chocolate with Almonds Day; National Freezer Pop Day; National Video Game Day | - |
-
-### Sports / Current Events
-| Jul 8 | Reds | 41-49, 5th NL Central 16.5 GB (Brewers 58-33); last 5 W-L-L-W-L (streak L1, 3-7 L10); lost 4-1 to Phillies Jul 7; GAME IN PROGRESS today Jul 8 vs Phillies, Reds led 7-4 late (first pitch 7:10 ET) |
-| Jul 8 | Box Office | Minions & Monsters #1 franchise-low $36.4M 3-day/$61.4M 5-day; Toy Story 5 past $366M; opening Jul 10-12: Moana (live-action), The Invite (A24, Rogen/Wilde/Cruz/Norton), Evil Dead Burn |
-| Jul 8 | Sports | World Cup R16: USMNT ELIMINATED, lost 4-1 to Belgium Jul 6 in Seattle (Tillman goal; De Ketelaere brace; Lukaku late), Belgium to QF; Wimbledon quarterfinals; MLB ASG Philly Jul 14, Derby Jul 13 Netflix, Brewers 58-33 best NL, Royals beat Phillies 15-1; NBA: Celtics trade Jaylen Brown to 76ers, SL debuts Darryn Peterson & Cameron Boozer; NHL: Giroux re-signs Senators (20th yr), Flames sign Simon Nemec 5yr/$36.25M; WNBA All-Star reserves named (Ogwumike), Valkyries surging |
-| Jul 8 | Deaths | Beaky/John Dymond (81, of Dave Dee Dozy Beaky Mick & Tich, Jul 5); Lauren Bennett (36, "Party Rock Anthem" vocalist, Jul 6); Gordon S. Wood (92, Pulitzer historian, struck by car, Jul 7) |
-| Jul 8 | Current Events | US struck 80+ targets in Iran & reimposed oil sanctions after ship attacks in Strait of Hormuz (Iran vows "crushing response"); Hamas set to cede Gaza to technocratic body; NATO summit in Turkey, Trump praises Erdogan/F-35 talk; July forecast hottest US month |
 
 ## August 19, 2026 (v48)
 
@@ -2690,7 +2667,7 @@ NFL: Bills 41, Lions 31 on TNF Sept 17 (Josh Allen). Bengals 1–0, at Houston S
 Run fired Friday Sept 18 (scheduled task). Sept 18 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; all 6 Apple Music IDs from the iTunes Search API. "Creep" (Radiohead) dropped — no original studio recording resolves on the US iTunes Search API; substituted Glycerine (Bush). Capitals/TV/Founded candidate pools are getting thin — most obvious answers already logged; went to Chile (Sept 18 tie-in), Bosnia, Maldives, Zambia and to The Virginian / Green Hornet / Quincy / Greatest American Hero / Empty Nest / Home Improvement. New local Founded entry: Gold Star Chili (all prior Cincinnati founded entries exhausted). No 12-week pruning needed (oldest table rows Aug 13; oldest run section Jul 6). Pruned thursday-trivia-2026-09-09.html per the 7-file archive window.
 
 
-_Last updated: September 30, 2026_
+
 
 ## September 22, 2026 (v70)
 
@@ -2746,3 +2723,19 @@ MLB Wild Card Game 1s (MLB Stats API): Braves 5-3 Phillies (Riley 3-run HR in 8t
 
 ### Notes
 Wednesday run (daily cadence). Push from the cloud container was refused by the git proxy (repository not in the session authorized set); clone/commit/push ran from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API. Replaced first-draft repeats: Hazel/Shirley Booth (used Aug 6) -> Car 54; stethoscope (used Jul 8) -> Kitty Litter; many General picks already used (Venus day, wombat, ketchup, Cleopatra, Roebling, lightning, Canada lakes, tittle, Oxford/Aztec, Zanzibar, fortune cookie, Hawaiian pizza, Caesar salad, Eiffel, Music Hall, Porkopolis, Cincinnati Subway) -> fresh set. Sept 30 not previously used for This Day in History.
+
+## October 1, 2026 (v77)
+
+### NFL
+Los Angeles Rams 428.7 yds/g (1,286 total, 3 GP), No. 1; top 5 Rams / Chiefs 424.0 / Bears 420.3 / Bills 417.0 / Ravens 415.7 (unchanged — no games since MNF). Bengals 339.0 yds/g, 1,017 total, 14th in both; 232.0 pass (13th), 91.3 rush (27th); 2-1. All four AFC North teams 2-1; TNF Steelers at Browns. Next: Sun Oct 4 vs Jacksonville 1:00 p.m. ET at Paycor. ESPN team-stats endpoint, splitId '0'. Bar-bet used: Bears 184.3 rush/g 1st, Falcons 173.0 rush/g 2nd but 29th passing; Vikings last overall (255.3).
+
+### Box Office
+Weekend Sept 25-27 unchanged: Avengers: Endgame encore $26.1M; Resident Evil $23.0M; Heart of the Beast $20.0M; Primetime $19.2M; Forgotten Island $13.0M. Fun fact used: Endgame has Stan Lee's last live-action Marvel cameo (de-aged, 1970 Camp Lehigh, "Make love, not war!"). Coming Oct 2-4: Digger, Verity, Your Mother Your Mother Your Mother, Beware Boiuna.
+
+### Sports / Deaths / Current Events
+MLB WC Game 2s (MLB Stats API): Phillies 4-3 Braves in 10 (Bohm HR; Schwarber/Harper tied it in 8th), Game 3 tonight 8 ET NBC; White Sox 7-3 Astros, Yankees 9-2 Red Sox, Padres 4-1 Cubs — all sweeps. DS Sat: CWS at CLE, NYY at TB, SD at MIL, PHI/ATL at LAD. NHL Sept 30: Penguins 7-0 Flyers, Avalanche 8-4 Kings (Laviolette debut), Leafs 2-1 Isles. WNBA: Dream swept Mystics, face Liberty in semis; Wings 108-100 OT Valkyries (G3 Fri); Fever-Aces G3 tonight. Presidents Cup US 17-13. Beijing: Djokovic d. Borges, Khachanov d. Auger-Aliassime. NCAA Sat: Ohio State at Iowa, Alabama at Miss State, Florida at Missouri, Miami at Clemson, Cincinnati at Arizona. MLS Decision Day is Nov 7 (mlssoccer.com) — earlier sheets wrongly said Oct 3; corrected on the sheet. Deaths: Bill Giles 92 (Sept 25), Yaacov Agam 98 (Sept 27), Peter May 74, Teddie Beverley 99 (Sept 30), Dennis Haskins 75, Gordon Johncock 90; also Mighty Sparrow, Pac, Elizabeth Arnold. Current events: US completes Iraq withdrawal (Sept 30, Erbil, counter-ISIS mission since 2014); stopgap signed through Dec 11; flydubai Dubai–Tel Aviv flight diverted to Tabuk after cockpit violence; South Korea $200B US energy pledge; Macron/Sanchez welcome Burnham EU-rejoin talk; US-Iran indirect talks.
+
+### Notes
+Thursday run (daily cadence). Cloud git push refused by the proxy again; clone/commit/push ran from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API. Oct 1 not previously used for This Day in History. Pruned table rows dated Jul 8 and the July 8 section (12-week window). Pruned thursday-trivia-2026-09-22.html per the 7-file archive window.
+
+_Last updated: October 1, 2026_
