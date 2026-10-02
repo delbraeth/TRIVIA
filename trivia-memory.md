@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 2 | Australia | Canberra (compromise between Sydney and Melbourne; Chicago architects Walter Burley Griffin & Marion Mahony Griffin won 1912 design; Parliament moved 1927) |
+| Oct 2 | Mauritania | Nouakchott (fishing village built up at 1960 independence; Richat Structure "Eye of the Sahara") |
+| Oct 2 | Barbados | Bridgetown (Rihanna named National Hero when Barbados became a republic in 2021; George Washington's only foreign trip, 1751, caught smallpox) |
+| Oct 2 | Timor-Leste (East Timor) | Dili (independent May 20, 2002 — first new sovereign state of the 21st century; uses the US dollar) |
 | Oct 1 | Djibouti | Djibouti City (shares name; Camp Lemonnier, only permanent US base in Africa; China's first overseas base 2017; Lake Assal lowest point in Africa) |
 | Oct 1 | Vanuatu | Port Vila (formerly New Hebrides, Anglo-French condominium until 1980 — two police forces, two legal systems) |
 | Oct 1 | Liechtenstein | Vaduz (doubly landlocked, with Uzbekistan; major false-teeth exporter) |
@@ -161,6 +165,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 2 | Family Affair (1966–71) | Mr. French (butler) | Sebastian Cabot |
+| Oct 2 | Wanted: Dead or Alive (1958–61) | Josh Randall | Steve McQueen |
+| Oct 2 | McCloud (1970–77) | Marshal Sam McCloud | Dennis Weaver |
+| Oct 2 | 21 Jump Street (1987–91) | Officer Tom Hanson | Johnny Depp |
+| Oct 2 | Small Wonder (1985–89) | Vicki (V.I.C.I.) the robot | Tiffany Brissette |
+| Oct 2 | Lois & Clark (1993–97) | Clark Kent/Superman | Dean Cain |
 | Oct 1 | That Girl (1966–71) | Ann Marie | Marlo Thomas |
 | Oct 1 | 77 Sunset Strip (1958–64) | Gerald "Kookie" Kookson III | Edd Byrnes |
 | Oct 1 | Wonder Woman (1975–79) | Diana Prince / Wonder Woman | Lynda Carter |
@@ -366,6 +376,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 2 | Novelist born Oct 2, 1904; Brighton Rock, The Third Man screenplay | Graham Greene (never won the Nobel) |
+| Oct 2 | Fictional detective with a front-page NYT obituary (1975) | Hercule Poirot — Agatha Christie (Curtain) |
+| Oct 2 | 1966 "nonfiction novel" about the Holcomb, Kansas murders | In Cold Blood — Truman Capote (Harper Lee helped research) |
+| Oct 2 | Melting clocks, The Persistence of Memory (1931) | Salvador Dalí (also designed the Chupa Chups logo, 1969) |
+| Oct 2 | Recessional "Wedding March" | Felix Mendelssohn — A Midsummer Night's Dream (vs. Wagner's Bridal Chorus from Lohengrin) |
+| Oct 2 | "The fog comes on little cat feet" / "Hog Butcher for the World" | Carl Sandburg (three Pulitzers) |
 | Oct 1 | "Scarlett O'Hara was not beautiful…" opener | Gone with the Wind — Margaret Mitchell (1937 Pulitzer; heroine originally "Pansy") |
 | Oct 1 | Only American to exhibit with the French Impressionists | Mary Cassatt (invited by Degas) |
 | Oct 1 | Graduation march composer | Edward Elgar — Pomp and Circumstance No. 1 (Yale 1905) |
@@ -570,6 +586,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 2 | Cars | First speeding ticket — Walter Arnold, Kent, 1896, 8 mph in a 2 mph zone |
+| Oct 2 | Candy | Smarties are Nestlé chocolate in Canada/UK; US Smarties sold as "Rockets" in Canada |
+| Oct 2 | Candy | M&M = Mars & Murrie (1941), first big customer the US military |
+| Oct 2 | History | Gandhi (born Oct 2, 1869) nominated five times, never won the Nobel Peace Prize |
+| Oct 2 | Food | German chocolate cake named for American Sam German (Baker's, 1852) |
+| Oct 2 | Food | Buffalo wings — Anchor Bar, Buffalo, 1964, Teressa Bellissimo |
+| Oct 2 | Sports | Football huddle invented at Gallaudet (Paul Hubbard, 1890s) |
+| Oct 2 | Sports | Secretariat — 1973 Derby record 1:59 2/5, Belmont by 31 lengths, ~22-lb heart |
+| Oct 2 | Geography | Lake Baikal holds more fresh water than all five Great Lakes combined |
+| Oct 2 | Geography | Rhode Island's "and Providence Plantations" official name shortened 2020 |
+| Oct 2 | Animals | Ostrich eye is bigger than its brain |
 | Oct 1 | Food | Pumpkin Spice Latte (2003) had no real pumpkin until 2015 |
 | Oct 1 | Drink | Coffee origin legend — Ethiopian goatherd Kaldi and his dancing goats |
 | Oct 1 | Myth | Great Wall not visible from the Moon; Yang Liwei 2003 |
@@ -997,6 +1024,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 2 | October 2 (Peanuts debuts in seven newspapers 1950 — 76th anniv, Schulz wanted "Li'l Folks"; Thurgood Marshall sworn in as first Black Supreme Court justice 1967; HMS Beagle returns Darwin to Falmouth 1836 — 190th anniv. Also noted: Gandhi born 1869; Alfred Hitchcock Presents 1955; The Twilight Zone premiere 1959; Woodrow Wilson stroke 1919) |
 | Oct 1 | October 1 (Walt Disney World opens 1971 — 55th anniv, $3.50 adult admission, ~27,000 acres via dummy companies; Roger Maris 61st HR off Tracy Stallard 1961, 23,154 fans, Frick "separate record"; Ford Model T introduced 1908 at $850. Also noted: Ruth called shot 1932, Jimmy Carter born 1924, Carson's first Tonight Show 1962, EPCOT 1982, Nigeria & Cyprus independence 1960) |
 | Sep 30 | September 30 (James Dean killed near Cholame CA 1955 — 71st anniv, first posthumous acting Oscar nominee; Babe Ruth's 60th HR off Tom Zachary 1927; The Flintstones premiere on ABC 1960, first prime-time animated series, Winston sponsor; also Magic Flute premiere 1791, Morton ether 1846, Hoover Dam dedicated 1935, James Meredith/Ole Miss 1962, Clemente 3,000th hit 1972, Cheers premiere 1982) |
 | Sep 29 | September 29 (Willie Mays' "The Catch" in Game 1 of the 1954 World Series — 72nd anniv; Chicago Tylenol murders begin 1982, source of tamper-evident packaging; Rudolf Diesel vanishes from a steamer 1913. Also noted: Hindenburg Line breached 1918 after a 56-hour bombardment, Babi Yar massacre begins 1941, Stacy Allison first American woman to summit Everest 1988, Dow falls a then-record 777.68 points in 2008, Gene Autry born 1907) |
@@ -1038,6 +1066,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 2 | National Smarties Day; National Name Your Car Day; National Manufacturing Day (first Friday in October); National Body Language Day; National Custodial Worker's Recognition Day; National Fried Scallops Day; National Produce Misting Day; International Day of Non-Violence; World No Alcohol Day |
 | Oct 1 | National Pumpkin Spice Day; National Homemade Cookies Day; National Black Dog Day; National "JIFFY" Mix Day; National Fire Pup Day; National Hair Day; National Green City Day; International Coffee Day; World Vegetarian Day |
 | Sep 30 | National Chewing Gum Day; National Hot Mulled Cider Day; National Love People Day; Orange Shirt Day; National Women's Health & Fitness Day; National Mud Pack Day |
 | Sep 29 | National Coffee Day; National VFW Day; World Heart Day; Urban National Wildlife Refuge Day; National Silent E Day |
@@ -1087,6 +1116,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 2 | Smarties candy origin | Ce De Candy, Edward Dee, 1949, New Jersey; repurposed gunpowder-pellet presses |
+| Oct 2 | Nokia original business | Paper/pulp mill, 1865, Fredrik Idestam, Finland |
+| Oct 2 | First Dairy Queen | Joliet, Illinois, 1940, Sherb Noble; Blizzard 1985 |
+| Oct 2 | Taco Bell founder | Glen Bell, Downey CA, 1962; earlier Bell's Drive-In |
+| Oct 2 | First words on Edison's phonograph | "Mary had a little lamb," 1877, tinfoil cylinder |
+| Oct 2 | Easy-Bake Oven maker (Local) | Kenner Products, Cincinnati, 1963, two 100-watt bulbs; later Star Wars figures 1978 |
 | Oct 1 | Pepsi original name | "Brad's Drink," 1893, Caleb Bradham, New Bern NC; renamed Pepsi-Cola 1898 |
 | Oct 1 | Lamborghini before cars | Tractors; Ferrari clutch complaint; founded 1963 |
 | Oct 1 | Q-tips original name | "Baby Gays," 1923, Leo Gerstenzang; Q = quality |
@@ -1283,6 +1318,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 2 | Ice Ice Baby | Vanilla Ice | 1990 |
+| Oct 2 | Achy Breaky Heart | Billy Ray Cyrus | 1992 |
+| Oct 2 | Man on the Moon | R.E.M. | 1992 |
+| Oct 2 | Livin' la Vida Loca | Ricky Martin | 1999 |
+| Oct 2 | Before He Cheats | Carrie Underwood | 2006 |
+| Oct 2 | Boom Boom Pow | Black Eyed Peas | 2009 |
 | Oct 1 | Gonna Make You Sweat (Everybody Dance Now) | C+C Music Factory | 1990 |
 | Oct 1 | Whoomp! (There It Is) | Tag Team | 1993 |
 | Oct 1 | Return of the Mack | Mark Morrison | 1996 |
@@ -1674,71 +1715,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
 
 
-
-## July 9, 2026 (v39)
-
-### Capitals
-| Jul 9 | France | Paris |
-| Jul 9 | Italy | Rome |
-| Jul 9 | Germany | Berlin |
-| Jul 9 | India | New Delhi |
-
-### Classic TV
-| Jul 9 | Cheyenne (1955–63) | Cheyenne Bodie | Clint Walker |
-| Jul 9 | Bat Masterson (1958–61) | Bat Masterson | Gene Barry |
-| Jul 9 | The Real McCoys (1957–63) | Grandpa Amos McCoy | Walter Brennan |
-| Jul 9 | The Time Tunnel (1966–67) | Dr. Tony Newman | James Darren |
-| Jul 9 | Peter Gunn (1958–61) | Peter Gunn | Craig Stevens |
-| Jul 9 | The Ghost & Mrs. Muir (1968–70) | Carolyn Muir | Hope Lange |
-
-### Arts & Literature
-| Jul 9 | "Ozymandias" sonnet poet | Percy Bysshe Shelley |
-| Jul 9 | "The Rime of the Ancient Mariner" poet | Samuel Taylor Coleridge |
-| Jul 9 | The Carnival of the Animals composer | Camille Saint-Saëns |
-| Jul 9 | The Third of May 1808 painter | Francisco Goya |
-| Jul 9 | Twenty Thousand Leagues Under the Sea author | Jules Verne |
-| Jul 9 | Mrs. Dalloway / To the Lighthouse author | Virginia Woolf |
-
-### Founded & Invented
-| Jul 9 | Barbed wire patent (1874) | Joseph Glidden |
-| Jul 9 | First practical helicopter (1939) | Igor Sikorsky |
-| Jul 9 | First powered vacuum cleaner (1901) | Hubert Cecil Booth |
-| Jul 9 | Revolver patent (1836) | Samuel Colt |
-| Jul 9 | 7UP first sold | 1929 (Charles Leiper Grigg) |
-| Jul 9 | Parking meter (1935) | Carl Magee |
-
-### General Trivia
-| Jul 9 | Language | "Q" is the only letter not in any US state name |
-| Jul 9 | Botany | Broccoli, cauliflower, kale, cabbage all same species (Brassica oleracea) |
-| Jul 9 | Food | "Hawaiian" pizza was invented in Canada (Sam Panopoulos, 1962) |
-| Jul 9 | Animals | Bactrian camels have 2 humps; dromedaries 1 (B vs D on their sides) |
-| Jul 9 | Body | Teeth are the only body part that can't repair/heal themselves |
-| Jul 9 | Body | The groove between nose and upper lip is the "philtrum" |
-| Jul 9 | Did You Know | More plastic pink flamingos in the US than real ones in the wild |
-| Jul 9 | Space | Buzz Aldrin took Communion on the Moon — first food/drink consumed there |
-| Jul 9 | Animals | Pigeons can be trained to tell a Monet from a Picasso |
-| Jul 9 | Language | In Italian the "@" symbol is "chiocciola" (snail) |
-
-### Songs
-| Jul 9 | Loser | Beck | 1994 |
-| Jul 9 | All the Small Things | blink-182 | 1999 |
-| Jul 9 | One Week | Barenaked Ladies | 1998 |
-| Jul 9 | Steal My Sunshine | Len | 1999 |
-| Jul 9 | Flagpole Sitta | Harvey Danger | 1997 |
-| Jul 9 | Learn to Fly | Foo Fighters | 1999 |
-
-### This Day in History
-| Jul 9 | July 9 (Braddock routed at Battle of the Monongahela 1755; "Rock Around the Clock" first rock #1 on Billboard 1955; Warhol's Campbell's Soup Cans debut at Ferus Gallery 1962) | - |
-| Jul 9 | National Days: Argentina Independence Day; National Sugar Cookie Day; Nunavut Day (Canada); Fashion Day | - |
-
-### Sports / Current Events
-| Jul 9 | Reds | 42-49, 5th NL Central 15.5 GB (Brewers 58-34); last 5 L-L-W-L-W (streak W1, 3-7 L10); beat Phillies 11-5 Jul 8; GAME TONIGHT vs Phillies series finale 7:10 PM ET |
-| Jul 9 | Box Office | Minions & Monsters #1 franchise-low $36.4M 3-day/$61.4M 5-day; Toy Story 5 past $366M; opening Jul 10-12: Moana (live-action), Evil Dead Burn, The Invite (A24) |
-| Jul 9 | Sports | World Cup QFs: France-Morocco (Foxborough) & Spain-Belgium (Inglewood) Jul 9-10; final 8 = France, Morocco, Spain, Belgium, Norway, England, Argentina, Switzerland. Wimbledon women's semis today (Gauff v Muchova; Kostyuk v Nosková), men's semis Fri (Sinner-Djokovic, Zverev). MLB ASG Philly Jul 14/Derby Jul 13 Netflix, Brewers 58-34 best NL. NBA: Donovan Mitchell 4yr/$273M ext Cavs, Middleton to Wizards. NHL: Hischier 5yr/$11.7M AAV Devils, Byram to Blackhawks 6yr/$12.5M |
-| Jul 9 | Deaths | Gordon S. Wood (92, Pulitzer historian, struck by car, Jul 7); Robbie Francevic (84, NZ racing champ, Jul 6); Slaine Kelly (43, Irish actress, cancer, Jul 5); Lauren Bennett (36, "Party Rock Anthem" vocalist, Jul 6) |
-| Jul 9 | Current Events | US-Iran ceasefire in doubt after fresh strikes (Iran fires toward Bahrain/Kuwait/Qatar); Trump-Zelensky at NATO Turkey summit, US to license Ukraine Patriot production; Russia missile/drone barrage kills 22+ Ukraine; Marine Le Pen to run for French presidency despite monitor; Venezuela quake toll past 3,300 |
-
----
 
 ## August 5, 2026 (v40)
 
@@ -2738,4 +2714,18 @@ MLB WC Game 2s (MLB Stats API): Phillies 4-3 Braves in 10 (Bohm HR; Schwarber/Ha
 ### Notes
 Thursday run (daily cadence). Cloud git push refused by the proxy again; clone/commit/push ran from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API. Oct 1 not previously used for This Day in History. Pruned table rows dated Jul 8 and the July 8 section (12-week window). Pruned thursday-trivia-2026-09-22.html per the 7-file archive window.
 
-_Last updated: October 1, 2026_
+## October 2, 2026 (v78)
+
+### NFL
+Los Angeles Rams 428.7 yds/g (1,286 total, 3 GP), No. 1; top 5 Rams / Chiefs 424.0 / Bears 420.3 / Bills 417.0 / Ravens 415.7. Bengals 339.0 yds/g (15th) and 1,017 total (16th) after Pittsburgh's 4th game moved past them; 232.0 pass (13th), 91.3 rush (28th); 2-1. TNF: Browns 27, Steelers 24 — Browns 3-1 alone atop AFC North. Steelers lead raw total yards (1,378, 4 GP) but are 14th per game (344.5) — used as bar-bet. Next: Sun Oct 4 vs Jacksonville 1:00 p.m. ET, Paycor, CBS. ESPN team-stats endpoint, splitId '0'; ranks array matched.
+
+### Box Office
+Weekend Sept 25-27 still latest: Avengers: Endgame encore $26.1M; Resident Evil $23.0M; Heart of the Beast $20.0M; Primetime $19.2M; Forgotten Island $13.0M. Fun fact used: 3h 1m, longest MCU film. Opening Oct 2-4: Verity ($40M budget, ~$30M+ tracking, would be Hathaway's third No. 1 opening of 2026), Digger ($125M budget, VistaVision, working title "Judy", $12-15M projections), Your Mother Your Mother Your Mother, Beware Boiuna. No Thursday preview figures were published yet at run time.
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): Braves 6-2 Phillies in WC Game 3 (Grant Holmes W), ATL wins 2-1. DS Sat Oct 3: CWS at CLE 1:00 TBS, ATL at LAD 4:00 FOX, NYY at TB 6:30 TBS, SD at MIL 8:30 FS1. NHL Oct 1 (ESPN): Blue Jackets 6-3 Sabres (home opener), Oilers 9-7 Canucks, Rangers 5-1 Lightning, Utah 6-0 Chicago, Sharks 4-3 OT Panthers, Devils 3-2 OT Flyers. WNBA: Aces 94-83 Fever G3. NCAA Sat: OSU at Iowa, Alabama at Miss State, UNC at Notre Dame, Miami at Clemson, Vanderbilt at Georgia, Cincinnati at Arizona 11 pm ET FOX. FC Cincinnati lost 3-1 at Montreal Sept 26 (8-9-9). Beijing: Zverev d. Norrie, de Minaur d. Navone, Mensik d. Bublik. Deaths (Wikipedia Deaths in 2026 wikitext): Tay Baker 99 (Sept 29, UC/Xavier coach), Esther Rantzen 86 (Sept 30), Mary Louise Weller 80 (Oct 1), Peppino Mazzullo 100 (Sept 30, Topo Gigio voice), Conrad "Cronos" Lant 63 (Sept 29, Venom), Kathy Cornelius 93 (Sept 28); also Brooke Eby, Pat Saiki, Biljana Plavsic, Frank Busch. Current events: Christa Pike botched execution Sept 30, Gov. Lee canceled remaining 2026 TN executions; Netanyahu says flydubai Omani co-pilot radicalized, suspect moved to UAE; oil ~$102, 10-yr 5.24%, Hang Seng -2.6%; Kim Yo Jong border fortification; Iraq withdrawal and stopgap to Dec 11; SCOTUS term opens Oct 5.
+
+### Notes
+Friday run (daily cadence). Oct 2 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (run from the device shell — the cloud container got 403 from itunes.apple.com). All capitals, TV shows/actors, Arts, Founded, General and Music picks were checked against the full log before drafting and were fresh on first pass. New local Founded entry: Kenner Products / Easy-Bake Oven. Pruned table rows dated Jul 9 and the July 9 section (12-week window). Pruned thursday-trivia-2026-09-23.html per the 7-file archive window.
+
+_Last updated: October 2, 2026_
