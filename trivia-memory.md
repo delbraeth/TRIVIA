@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 5 | Tonga | Nukuʻalofa (last Polynesian kingdom, never formally colonized; Cook's "Friendly Islands") |
+| Oct 5 | Brazil | Brasília (built from scratch, capital since 1960; Lúcio Costa airplane-shaped plan, Oscar Niemeyer buildings) |
+| Oct 5 | Burundi | Gitega (political capital since 2019; Bujumbura remains largest city/economic center) |
+| Oct 5 | Saint Lucia | Castries (only country named after a woman; Nobel laureates Arthur Lewis 1979 & Derek Walcott 1992, both born Jan 23) |
 | Oct 2 | Australia | Canberra (compromise between Sydney and Melbourne; Chicago architects Walter Burley Griffin & Marion Mahony Griffin won 1912 design; Parliament moved 1927) |
 | Oct 2 | Mauritania | Nouakchott (fishing village built up at 1960 independence; Richat Structure "Eye of the Sahara") |
 | Oct 2 | Barbados | Bridgetown (Rihanna named National Hero when Barbados became a republic in 2021; George Washington's only foreign trip, 1751, caught smallpox) |
@@ -165,6 +169,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 5 | Gomer Pyle, U.S.M.C. (1964–69) | Pvt. Gomer Pyle | Jim Nabors |
+| Oct 5 | My Favorite Martian (1963–66) | Uncle Martin | Ray Walston |
+| Oct 5 | The Paper Chase (1978–86) | Prof. Charles W. Kingsfield | John Houseman |
+| Oct 5 | Mama's Family (1983–90) | Thelma "Mama" Harper | Vicki Lawrence |
+| Oct 5 | Max Headroom (1987–88) | Max Headroom | Matt Frewer |
+| Oct 5 | Hercules: The Legendary Journeys (1995–99) | Hercules | Kevin Sorbo |
 | Oct 2 | Family Affair (1966–71) | Mr. French (butler) | Sebastian Cabot |
 | Oct 2 | Wanted: Dead or Alive (1958–61) | Josh Randall | Steve McQueen |
 | Oct 2 | McCloud (1970–77) | Marshal Sam McCloud | Dennis Weaver |
@@ -376,6 +386,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 5 | Philosopher born Oct 5, 1713; edited the Encyclopédie | Denis Diderot ("Diderot effect" — the dressing gown essay) |
+| Oct 5 | Spy novelist who wrote Chitty-Chitty-Bang-Bang (1964) | Ian Fleming (Dr. No premiered Oct 5, 1962) |
+| Oct 5 | Hazel, Fiver and Bigwig — 1972 rabbit novel | Watership Down — Richard Adams |
+| Oct 5 | Painter of The Blue Boy (c. 1770) | Thomas Gainsborough (Huntington paid $728,000 in 1921; 2022 loan back to National Gallery) |
+| Oct 5 | "Listen, my children, and you shall hear…" | Paul Revere's Ride — Henry Wadsworth Longfellow (1860) |
+| Oct 5 | Composer of "The Stars and Stripes Forever" (National March) | John Philip Sousa (Marine Band leader 1880–92; sousaphone) |
 | Oct 2 | Novelist born Oct 2, 1904; Brighton Rock, The Third Man screenplay | Graham Greene (never won the Nobel) |
 | Oct 2 | Fictional detective with a front-page NYT obituary (1975) | Hercule Poirot — Agatha Christie (Curtain) |
 | Oct 2 | 1966 "nonfiction novel" about the Holcomb, Kansas murders | In Cold Blood — Truman Capote (Harper Lee helped research) |
@@ -586,6 +602,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 5 | Tech | Python programming language named after Monty Python, not the snake (Guido van Rossum) |
+| Oct 5 | Geography | Challenger Deep ~36,000 ft — Everest would be more than a mile underwater |
+| Oct 5 | Geography | Monaco (~0.8 sq mi) is smaller than Central Park (1.3 sq mi) |
+| Oct 5 | Geography | Kilimanjaro (19,341 ft) is the tallest free-standing mountain |
+| Oct 5 | History | Einstein offered the presidency of Israel in 1952, declined |
+| Oct 5 | Food | Peach Melba (and Melba toast) — Escoffier at the Savoy for soprano Nellie Melba |
+| Oct 5 | Food | Granny Smith apple — Maria Ann Smith, near Sydney, ~1868 |
+| Oct 5 | History | Rhode Island first to renounce British allegiance (May 4, 1776), last of 13 to ratify the Constitution (May 29, 1790) |
+| Oct 5 | Local (Cincinnati) | Freezer Bowl — Bengals 27, Chargers 7, Jan 1982 AFC title game; −9°F, −59°F wind chill |
+| Oct 5 | Animals | Three-second goldfish memory is a myth — they remember tasks for months |
 | Oct 2 | Cars | First speeding ticket — Walter Arnold, Kent, 1896, 8 mph in a 2 mph zone |
 | Oct 2 | Candy | Smarties are Nestlé chocolate in Canada/UK; US Smarties sold as "Rockets" in Canada |
 | Oct 2 | Candy | M&M = Mars & Murrie (1941), first big customer the US military |
@@ -1024,6 +1050,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 5 | October 5 (Dr. No premieres in London and Beatles release "Love Me Do" 1962 — 64th anniv; Monty Python's Flying Circus premieres on BBC 1969; Chief Joseph surrenders at Bear Paw, "I will fight no more forever" 1877; also Barry Bonds 71st/72nd HR 2001, Truman first televised White House address 1947, Steve Jobs dies 2011) |
 | Oct 2 | October 2 (Peanuts debuts in seven newspapers 1950 — 76th anniv, Schulz wanted "Li'l Folks"; Thurgood Marshall sworn in as first Black Supreme Court justice 1967; HMS Beagle returns Darwin to Falmouth 1836 — 190th anniv. Also noted: Gandhi born 1869; Alfred Hitchcock Presents 1955; The Twilight Zone premiere 1959; Woodrow Wilson stroke 1919) |
 | Oct 1 | October 1 (Walt Disney World opens 1971 — 55th anniv, $3.50 adult admission, ~27,000 acres via dummy companies; Roger Maris 61st HR off Tracy Stallard 1961, 23,154 fans, Frick "separate record"; Ford Model T introduced 1908 at $850. Also noted: Ruth called shot 1932, Jimmy Carter born 1924, Carson's first Tonight Show 1962, EPCOT 1982, Nigeria & Cyprus independence 1960) |
 | Sep 30 | September 30 (James Dean killed near Cholame CA 1955 — 71st anniv, first posthumous acting Oscar nominee; Babe Ruth's 60th HR off Tom Zachary 1927; The Flintstones premiere on ABC 1960, first prime-time animated series, Winston sponsor; also Magic Flute premiere 1791, Morton ether 1846, Hoover Dam dedicated 1935, James Meredith/Ole Miss 1962, Clemente 3,000th hit 1972, Cheers premiere 1982) |
@@ -1066,6 +1093,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 5 | National Do Something Nice Day; National Apple Betty Day; National Get Funky Day; National Rhode Island Day; National Child Health Day (first Monday in October); National Consignment Day (first Monday in October); World Teachers' Day |
 | Oct 2 | National Smarties Day; National Name Your Car Day; National Manufacturing Day (first Friday in October); National Body Language Day; National Custodial Worker's Recognition Day; National Fried Scallops Day; National Produce Misting Day; International Day of Non-Violence; World No Alcohol Day |
 | Oct 1 | National Pumpkin Spice Day; National Homemade Cookies Day; National Black Dog Day; National "JIFFY" Mix Day; National Fire Pup Day; National Hair Day; National Green City Day; International Coffee Day; World Vegetarian Day |
 | Sep 30 | National Chewing Gum Day; National Hot Mulled Cider Day; National Love People Day; Orange Shirt Day; National Women's Health & Fitness Day; National Mud Pack Day |
@@ -1116,6 +1144,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 5 | Oreo (1912) | Nabisco, Chelsea, Manhattan (now Chelsea Market); rival Hydrox came first in 1908 |
+| Oct 5 | Kleenex original use (1924) | Makeup/cold-cream remover; cellucotton from WWI bandages and gas-mask filters |
+| Oct 5 | Mr. Coffee (1972) (Local/Ohio) | Cleveland — Vincent Marotta & Samuel Glazer; Joe DiMaggio pitchman |
+| Oct 5 | Ranch dressing namesake | Hidden Valley Ranch, near Santa Barbara — Steve & Gayle Henson; sold to Clorox 1972 for $8M |
+| Oct 5 | Crock-Pot (renamed by Rival 1971) | Irving Naxon's Naxon Beanery, inspired by grandmother's cholent |
+| Oct 5 | First YouTube video (Apr 23, 2005) | "Me at the zoo" — Jawed Karim, San Diego Zoo; Google bought YouTube 2006 for $1.65B |
 | Oct 2 | Smarties candy origin | Ce De Candy, Edward Dee, 1949, New Jersey; repurposed gunpowder-pellet presses |
 | Oct 2 | Nokia original business | Paper/pulp mill, 1865, Fredrik Idestam, Finland |
 | Oct 2 | First Dairy Queen | Joliet, Illinois, 1940, Sherb Noble; Blizzard 1985 |
@@ -1318,6 +1352,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 5 | U Can't Touch This | MC Hammer | 1990 |
+| Oct 5 | Baby Got Back | Sir Mix-a-Lot | 1992 |
+| Oct 5 | What Is Love | Haddaway | 1993 |
+| Oct 5 | Macarena (Bayside Boys Mix) | Los del Río | 1996 |
+| Oct 5 | SexyBack | Justin Timberlake ft. Timbaland | 2006 |
+| Oct 5 | Low | Flo Rida ft. T-Pain | 2007 |
 | Oct 2 | Ice Ice Baby | Vanilla Ice | 1990 |
 | Oct 2 | Achy Breaky Heart | Billy Ray Cyrus | 1992 |
 | Oct 2 | Man on the Moon | R.E.M. | 1992 |
@@ -2728,4 +2768,18 @@ MLB (MLB Stats API): Braves 6-2 Phillies in WC Game 3 (Grant Holmes W), ATL wins
 ### Notes
 Friday run (daily cadence). Oct 2 not previously used for This Day in History. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (run from the device shell — the cloud container got 403 from itunes.apple.com). All capitals, TV shows/actors, Arts, Founded, General and Music picks were checked against the full log before drafting and were fresh on first pass. New local Founded entry: Kenner Products / Easy-Bake Oven. Pruned table rows dated Jul 9 and the July 9 section (12-week window). Pruned thursday-trivia-2026-09-23.html per the 7-file archive window.
 
-_Last updated: October 2, 2026_
+## October 5, 2026 (v79)
+
+### NFL
+Chicago Bears 440.3 yds/g (1,761 total, 4 GP), No. 1; top 5 Bears / Rams 427.3 / Panthers 421.5 and Chiefs 421.5 (tied, 1,686 each) / Ravens 411.0. Saints 407.0 (3 GP) play MNF vs ATL. Bengals 367.0 yds/g (10th), 1,468 total (9th); 277.5 pass (5th), 74.3 rush (31st); 2-2 after losing 22-17 to Jacksonville (Burrow 428 yds, 2 INT; Higgins 11-157). Next: Sun Oct 11 at Miami 1:00 p.m. ET, FOX. ESPN team-stats endpoint, splitId '0'; ranks array matched.
+
+### Box Office
+Weekend Oct 2-4: #1 Verity $32.6M ($40M budget, 37% RT, C+ CinemaScore); Resident Evil $12.5M; Heart of the Beast $11.0M; Primetime $8.0M; Digger $8.0M (Cruise's lowest wide opening since Lions for Lambs). Fun fact used: Hoover self-published Verity in 2018. Coming Oct 9-11: Other Mommy, The Social Reckoning, Treasure Trekkers, Fjord.
+
+### Sports / Deaths / Current Events
+MLB DS (MLB Stats API): CWS 3-0 CLE G1, TB 1-0 NYY G1, LAD 5-3 then ATL 3-2 (1-1), MIL leads SD 2-0. NFL Week 4 incl. Colts 30-13 WSH in London, Panthers 32-26 Lions SNF. NCAA: Missouri 45-17 Florida; AP top 5 Texas, Georgia, Notre Dame, Miami, Ohio State; Cincinnati lost 34-7 at Arizona. NHL: Utah 4-1 CBJ. WNBA: Valkyries beat Wings G3 and Aces G1. Golf: Austin Smotherman won Bank of Utah. Deaths: Lyle Odelein 58 (first Blue Jackets captain), Marjoe Gortner 82, Reggie McFadden 57, Milton Windler 94, Jeff Van Note 80, Duke Carlisle 84, Sass Jordan 63, J. Todd Anderson 67, Cheikh Hamidou Kane 98. Current events: Nobel Medicine to Deisseroth/Nagel/Hegemann (optogenetics); SCOTUS term opens with Boulder v. Suncor; September jobs +29,000, unemployment 4.2%; USAF pulled B-1s from UK base after suspected terror plot; Hurricane Rachel off Mexico.
+
+### Notes
+Monday run (daily cadence). Oct 5 not previously used for This Day in History. Cloud git push refused by the proxy again; commits pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (worked from the cloud container this run). No table rows older than 12 weeks remained to prune. Pruned thursday-trivia-2026-09-24.html per the 7-file archive window.
+
+_Last updated: October 5, 2026_
