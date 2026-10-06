@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 6 | Egypt | Cairo (6th of October City named for the 1973 Suez crossing; new administrative capital being built east of Cairo) |
+| Oct 6 | Pakistan | Islamabad (purpose-built 1960s, Doxiadis master plan; replaced Karachi; twin city Rawalpindi) |
+| Oct 6 | Seychelles | Victoria (on Mahé; one of the smallest capitals; Africa's least-populated country) |
+| Oct 6 | Dominica | Roseau (not the Dominican Republic; Boiling Lake; Pirates of the Caribbean 2 & 3 filmed there) |
 | Oct 5 | Tonga | Nukuʻalofa (last Polynesian kingdom, never formally colonized; Cook's "Friendly Islands") |
 | Oct 5 | Brazil | Brasília (built from scratch, capital since 1960; Lúcio Costa airplane-shaped plan, Oscar Niemeyer buildings) |
 | Oct 5 | Burundi | Gitega (political capital since 2019; Bujumbura remains largest city/economic center) |
@@ -169,6 +173,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 6 | The Patty Duke Show (1963–66) | Patty & Cathy Lane | Patty Duke (Oscar at 16 for The Miracle Worker) |
+| Oct 6 | Happy Days (1974–84) | Arthur "The Fonz" Fonzarelli | Henry Winkler ("jumped the shark" 1977; first Emmy 2018 for Barry) |
+| Oct 6 | The Fresh Prince of Bel-Air (1990–96) | Philip "Uncle Phil" Banks | James Avery (voiced Shredder in 1987 TMNT) |
+| Oct 6 | Beverly Hills, 90210 (1990–2000) | Dylan McKay | Luke Perry |
+| Oct 6 | Battlestar Galactica (1978–79) | Lt. Starbuck | Dirk Benedict (later Face on The A-Team; Cylon cameo in-joke) |
+| Oct 6 | ALF (1986–90) | ALF (Gordon Shumway) | Paul Fusco (co-creator, puppeteer and voice) |
 | Oct 5 | Gomer Pyle, U.S.M.C. (1964–69) | Pvt. Gomer Pyle | Jim Nabors |
 | Oct 5 | My Favorite Martian (1963–66) | Uncle Martin | Ray Walston |
 | Oct 5 | The Paper Chase (1978–86) | Prof. Charles W. Kingsfield | John Houseman |
@@ -386,6 +396,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 6 | Architect born Oct 6, 1887; "a house is a machine for living in" | Le Corbusier (Charles-Édouard Jeanneret; Villa Savoye; Swiss 10-franc note) |
+| Oct 6 | Kane and Abel (1979) author, died Oct 5 at 86 | Jeffrey Archer |
+| Oct 6 | Washington Crossing the Delaware (1851) painter | Emanuel Leutze (painted in Düsseldorf; anachronistic flag) |
+| Oct 6 | The Carnival of the Animals composer | Camille Saint-Saëns (only "The Swan" published in his lifetime) |
+| Oct 6 | The Little Prince (1943) author-illustrator | Antoine de Saint-Exupéry (first published in New York; vanished 1944) |
+| Oct 6 | "Mr. and Mrs. Dursley, of number four, Privet Drive..." opener | Harry Potter and the Philosopher's Stone — J.K. Rowling (Bloomsbury 1997) |
 | Oct 5 | Philosopher born Oct 5, 1713; edited the Encyclopédie | Denis Diderot ("Diderot effect" — the dressing gown essay) |
 | Oct 5 | Spy novelist who wrote Chitty-Chitty-Bang-Bang (1964) | Ian Fleming (Dr. No premiered Oct 5, 1962) |
 | Oct 5 | Hazel, Fiver and Bigwig — 1972 rabbit novel | Watership Down — Richard Adams |
@@ -602,6 +618,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 6 | Books | Mad Hatter Day is 10/6 from Tenniel's hat tag "In this Style 10/6" (10s 6d) |
+| Oct 6 | Science | ~100 trillion neutrinos pass through your body every second |
+| Oct 6 | Food | Tacos al pastor descend from Lebanese shawarma (Puebla) |
+| Oct 6 | Food | Marco Polo did not bring pasta to Italy (1279 Genoese will mentions macaroni) |
+| Oct 6 | Geography | Australia (~4,000 km) is wider than the Moon (3,474 km) |
+| Oct 6 | Animals | Cats can't taste sweetness (nonfunctional sweet-receptor gene) |
+| Oct 6 | Body | You can't hum with your nose pinched shut |
+| Oct 6 | Language | "OK" from "oll korrect," Boston Morning Post 1839 |
+| Oct 6 | History | David Rice Atchison "president for one day" (Mar 4, 1849) myth |
+| Oct 6 | Local (Cincinnati) | Bengals tiger-striped helmets debuted 1981, first Super Bowl season |
 | Oct 5 | Tech | Python programming language named after Monty Python, not the snake (Guido van Rossum) |
 | Oct 5 | Geography | Challenger Deep ~36,000 ft — Everest would be more than a mile underwater |
 | Oct 5 | Geography | Monaco (~0.8 sq mi) is smaller than Central Park (1.3 sq mi) |
@@ -1050,6 +1076,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 6 | October 6 (The Jazz Singer premieres 1927 — Vitaphone, "You ain't heard nothin' yet!", Sam Warner died the day before; Reno Gang first US peacetime train robbery near Seymour IN 1866 — 160th anniv; Ford "no Soviet domination" debate gaffe 1976 — 50th anniv; also Yom Kippur War 1973, Sadat assassinated 1981, Krefeld families found Germantown 1683) |
 | Oct 5 | October 5 (Dr. No premieres in London and Beatles release "Love Me Do" 1962 — 64th anniv; Monty Python's Flying Circus premieres on BBC 1969; Chief Joseph surrenders at Bear Paw, "I will fight no more forever" 1877; also Barry Bonds 71st/72nd HR 2001, Truman first televised White House address 1947, Steve Jobs dies 2011) |
 | Oct 2 | October 2 (Peanuts debuts in seven newspapers 1950 — 76th anniv, Schulz wanted "Li'l Folks"; Thurgood Marshall sworn in as first Black Supreme Court justice 1967; HMS Beagle returns Darwin to Falmouth 1836 — 190th anniv. Also noted: Gandhi born 1869; Alfred Hitchcock Presents 1955; The Twilight Zone premiere 1959; Woodrow Wilson stroke 1919) |
 | Oct 1 | October 1 (Walt Disney World opens 1971 — 55th anniv, $3.50 adult admission, ~27,000 acres via dummy companies; Roger Maris 61st HR off Tracy Stallard 1961, 23,154 fans, Frick "separate record"; Ford Model T introduced 1908 at $850. Also noted: Ruth called shot 1932, Jimmy Carter born 1924, Carson's first Tonight Show 1962, EPCOT 1982, Nigeria & Cyprus independence 1960) |
@@ -1093,6 +1120,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 6 | National Taco Day (first Tuesday in October); National Noodle Day; National Mad Hatter Day; National German-American Day; National Coaches Day; National Orange Wine Day; National Fruit at Work Day; National Physician Assistants Day; National Plus Size Appreciation Day |
 | Oct 5 | National Do Something Nice Day; National Apple Betty Day; National Get Funky Day; National Rhode Island Day; National Child Health Day (first Monday in October); National Consignment Day (first Monday in October); World Teachers' Day |
 | Oct 2 | National Smarties Day; National Name Your Car Day; National Manufacturing Day (first Friday in October); National Body Language Day; National Custodial Worker's Recognition Day; National Fried Scallops Day; National Produce Misting Day; International Day of Non-Violence; World No Alcohol Day |
 | Oct 1 | National Pumpkin Spice Day; National Homemade Cookies Day; National Black Dog Day; National "JIFFY" Mix Day; National Fire Pup Day; National Hair Day; National Green City Day; International Coffee Day; World Vegetarian Day |
@@ -1144,6 +1172,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 6 | First coin-operated vending machine | Hero of Alexandria, 1st century AD — holy water dispenser |
+| Oct 6 | Vitaphone (The Jazz Singer sound system) | Sound-on-disc; Western Electric / Warner Bros., 1926–27 |
+| Oct 6 | Krispy Kreme | Vernon Rudolph, Winston-Salem NC, 1937; sold hot doughnuts through a hole in the wall |
+| Oct 6 | Weed Eater | George Ballas, Houston 1971; car-wash brushes; popcorn-can prototype |
+| Oct 6 | Hard taco shell frying form | Juvencio Maldonado, NYC restaurateur, patent granted 1950 |
+| Oct 6 | Jergens (Local) | Andrew Jergens Co., Cincinnati 1882 soap maker; Kao bought it 1988; Kao USA HQ still Cincinnati |
 | Oct 5 | Oreo (1912) | Nabisco, Chelsea, Manhattan (now Chelsea Market); rival Hydrox came first in 1908 |
 | Oct 5 | Kleenex original use (1924) | Makeup/cold-cream remover; cellucotton from WWI bandages and gas-mask filters |
 | Oct 5 | Mr. Coffee (1972) (Local/Ohio) | Cleveland — Vincent Marotta & Samuel Glazer; Joe DiMaggio pitchman |
@@ -1352,6 +1386,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 6 | Unbelievable | EMF | 1990 |
+| Oct 6 | Everybody (Backstreet's Back) | Backstreet Boys | 1997 |
+| Oct 6 | Gettin' Jiggy wit It | Will Smith | 1997 |
+| Oct 6 | Jump, Jive an' Wail | The Brian Setzer Orchestra | 1998 |
+| Oct 6 | Yellow | Coldplay | 2000 |
+| Oct 6 | Hey, Soul Sister | Train | 2009 |
 | Oct 5 | U Can't Touch This | MC Hammer | 1990 |
 | Oct 5 | Baby Got Back | Sir Mix-a-Lot | 1992 |
 | Oct 5 | What Is Love | Haddaway | 1993 |
@@ -2782,4 +2822,18 @@ MLB DS (MLB Stats API): CWS 3-0 CLE G1, TB 1-0 NYY G1, LAD 5-3 then ATL 3-2 (1-1
 ### Notes
 Monday run (daily cadence). Oct 5 not previously used for This Day in History. Cloud git push refused by the proxy again; commits pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (worked from the cloud container this run). No table rows older than 12 weeks remained to prune. Pruned thursday-trivia-2026-09-24.html per the 7-file archive window.
 
-_Last updated: October 5, 2026_
+## October 6, 2026 (v80)
+
+### NFL
+Chicago Bears 440.3 yds/g (1,761 total, 4 GP), No. 1; top 5 Bears / Rams 427.3 / Panthers 421.5 and Chiefs 421.5 (tied, 1,686 each) / Ravens 411.0. MNF: Falcons 45, Saints 24 — Falcons up to 10th (372.8), Saints down to 8th (389.3). All 32 teams at 4 GP. Bengals 367.0 yds/g and 1,468 total, 11th in both; 277.5 pass (5th), 74.3 rush (31st); 2-2. Next: Sun Oct 11 at Miami (31st, 282.0/g) 1:00 p.m. ET, FOX; bye Oct 18; at Baltimore Oct 25. ESPN team-stats endpoint, splitId '0'; ranks array matched.
+
+### Box Office
+Weekend Oct 2-4 still latest: #1 Verity $32.6M; Resident Evil $12.5M; Heart of the Beast $11.0M; Primetime $8.0M; Digger $8.0M. Fun fact used: Minecraft "Verity" meme / Hathaway promo clip; her third No. 1 opening of 2026 after The Odyssey and The Devil Wears Prada 2. Coming Oct 9-11 unchanged: Other Mommy, The Social Reckoning, Treasure Trekkers, Fjord.
+
+### Sports / Deaths / Current Events
+MLB DS (MLB Stats API): CWS 4-3 at CLE (CWS 2-0), TB 5-2 NYY (TB 2-0), MIL 2-0 SD, ATL-LAD 1-1; Tue: LAD at ATL 6:00 ET, MIL at SD 9:30 ET. NFL MNF Falcons 45-24 Saints. NCAA Sat: Texas vs Oklahoma 3:30 ABC, Georgia at Alabama 7:30 ABC, Maryland at Ohio State 4:15 BTN. Tennis: Medvedev DQ'd in Beijing SF vs Djokovic (ball into crowd); Djokovic 7th Beijing title, 102nd overall, de Minaur retired; Alcaraz defended Tokyo vs Lehecka. NHL Mon results; CBJ 1-1, host PIT Fri. WNBA SF: GS 1-0 LV, ATL 1-0 NY. Golf: Baycurrent Classic, Yokohama, Oct 8-11. Deaths (Wikipedia Deaths in 2026 wikitext): Jeffrey Archer 86, Jim Bakker 86, Sam McDowell 84, Freddie Jackson 70, George Fenton 76, Fred Claire 91 (all Oct 5); Dennis Hastert 84 and Robert Kelker-Kelly 62 (Oct 3); Dennis Franchione 75 (Oct 6). Current events: Nobel Physics to Francis Halzen (UW-Madison, IceCube) alone; Brazil runoff Oct 25 (Flavio Bolsonaro 47.03% vs Lula 45.16%); Sanchez snap election Nov 29; Ukraine claims 51% of Russian refining disabled; Saudi-backed forces retake Mocha; Pakistan-Saudi-Turkiye pact activated.
+
+### Notes
+Tuesday run (daily cadence). Oct 6 not previously used for This Day in History. Cloud git push refused by the proxy again; commits pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (cloud, intermittent 403s; Alanis Morissette and Green Day originals not returned by search, songs swapped). No table rows older than 12 weeks remained to prune. Pruned thursday-trivia-2026-09-25.html per the 7-file archive window.
+
+_Last updated: October 6, 2026_
