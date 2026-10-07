@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 7 | Andorra | Andorra la Vella (highest capital in Europe ~1,023 m; co-princes are the French president and the Bishop of Urgell) |
+| Oct 7 | Solomon Islands | Honiara (on Guadalcanal, 1942–43 WWII campaign; JFK's PT-109 sunk in the Solomons 1943) |
+| Oct 7 | Grenada | St. George's ("Isle of Spice", nutmeg on the flag; US invasion October 1983) |
+| Oct 7 | Niger | Niamey (on the Niger River; largest country in West Africa by area; not Nigeria) |
 | Oct 6 | Egypt | Cairo (6th of October City named for the 1973 Suez crossing; new administrative capital being built east of Cairo) |
 | Oct 6 | Pakistan | Islamabad (purpose-built 1960s, Doxiadis master plan; replaced Karachi; twin city Rawalpindi) |
 | Oct 6 | Seychelles | Victoria (on Mahé; one of the smallest capitals; Africa's least-populated country) |
@@ -173,6 +177,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 7 | Wagon Train (1957–65) | Maj. Seth Adams | Ward Bond (died 1960 mid-run, John McIntire took over; "Wagon Train to the stars" Star Trek pitch) |
+| Oct 7 | The Dukes of Hazzard (1979–85) | Boss Hogg | Sorrell Booke (Yale-trained stage actor) |
+| Oct 7 | Punky Brewster (1984–88) | Punky Brewster | Soleil Moon Frye (dog Brandon) |
+| Oct 7 | Beauty and the Beast (1987–90) | Vincent | Ron Perlman (opposite Linda Hamilton; later Hellboy) |
+| Oct 7 | Due South (1994–99) | Constable Benton Fraser | Paul Gross (deaf half-wolf Diefenbaker) |
+| Oct 7 | Days of Our Lives (deeper cut) | Bo Brady (1992–95 recast) | Robert Kelker-Kelly (died Oct 3, 2026; replaced Peter Reckell) |
 | Oct 6 | The Patty Duke Show (1963–66) | Patty & Cathy Lane | Patty Duke (Oscar at 16 for The Miracle Worker) |
 | Oct 6 | Happy Days (1974–84) | Arthur "The Fonz" Fonzarelli | Henry Winkler ("jumped the shark" 1977; first Emmy 2018 for Barry) |
 | Oct 6 | The Fresh Prince of Bel-Air (1990–96) | Philip "Uncle Phil" Banks | James Avery (voiced Shredder in 1987 TMNT) |
@@ -396,6 +406,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 7 | "Hoosier Poet" born Oct 7, 1849; "Little Orphant Annie" | James Whitcomb Riley (Raggedy Ann name from his poems via Johnny Gruelle) |
+| Oct 7 | Eva Marie Saint's Oscar-winning first film (1954, Kazan) | On the Waterfront ("I coulda been a contender"; 8 Oscars) |
+| Oct 7 | Instrument of Yo-Yo Ma, born Oct 7, 1955 in Paris | Cello |
+| Oct 7 | Latvian-born color-field painter with a Houston chapel | Mark Rothko (Rothko Chapel 1971, 14 paintings) |
+| Oct 7 | Last American to win the Nobel in Literature | Louise Glück (2020); Bob Dylan 2016 |
+| Oct 7 | "The sky above the port was the color of television, tuned to a dead channel." | Neuromancer (1984) — William Gibson; "cyberspace" |
 | Oct 6 | Architect born Oct 6, 1887; "a house is a machine for living in" | Le Corbusier (Charles-Édouard Jeanneret; Villa Savoye; Swiss 10-franc note) |
 | Oct 6 | Kane and Abel (1979) author, died Oct 5 at 86 | Jeffrey Archer |
 | Oct 6 | Washington Crossing the Delaware (1851) painter | Emanuel Leutze (painted in Düsseldorf; anachronistic flag) |
@@ -618,6 +634,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 7 | Science | Spearmint vs caraway smell = mirror-image forms of carvone (chirality, tied to Nobel) |
+| Oct 7 | Medicine | Thalidomide mirror forms; body interconverts them |
+| Oct 7 | Science | Propane is odorless; ethyl mercaptan added for rotten-egg smell |
+| Oct 7 | Words | meth-/eth-/prop-/but- aren't number prefixes; Greek counting starts at pent- |
+| Oct 7 | Food | Starbucks bought the Frappuccino name with Boston's Coffee Connection, 1994 |
+| Oct 7 | Food | Pretzel twist said to resemble arms crossed in prayer (monk legend) |
+| Oct 7 | Tech | White LED bulbs are blue LEDs + yellow phosphor |
+| Oct 7 | Geography | Andorra has no airport and no train station |
+| Oct 7 | Animals | Starfish/sea stars have no blood and no brain; water vascular system |
+| Oct 7 | Nobel | Oldest Nobel laureate John Goodenough, 97 (Chemistry 2019); Kagan 95 in 2026 |
 | Oct 6 | Books | Mad Hatter Day is 10/6 from Tenniel's hat tag "In this Style 10/6" (10s 6d) |
 | Oct 6 | Science | ~100 trillion neutrinos pass through your body every second |
 | Oct 6 | Food | Tacos al pastor descend from Lebanese shawarma (Puebla) |
@@ -1076,6 +1102,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 7 | October 7 (Georgia Tech 222, Cumberland 0 in 1916 — 110th anniv, coach John Heisman; Luna 3 first far-side Moon photos 1959, Mare Moscoviense; Barry Bonds 73rd HR off Dennis Springer 2001 — 25th anniv; also Poe dies 1849, Cats opens on Broadway 1982, Achille Lauro hijacking 1985, US strikes in Afghanistan 2001, Hamas attack on Israel 2023) |
 | Oct 6 | October 6 (The Jazz Singer premieres 1927 — Vitaphone, "You ain't heard nothin' yet!", Sam Warner died the day before; Reno Gang first US peacetime train robbery near Seymour IN 1866 — 160th anniv; Ford "no Soviet domination" debate gaffe 1976 — 50th anniv; also Yom Kippur War 1973, Sadat assassinated 1981, Krefeld families found Germantown 1683) |
 | Oct 5 | October 5 (Dr. No premieres in London and Beatles release "Love Me Do" 1962 — 64th anniv; Monty Python's Flying Circus premieres on BBC 1969; Chief Joseph surrenders at Bear Paw, "I will fight no more forever" 1877; also Barry Bonds 71st/72nd HR 2001, Truman first televised White House address 1947, Steve Jobs dies 2011) |
 | Oct 2 | October 2 (Peanuts debuts in seven newspapers 1950 — 76th anniv, Schulz wanted "Li'l Folks"; Thurgood Marshall sworn in as first Black Supreme Court justice 1967; HMS Beagle returns Darwin to Falmouth 1836 — 190th anniv. Also noted: Gandhi born 1869; Alfred Hitchcock Presents 1955; The Twilight Zone premiere 1959; Woodrow Wilson stroke 1919) |
@@ -1120,6 +1147,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 7 | National Chocolate Covered Pretzel Day; National Frappe Day; National Pumpkin Seed Day; National LED Light Day; National Propane Day; Random Acts of Poetry Day; National Walk & Roll to School Day; National Coffee with a Cop Day |
 | Oct 6 | National Taco Day (first Tuesday in October); National Noodle Day; National Mad Hatter Day; National German-American Day; National Coaches Day; National Orange Wine Day; National Fruit at Work Day; National Physician Assistants Day; National Plus Size Appreciation Day |
 | Oct 5 | National Do Something Nice Day; National Apple Betty Day; National Get Funky Day; National Rhode Island Day; National Child Health Day (first Monday in October); National Consignment Day (first Monday in October); World Teachers' Day |
 | Oct 2 | National Smarties Day; National Name Your Car Day; National Manufacturing Day (first Friday in October); National Body Language Day; National Custodial Worker's Recognition Day; National Fried Scallops Day; National Produce Misting Day; International Day of Non-Violence; World No Alcohol Day |
@@ -1172,6 +1200,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 7 | Wurlitzer (Local) | Rudolph Wurlitzer, Cincinnati 1856; theater organs and jukeboxes later built in North Tonawanda NY |
+| Oct 7 | Ford moving assembly line | Highland Park plant, Oct 7, 1913; Model T chassis ~12.5 hrs to ~1.5 hrs |
+| Oct 7 | Greek frappé | Dimitris Vakondios (Nestlé), Thessaloniki International Fair 1957 |
+| Oct 7 | Propane identified | Walter Snelling, US Bureau of Mines, 1910; sold patent for $50,000 |
+| Oct 7 | Bright blue LED | Akasaki, Amano, Nakamura — Nobel Physics 2014 |
+| Oct 7 | First US commercial pretzel bakery | Julius Sturgis, Lititz PA, 1861 |
 | Oct 6 | First coin-operated vending machine | Hero of Alexandria, 1st century AD — holy water dispenser |
 | Oct 6 | Vitaphone (The Jazz Singer sound system) | Sound-on-disc; Western Electric / Warner Bros., 1926–27 |
 | Oct 6 | Krispy Kreme | Vernon Rudolph, Winston-Salem NC, 1937; sold hot doughnuts through a hole in the wall |
@@ -1386,6 +1420,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 7 | Rhythm Is a Dancer | Snap! | 1992 |
+| Oct 7 | The Sign | Ace of Base | 1993 |
+| Oct 7 | Lump | The Presidents of the United States of America | 1995 |
+| Oct 7 | Blue (Da Ba Dee) | Eiffel 65 | 1999 |
+| Oct 7 | Breathe | Faith Hill | 1999 |
+| Oct 7 | Complicated | Avril Lavigne | 2002 |
 | Oct 6 | Unbelievable | EMF | 1990 |
 | Oct 6 | Everybody (Backstreet's Back) | Backstreet Boys | 1997 |
 | Oct 6 | Gettin' Jiggy wit It | Will Smith | 1997 |
@@ -2836,4 +2876,18 @@ MLB DS (MLB Stats API): CWS 4-3 at CLE (CWS 2-0), TB 5-2 NYY (TB 2-0), MIL 2-0 S
 ### Notes
 Tuesday run (daily cadence). Oct 6 not previously used for This Day in History. Cloud git push refused by the proxy again; commits pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified; Apple Music IDs from the iTunes Search API (cloud, intermittent 403s; Alanis Morissette and Green Day originals not returned by search, songs swapped). No table rows older than 12 weeks remained to prune. Pruned thursday-trivia-2026-09-25.html per the 7-file archive window.
 
-_Last updated: October 6, 2026_
+## October 7, 2026 (v81)
+
+### NFL
+Chicago Bears 440.3 yds/g (1,761 total, 4 GP), No. 1; top 5 Bears / Rams 427.3 / Chiefs 421.5 and Panthers 421.5 (tied) / Ravens 411.0 — unchanged, no games since MNF. Bengals 367.0 yds/g and 1,468 total, 11th in both; 277.5 pass (5th), 74.3 rush (31st); 2-2. Next: Sun Oct 11 at Miami 1:00 p.m. ET, FOX; bye Oct 18; at Baltimore Oct 25; vs Atlanta in Madrid (Bernabéu) Nov 8 9:30 a.m. ET. ESPN team-stats endpoint, splitId '0'; ranks array matched. Bar-bet used: Bears 1st rushing (196.3) but 15th passing; Panthers 1st passing (301.3); Titans last (270.5).
+
+### Box Office
+Weekend Oct 2-4 still latest: #1 Verity $32.6M (~$64M worldwide, $40M budget); Resident Evil $12.5M; Heart of the Beast $11.0M; Primetime $8.0M; Digger $8.0M. Fun fact used: director Michael Showalter co-wrote Wet Hot American Summer and directed The Big Sick; score by Volker Bertelmann (Oscar, All Quiet on the Western Front). Coming Oct 9-11: The Social Reckoning (tracking $8-13M; Jeremy Strong as Zuckerberg), Other Mommy, Treasure Trekkers, Fjord.
+
+### Sports / Deaths / Current Events
+MLB DS (MLB Stats API): LAD 3-1 at ATL (Hernández, Freeman HR; Yamamoto W, Díaz S), LAD leads 2-1; SD 4-3 MIL, MIL leads 2-1; CWS 2-0 CLE, TB 2-0 NYY; Wed: CLE at CWS 4 ET, LAD at ATL 6, TB at NYY 8, MIL at SD 10. NHL Oct 6: Leafs 5-4 OT Predators (Gavin McKenna first NHL goal, Matthews OT winner), Rangers 5-2 Islanders (Lafrenière hat trick, Varlamov first game in 676 days). NBA preseason: Jaylen Brown 76ers debut 22 pts, LaMelo Ball Wolves debut, Cameron Boozer. WNBA SF G2 Wed (ATL, GS lead 1-0). Shanghai Masters Oct 7-18 (Zverev top seed). NCAA Sat Texas-Oklahoma, Georgia at Alabama; Bearcats 4-1 idle. Baycurrent Classic Oct 8-11. Deaths (Wikipedia Deaths in 2026 wikitext): Eva Marie Saint 102 (Oct 6; BGSU 1946), Mary Louise Weller 79, Robert Kelker-Kelly 62, Jeffrey Archer 86, Jim Bakker 86, Sam McDowell 84; also Freddie Jackson, George Fenton, Dennis Hastert, Dennis Franchione, Richard Morecroft. Current events: Nobel Chemistry to Henri Kagan (95) and Kenso Soai (asymmetric autocatalysis/non-linear effects); Literature Thu Oct 8, Peace Fri Oct 9; Quebec election Oct 5 — CAQ lost all 79 seats, PQ 7 to 59 (minority) under St-Pierre Plamondon; SCOTUS heard Suncor v. Boulder County; Kenya first Ebola case; NY measles disaster emergency; Ukraine 650+ drones at Moscow region.
+
+### Notes
+Wednesday run (daily cadence). Oct 7 not previously used for This Day in History. Cloud git push refused by the proxy again; commits pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified (artist confirmed on embed page); Apple Music IDs from the iTunes Search API (device shell; cloud got non-JSON responses). Lady Gaga "Poker Face" and Beyoncé "Single Ladies" originals not found cleanly, swapped for Faith Hill "Breathe". Capitals Montenegro and Nigeria found in older run sections and skipped. No table rows older than 12 weeks remained to prune. Pruned thursday-trivia-2026-09-28.html per the 7-file archive window.
+
+_Last updated: October 7, 2026_
