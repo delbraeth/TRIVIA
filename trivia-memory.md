@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 8 | Yemen | Sana'a (Houthi-held since 2014; recognized government works from Aden; mud-brick tower houses) |
+| Oct 8 | Equatorial Guinea | Malabo (on Bioko Island; only African country with Spanish official; new capital Ciudad de la Paz) |
+| Oct 8 | Saint Vincent and the Grenadines | Kingstown (not Kingston, Jamaica; Pirates of the Caribbean filmed there) |
+| Oct 8 | Gabon | Libreville ("Free Town"; settled 1849 by Africans freed from a captured slave ship) |
 | Oct 7 | Andorra | Andorra la Vella (highest capital in Europe ~1,023 m; co-princes are the French president and the Bishop of Urgell) |
 | Oct 7 | Solomon Islands | Honiara (on Guadalcanal, 1942–43 WWII campaign; JFK's PT-109 sunk in the Solomons 1943) |
 | Oct 7 | Grenada | St. George's ("Isle of Spice", nutmeg on the flag; US invasion October 1983) |
@@ -177,6 +181,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 8 | The Many Loves of Dobie Gillis (1959–63) | Maynard G. Krebs | Bob Denver (flinched at the word "work!"; later Gilligan) |
+| Oct 8 | Kate & Allie (1984–89) | Allie Lowell | Jane Curtin (original SNL cast; two Emmys; Susan Saint James as Kate) |
+| Oct 8 | L.A. Law (1986–94) | Arnie Becker | Corbin Bernsen (mother Jeanne Cooper of The Young and the Restless) |
+| Oct 8 | V (1983–85) | Diana | Jane Badler (live guinea pig scene) |
+| Oct 8 | One Life to Live | Viki Lord | Erika Slezak (record six Daytime Emmys for Lead Actress; alter ego Niki Smith) |
+| Oct 8 | Party of Five (1994–2000) | Charlie Salinger | Matthew Fox (later Jack on Lost; Jennifer Love Hewitt joined S2) |
 | Oct 7 | Wagon Train (1957–65) | Maj. Seth Adams | Ward Bond (died 1960 mid-run, John McIntire took over; "Wagon Train to the stars" Star Trek pitch) |
 | Oct 7 | The Dukes of Hazzard (1979–85) | Boss Hogg | Sorrell Booke (Yale-trained stage actor) |
 | Oct 7 | Punky Brewster (1984–88) | Punky Brewster | Soleil Moon Frye (dog Brandon) |
@@ -406,6 +416,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 8 | Autobiography of Red (1998) author; 2026 Nobel in Literature | Anne Carson (Sappho translator; first woman to win the T.S. Eliot Prize, 2001) |
+| Oct 8 | "There was a boy called Eustace Clarence Scrubb..." | The Voyage of the Dawn Treader — C.S. Lewis (1952) |
+| Oct 8 | "Thirteen Ways of Looking at a Blackbird" poet / Hartford insurance executive | Wallace Stevens (Pulitzer 1955) |
+| Oct 8 | Gymnopédies (1888) composer | Erik Satie (Vexations marked 840 repetitions; Cage 1963 ~18-hour performance) |
+| Oct 8 | Novel published 1980, 11 years after author's death; 1981 Pulitzer | A Confederacy of Dunces — John Kennedy Toole (Ignatius J. Reilly statue on Canal St.) |
+| Oct 8 | Ichabod Crane / Headless Horseman creator | Washington Irving (The Sketch Book, 1819–20) |
 | Oct 7 | "Hoosier Poet" born Oct 7, 1849; "Little Orphant Annie" | James Whitcomb Riley (Raggedy Ann name from his poems via Johnny Gruelle) |
 | Oct 7 | Eva Marie Saint's Oscar-winning first film (1954, Kazan) | On the Waterfront ("I coulda been a contender"; 8 Oscars) |
 | Oct 7 | Instrument of Yo-Yo Ma, born Oct 7, 1955 in Paris | Cello |
@@ -634,6 +650,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 8 | History | Mrs. O'Leary's cow story invented by reporter Michael Ahern (admitted 1893); Chicago council cleared the O'Learys 1997 |
+| Oct 8 | Words | "Hurricane" from Taíno hurakán (storm god) |
+| Oct 8 | Weather | Hurricanes/typhoons/cyclones are the same storm; counterclockwise in Northern Hemisphere |
+| Oct 8 | Weather | Atlantic name lists repeat every six years (2026 reuses 2020: Isaias); Laura retired, replaced by Leah |
+| Oct 8 | Nobel | Anne Carson is the 19th woman to win the Literature Nobel (123 laureates since 1901) |
+| Oct 8 | Nobel | All Nobels presented in Stockholm except Peace (Oslo) — Norway-Sweden union at Nobel's death |
+| Oct 8 | Food | First marshmallows came from the marsh-mallow plant root |
+| Oct 8 | Food | 2006 Massachusetts Fluff-in-schools fight led to a bill to make the Fluffernutter the state sandwich |
+| Oct 8 | Sports | Pittsburgh Pirates' pierogi race (since the 1990s) |
+| Oct 8 | Geography | Socotra (Yemen) dragon's blood trees; about a third of plants endemic |
 | Oct 7 | Science | Spearmint vs caraway smell = mirror-image forms of carvone (chirality, tied to Nobel) |
 | Oct 7 | Medicine | Thalidomide mirror forms; body interconverts them |
 | Oct 7 | Science | Propane is odorless; ethyl mercaptan added for rotten-egg smell |
@@ -1102,6 +1128,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 8 | October 8 (Great Chicago Fire begins 1871 — 155th anniv, O'Leary barn on DeKoven St., ~300 dead, ~100,000 homeless; Peshtigo Fire same night, 1,200–2,500 dead, deadliest US wildfire; Cpl. Alvin York captures 132 Germans in the Argonne 1918, Medal of Honor, Gary Cooper Oscar for Sergeant York; also Solzhenitsyn named Nobel Literature laureate 1970) |
 | Oct 7 | October 7 (Georgia Tech 222, Cumberland 0 in 1916 — 110th anniv, coach John Heisman; Luna 3 first far-side Moon photos 1959, Mare Moscoviense; Barry Bonds 73rd HR off Dennis Springer 2001 — 25th anniv; also Poe dies 1849, Cats opens on Broadway 1982, Achille Lauro hijacking 1985, US strikes in Afghanistan 2001, Hamas attack on Israel 2023) |
 | Oct 6 | October 6 (The Jazz Singer premieres 1927 — Vitaphone, "You ain't heard nothin' yet!", Sam Warner died the day before; Reno Gang first US peacetime train robbery near Seymour IN 1866 — 160th anniv; Ford "no Soviet domination" debate gaffe 1976 — 50th anniv; also Yom Kippur War 1973, Sadat assassinated 1981, Krefeld families found Germantown 1683) |
 | Oct 5 | October 5 (Dr. No premieres in London and Beatles release "Love Me Do" 1962 — 64th anniv; Monty Python's Flying Circus premieres on BBC 1969; Chief Joseph surrenders at Bear Paw, "I will fight no more forever" 1877; also Barry Bonds 71st/72nd HR 2001, Truman first televised White House address 1947, Steve Jobs dies 2011) |
@@ -1147,6 +1174,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 8 | National Fluffernutter Day; National Pierogi Day; National Hero Day; American Touch Tag Day |
 | Oct 7 | National Chocolate Covered Pretzel Day; National Frappe Day; National Pumpkin Seed Day; National LED Light Day; National Propane Day; Random Acts of Poetry Day; National Walk & Roll to School Day; National Coffee with a Cop Day |
 | Oct 6 | National Taco Day (first Tuesday in October); National Noodle Day; National Mad Hatter Day; National German-American Day; National Coaches Day; National Orange Wine Day; National Fruit at Work Day; National Physician Assistants Day; National Plus Size Appreciation Day |
 | Oct 5 | National Do Something Nice Day; National Apple Betty Day; National Get Funky Day; National Rhode Island Day; National Child Health Day (first Monday in October); National Consignment Day (first Monday in October); World Teachers' Day |
@@ -1200,6 +1228,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 8 | Marshmallow Fluff | Archibald Query, Somerville MA, 1917; recipe sold to Durkee & Mower 1920 for $500 |
+| Oct 8 | Mrs. T's Pierogies | 1952, Shenandoah PA; Ted Twardzik, named for mother Mary; first national frozen pierogi brand |
+| Oct 8 | Saffir-Simpson hurricane scale | Herbert Saffir (engineer, 1969) and Robert Simpson (NHC director, surge added early 1970s) |
+| Oct 8 | First skyscraper | Home Insurance Building, Chicago 1885, William Le Baron Jenney; demolished 1931 |
+| Oct 8 | Warner Bros. incorporated | 1923; first theater a nickelodeon in New Castle, PA |
+| Oct 8 | LensCrafters (Local) | Dean Butler (ex-P&G), 1983; first store Florence KY; HQ Mason OH |
 | Oct 7 | Wurlitzer (Local) | Rudolph Wurlitzer, Cincinnati 1856; theater organs and jukeboxes later built in North Tonawanda NY |
 | Oct 7 | Ford moving assembly line | Highland Park plant, Oct 7, 1913; Model T chassis ~12.5 hrs to ~1.5 hrs |
 | Oct 7 | Greek frappé | Dimitris Vakondios (Nestlé), Thessaloniki International Fair 1957 |
@@ -1420,6 +1454,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 8 | Ordinary World | Duran Duran | 1993 |
+| Oct 8 | Stupid Girl | Garbage | 1996 |
+| Oct 8 | Mo Money Mo Problems | The Notorious B.I.G. feat. Puff Daddy & Mase | 1997 |
+| Oct 8 | Teardrop | Massive Attack | 1998 |
+| Oct 8 | Higher | Creed | 1999 |
+| Oct 8 | Promiscuous | Nelly Furtado feat. Timbaland | 2006 |
 | Oct 7 | Rhythm Is a Dancer | Snap! | 1992 |
 | Oct 7 | The Sign | Ace of Base | 1993 |
 | Oct 7 | Lump | The Presidents of the United States of America | 1995 |
@@ -2890,4 +2930,18 @@ MLB DS (MLB Stats API): LAD 3-1 at ATL (Hernández, Freeman HR; Yamamoto W, Día
 ### Notes
 Wednesday run (daily cadence). Oct 7 not previously used for This Day in History. Cloud git push refused by the proxy again; commits pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified (artist confirmed on embed page); Apple Music IDs from the iTunes Search API (device shell; cloud got non-JSON responses). Lady Gaga "Poker Face" and Beyoncé "Single Ladies" originals not found cleanly, swapped for Faith Hill "Breathe". Capitals Montenegro and Nigeria found in older run sections and skipped. No table rows older than 12 weeks remained to prune. Pruned thursday-trivia-2026-09-28.html per the 7-file archive window.
 
-_Last updated: October 7, 2026_
+## October 8, 2026 (v82)
+
+### NFL
+Chicago Bears 440.3 yds/g (1,761 total, 4 GP), No. 1; top 5 Bears / Rams 427.3 / Chiefs 421.5 and Panthers 421.5 (tied) / Ravens 411.0 — unchanged (Week 5 opens Thu Oct 8, Buccaneers at Cowboys, Prime Video). Bengals 367.0 yds/g and 1,468 total, 11th in both; rush 74.3 (31st); 2-2. Chase (concussion) and Higgins (groin) missed Wednesday practice. Next: Sun Oct 11 at Miami 1:00 p.m. ET, FOX; bye Oct 18. ESPN team-stats endpoint, splitId '0'; ESPN ranks array agreed.
+
+### Box Office
+Weekend Oct 2-4 still latest: #1 Verity $32.6M ($62.6M worldwide, $40M budget); Resident Evil $12.5M; Heart of the Beast $11.0M; Primetime $8.0M; Digger $8.0M. Fun fact used: third Colleen Hoover adaptation after It Ends with Us ($50M opening) and Reminders of Him ($18M); Dakota Johnson's biggest hit since Fifty Shades; audience 78% female, top market Dallas. Coming Oct 9-11 unchanged: The Social Reckoning, Other Mommy, Treasure Trekkers, Fjord.
+
+### Sports / Deaths / Current Events
+MLB DS (MLB Stats API): LAD 4-1 at ATL, LAD wins 3-1; MIL 3-1 at SD, MIL wins 3-1 (NLCS LAD vs MIL); TB 4-3 at NYY, TB sweeps 3-0; CLE 9-3 at CWS, CWS leads 2-1, Game 4 Thu 8 ET. WNBA SF G2: ATL 101-98 OT NY (Reese, Canada 23 each), GS 83-81 LV (Burton late 3); both 2-0. NHL Oct 7: EDM 5-2 ANA (McDavid goal), WPG 3-2 COL (Connor 2), WSH 5-3 PIT; CBJ host PIT Fri. NBA: Haliburton return in preseason vs MIN at Iowa State; Rockets-Mavericks in Macao Fri/Sun. NCAA Sat Texas-Oklahoma, Georgia at Alabama; Bearcats idle. Golf Baycurrent Classic Oct 8-11; Shanghai Masters through Oct 18. Deaths: Eva Marie Saint, Jeffrey Archer, Freddie Jackson, Lyle Odelein, Marjoe Gortner, Fred Claire; also Bakker, McDowell, Hastert, Weller, Barbara Spinelli (Oct 7), Bishop Frank Dewane (Oct 7). Current events: Nobel Literature to Anne Carson (Canada); Peace Fri Oct 9, Economics Mon; Hurricane Isaias 80 mph in Gulf, landfall expected late Fri/early Sat Gulfport–Panama City; Paramount closed ~$111B Warner Bros. Discovery takeover Oct 6, new company Skydance (David Ellison); Kenya first Ebola case; 250,000+ French student protest.
+
+### Notes
+Thursday run (daily cadence). Oct 8 not previously used for This Day in History; Don Larsen's 1956 perfect game (Oct 8) skipped because it was used as general trivia Sep 30. Cloud git push refused by the proxy again; pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified (titles match; artist confirmed from Spotify search titles); Apple IDs from the iTunes Search/Lookup API in the cloud. New Radicals swapped out (used Aug 7).
+
+_Last updated: October 8, 2026_
