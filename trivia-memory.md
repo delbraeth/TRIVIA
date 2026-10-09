@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 9 | South Africa | Pretoria (executive) / Cape Town (legislative) / Bloemfontein (judicial) — tied to Nobel Peace winner Navi Pillay |
+| Oct 9 | Greenland | Nuuk (Erik the Red named Greenland to lure settlers; part of the Kingdom of Denmark; Leif Erikson Day tie) |
+| Oct 9 | Haiti | Port-au-Prince (independent 1804; first Black-led republic, first independent nation in Latin America/Caribbean) |
+| Oct 9 | United Arab Emirates | Abu Dhabi (not Dubai; Burj Khalifa 2,717 ft in Dubai; Abu Dhabi largest of seven emirates) |
 | Oct 8 | Yemen | Sana'a (Houthi-held since 2014; recognized government works from Aden; mud-brick tower houses) |
 | Oct 8 | Equatorial Guinea | Malabo (on Bioko Island; only African country with Spanish official; new capital Ciudad de la Paz) |
 | Oct 8 | Saint Vincent and the Grenadines | Kingstown (not Kingston, Jamaica; Pirates of the Caribbean filmed there) |
@@ -181,6 +185,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 9 | The High Chaparral (1967–71) | "Big John" Cannon | Leif Erickson (born William Anderson; Leif Erikson Day tie) |
+| Oct 9 | Saturday Night Live — "Bill Swerski's Superfans" (1991) | Bob Swerski | George Wendt (Superfans idolized "Da Coach" Ditka; Smigel, Myers, Farley) |
+| Oct 9 | Webster (1983–89) | Webster Long | Emmanuel Lewis (TV dad Alex Karras, ex-Lions; Karras's real wife Susan Clark) |
+| Oct 9 | Dr. Kildare (1961–66) | Dr. James Kildare | Richard Chamberlain (later "King of the Miniseries": Shōgun, The Thorn Birds) |
+| Oct 9 | Star Trek: Deep Space Nine (1993–99) | Quark | Armin Shimerman (also Principal Snyder on Buffy) |
+| Oct 9 | Saved by the Bell (1989–93) | Zack Morris | Mark-Paul Gosselaar (later Det. John Clark on NYPD Blue) |
 | Oct 8 | The Many Loves of Dobie Gillis (1959–63) | Maynard G. Krebs | Bob Denver (flinched at the word "work!"; later Gilligan) |
 | Oct 8 | Kate & Allie (1984–89) | Allie Lowell | Jane Curtin (original SNL cast; two Emmys; Susan Saint James as Kate) |
 | Oct 8 | L.A. Law (1986–94) | Arnie Becker | Corbin Bernsen (mother Jeanne Cooper of The Young and the Restless) |
@@ -416,6 +426,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 9 | John Lennon's 1964 book of nonsense stories/drawings | In His Own Write (A Spaniard in the Works 1965) |
+| Oct 9 | The Phantom of the Opera (1910) author | Gaston Leroux (Phantom named Erik; The Mystery of the Yellow Room) |
+| Oct 9 | Cry, the Beloved Country (1948), Stephen Kumalo | Alan Paton (same year apartheid became policy; 1995 film with James Earl Jones) |
+| Oct 9 | "La donna è mobile" opera; composer born Oct 9 or 10, 1813 | Rigoletto — Giuseppe Verdi (aria kept secret until final rehearsal, 1851) |
+| Oct 9 | Russian painter, gave up law at 30, early pure abstraction, "heard" colors | Wassily Kandinsky (synesthesia; Compositions/Improvisations) |
+| Oct 9 | First line "Where's Papa going with that ax?" | Charlotte's Web — E.B. White (1952); White co-wrote The Elements of Style |
 | Oct 8 | Autobiography of Red (1998) author; 2026 Nobel in Literature | Anne Carson (Sappho translator; first woman to win the T.S. Eliot Prize, 2001) |
 | Oct 8 | "There was a boy called Eustace Clarence Scrubb..." | The Voyage of the Dawn Treader — C.S. Lewis (1952) |
 | Oct 8 | "Thirteen Ways of Looking at a Blackbird" poet / Hartford insurance executive | Wallace Stevens (Pulitzer 1955) |
@@ -650,6 +666,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 9 | History | Leif Erikson Day = Oct 9 for the sloop Restauration's 1825 arrival in New York (first organized Norwegian immigration) |
+| Oct 9 | History | L'Anse aux Meadows, Newfoundland — only confirmed Norse site in N. America; tree rings date Norse woodcutting to 1021 AD |
+| Oct 9 | Food | Roquefort must be aged in the Combalou caves, Roquefort-sur-Soulzon; France's first protected-origin cheese (1925) |
+| Oct 9 | Food | Pizza Margherita legend — Naples 1889 for Queen Margherita of Savoy; colors of the Italian flag |
+| Oct 9 | Safety | Fire Prevention Week — longest-running US public health observance; Coolidge proclaimed it 1925; always includes Oct 9 (Chicago Fire) |
+| Oct 9 | Sports | Ditka first tight end inducted into the Pro Football Hall of Fame (1988); 1,076-yard 1961 rookie TE record stood 63 years (Bowers 2024) |
+| Oct 9 | Music | 1985 Bears' "Super Bowl Shuffle" recorded before the Super Bowl, Grammy-nominated; Ditka not in it |
+| Oct 9 | Music | John Lennon's number 9 obsession — born Oct 9; "Revolution 9," "#9 Dream," "One After 909" |
+| Oct 9 | Broadway | Phantom of the Opera longest-running Broadway show, 13,981 performances, closed April 2023 |
+| Oct 9 | Weather | "Major" hurricane = Category 3+ (111+ mph sustained) |
+| Oct 9 | Stamps | UK is the only country whose stamps omit its name — issued the first stamp, the Penny Black, 1840 |
 | Oct 8 | History | Mrs. O'Leary's cow story invented by reporter Michael Ahern (admitted 1893); Chicago council cleared the O'Learys 1997 |
 | Oct 8 | Words | "Hurricane" from Taíno hurakán (storm god) |
 | Oct 8 | Weather | Hurricanes/typhoons/cyclones are the same storm; counterclockwise in Northern Hemisphere |
@@ -1128,6 +1155,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 9 | October 9 (Yale chartered as the Collegiate School 1701 — 325th anniv, renamed for Elihu Yale 1718; Washington Monument opens to public 1888 — world's tallest structure until Eiffel Tower, color change ~150 ft; The Phantom of the Opera opens at Her Majesty's Theatre, London 1986 — 40th anniv, Crawford & Brightman; also John Lennon born 1940, Sean Lennon born on his 35th birthday 1975) |
 | Oct 8 | October 8 (Great Chicago Fire begins 1871 — 155th anniv, O'Leary barn on DeKoven St., ~300 dead, ~100,000 homeless; Peshtigo Fire same night, 1,200–2,500 dead, deadliest US wildfire; Cpl. Alvin York captures 132 Germans in the Argonne 1918, Medal of Honor, Gary Cooper Oscar for Sergeant York; also Solzhenitsyn named Nobel Literature laureate 1970) |
 | Oct 7 | October 7 (Georgia Tech 222, Cumberland 0 in 1916 — 110th anniv, coach John Heisman; Luna 3 first far-side Moon photos 1959, Mare Moscoviense; Barry Bonds 73rd HR off Dennis Springer 2001 — 25th anniv; also Poe dies 1849, Cats opens on Broadway 1982, Achille Lauro hijacking 1985, US strikes in Afghanistan 2001, Hamas attack on Israel 2023) |
 | Oct 6 | October 6 (The Jazz Singer premieres 1927 — Vitaphone, "You ain't heard nothin' yet!", Sam Warner died the day before; Reno Gang first US peacetime train robbery near Seymour IN 1866 — 160th anniv; Ford "no Soviet domination" debate gaffe 1976 — 50th anniv; also Yom Kippur War 1973, Sadat assassinated 1981, Krefeld families found Germantown 1683) |
@@ -1174,6 +1202,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 9 | Leif Erikson Day; National Moldy Cheese Day; Fire Prevention Day (Fire Prevention Week Oct 4–10); World Post Day; International Beer and Pizza Day; World Egg Day (second Friday in October); National Curious Events Day |
 | Oct 8 | National Fluffernutter Day; National Pierogi Day; National Hero Day; American Touch Tag Day |
 | Oct 7 | National Chocolate Covered Pretzel Day; National Frappe Day; National Pumpkin Seed Day; National LED Light Day; National Propane Day; Random Acts of Poetry Day; National Walk & Roll to School Day; National Coffee with a Cop Day |
 | Oct 6 | National Taco Day (first Tuesday in October); National Noodle Day; National Mad Hatter Day; National German-American Day; National Coaches Day; National Orange Wine Day; National Fruit at Work Day; National Physician Assistants Day; National Plus Size Appreciation Day |
@@ -1228,6 +1257,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 9 | World Post Day — organization founded Oct 9, 1874, Bern | Universal Postal Union (General Postal Union until 1878; 2nd-oldest intl org after ITU 1865) |
+| Oct 9 | Forest Service mascot introduced 1944 | Smokey Bear (named for NYC asst. fire chief "Smokey" Joe Martin; real cub from 1950 NM fire lived at National Zoo) |
+| Oct 9 | Bears founded 1920 by Decatur, IL starch company | Decatur Staleys (Halas moved to Chicago 1921, renamed Bears 1922; drafted Ditka 1961, hired him 1982) |
+| Oct 9 | DomiNick's bought 1960 by Tom & James Monaghan | Ypsilanti, Michigan (James traded his half for a VW Beetle; logo dots = first three stores) |
+| Oct 9 | Beatles company founded 1968 | Apple Corps (logo inspired by a Magritte apple painting; trademark fights with Apple Computer) |
+| Oct 9 | Above-ground fire hydrant, c. 1801 | Frederick Graff Sr., Philadelphia Water Works (patent records lost in 1836 Patent Office fire) |
 | Oct 8 | Marshmallow Fluff | Archibald Query, Somerville MA, 1917; recipe sold to Durkee & Mower 1920 for $500 |
 | Oct 8 | Mrs. T's Pierogies | 1952, Shenandoah PA; Ted Twardzik, named for mother Mary; first national frozen pierogi brand |
 | Oct 8 | Saffir-Simpson hurricane scale | Herbert Saffir (engineer, 1969) and Robert Simpson (NHC director, surge added early 1970s) |
@@ -1454,6 +1489,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 9 | Hold On | Wilson Phillips | 1990 |
+| Oct 9 | Insane in the Brain | Cypress Hill | 1993 |
+| Oct 9 | Bohemian Like You | The Dandy Warhols | 2000 |
+| Oct 9 | Hurt | Johnny Cash | 2002 |
+| Oct 9 | Diamonds on the Inside | Ben Harper | 2003 |
+| Oct 9 | Fireflies | Owl City | 2009 |
 | Oct 8 | Ordinary World | Duran Duran | 1993 |
 | Oct 8 | Stupid Girl | Garbage | 1996 |
 | Oct 8 | Mo Money Mo Problems | The Notorious B.I.G. feat. Puff Daddy & Mase | 1997 |
@@ -2944,4 +2985,18 @@ MLB DS (MLB Stats API): LAD 4-1 at ATL, LAD wins 3-1; MIL 3-1 at SD, MIL wins 3-
 ### Notes
 Thursday run (daily cadence). Oct 8 not previously used for This Day in History; Don Larsen's 1956 perfect game (Oct 8) skipped because it was used as general trivia Sep 30. Cloud git push refused by the proxy again; pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified (titles match; artist confirmed from Spotify search titles); Apple IDs from the iTunes Search/Lookup API in the cloud. New Radicals swapped out (used Aug 7).
 
-_Last updated: October 8, 2026_
+## October 9, 2026 (v83)
+
+### NFL
+Chicago Bears 440.3 yds/g (1,761 total, 4 GP), No. 1; top 5 Bears / Rams 427.3 / Chiefs 421.5 and Panthers 421.5 (tied) / Ravens 411.0. Dallas leads total yards (1,789) on 5 GP but is 14th per game (357.8); TNF Buccaneers 24, Cowboys 16 (Bucky Irving 165 rush yds; Bucs first win). Bengals 367.0 yds/g 11th, 1,468 total 13th (DAL/TB extra game); 2-2. Chase (concussion) practicing Friday. Next: Sun Oct 11 at Miami 1:00 p.m. ET. ESPN team-stats endpoint, splitId 0.
+
+### Box Office
+Weekend Oct 2-4 actuals (The Numbers): #1 Verity $32.0M; Resident Evil $12.6M; Heart of the Beast $10.9M; Digger $8.0M; Primetime $8.0M (~$1,800 apart). Fun fact used: originally dated May 15, 2026; Alex Cooper cameo; Colleen Hoover producer. Coming Oct 9-11: Other Mommy ($3.6M Thursday previews), The Social Reckoning (~$650K previews, $40M budget), Treasure Trekkers, Fjord.
+
+### Sports / Deaths / Current Events
+ALDS G4 CLE 9-5 at CWS (six-run 6th, Ramírez HR), series 2-2, G5 Sat 8 ET in Cleveland; NLCS LAD vs MIL starts Sun 8 ET. WNBA semis ATL and GS both up 2-0, G3 Fri; A'ja Wilson fifth MVP. LeBron James preseason debut with 76ers; Boozer vs Caleb Wilson. CBJ host PIT Fri 7 p.m. Ohio State (No. 5) vs Maryland Sat 4:15. Baycurrent Classic: Mitchell & Bridgeman lead after R2. Sinner out of Shanghai (right knee). Deaths: Mike Ditka 86 (Oct 9), Nana Patekar 75 (Oct 8), Verne Allison 90 of The Dells (Oct 7), Curtis Flowers 56 (found Oct 7), Dennis Franchione 75 (Oct 6), George Fenton 76 (Oct 5), Michael Kearns 76, Jim Ray Smith 94, Robert X. Cringely 73. News: Navi Pillay wins Nobel Peace Prize; Hurricane Isaias Cat 3, landfall late Oct 9 Alabama–western FL Panhandle; USS Abraham Lincoln home after 265 days; Economics Nobel Monday.
+
+### Notes
+Friday run (daily cadence). Oct 9 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified (via artist embed pages); Apple Music IDs from the iTunes Search API. Ben Harper "Steal My Kisses" swapped for "Diamonds on the Inside" (no verifiable Spotify ID). No rows older than 12 weeks to prune.
+
+_Last updated: October 9, 2026_
