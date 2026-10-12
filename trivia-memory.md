@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 12 | Spain | Madrid (Fiesta Nacional Oct 12; Bengals vs Falcons at the Bernabéu Nov 8) |
+| Oct 12 | Dominican Republic | Santo Domingo (founded 1496 by Bartholomew Columbus; oldest surviving European city in the Americas) |
+| Oct 12 | El Salvador | San Salvador ("The Savior"; not San Salvador Island, Bahamas) |
+| Oct 12 | Comoros | Moroni (Grande Comore / Ngazidja) |
 | Oct 9 | South Africa | Pretoria (executive) / Cape Town (legislative) / Bloemfontein (judicial) — tied to Nobel Peace winner Navi Pillay |
 | Oct 9 | Greenland | Nuuk (Erik the Red named Greenland to lure settlers; part of the Kingdom of Denmark; Leif Erikson Day tie) |
 | Oct 9 | Haiti | Port-au-Prince (independent 1804; first Black-led republic, first independent nation in Latin America/Caribbean) |
@@ -185,6 +189,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 12 | The Rat Patrol (1966–68) | Sgt. Sam Troy | Christopher George (filmed largely in Almería, Spain) |
+| Oct 12 | I Spy (1965–68) | Kelly Robinson | Robert Culp (tennis-pro cover; partner Alexander Scott) |
+| Oct 12 | Honey West (1965–66) | Honey West | Anne Francis (pet ocelot Bruce; Golden Globe) |
+| Oct 12 | Crime Story (1986–88) | Lt. Mike Torello | Dennis Farina (18 years a Chicago cop; Michael Mann) |
+| Oct 12 | Alien Nation (1989–90) | Det. George Francisco | Eric Pierpoint (Newcomers drunk on sour milk) |
+| Oct 12 | seaQuest DSV (1993–96) | Capt. Nathan Bridger | Roy Scheider (dolphin Darwin; Jaws tie) |
 | Oct 9 | The High Chaparral (1967–71) | "Big John" Cannon | Leif Erickson (born William Anderson; Leif Erikson Day tie) |
 | Oct 9 | Saturday Night Live — "Bill Swerski's Superfans" (1991) | Bob Swerski | George Wendt (Superfans idolized "Da Coach" Ditka; Smigel, Myers, Farley) |
 | Oct 9 | Webster (1983–89) | Webster Long | Emmanuel Lewis (TV dad Alex Karras, ex-Lions; Karras's real wife Susan Clark) |
@@ -426,6 +436,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 12 | Composer of The Lark Ascending, born Oct 12, 1872 | Ralph Vaughan Williams (George Meredith poem) |
+| Oct 12 | Austen first published novel, 1811, "By a Lady" | Sense and Sensibility (new film opens Oct 16) |
+| Oct 12 | Bird Box author; wrote Incidents Around the House (Other Mommy source) | Josh Malerman (band The High Strung, Shameless theme) |
+| Oct 12 | Blood Wedding / The House of Bernarda Alba playwright | Federico García Lorca (killed 1936) |
+| Oct 12 | Sagrada Família architect | Antoni Gaudí (work began 1882; died 1926 after tram strike) |
+| Oct 12 | Whalefall novelist | Daniel Kraus (co-wrote The Shape of Water novel with del Toro) |
 | Oct 9 | John Lennon's 1964 book of nonsense stories/drawings | In His Own Write (A Spaniard in the Works 1965) |
 | Oct 9 | The Phantom of the Opera (1910) author | Gaston Leroux (Phantom named Erik; The Mystery of the Yellow Room) |
 | Oct 9 | Cry, the Beloved Country (1948), Stephen Kumalo | Alan Paton (same year apartheid became policy; 1995 film with James Earl Jones) |
@@ -666,6 +682,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 12 | History | Columbus ships Niña, Pinta, Santa María; Santa María aground off Haiti Christmas 1492, timbers built La Navidad |
+| Oct 12 | Holiday | Columbus Day on Oct 12 itself first time since 2020; federal holiday 1937, Monday holiday 1971 |
+| Oct 12 | Food | Gumbo named from West African word for okra (ki ngombo) |
+| Oct 12 | Food | Boston butt is pork shoulder; colonial Boston barrels called butts |
+| Oct 12 | Geography | Montpelier VT smallest state capital by population, only one without a McDonald's |
+| Oct 12 | Drinks | Hurricane cocktail, Pat O'Brien's New Orleans 1940s, hurricane-lamp glass |
+| Oct 12 | Sports | Red River Rivalry at the Cotton Bowl during State Fair of Texas; Golden Hat trophy |
+| Oct 12 | Science | Sperm whale has the largest brain of any animal (~17 lb) |
+| Oct 12 | Geography | Isthmus of Panama curve lets you see sunrise over the Pacific |
+| Oct 12 | Pop Culture | Street Fighter II (1991) Chun-Li widely credited first playable woman in a 1-on-1 fighting game |
+| Oct 12 | World | Japan Sports Day (2nd Monday of Oct) marks 1964 Tokyo Olympics opening |
 | Oct 9 | History | Leif Erikson Day = Oct 9 for the sloop Restauration's 1825 arrival in New York (first organized Norwegian immigration) |
 | Oct 9 | History | L'Anse aux Meadows, Newfoundland — only confirmed Norse site in N. America; tree rings date Norse woodcutting to 1021 AD |
 | Oct 9 | Food | Roquefort must be aged in the Combalou caves, Roquefort-sur-Soulzon; France's first protected-origin cheese (1925) |
@@ -1155,6 +1182,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 12 | October 12 (Columbus landfall 1492, Rodrigo de Triana on the Pinta, Guanahani/San Salvador; Jesus Christ Superstar opens on Broadway 1971 — 55th anniv; IRA Brighton Grand Hotel bombing 1984, Thatcher unhurt) |
 | Oct 9 | October 9 (Yale chartered as the Collegiate School 1701 — 325th anniv, renamed for Elihu Yale 1718; Washington Monument opens to public 1888 — world's tallest structure until Eiffel Tower, color change ~150 ft; The Phantom of the Opera opens at Her Majesty's Theatre, London 1986 — 40th anniv, Crawford & Brightman; also John Lennon born 1940, Sean Lennon born on his 35th birthday 1975) |
 | Oct 8 | October 8 (Great Chicago Fire begins 1871 — 155th anniv, O'Leary barn on DeKoven St., ~300 dead, ~100,000 homeless; Peshtigo Fire same night, 1,200–2,500 dead, deadliest US wildfire; Cpl. Alvin York captures 132 Germans in the Argonne 1918, Medal of Honor, Gary Cooper Oscar for Sergeant York; also Solzhenitsyn named Nobel Literature laureate 1970) |
 | Oct 7 | October 7 (Georgia Tech 222, Cumberland 0 in 1916 — 110th anniv, coach John Heisman; Luna 3 first far-side Moon photos 1959, Mare Moscoviense; Barry Bonds 73rd HR off Dennis Springer 2001 — 25th anniv; also Poe dies 1849, Cats opens on Broadway 1982, Achille Lauro hijacking 1985, US strikes in Afghanistan 2001, Hamas attack on Israel 2023) |
@@ -1202,6 +1230,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 12 | Columbus Day / Indigenous Peoples' Day; National Gumbo Day; National Pulled Pork Day; National Farmers Day; National Vermont Day; National Savings Day; National Freethought Day; World Arthritis Day; Spain Fiesta Nacional; Japan Sports Day |
 | Oct 9 | Leif Erikson Day; National Moldy Cheese Day; Fire Prevention Day (Fire Prevention Week Oct 4–10); World Post Day; International Beer and Pizza Day; World Egg Day (second Friday in October); National Curious Events Day |
 | Oct 8 | National Fluffernutter Day; National Pierogi Day; National Hero Day; American Touch Tag Day |
 | Oct 7 | National Chocolate Covered Pretzel Day; National Frappe Day; National Pumpkin Seed Day; National LED Light Day; National Propane Day; Random Acts of Poetry Day; National Walk & Roll to School Day; National Coffee with a Cop Day |
@@ -1257,6 +1286,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 12 | Studio founded 1912 by Carl Laemmle | Universal Pictures (studio tours from 1915) |
+| Oct 12 | Horror studio founded 2000 by Jason Blum | Blumhouse Productions (merged with Atomic Monster 2024) |
+| Oct 12 | Aqua-Lung, 1943 | Jacques Cousteau and Émile Gagnan |
+| Oct 12 | Cereal launched 1941 as CheeriOats | Cheerios (renamed 1945) |
+| Oct 12 | Breathalyzer, 1954 | Robert Borkenstein, Indiana State Police |
+| Oct 12 | Stethoscope, 1816 | René Laennec (rolled paper tube) |
 | Oct 9 | World Post Day — organization founded Oct 9, 1874, Bern | Universal Postal Union (General Postal Union until 1878; 2nd-oldest intl org after ITU 1865) |
 | Oct 9 | Forest Service mascot introduced 1944 | Smokey Bear (named for NYC asst. fire chief "Smokey" Joe Martin; real cub from 1950 NM fire lived at National Zoo) |
 | Oct 9 | Bears founded 1920 by Decatur, IL starch company | Decatur Staleys (Halas moved to Chicago 1921, renamed Bears 1922; drafted Ditka 1961, hired him 1982) |
@@ -1489,6 +1524,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 12 | Believe | Cher | 1998 |
+| Oct 12 | Virtual Insanity | Jamiroquai | 1996 |
+| Oct 12 | Hero | Enrique Iglesias | 2001 |
+| Oct 12 | A Thousand Miles | Vanessa Carlton | 2002 |
+| Oct 12 | You're Beautiful | James Blunt | 2005 |
 | Oct 9 | Hold On | Wilson Phillips | 1990 |
 | Oct 9 | Insane in the Brain | Cypress Hill | 1993 |
 | Oct 9 | Bohemian Like You | The Dandy Warhols | 2000 |
@@ -2999,4 +3039,18 @@ ALDS G4 CLE 9-5 at CWS (six-run 6th, Ramírez HR), series 2-2, G5 Sat 8 ET in Cl
 ### Notes
 Friday run (daily cadence). Oct 9 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. All 6 Spotify IDs oEmbed-verified (via artist embed pages); Apple Music IDs from the iTunes Search API. Ben Harper "Steal My Kisses" swapped for "Diamonds on the Inside" (no verifiable Spotify ID). No rows older than 12 weeks to prune.
 
-_Last updated: October 9, 2026_
+## October 12, 2026 (v84)
+
+### NFL
+Los Angeles Rams 427.3 yds/g (1,709 total, 4 GP), No. 1; top 5 Rams / Panthers 421.5 and Chiefs 421.5 (tied 2nd, 4 GP) / Lions 411.2 (2,056, 5 GP, leads total yards) / Ravens 410.6. Bears fell to 6th (407.4) after 31-7 loss at GB. Rams host Bills on MNF Oct 12. Bengals 355.0 yds/g 13th, 1,775 total 9th; 260.0 pass, 82.8 rush; 3-2 after 31-24 win at Miami (Burrow 4 TD, Jordan Battle 2 INT). Next: bye Oct 18; Sun Oct 25 at Baltimore 1:00 p.m. ET, CBS. ESPN team-stats endpoint, splitId '0'; ranks array matched.
+
+### Box Office
+Weekend Oct 9-11 (Box Office Mojo estimates): #1 Other Mommy $27.5M ($18-19M budget); Verity $11.5M; Heart of the Beast $7.1M; Resident Evil $5.8M; Forgotten Island $4.5M; The Social Reckoning 7th $4.0M. Fun fact used: Josh Malerman source novel, Rob Savage, James Wan, Karen Allen in cast. Coming Oct 16-18: Street Fighter, Whalefall, Sense and Sensibility.
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): CLE 2-0 CWS ALDS G5; ALCS CLE at TB G1 Mon 8 ET; NLCS MIL 2-1 LAD G1 (Turang HR off Skubal), G2 Mon 5 ET. NFL Week 5 incl. Packers 31-7 Bears, Patriots 45-17 Raiders, Giants-Commanders 27-27 tie, Jaguars 19-17 Eagles in London. NCAA: Oklahoma 27-24 No. 1 Texas; Georgia 20-17 at Alabama, new AP No. 1; Kentucky 35-34 OT over No. 10 LSU; UCLA 17-15 at Oregon; Bearcats 4-1 idle, at WVU Oct 17. WNBA Finals Dream vs Valkyries, G1 Oct 17. NHL: CBJ 3-2 SO PIT, 3-5 at STL; Flyers 0-7. MLS: FC Cincinnati 3-1 at Atlanta (Denkey 2). Golf: Michael Brennan won Baycurrent. NBA opens Oct 20. Cycling: Paul Seixas youngest Il Lombardia winner. Deaths: Mike Ditka 86, Eva Marie Saint 102, Jeffrey Archer 86, Wilfredo Gómez 69, Freddie Jackson 70, Verne Allison 90, Rory Bourke 84, Jim Bakker 86. Current events: Nobel Economics to Robert Hall and Michael Woodford; Peace to Navi Pillay; Hurricane Isaias landfall near Destin; M7.7 Panama quake; Tagle dean of College of Cardinals; Houthi strike on Riyadh airport (13 dead); Musée Renoir paintings recovered.
+
+### Notes
+Monday run (daily cadence; routine fired at 13:20 UTC, scheduled 11:02 UTC). Oct 12 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 5 songs: all Spotify IDs oEmbed-verified (IDs from artist embed pages); Apple IDs from the iTunes Search API. Bailamos and Teenage Dirtbag dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
+
+_Last updated: October 12, 2026_
