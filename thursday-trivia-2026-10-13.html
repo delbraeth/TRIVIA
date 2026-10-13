@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thursday Trivia Night — October 13, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — Tuesday, October 13, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-10-13.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 13</a>
+  <a href="./thursday-trivia-2026-10-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 12</a>
+  <a href="./thursday-trivia-2026-10-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 9</a>
+  <a href="./thursday-trivia-2026-10-08.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 8</a>
+  <a href="./thursday-trivia-2026-10-07.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 7</a>
+  <a href="./thursday-trivia-2026-10-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 6</a>
+  <a href="./thursday-trivia-2026-10-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 5</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">433.8</div>
+      <div class="nfl-team">Los Angeles Rams — yards per game</div>
+      <div class="nfl-sub">2,169 total yards (also No. 1) · 5 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Los Angeles Rams</strong> — 433.8/g &nbsp;<span style="color:#777;">(2,169 yds, 5 GP)</span></li>
+        <li><span class="tag">T2</span><strong>Kansas City Chiefs</strong> — 421.5/g &nbsp;<span style="color:#777;">(1,686 yds, 4 GP)</span></li>
+        <li><span class="tag">T2</span><strong>Carolina Panthers</strong> — 421.5/g &nbsp;<span style="color:#777;">(1,686 yds, 4 GP)</span></li>
+        <li><span class="tag">4</span><strong>Detroit Lions</strong> — 411.2/g &nbsp;<span style="color:#777;">(2,056 yds, 5 GP)</span></li>
+        <li><span class="tag">5</span><strong>Baltimore Ravens</strong> — 410.6/g &nbsp;<span style="color:#777;">(2,053 yds, 5 GP)</span></li>
+      </ul>
+      <p style="margin-top:10px;font-size:12.5px;color:#666;"><strong>Monday night:</strong> the Rams piled up 460 yards and still lost, <strong>Bills 37, Rams 34 in OT</strong>. Matthew Stafford threw for 383 yards and Puka Nacua caught 17 passes, but Josh Allen ran for 121 yards and Tyler Bass won it with a 45-yard field goal after a blocked Rams kick. The Rams now lead in both per-game and total yards; KC and Carolina have played one fewer game.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>355.0 yards per game, 13th</strong> in the NFL, on <strong>1,775 total yards, 11th</strong>. 260.0 passing and 82.8 rushing yards per game. Record: <strong>3–2</strong> after Sunday's 31–24 win at Miami.
+      </div>
+      <div class="next-row">Next: bye week Oct 18, then <strong>Sunday, Oct 25 at Baltimore, 1:00 p.m. ET</strong> on CBS.</div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Verified from the ESPN team-stats endpoint (own-offense split, splitId 0) and matched against its rank order. Figures are through Monday night; Week 5 is complete.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 9–11</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Other Mommy</strong> — $27.5M opening, $45.2M worldwide, on a ~$19M budget</li>
+        <li>#2 Verity — $11.5M ($53.9M total) &nbsp;|&nbsp; #3 Resident Evil — $8.4M ($138.5M total)</li>
+        <li>#4 Heart of the Beast — $7.1M &nbsp;|&nbsp; #5 The Social Reckoning — $5.5M opening</li>
+        <li style="color:#777;">Still going: Christopher Nolan's <em>The Odyssey</em> made $2M in its 13th weekend and is just shy of $623M domestic.</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> Audiences gave <em>Other Mommy</em> a <strong>D+ CinemaScore</strong>, the same grade as <em>Hereditary</em> and <em>Megalopolis</em>, and it still opened No. 1. Two-thirds of the crowd was 18–34. Aaron Sorkin's <em>The Social Reckoning</em>, his Facebook follow-up with Jeremy Strong as Mark Zuckerberg, opened to about a quarter of <em>The Social Network</em>'s $22M debut.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Oct 16–18)</h3>
+        <ul>
+          <li><strong>Street Fighter</strong> — dir. Kitao Sakurai; Andrew Koji, Noah Centineo, Jason Momoa as Blanka. The Capcom fighters get a live-action reboot.</li>
+          <li><strong>Whalefall</strong> — Josh Brolin, Emily Rudd. A diver swallowed by a sperm whale has one hour of air to escape.</li>
+          <li><strong>Sense and Sensibility</strong> — Focus Features; Daisy Edgar-Jones as Elinor Dashwood in a new Austen adaptation.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span><strong>ALCS:</strong> Guardians 7, Rays 3 in Game 1. Chase DeLauter and Patrick Bailey homered, and Jo Adell's 2-run double put it away in the 9th. Game 2 tonight in Tampa, 8:00 p.m. ET (TBS).</li>
+        <li><span class="tag">MLB</span><strong>NLCS:</strong> Brewers lead the Dodgers 2–0 after a 7–4 win in Game 2. William Contreras homered and drove in 3; Christian Yelich had a 2-run single. Game 3 Wed in LA, 8:00 p.m. ET.</li>
+        <li><span class="tag">NFL</span><strong>MNF: Bills 37, Rams 34 (OT).</strong> Earlier Sunday, the Bengals won 31–24 at Miami (Burrow 4 TD) and the Packers beat the Bears 31–7. The Chargers are 0–5.</li>
+        <li><span class="tag">NFL</span><strong>Trade:</strong> Arizona sent WR <strong>Marvin Harrison Jr.</strong> (No. 4 pick in 2024) to Houston for a 2027 second- and sixth-round pick, reportedly getting a seventh back.</li>
+        <li><span class="tag">NCAA</span><strong>Georgia</strong> is the new AP No. 1 after winning at Alabama. Unbeaten <strong>UCLA</strong> lost QB Nico Iamaleava for the season (knee).</li>
+        <li><span class="tag">NCAA</span>🐾 <strong>Cincinnati</strong> (4–1) plays Saturday at West Virginia, noon ET.</li>
+        <li><span class="tag">NHL</span>Blue Jackets (2–2) host Florida tonight, 6:15 p.m. ET. The Flyers are still winless at 0–5–2; Carolina leads the league with 11 points.</li>
+        <li><span class="tag">WNBA</span>Finals: <strong>Atlanta vs. Golden State</strong>, Game 1 Saturday, Oct 17, at Golden State, 3:30 p.m. ET on NBC.</li>
+        <li><span class="tag">Golf</span>The DP World Tour won't let LIV players rejoin, which could hurt their Ryder Cup chances. Jon Rahm says he won't play in "LIV Golf 2.0."</li>
+        <li><span class="tag">NBA</span>Season opens <strong>Tuesday, Oct 20</strong>. The Warriors say Kristaps Porziņģis is away from the team with an unexplained illness.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>RJ Mitte</strong>, 34 (reported Oct 12). Played Walter White Jr. ("Flynn") on <em>Breaking Bad</em>; disability-rights advocate who, like his character, had cerebral palsy.</li>
+        <li><strong>Mike Ditka</strong>, 86 (Oct 9). Hall of Fame tight end; coached the Bears to the Super Bowl XX title.</li>
+        <li><strong>Eva Marie Saint</strong>, 102 (Oct 6). Oscar winner for <em>On the Waterfront</em>; starred in <em>North by Northwest</em>.</li>
+        <li><strong>Wilfredo "Bazooka" Gómez</strong>, 69 (Oct 10). Puerto Rican Hall of Fame boxer, champion in three weight classes.</li>
+        <li><strong>Sir Donald Insall</strong>, 100 (Oct 10). British conservation architect whose firm restored Windsor Castle after the 1992 fire.</li>
+        <li><strong>Ray Kolle</strong>, 85 (Oct 11). Australian TV writer for <em>Neighbours</em>, <em>Home and Away</em> and <em>Prisoner</em>.</li>
+        <li><strong>Bobby Gould</strong>, 69. NHL forward, mostly with the Washington Capitals in the 1980s.</li>
+        <li><strong>Jim Richards</strong>, 90 (Oct 9). Western Kentucky basketball coach.</li>
+        <li><strong>Dennis Franchione</strong>, 75 (Oct 6). College football coach at TCU, Alabama and Texas A&amp;M.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — October 13</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1775</strong> — The Continental Congress orders two armed ships fitted out, the founding act of the <strong>U.S. Navy</strong>. Today is its 251st birthday.</li>
+        <li><strong>1792</strong> — The cornerstone of the <strong>White House</strong> is laid. Irish-born architect James Hoban designed it; John Adams was its first resident, in 1800.</li>
+        <li><strong>1960</strong> — <strong>Bill Mazeroski</strong> homers in the bottom of the 9th at Forbes Field: Pirates 10, Yankees 9 in Game 7. It's still the only walk-off home run to end a World Series Game 7.</li>
+        <li style="color:#666;">Also: Uruguayan Air Force Flight 571, carrying a rugby team, crashes in the Andes (1972); 16 survived 72 days. Born today: Margaret Thatcher (1925), Paul Simon (1941), Jerry Rice (1962).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days</h3>
+        <p>🎉 U.S. Navy Birthday · National Yorkshire Pudding Day · National Train Your Brain Day · National No Bra Day · Metastatic Breast Cancer Awareness Day · International Day for Disaster Risk Reduction · International Plain Language Day · World Thrombosis Day</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>The Pentagon plans to <strong>livestream the firing-squad execution</strong> of Fort Hood shooter Nidal Hasan, set for Dec 3. It would be the first public U.S. execution in about 90 years, and Republicans, Democrats and Catholic bishops have objected.</li>
+        <li>The <strong>Houthis</strong> fired another missile at Riyadh's airport and threatened a "painful" response if the U.S. joins the Saudi offensive against them.</li>
+        <li><strong>Hurricane Simon</strong> hit Category 4 (155 mph peak) as it ran along Mexico's Pacific coast toward Puerto Vallarta over the weekend.</li>
+        <li>Zelenskyy says Russia struck Ukrainian energy sites soon after the <strong>Trump-brokered energy ceasefire</strong> was announced.</li>
+        <li>A guest died and others were hurt in an incident on the <strong>Goliath</strong> roller coaster at Six Flags Over Georgia on Monday.</li>
+        <li>South Korea's <strong>KOSPI</strong> fell more than 6% at one point today on a chip-stock selloff.</li>
+        <li><strong>Starbucks</strong> denied reports that it plans to bid for Chipotle.</li>
+        <li>The 2026 domestic box office passed <strong>$8 billion</strong> on Friday, up about 19% from last year.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 World Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇸🇦 Saudi Arabia — the largest country in the world with no permanent river. Capital?</span><br><span class="a">Riyadh. The name means "the gardens."</span></p>
+      <p><span class="q">🇨🇮 Côte d'Ivoire — its biggest city is Abidjan, but that's not the capital. What is?</span><br><span class="a">Yamoussoukro, capital since 1983. Its Basilica of Our Lady of Peace was modeled on St. Peter's in Rome.</span></p>
+      <p><span class="q">🇲🇪 Montenegro — its capital was called Titograd from 1946 to 1992. What's it called now?</span><br><span class="a">Podgorica</span></p>
+      <p><span class="q">🇫🇲 Federated States of Micronesia — a Pacific nation of 600+ islands. Capital?</span><br><span class="a">Palikir, on Pohnpei, near the ancient stone city of Nan Madol.</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Happy 251st, U.S. Navy: who played Navy lawyer Harmon "Harm" Rabb Jr. on <em>JAG</em> (1995–2005)?</span><br><span class="a">David James Elliott. <em>JAG</em> launched <em>NCIS</em> with a two-part backdoor pilot in 2003.</span></p>
+      <p><span class="q">Who wore the coonskin cap as frontiersman <em>Daniel Boone</em> on NBC (1964–70)?</span><br><span class="a">Fess Parker, who had already worn one as Disney's Davy Crockett</span></p>
+      <p><span class="q">On <em>Highway to Heaven</em> (1984–89), Michael Landon played the angel Jonathan Smith. Who played his human partner, ex-cop Mark Gordon?</span><br><span class="a">Victor French, Landon's co-star from <em>Little House on the Prairie</em></span></p>
+      <p><span class="q">Which Rolling Stones song was the theme for the Vietnam War drama <em>Tour of Duty</em> (1987–90)?</span><br><span class="a">"Paint It Black." Terence Knox starred as Sgt. Zeke Anderson.</span></p>
+      <p><span class="q">On <em>Riptide</em> (1984–86), the detectives lived on a boat in King Harbor, Calif. Who played Cody Allen?</span><br><span class="a">Perry King (Joe Penny played Nick Ryder; Thom Bray was "Boz," who built the robot Roboz)</span></p>
+      <p><span class="q">Which star played ex-Steelers QB turned small-town Arkansas coach Wood Newton on <em>Evening Shade</em> (1990–94)?</span><br><span class="a">Burt Reynolds. He won the 1991 Emmy for lead actor in a comedy.</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Which Herman Wouk novel, which won the 1952 Pulitzer, features Captain Queeg and his missing strawberries?</span><br><span class="a"><em>The Caine Mutiny</em>. Humphrey Bogart played Queeg in the 1954 film.</span></p>
+      <p><span class="q">Tom Clancy's first novel (1984) was the first fiction ever published by the Naval Institute Press. Name it.</span><br><span class="a"><em>The Hunt for Red October</em></span></p>
+      <p><span class="q">Which Russian composer, a former naval officer, wrote <em>Scheherazade</em> and "Flight of the Bumblebee"?</span><br><span class="a">Nikolai Rimsky-Korsakov</span></p>
+      <p><span class="q">In 1913, who became the first non-European to win the Nobel Prize in Literature? (Hard)</span><br><span class="a">Rabindranath Tagore (<em>Gitanjali</em>). He wrote the national anthems of both India and Bangladesh.</span></p>
+      <p><span class="q">Which Russian poet wrote the verse novel <em>Eugene Onegin</em> and died after a duel in 1837?</span><br><span class="a">Alexander Pushkin</span></p>
+      <p><span class="q">Which Italian writer, born Oct 15, 1923, wrote <em>If on a winter's night a traveler</em>, a novel told partly in the second person?</span><br><span class="a">Italo Calvino (born in Cuba)</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">David Bushnell built the first submarine used in combat in 1775. What was it called?</span><br><span class="a">The <em>Turtle</em>. In 1776 it tried, and failed, to sink HMS <em>Eagle</em> in New York Harbor.</span></p>
+      <p><span class="q">The Rueckheim brothers of Chicago trademarked which snack in 1896? Its mascot is a sailor.</span><br><span class="a">Cracker Jack. Sailor Jack and his dog Bingo arrived in 1918.</span></p>
+      <p><span class="q">Al Copeland opened "Chicken on the Run" near New Orleans in 1972. What did he rename it?</span><br><span class="a">Popeyes, after Popeye Doyle in <em>The French Connection</em></span></p>
+      <p><span class="q">Which company launched the Walkman portable cassette player in 1979?</span><br><span class="a">Sony</span></p>
+      <p><span class="q">Mary Phelps Jacob patented the first modern version of what in 1914, made from two handkerchiefs and ribbon?</span><br><span class="a">The brassiere. She sold the patent to Warner Brothers Corset Company for $1,500.</span></p>
+      <p><span class="q">Sudoku was invented by Indiana architect Howard Garns in 1979. What was it originally called?</span><br><span class="a">"Number Place." The Japanese publisher Nikoli named it Sudoku in 1984.</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧠 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Navy</span><strong>"Anchors Aweigh"</strong> was written in 1906 by Lt. Charles Zimmermann, the Naval Academy bandmaster, for the Army–Navy game.</li>
+        <li><span class="tag">History</span>The White House was officially called the "President's House" or "Executive Mansion" until <strong>Theodore Roosevelt</strong> made "White House" official in 1901.</li>
+        <li><span class="tag">Geography</span>On Oct 13, 1884, the International Meridian Conference chose <strong>Greenwich</strong> as the prime meridian. France abstained and kept Paris time until 1911.</li>
+        <li><span class="tag">Food</span>Britain's Royal Society of Chemistry ruled in 2008 that a <strong>Yorkshire pudding</strong> must be at least 4 inches tall to count.</li>
+        <li><span class="tag">NFL</span>Puka Nacua caught 17 passes Monday night. The single-game record is <strong>21</strong>, set by Brandon Marshall of the Broncos in 2009.</li>
+        <li><span class="tag">NFL</span><strong>Jerry Rice</strong>, born today in 1962, holds the career records for receiving yards (22,895) and receiving TDs (197).</li>
+        <li><span class="tag">MLB</span>Cleveland last won the World Series in <strong>1948</strong>, the longest active title drought in MLB. The Rays have never won one (lost in 2008 and 2020).</li>
+        <li><span class="tag">MLB</span>The Brewers' only World Series trip came in <strong>1982</strong>, when they were an American League team. They moved to the NL in 1998.</li>
+        <li><span class="tag">History</span>On Friday, Oct 13, 1307, King Philip IV of France had the <strong>Knights Templar</strong> arrested across his kingdom. It's often cited, on thin evidence, as a source of the Friday-the-13th superstition.</li>
+        <li><span class="tag">People</span><strong>Margaret Thatcher</strong>, born today in 1925, worked as a research chemist after studying chemistry at Oxford, before turning to law and politics.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist — 1990–2010</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Hand in My Pocket</div>
+          <div class="song-meta">Alanis Morissette · 1995 · <em>Jagged Little Pill</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2lE7oRoKssULAtbWViL385" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1517616920" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Dreams</div>
+          <div class="song-meta">The Cranberries · 1993 · <em>Everybody Else Is Doing It, So Why Can't We?</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/458JkK5eJhh4C4s6nTuz7g" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/6765559422" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">3AM</div>
+          <div class="song-meta">Matchbox Twenty · 1997 · <em>Yourself or Someone Like You</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/580695852" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Thank You</div>
+          <div class="song-meta">Dido · 1999 · <em>No Angel</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/254579170" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Bye Bye Bye</div>
+          <div class="song-meta">*NSYNC · 2000 · <em>No Strings Attached</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/303171368" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Hung Up</div>
+          <div class="song-meta">Madonna · 2005 · <em>Confessions on a Dance Floor</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/91989806" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
