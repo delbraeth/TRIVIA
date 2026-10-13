@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 13 | Saudi Arabia | Riyadh ("the gardens"; largest country with no permanent river; Houthi missiles at King Khalid airport) |
+| Oct 13 | Côte d'Ivoire | Yamoussoukro (capital since 1983; Basilica of Our Lady of Peace modeled on St. Peter's; Abidjan largest city) |
+| Oct 13 | Montenegro | Podgorica (called Titograd 1946–1992) |
+| Oct 13 | Federated States of Micronesia | Palikir (on Pohnpei; near Nan Madol ruins) |
 | Oct 12 | Spain | Madrid (Fiesta Nacional Oct 12; Bengals vs Falcons at the Bernabéu Nov 8) |
 | Oct 12 | Dominican Republic | Santo Domingo (founded 1496 by Bartholomew Columbus; oldest surviving European city in the Americas) |
 | Oct 12 | El Salvador | San Salvador ("The Savior"; not San Salvador Island, Bahamas) |
@@ -189,6 +193,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 13 | JAG (1995–2005) | Cmdr. Harmon "Harm" Rabb Jr. | David James Elliott (Navy birthday tie; NCIS backdoor pilot 2003) |
+| Oct 13 | Daniel Boone (1964–70) | Daniel Boone | Fess Parker (also Disney's Davy Crockett) |
+| Oct 13 | Highway to Heaven (1984–89) | Mark Gordon | Victor French (Michael Landon as angel Jonathan Smith) |
+| Oct 13 | Tour of Duty (1987–90) | Sgt. Zeke Anderson | Terence Knox (theme "Paint It Black") |
+| Oct 13 | Riptide (1984–86) | Cody Allen | Perry King (Joe Penny as Nick Ryder; Thom Bray as Boz, robot Roboz) |
+| Oct 13 | Evening Shade (1990–94) | Wood Newton | Burt Reynolds (1991 Emmy, lead actor comedy) |
 | Oct 12 | The Rat Patrol (1966–68) | Sgt. Sam Troy | Christopher George (filmed largely in Almería, Spain) |
 | Oct 12 | I Spy (1965–68) | Kelly Robinson | Robert Culp (tennis-pro cover; partner Alexander Scott) |
 | Oct 12 | Honey West (1965–66) | Honey West | Anne Francis (pet ocelot Bruce; Golden Globe) |
@@ -436,6 +446,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 13 | 1952 Pulitzer novel with Captain Queeg and the strawberries | The Caine Mutiny, Herman Wouk (Bogart 1954 film) |
+| Oct 13 | Tom Clancy first novel, first fiction from Naval Institute Press (1984) | The Hunt for Red October |
+| Oct 13 | Former naval officer who composed Scheherazade and Flight of the Bumblebee | Nikolai Rimsky-Korsakov |
+| Oct 13 | First non-European Nobel Literature laureate, 1913 | Rabindranath Tagore (Gitanjali; anthems of India and Bangladesh) |
+| Oct 13 | Eugene Onegin author, died after 1837 duel | Alexander Pushkin |
+| Oct 13 | If on a winter's night a traveler author, born Oct 15, 1923 | Italo Calvino (born in Cuba) |
 | Oct 12 | Composer of The Lark Ascending, born Oct 12, 1872 | Ralph Vaughan Williams (George Meredith poem) |
 | Oct 12 | Austen first published novel, 1811, "By a Lady" | Sense and Sensibility (new film opens Oct 16) |
 | Oct 12 | Bird Box author; wrote Incidents Around the House (Other Mommy source) | Josh Malerman (band The High Strung, Shameless theme) |
@@ -682,6 +698,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 13 | Navy | "Anchors Aweigh" written 1906 by Lt. Charles Zimmermann, Naval Academy bandmaster, for Army–Navy game |
+| Oct 13 | History | "White House" made official by Theodore Roosevelt 1901 (formerly President's House / Executive Mansion) |
+| Oct 13 | Geography | International Meridian Conference picks Greenwich Oct 13, 1884; France abstained, kept Paris time until 1911 |
+| Oct 13 | Food | Royal Society of Chemistry 2008: Yorkshire pudding must be at least 4 inches tall |
+| Oct 13 | NFL | Single-game receptions record 21, Brandon Marshall (Broncos) 2009 — Puka Nacua had 17 on MNF |
+| Oct 13 | NFL | Jerry Rice born Oct 13, 1962; career records 22,895 receiving yds, 197 receiving TDs |
+| Oct 13 | MLB | Cleveland last won WS 1948, longest active drought; Rays never won (lost 2008, 2020) |
+| Oct 13 | MLB | Brewers' only WS trip 1982 as an AL team; moved to NL 1998 |
+| Oct 13 | History | Knights Templar mass arrest Friday Oct 13, 1307 by Philip IV; dubious Friday-the-13th origin |
+| Oct 13 | People | Margaret Thatcher born Oct 13, 1925; worked as a research chemist after Oxford chemistry |
 | Oct 12 | History | Columbus ships Niña, Pinta, Santa María; Santa María aground off Haiti Christmas 1492, timbers built La Navidad |
 | Oct 12 | Holiday | Columbus Day on Oct 12 itself first time since 2020; federal holiday 1937, Monday holiday 1971 |
 | Oct 12 | Food | Gumbo named from West African word for okra (ki ngombo) |
@@ -1182,6 +1208,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 13 | October 13 (Continental Congress founds the Navy 1775 — 251st birthday; White House cornerstone laid 1792, James Hoban design; Bill Mazeroski Game 7 walk-off HR, Pirates 10 Yankees 9, 1960 — only Game 7 walk-off in WS history; also Andes Flight 571 crash 1972, births of Thatcher 1925, Paul Simon 1941, Jerry Rice 1962) |
 | Oct 12 | October 12 (Columbus landfall 1492, Rodrigo de Triana on the Pinta, Guanahani/San Salvador; Jesus Christ Superstar opens on Broadway 1971 — 55th anniv; IRA Brighton Grand Hotel bombing 1984, Thatcher unhurt) |
 | Oct 9 | October 9 (Yale chartered as the Collegiate School 1701 — 325th anniv, renamed for Elihu Yale 1718; Washington Monument opens to public 1888 — world's tallest structure until Eiffel Tower, color change ~150 ft; The Phantom of the Opera opens at Her Majesty's Theatre, London 1986 — 40th anniv, Crawford & Brightman; also John Lennon born 1940, Sean Lennon born on his 35th birthday 1975) |
 | Oct 8 | October 8 (Great Chicago Fire begins 1871 — 155th anniv, O'Leary barn on DeKoven St., ~300 dead, ~100,000 homeless; Peshtigo Fire same night, 1,200–2,500 dead, deadliest US wildfire; Cpl. Alvin York captures 132 Germans in the Argonne 1918, Medal of Honor, Gary Cooper Oscar for Sergeant York; also Solzhenitsyn named Nobel Literature laureate 1970) |
@@ -1230,6 +1257,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 13 | U.S. Navy Birthday; National Yorkshire Pudding Day; National Train Your Brain Day; National No Bra Day; Metastatic Breast Cancer Awareness Day; International Day for Disaster Risk Reduction; International Plain Language Day; World Thrombosis Day |
 | Oct 12 | Columbus Day / Indigenous Peoples' Day; National Gumbo Day; National Pulled Pork Day; National Farmers Day; National Vermont Day; National Savings Day; National Freethought Day; World Arthritis Day; Spain Fiesta Nacional; Japan Sports Day |
 | Oct 9 | Leif Erikson Day; National Moldy Cheese Day; Fire Prevention Day (Fire Prevention Week Oct 4–10); World Post Day; International Beer and Pizza Day; World Egg Day (second Friday in October); National Curious Events Day |
 | Oct 8 | National Fluffernutter Day; National Pierogi Day; National Hero Day; American Touch Tag Day |
@@ -1286,6 +1314,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 13 | First combat submarine, David Bushnell 1775 | The Turtle (failed attack on HMS Eagle 1776) |
+| Oct 13 | Snack trademarked 1896 by the Rueckheim brothers, Chicago | Cracker Jack (Sailor Jack & Bingo 1918) |
+| Oct 13 | "Chicken on the Run" renamed by Al Copeland, 1972 | Popeyes (after Popeye Doyle, The French Connection) |
+| Oct 13 | Company that launched the Walkman, 1979 | Sony |
+| Oct 13 | Mary Phelps Jacob 1914 patent | Brassiere (sold to Warner Brothers Corset Co. for $1,500) |
+| Oct 13 | Sudoku original name, Howard Garns 1979 | "Number Place" (Dell); Nikoli named it Sudoku 1984 |
 | Oct 12 | Studio founded 1912 by Carl Laemmle | Universal Pictures (studio tours from 1915) |
 | Oct 12 | Horror studio founded 2000 by Jason Blum | Blumhouse Productions (merged with Atomic Monster 2024) |
 | Oct 12 | Aqua-Lung, 1943 | Jacques Cousteau and Émile Gagnan |
@@ -1524,6 +1558,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 13 | Hand in My Pocket | Alanis Morissette | 1995 |
+| Oct 13 | Dreams | The Cranberries | 1993 |
+| Oct 13 | 3AM | Matchbox Twenty | 1997 |
+| Oct 13 | Thank You | Dido | 1999 |
+| Oct 13 | Bye Bye Bye | *NSYNC | 2000 |
+| Oct 13 | Hung Up | Madonna | 2005 |
 | Oct 12 | Believe | Cher | 1998 |
 | Oct 12 | Virtual Insanity | Jamiroquai | 1996 |
 | Oct 12 | Hero | Enrique Iglesias | 2001 |
@@ -3053,4 +3093,18 @@ MLB (MLB Stats API): CLE 2-0 CWS ALDS G5; ALCS CLE at TB G1 Mon 8 ET; NLCS MIL 2
 ### Notes
 Monday run (daily cadence; routine fired at 13:20 UTC, scheduled 11:02 UTC). Oct 12 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 5 songs: all Spotify IDs oEmbed-verified (IDs from artist embed pages); Apple IDs from the iTunes Search API. Bailamos and Teenage Dirtbag dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
 
-_Last updated: October 12, 2026_
+## October 13, 2026 (v85)
+
+### NFL
+Los Angeles Rams 433.8 yds/g (2,169 total, 5 GP), No. 1 in both; top 5 Rams / Chiefs 421.5 and Panthers 421.5 (tied, 4 GP) / Lions 411.2 / Ravens 410.6. MNF Bills 37, Rams 34 OT (Stafford 383, Nacua 17 rec, Allen 121 rush, Bass 45-yd FG after blocked Rams FG). Bengals 355.0 yds/g 13th, 1,775 total 11th; 3-2. Next: bye Oct 18; Sun Oct 25 at Baltimore 1:00 p.m. ET, CBS. ESPN team-stats endpoint, splitId '0'; ranks array matched.
+
+### Box Office
+Weekend Oct 9-11 (The Numbers): #1 Other Mommy $27.5M ($45.2M WW, ~$19M budget); Verity $11.5M; Resident Evil $8.4M ($138.5M); Heart of the Beast $7.1M; The Social Reckoning $5.5M. Fun fact used: D+ CinemaScore (same as Hereditary, Megalopolis); Social Reckoning ~quarter of The Social Network's $22M debut; The Odyssey ~$623M domestic. Coming Oct 16-18: Street Fighter, Whalefall, Sense and Sensibility.
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): ALCS G1 CLE 7-3 at TB (DeLauter, Bailey HR; Adell 2-run 2B), G2 Tue 8 ET; NLCS MIL 7-4 LAD G2 (Contreras HR, 3 RBI; Yelich 2-run 1B), MIL leads 2-0, G3 Wed 8 ET in LA. NFL: Marvin Harrison Jr. traded ARI to HOU (2027 2nd + 6th to ARI); Chargers 0-5. NCAA: Georgia AP No. 1; UCLA QB Nico Iamaleava out for season; Bearcats at WVU Sat noon. NHL: CBJ 2-2 host FLA Tue 6:15 ET; Flyers 0-5-2; Carolina 11 pts. WNBA Finals ATL vs GS G1 Oct 17. Golf: DP World Tour bars LIV players; Rahm not joining LIV 2.0. NBA: Porzingis away (illness). Deaths: RJ Mitte 34, Mike Ditka 86, Eva Marie Saint 102, Wilfredo Gómez 69, Sir Donald Insall 100, Ray Kolle 85, Bobby Gould 69, Jim Richards 90, Dennis Franchione 75. Current events: Pentagon to livestream Nidal Hasan firing-squad execution Dec 3; Houthi missile at Riyadh airport, threat vs US; Hurricane Simon Cat 4 off Mexico Pacific coast; Zelenskyy says Russia violating energy ceasefire; Six Flags Over Georgia Goliath death; KOSPI -6% intraday; Starbucks denies Chipotle bid; domestic box office passes $8B.
+
+### Notes
+Tuesday run (daily cadence). Oct 13 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search API. Paul Simon "The Obvious Child", Madonna "Ray of Light", Jewel "Foolish Games" dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
+
+_Last updated: October 13, 2026_
