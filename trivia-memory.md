@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 14 | Malawi | Lilongwe (capital since 1975, replaced Zomba; Blantyre commercial hub, named for Livingstone's birthplace) |
+| Oct 14 | Marshall Islands | Majuro (Bikini Atoll 1946 nuclear tests gave the swimsuit its name) |
+| Oct 14 | Hungary | Budapest (1873 merger of Buda, Óbuda and Pest) |
+| Oct 14 | São Tomé and Príncipe | São Tomé (Africa's second-smallest country, near the equator) |
 | Oct 13 | Saudi Arabia | Riyadh ("the gardens"; largest country with no permanent river; Houthi missiles at King Khalid airport) |
 | Oct 13 | Côte d'Ivoire | Yamoussoukro (capital since 1983; Basilica of Our Lady of Peace modeled on St. Peter's; Abidjan largest city) |
 | Oct 13 | Montenegro | Podgorica (called Titograd 1946–1992) |
@@ -193,6 +197,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 14 | The Saint (1962–69) | Simon Templar | Roger Moore (born Oct 14, 1927) |
+| Oct 14 | The Time Tunnel (1966–67) | Dr. Tony Newman | James Darren (Robert Colbert as Doug Phillips; Irwin Allen) |
+| Oct 14 | Mr. Belvedere (1985–90) | Lynn Belvedere | Christopher Hewett (Bob Uecker as George Owens) |
+| Oct 14 | Silver Spoons (1982–87) | Ricky Stratton | Ricky Schroder (Joel Higgins as Edward) |
+| Oct 14 | Hardcastle and McCormick (1983–86) | Judge Milton C. Hardcastle | Brian Keith (Daniel Hugh Kelly as Mark McCormick) |
+| Oct 14 | Life Goes On (1989–93) | Corky Thatcher | Chris Burke (Patti LuPone as mother; Ob-La-Di theme) |
 | Oct 13 | JAG (1995–2005) | Cmdr. Harmon "Harm" Rabb Jr. | David James Elliott (Navy birthday tie; NCIS backdoor pilot 2003) |
 | Oct 13 | Daniel Boone (1964–70) | Daniel Boone | Fess Parker (also Disney's Davy Crockett) |
 | Oct 13 | Highway to Heaven (1984–89) | Mark Gordon | Victor French (Michael Landon as angel Jonathan Smith) |
@@ -446,6 +456,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 14 | Book published Oct 14, 1926; toy bear first called Edward | Winnie-the-Pooh, A. A. Milne (E. H. Shepard; Winnipeg the London Zoo bear) — 100th anniv |
+| Oct 14 | ~230-ft 'tapestry' of the Battle of Hastings; technically what | Bayeux Tapestry — an embroidery (Halley's Comet appears) |
+| Oct 14 | Tom Wolfe 1979 book opening with Yeager | The Right Stuff (Sam Shepard played Yeager, 1983) |
+| Oct 14 | Lowercase poet born Oct 14, 1894, 'i carry your heart with me' | E. E. Cummings |
+| Oct 14 | 'Banality of evil' philosopher born Oct 14, 1906 | Hannah Arendt (Eichmann in Jerusalem, 1963) |
+| Oct 14 | Composer of Má vlast / 'Vltava' (The Moldau) | Bedřich Smetana |
 | Oct 13 | 1952 Pulitzer novel with Captain Queeg and the strawberries | The Caine Mutiny, Herman Wouk (Bogart 1954 film) |
 | Oct 13 | Tom Clancy first novel, first fiction from Naval Institute Press (1984) | The Hunt for Red October |
 | Oct 13 | Former naval officer who composed Scheherazade and Flight of the Bumblebee | Nikolai Rimsky-Korsakov |
@@ -698,6 +714,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 14 | History | Battle of Hastings fought ~7 mi away at Battle, East Sussex; William crowned Christmas Day 1066 |
+| Oct 14 | Aviation | Yeager flew X-1 with two broken ribs; Jack Ridley's sawed-off broom handle to close hatch |
+| Oct 14 | History | TR 1912 Milwaukee shooting: 50-page speech + glasses case; 'takes more than that to kill a Bull Moose' |
+| Oct 14 | History | MLK youngest Nobel Peace winner then (35), donated $54,123 prize |
+| Oct 14 | Presidents | Eisenhower born David Dwight Eisenhower, Denison TX |
+| Oct 14 | Tennis | Djokovic 102 titles, Federer 103, Connors Open Era record 109 |
+| Oct 14 | Movies | Raúl Juliá played M. Bison in 1994 Street Fighter, died two months before release |
+| Oct 14 | Science | Sperm whale has the largest brain of any animal (~17 lb) |
+| Oct 14 | Food | Tiramisu means 'pick me up' |
+| Oct 14 | Music | Usher headlined 2024 Super Bowl halftime, married the same night |
+| Oct 14 | NHL | Keith Tkachuk 538 NHL goals; Brady & Matthew at 2025 4 Nations Face-Off |
 | Oct 13 | Navy | "Anchors Aweigh" written 1906 by Lt. Charles Zimmermann, Naval Academy bandmaster, for Army–Navy game |
 | Oct 13 | History | "White House" made official by Theodore Roosevelt 1901 (formerly President's House / Executive Mansion) |
 | Oct 13 | Geography | International Meridian Conference picks Greenwich Oct 13, 1884; France abstained, kept Paris time until 1911 |
@@ -1208,6 +1235,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 14 | October 14 (Battle of Hastings 1066 — 960th anniv; Winnie-the-Pooh published 1926 — 100th anniv; Chuck Yeager breaks sound barrier in Bell X-1 Glamorous Glennis 1947; also TR shot in Milwaukee 1912, MLK named Nobel Peace laureate 1964; births of Eisenhower 1890, Roger Moore 1927, Ralph Lauren 1939, Usher 1978) |
 | Oct 13 | October 13 (Continental Congress founds the Navy 1775 — 251st birthday; White House cornerstone laid 1792, James Hoban design; Bill Mazeroski Game 7 walk-off HR, Pirates 10 Yankees 9, 1960 — only Game 7 walk-off in WS history; also Andes Flight 571 crash 1972, births of Thatcher 1925, Paul Simon 1941, Jerry Rice 1962) |
 | Oct 12 | October 12 (Columbus landfall 1492, Rodrigo de Triana on the Pinta, Guanahani/San Salvador; Jesus Christ Superstar opens on Broadway 1971 — 55th anniv; IRA Brighton Grand Hotel bombing 1984, Thatcher unhurt) |
 | Oct 9 | October 9 (Yale chartered as the Collegiate School 1701 — 325th anniv, renamed for Elihu Yale 1718; Washington Monument opens to public 1888 — world's tallest structure until Eiffel Tower, color change ~150 ft; The Phantom of the Opera opens at Her Majesty's Theatre, London 1986 — 40th anniv, Crawford & Brightman; also John Lennon born 1940, Sean Lennon born on his 35th birthday 1975) |
@@ -1257,6 +1285,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 14 | National Dessert Day; National Bring Your Teddy Bear to Work/School Day; National Take Your Parents to Lunch Day; National Stop Bullying Day; National Emergency Nurses Day; Be Bald and Be Free Day; World Standards Day; International Top Spinning Day |
 | Oct 13 | U.S. Navy Birthday; National Yorkshire Pudding Day; National Train Your Brain Day; National No Bra Day; Metastatic Breast Cancer Awareness Day; International Day for Disaster Risk Reduction; International Plain Language Day; World Thrombosis Day |
 | Oct 12 | Columbus Day / Indigenous Peoples' Day; National Gumbo Day; National Pulled Pork Day; National Farmers Day; National Vermont Day; National Savings Day; National Freethought Day; World Arthritis Day; Spain Fiesta Nacional; Japan Sports Day |
 | Oct 9 | Leif Erikson Day; National Moldy Cheese Day; Fire Prevention Day (Fire Prevention Week Oct 4–10); World Post Day; International Beer and Pizza Day; World Egg Day (second Friday in October); National Curious Events Day |
@@ -1314,6 +1343,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 14 | Ralph Lauren's first Polo product, 1967 | Wide neckties |
+| Oct 14 | Brooklyn maker of 'Teddy's bear' after 1902 TR cartoon | Morris (and Rose) Michtom, founded Ideal Toy Company |
+| Oct 14 | Dessert named at Delmonico's 1867 for a territory purchase | Baked Alaska (Charles Ranhofer) |
+| Oct 14 | President who signed 1956 Interstate Highway law | Dwight D. Eisenhower (system named for him) |
+| Oct 14 | Why ISO, not IOS (founded Geneva 1947) | Greek isos, 'equal' |
+| Oct 14 | Theranos (2003, Holmes at 19) name blend | 'Therapy' + 'diagnosis' |
 | Oct 13 | First combat submarine, David Bushnell 1775 | The Turtle (failed attack on HMS Eagle 1776) |
 | Oct 13 | Snack trademarked 1896 by the Rueckheim brothers, Chicago | Cracker Jack (Sailor Jack & Bingo 1918) |
 | Oct 13 | "Chicken on the Run" renamed by Al Copeland, 1972 | Popeyes (after Popeye Doyle, The French Connection) |
@@ -1558,6 +1593,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 14 | Creep | Radiohead | 1992 |
+| Oct 14 | U Got It Bad | Usher | 2001 |
+| Oct 14 | This Love | Maroon 5 | 2004 |
+| Oct 14 | Breakaway | Kelly Clarkson | 2004 |
+| Oct 14 | Poker Face | Lady Gaga | 2008 |
 | Oct 13 | Hand in My Pocket | Alanis Morissette | 1995 |
 | Oct 13 | Dreams | The Cranberries | 1993 |
 | Oct 13 | 3AM | Matchbox Twenty | 1997 |
@@ -3107,4 +3147,18 @@ MLB (MLB Stats API): ALCS G1 CLE 7-3 at TB (DeLauter, Bailey HR; Adell 2-run 2B)
 ### Notes
 Tuesday run (daily cadence). Oct 13 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search API. Paul Simon "The Obvious Child", Madonna "Ray of Light", Jewel "Foolish Games" dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
 
-_Last updated: October 13, 2026_
+## October 14, 2026 (v86)
+
+### NFL
+No games since MNF; same board as Oct 13. Los Angeles Rams 433.8 yds/g (2,169 total, 5 GP), No. 1 in both; top 5 Rams / Panthers 421.5 and Chiefs 421.5 (tied, 4 GP) / Lions 411.2 / Ravens 410.6; Bills 407.8, Bears 407.4 next. Bengals 355.0 yds/g 13th, 1,775 total 11th; 3-2. Next: bye Oct 18; Sun Oct 25 at Baltimore 1:00 p.m. ET, CBS. TNF Oct 15 Seahawks at Broncos (Prime). ESPN team-stats endpoint, splitId '0'; ranks array matched.
+
+### Box Office
+Weekend Oct 9-11 (same as prior runs): #1 Other Mommy $27.5M (~$19M budget); Verity $11.5M; Resident Evil $8.4M; Heart of the Beast $7.1M; The Social Reckoning $5.5M. Fun fact used: Jessica Chastain posted texts with Jeremy Strong ("spanks"); D+ CinemaScore. Coming Oct 16-18: Street Fighter (projected ~$28M), Whalefall (Austin Abrams, Josh Brolin), You Can See Everything (Theranos doc), Sense and Sensibility.
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): ALCS G2 Rays 3-1 CLE (Peralta 6 scoreless IP; 3 unearned runs after José Ramírez error), tied 1-1, G3 Thu Oct 15 6:00 p.m. ET in Cleveland; NLCS MIL leads LAD 2-0, G3 Wed 8:00 p.m. ET in LA. NCAA AP top 5 Georgia, Notre Dame, Miami, Ohio State, Indiana; Bearcats at WVU Sat noon. NHL: Panthers 7-3 CBJ (Brady Tkachuk natural hat trick, Matthew 5 assists), CBJ 2-3-0. MLS: FC Cincinnati vs New England Wed 7:30 ET, 9th in East 36 pts, Denkey 2 shy of club record. Tennis: Zheng Qinwen won Beijing (first Chinese woman); Djokovic Beijing title No. 102, lost Shanghai opener to Hurkacz; Alcaraz defended Tokyo, upset by Zizou Bergs in Shanghai. NBA opens Oct 20, Knicks defending champs host 76ers (LeBron 24th season). WNBA Finals ATL-GS G1 Oct 17. Deaths: RJ Mitte 34, Nana Patekar 75, Mike Ditka 86, Wilfredo Gómez 69, Pierre Joliot 94, Guy Conti 84, Ken Friar 92, Lucian Piane 46, Curtis Flowers 56, Helen Branswell 69. Current events: Pope Leo XIV lung lobectomy for early lung cancer; Keffe D sentenced 40-to-life (Tupac); Kimberly Guilfoyle resigned as ambassador to Greece; Treasury fined Bank of America $1.2B; Hurricane Simon + Rachel remnants killed 6+ in Mexico (Ensenada); Houthi strike on Aramco Dhahran office; Russian strikes on Kyiv, 600,000 without power; FBI charged OpenAI employee over hidden recording device; Six Flags closed nine coasters after Goliath death.
+
+### Notes
+Wednesday run (daily cadence; fired 13:23 UTC, scheduled 11:02 UTC). Oct 14 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 5 songs: Spotify IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search API (cloud iTunes API rate-limited with 403; Breakaway ID fetched from the device shell). Archive pruned to 7 files (Oct 5 removed). No table rows older than 12 weeks to prune.
+
+_Last updated: October 14, 2026_
