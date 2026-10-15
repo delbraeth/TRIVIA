@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 15 | Saint Kitts and Nevis | Basseterre (smallest sovereign state in Western Hemisphere; not Basse-Terre, Guadeloupe) |
+| Oct 15 | Austria | Vienna (Semmelweis handwashing 1847, Global Handwashing Day tie) |
+| Oct 15 | Guinea-Bissau | Bissau (former Portuguese colony; not Guinea) |
+| Oct 15 | Philippines | Manila (Quezon City was official capital 1948–76) |
 | Oct 14 | Malawi | Lilongwe (capital since 1975, replaced Zomba; Blantyre commercial hub, named for Livingstone's birthplace) |
 | Oct 14 | Marshall Islands | Majuro (Bikini Atoll 1946 nuclear tests gave the swimsuit its name) |
 | Oct 14 | Hungary | Budapest (1873 merger of Buda, Óbuda and Pest) |
@@ -197,6 +201,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 15 | I Love Lucy (1951–57) | Fred Mertz | William Frawley (75th anniv of premiere; later Bub on My Three Sons) |
+| Oct 15 | Get Christie Love! (1974–75) | Christie Love | Teresa Graves ("You're under arrest, sugah!"; Laugh-In regular) |
+| Oct 15 | Peter Gunn (1958–61) | Peter Gunn | Craig Stevens (Blake Edwards; Mancini theme) |
+| Oct 15 | Grace Under Fire (1993–98) | Grace Kelly | Brett Butler |
+| Oct 15 | Blossom (1990–95) | Blossom Russo | Mayim Bialik (neuroscience PhD; Jeopardy! co-host) |
+| Oct 15 | Sledge Hammer! (1986–88) | Insp. Sledge Hammer | David Rasche ("Trust me, I know what I'm doing") |
 | Oct 14 | The Saint (1962–69) | Simon Templar | Roger Moore (born Oct 14, 1927) |
 | Oct 14 | The Time Tunnel (1966–67) | Dr. Tony Newman | James Darren (Robert Colbert as Doug Phillips; Irwin Allen) |
 | Oct 14 | Mr. Belvedere (1985–90) | Lynn Belvedere | Christopher Hewett (Bob Uecker as George Owens) |
@@ -456,6 +466,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 15 | Creator of Jeeves, born Oct 15, 1881 | P. G. Wodehouse (Bertie Wooster) |
+| Oct 15 | "What does not kill me makes me stronger," born Oct 15, 1844 | Friedrich Nietzsche (Twilight of the Idols) |
+| Oct 15 | Aeneid poet, Dante's guide, born Oct 15, 70 BC | Virgil |
+| Oct 15 | Idea conceived in Capitol ruins Oct 15, 1764 | Edward Gibbon, Decline and Fall of the Roman Empire |
+| Oct 15 | Verdi opera premiered Cairo 1871 (Martina Arroyo tie) | Aida |
+| Oct 15 | Watson and the Shark (1778) painter | John Singleton Copley (Brook Watson later Lord Mayor of London) |
 | Oct 14 | Book published Oct 14, 1926; toy bear first called Edward | Winnie-the-Pooh, A. A. Milne (E. H. Shepard; Winnipeg the London Zoo bear) — 100th anniv |
 | Oct 14 | ~230-ft 'tapestry' of the Battle of Hastings; technically what | Bayeux Tapestry — an embroidery (Halley's Comet appears) |
 | Oct 14 | Tom Wolfe 1979 book opening with Yeager | The Right Stuff (Sam Shepard played Yeager, 1983) |
@@ -714,6 +730,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 15 | TV | I Love Lucy: CBS barred "pregnant" ("expecting"); Little Ricky birth episode ~44M viewers, beat Ike's inauguration |
+| Oct 15 | TV | Lucy Ricardo maiden name McGillicuddy |
+| Oct 15 | Baseball | Kirk Gibson 1988 WS Game 1 HR was his only plate appearance; Scully "improbable... impossible" |
+| Oct 15 | Baseball | Brewers only WS 1982, lost to Cardinals in 7; "Harvey's Wallbangers" (Harvey Kuenn) |
+| Oct 15 | Baseball | Only 2004 Red Sox came back from 0-3 to win a postseason series |
+| Oct 15 | History | Mata Hari = Malay "eye of the day"; born Margaretha Zelle |
+| Oct 15 | Science | Honey fungus, Malheur National Forest OR, ~2,385 acres |
+| Oct 15 | Food | Fresh cheese curds squeak (protein strands vs. teeth), lose squeak in a day or so |
+| Oct 15 | History | White cane traced to Lions Club, Peoria IL 1930; LBJ first White Cane Safety Day 1964 |
+| Oct 15 | Music | Blessid Union of Souls is a Cincinnati band (local) |
 | Oct 14 | History | Battle of Hastings fought ~7 mi away at Battle, East Sussex; William crowned Christmas Day 1066 |
 | Oct 14 | Aviation | Yeager flew X-1 with two broken ribs; Jack Ridley's sawed-off broom handle to close hatch |
 | Oct 14 | History | TR 1912 Milwaukee shooting: 50-page speech + glasses case; 'takes more than that to kill a Bull Moose' |
@@ -1235,6 +1261,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 15 | October 15 (I Love Lucy premieres 1951 — 75th anniv; Kirk Gibson walk-off HR WS Game 1 1988 off Eckersley; Mata Hari executed 1917; also DOT created 1966, Göring suicide 1946) |
 | Oct 14 | October 14 (Battle of Hastings 1066 — 960th anniv; Winnie-the-Pooh published 1926 — 100th anniv; Chuck Yeager breaks sound barrier in Bell X-1 Glamorous Glennis 1947; also TR shot in Milwaukee 1912, MLK named Nobel Peace laureate 1964; births of Eisenhower 1890, Roger Moore 1927, Ralph Lauren 1939, Usher 1978) |
 | Oct 13 | October 13 (Continental Congress founds the Navy 1775 — 251st birthday; White House cornerstone laid 1792, James Hoban design; Bill Mazeroski Game 7 walk-off HR, Pirates 10 Yankees 9, 1960 — only Game 7 walk-off in WS history; also Andes Flight 571 crash 1972, births of Thatcher 1925, Paul Simon 1941, Jerry Rice 1962) |
 | Oct 12 | October 12 (Columbus landfall 1492, Rodrigo de Triana on the Pinta, Guanahani/San Salvador; Jesus Christ Superstar opens on Broadway 1971 — 55th anniv; IRA Brighton Grand Hotel bombing 1984, Thatcher unhurt) |
@@ -1285,6 +1312,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 15 | National I Love Lucy Day; National Grouch Day; National Shawarma Day; National Cheese Curd Day; National Mushroom Day; National Real Sugar Day; White Cane Safety Day; Global Handwashing Day; Get to Know Your Customers Day; International Day of Rural Women |
 | Oct 14 | National Dessert Day; National Bring Your Teddy Bear to Work/School Day; National Take Your Parents to Lunch Day; National Stop Bullying Day; National Emergency Nurses Day; Be Bald and Be Free Day; World Standards Day; International Top Spinning Day |
 | Oct 13 | U.S. Navy Birthday; National Yorkshire Pudding Day; National Train Your Brain Day; National No Bra Day; Metastatic Breast Cancer Awareness Day; International Day for Disaster Risk Reduction; International Plain Language Day; World Thrombosis Day |
 | Oct 12 | Columbus Day / Indigenous Peoples' Day; National Gumbo Day; National Pulled Pork Day; National Farmers Day; National Vermont Day; National Savings Day; National Freethought Day; World Arthritis Day; Spain Fiesta Nacional; Japan Sports Day |
@@ -1343,6 +1371,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 15 | Company formed Oct 15, 1878 backed by J. P. Morgan & Vanderbilts | Edison Electric Light Company (GE forerunner) |
+| Oct 15 | Desilu (1950) launched which two 1966 dramas | Star Trek and Mission: Impossible |
+| Oct 15 | Lee Iacocca (born Oct 15, 1924) car | Ford Mustang (1964) |
+| Oct 15 | Louis Braille's age when he created his system, 1824 | 15 |
+| Oct 15 | Vertical döner rotisserie, İskender Efendi, which city | Bursa |
+| Oct 15 | Handwashing with chlorinated lime, Vienna 1847 | Ignaz Semmelweis |
 | Oct 14 | Ralph Lauren's first Polo product, 1967 | Wide neckties |
 | Oct 14 | Brooklyn maker of 'Teddy's bear' after 1902 TR cartoon | Morris (and Rose) Michtom, founded Ideal Toy Company |
 | Oct 14 | Dessert named at Delmonico's 1867 for a territory purchase | Baked Alaska (Charles Ranhofer) |
@@ -1593,6 +1627,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 15 | Hey Leonardo (She Likes Me for Me) | Blessid Union of Souls | 1999 |
+| Oct 15 | Mmm Mmm Mmm Mmm | Crash Test Dummies | 1993 |
+| Oct 15 | Hold My Hand | Hootie & the Blowfish | 1994 |
+| Oct 15 | Jumper | Third Eye Blind | 1998 |
+| Oct 15 | I'm Like a Bird | Nelly Furtado | 2000 |
+| Oct 15 | Gives You Hell | The All-American Rejects | 2008 |
 | Oct 14 | Creep | Radiohead | 1992 |
 | Oct 14 | U Got It Bad | Usher | 2001 |
 | Oct 14 | This Love | Maroon 5 | 2004 |
@@ -3161,4 +3201,18 @@ MLB (MLB Stats API): ALCS G2 Rays 3-1 CLE (Peralta 6 scoreless IP; 3 unearned ru
 ### Notes
 Wednesday run (daily cadence; fired 13:23 UTC, scheduled 11:02 UTC). Oct 14 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 5 songs: Spotify IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search API (cloud iTunes API rate-limited with 403; Breakaway ID fetched from the device shell). Archive pruned to 7 files (Oct 5 removed). No table rows older than 12 weeks to prune.
 
-_Last updated: October 14, 2026_
+## October 15, 2026 (v87)
+
+### NFL
+No games since MNF; same board as Oct 13–14 (ESPN byteam, splitId 0). Los Angeles Rams 433.8 yds/g (2,169 total, 5 GP), No. 1 in both; top 5 Rams / Chiefs 421.5 and Panthers 421.5 (tied, 4 GP) / Lions 411.2 / Ravens 410.6; Bills 407.8, Bears 407.4 next. Bengals 355.0 yds/g 13th, 1,775 total 11th; 3-2. Next: bye Oct 18; Sun Oct 25 at Baltimore 1:00 p.m. ET CBS. TNF Oct 15 Seahawks at Broncos 8:15 ET Prime.
+
+### Box Office
+Weekend Oct 9-11 (same as prior runs): #1 Other Mommy $27.5M; Verity $11.5M; Resident Evil $8.4M; Heart of the Beast $7.1M; The Social Reckoning $5.5M. Fun fact used: screenplay by Succession writer Nathan Elston; Chastain's earlier ghost-mother horror Mama (2013, del Toro producer). Coming Oct 16-18: Street Fighter, Whalefall, Sense and Sensibility, You Can See Everything.
+
+### Sports / Deaths / Current Events
+MLB: NLCS G3 Brewers 6-2 at LAD (Chourio first-pitch leadoff HR; Bauers go-ahead 2-run HR off Snell in 7th after 11-pitch AB), MIL leads 3-0, G4 Thu 8 ET FS1; ALCS tied 1-1, G3 moved to Thu 1 p.m. ET for rain in Cleveland. MLS: Revolution 3-2 at FC Cincinnati (Turgeman 2; Barlow, Denkey 17th goal); FCC 9-10-9, host Columbus Sun. NCAA: Cincinnati (4-1, 1-1) at WVU (3-3) Sat on TNT, WVU leads series 18-3-1. Tennis: Shanghai QF Medvedev d. Tsitsipas 6-4 7-5, faces Tommy Paul; Zverev-de Minaur, Altmaier-Davidovich Fokina, Jodar-Ruud. Golf: Michael Brennan won Baycurrent Classic (Japan), 3rd PGA Tour win. NBA opens Oct 20; WNBA Finals ATL-GSV G1 Sat. Deaths: Martina Arroyo 90, Mike Ditka 86, RJ Mitte 34, Richard "Levelord" Gray 68, Craig L. Symonds 79, Wilfredo Gómez 69, Freddie Foreman 94, Ray Kolle 85, Alpay 91, Stephen Jarislowsky 101. Current events: DRC Ebola >9,000 cases/4,300 deaths; NYT Israel demolished 48 of ~60 occupied south Lebanon villages; WSJ Paxton Dubai party video; Collins-Troy Jackson Maine debate; PA 6th measles death (>1,100 cases); ~500,000 march in France for students; Cornell bans fraternity parties.
+
+### Notes
+Thursday run (daily cadence). Oct 15 not previously used for This Day in History. Cloud git push refused by the proxy (repo not in session's authorized set). 6 songs: Spotify IDs from web search, all oEmbed-verified; Apple IDs from the iTunes Search API.
+
+_Last updated: October 15, 2026_
