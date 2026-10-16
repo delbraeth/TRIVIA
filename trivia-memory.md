@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 16 | Italy | Rome (FAO headquarters; World Food Day / FAO founded Oct 16, 1945) |
+| Oct 16 | Mexico | Mexico City (1968 Olympics, first in Latin America; Smith & Carlos protest Oct 16, 1968) |
+| Oct 16 | Poland | Warsaw (Kraków capital until c. 1596; John Paul II elected Oct 16, 1978) |
+| Oct 16 | Nigeria | Abuja (replaced Lagos 1991) |
 | Oct 15 | Saint Kitts and Nevis | Basseterre (smallest sovereign state in Western Hemisphere; not Basse-Terre, Guadeloupe) |
 | Oct 15 | Austria | Vienna (Semmelweis handwashing 1847, Global Handwashing Day tie) |
 | Oct 15 | Guinea-Bissau | Bissau (former Portuguese colony; not Guinea) |
@@ -201,6 +205,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 16 | Step by Step (1991–98) | Carol Foster | Suzanne Somers (born Oct 16, 1946; opposite Patrick Duffy) |
+| Oct 16 | Frank's Place (1987–88) | Frank Parrish | Tim Reid (deeper cut; wife Daphne Maxwell Reid co-starred) |
+| Oct 16 | Full House (1987–95) | Danny Tanner | Bob Saget |
+| Oct 16 | thirtysomething (1987–91) | Hope Murdoch Steadman | Mel Harris |
+| Oct 16 | Spenser: For Hire (1985–88) | Hawk | Avery Brooks (spin-off A Man Called Hawk) |
+| Oct 16 | Flipper (1964–67) | Porter Ricks | Brian Kelly (son Sandy = Luke Halpin) |
 | Oct 15 | I Love Lucy (1951–57) | Fred Mertz | William Frawley (75th anniv of premiere; later Bub on My Three Sons) |
 | Oct 15 | Get Christie Love! (1974–75) | Christie Love | Teresa Graves ("You're under arrest, sugah!"; Laugh-In regular) |
 | Oct 15 | Peter Gunn (1958–61) | Peter Gunn | Craig Stevens (Blake Edwards; Mancini theme) |
@@ -466,6 +476,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 16 | The Tin Drum author, born Oct 16, 1927 in Danzig | Günter Grass (Nobel 1999; Oskar Matzerath) |
+| Oct 16 | "Let them eat cake" source | Jean-Jacques Rousseau, Confessions ("brioche") |
+| Oct 16 | Normal People (2018) author | Sally Rooney (Paul Mescal, Daisy Edgar-Jones series 2020) |
+| Oct 16 | Architect of rebuilt Palace of Westminster after Oct 16, 1834 fire | Sir Charles Barry (with A. W. N. Pugin) |
+| Oct 16 | John Brown's Body, 1929 Pulitzer | Stephen Vincent Benét |
 | Oct 15 | Creator of Jeeves, born Oct 15, 1881 | P. G. Wodehouse (Bertie Wooster) |
 | Oct 15 | "What does not kill me makes me stronger," born Oct 15, 1844 | Friedrich Nietzsche (Twilight of the Idols) |
 | Oct 15 | Aeneid poet, Dante's guide, born Oct 15, 70 BC | Virgil |
@@ -730,6 +745,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 16 | History | 1834 Parliament fire started by burning Exchequer tally sticks; Turner painted it |
+| Oct 16 | History | Marie Antoinette last words: apology for stepping on executioner's foot |
+| Oct 16 | Olympics | Peter Norman wore OPHR badge 1968; Smith & Carlos pallbearers at his 2006 funeral |
+| Oct 16 | History | John Paul II first non-Italian pope in 455 years (since Adrian VI, 1522) |
+| Oct 16 | Baseball | Brewers began as 1969 Seattle Pilots; AL pennant 1982, NL 2026; Astros only other team with pennants in both leagues |
+| Oct 16 | Baseball | Cleveland last WS title 1948 (longest drought); Rays never won (lost 2008, 2020) |
+| Oct 16 | Movies | Raúl Julia's last theatrical film Street Fighter (1994), released two months after his death |
+| Oct 16 | Words | Noah Webster's Blue-Backed Speller; American spellings color/center |
+| Oct 16 | Animals | Group of kittens = a kindle (Global Cat Day) |
+| Oct 16 | Music | Flea and John Mayer both born Oct 16 |
 | Oct 15 | TV | I Love Lucy: CBS barred "pregnant" ("expecting"); Little Ricky birth episode ~44M viewers, beat Ike's inauguration |
 | Oct 15 | TV | Lucy Ricardo maiden name McGillicuddy |
 | Oct 15 | Baseball | Kirk Gibson 1988 WS Game 1 HR was his only plate appearance; Scully "improbable... impossible" |
@@ -1261,6 +1286,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 16 | October 16 (Cuban Missile Crisis begins 1962 — JFK shown U-2 photos; Smith & Carlos fists at Mexico City Olympics 1968; Marie Antoinette guillotined 1793; also Westminster fire 1834, Harpers Ferry raid 1859, Disney founded 1923, FAO 1945, John Paul II elected 1978, Million Man March 1995) |
 | Oct 15 | October 15 (I Love Lucy premieres 1951 — 75th anniv; Kirk Gibson walk-off HR WS Game 1 1988 off Eckersley; Mata Hari executed 1917; also DOT created 1966, Göring suicide 1946) |
 | Oct 14 | October 14 (Battle of Hastings 1066 — 960th anniv; Winnie-the-Pooh published 1926 — 100th anniv; Chuck Yeager breaks sound barrier in Bell X-1 Glamorous Glennis 1947; also TR shot in Milwaukee 1912, MLK named Nobel Peace laureate 1964; births of Eisenhower 1890, Roger Moore 1927, Ralph Lauren 1939, Usher 1978) |
 | Oct 13 | October 13 (Continental Congress founds the Navy 1775 — 251st birthday; White House cornerstone laid 1792, James Hoban design; Bill Mazeroski Game 7 walk-off HR, Pirates 10 Yankees 9, 1960 — only Game 7 walk-off in WS history; also Andes Flight 571 crash 1972, births of Thatcher 1925, Paul Simon 1941, Jerry Rice 1962) |
@@ -1312,6 +1338,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 16 | National Boss's Day; Dictionary Day; National Liqueur Day; Department Store Day; National Sports Day; World Food Day; Global Cat Day; World Spine Day; World Restart a Heart Day |
 | Oct 15 | National I Love Lucy Day; National Grouch Day; National Shawarma Day; National Cheese Curd Day; National Mushroom Day; National Real Sugar Day; White Cane Safety Day; Global Handwashing Day; Get to Know Your Customers Day; International Day of Rural Women |
 | Oct 14 | National Dessert Day; National Bring Your Teddy Bear to Work/School Day; National Take Your Parents to Lunch Day; National Stop Bullying Day; National Emergency Nurses Day; Be Bald and Be Free Day; World Standards Day; International Top Spinning Day |
 | Oct 13 | U.S. Navy Birthday; National Yorkshire Pudding Day; National Train Your Brain Day; National No Bra Day; Metastatic Breast Cancer Awareness Day; International Day for Disaster Risk Reduction; International Plain Language Day; World Thrombosis Day |
@@ -1371,6 +1398,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 16 | Company founded Oct 16, 1923 (Alice Comedies deal) | Walt Disney Company (Disney Brothers Cartoon Studio) |
+| Oct 16 | National Boss's Day creator, 1958 | Patricia Bays Haroski, State Farm, Deerfield IL (father's birthday) |
+| Oct 16 | City where FAO founded, 1945 | Quebec City |
+| Oct 16 | Department store founded 1858 by ex-whaler, red-star tattoo | Macy's (Rowland Hussey Macy) |
+| Oct 16 | Green liqueur by Carthusian monks, 1605 recipe, 130 herbs | Chartreuse |
+| Oct 16 | Brothers who bought Webster's dictionary rights, 1843 | George and Charles Merriam |
 | Oct 15 | Company formed Oct 15, 1878 backed by J. P. Morgan & Vanderbilts | Edison Electric Light Company (GE forerunner) |
 | Oct 15 | Desilu (1950) launched which two 1966 dramas | Star Trek and Mission: Impossible |
 | Oct 15 | Lee Iacocca (born Oct 15, 1924) car | Ford Mustang (1964) |
@@ -1627,6 +1660,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 16 | Daughters | John Mayer | 2004 | Heavier Things |
+| Oct 16 | Scar Tissue | Red Hot Chili Peppers | 1999 | Californication |
+| Oct 16 | All for You | Sister Hazel | 1997 | ...Somewhere More Familiar |
+| Oct 16 | Walk on the Ocean | Toad the Wet Sprocket | 1992 | Fear |
+| Oct 16 | Kind & Generous | Natalie Merchant | 1998 | Ophelia |
+| Oct 16 | Drops of Jupiter (Tell Me) | Train | 2001 | Drops of Jupiter |
 | Oct 15 | Hey Leonardo (She Likes Me for Me) | Blessid Union of Souls | 1999 |
 | Oct 15 | Mmm Mmm Mmm Mmm | Crash Test Dummies | 1993 |
 | Oct 15 | Hold My Hand | Hootie & the Blowfish | 1994 |
@@ -3215,4 +3254,18 @@ MLB: NLCS G3 Brewers 6-2 at LAD (Chourio first-pitch leadoff HR; Bauers go-ahead
 ### Notes
 Thursday run (daily cadence). Oct 15 not previously used for This Day in History. Cloud git push refused by the proxy (repo not in session's authorized set). 6 songs: Spotify IDs from web search, all oEmbed-verified; Apple IDs from the iTunes Search API.
 
-_Last updated: October 15, 2026_
+## October 16, 2026 (v88)
+
+### NFL
+After TNF (Broncos 17, Seahawks 14 OT; McMillian INT, Lutz 53-yd FG; DEN 4-2, SEA 3-3). ESPN byteam, splitId 0: Los Angeles Rams 433.8 yds/g (2,169 total, 5 GP), No. 1 in both; top 5 Rams / Chiefs 421.5 and Panthers 421.5 (tied, 4 GP) / Lions 411.2 / Ravens 410.6. Seahawks 2nd in total yards (2,112, 6 GP) but 352.0/g. Bengals 355.0 yds/g 13th, 1,775 total 12th (was 11th); 3-2. Next: bye Oct 18; Sun Oct 25 at Baltimore 1:00 p.m. ET CBS.
+
+### Box Office
+Weekend Oct 9-11 (same as prior runs): #1 Other Mommy $27.5M; Verity $11.5M; Resident Evil $8.4M; Heart of the Beast $7.1M; The Social Reckoning $5.5M. Fun fact used: based on Josh Malerman's 2024 novel Incidents Around the House (Malerman wrote Bird Box); Rob Savage directed, shot in Dublin. Coming Oct 16-18: Street Fighter ($4M Thursday previews), Whalefall, Sense and Sensibility, You Can See Everything ($2M previews).
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): NLCS G4 Brewers 6-4 at LAD, MIL sweeps 4-0 (rallied from 4 down; Garrett Mitchell go-ahead solo HR 6th, David Hamilton HR 9th, Chourio final catch), first pennant since 1982, WS G1 Fri Oct 23 FOX; ALCS G3 Guardians 3-2 Rays (Petey Halpin go-ahead 2-run HR off Griffin Jax in 5th; Gavin Williams 9 K in 5 IP), CLE leads 2-1, G4 Fri in Cleveland. NCAA: Cincinnati at WVU Sat noon ET TNT. MLS: FC Cincinnati hosts Columbus Sun (Hell Is Real). NHL: Devils 7-1 Rangers; CBJ (2-3) host NYR Sat 7 ET. Tennis: Zverev d. de Minaur 6-4 6-4, SF vs Davidovich Fokina (Shanghai). WNBA Finals G1 ATL at GSV Sat 3:30 ET; NBA opens Oct 20. Deaths: Mike Ditka 86, RJ Mitte 34, Martina Arroyo 90, David Surkamp 73 (Pavlov's Dog), Lucian Piane 46, Richard "Levelord" Gray 68, Wilfredo Gómez 69, Bo Johansson 83, Amber Siyavus 46. Current events: US CPI 3.7% Sept; Zelenskyy "betrayed" over Starshield limits, Ukraine resumes refinery strikes; Houthi strike on Aden presidential palace (5 killed); tanker Wine Trader drone fire off Romania, 7 missing; two cargo ships sank in Strait of Hormuz; Brazil 40-hour week (Senate 75-1); Nord Stream bombing trial opens in Germany; Faber stops UK supply of Sally Rooney's books.
+
+### Notes
+Friday run (daily cadence; fired 11:06 UTC). Oct 16 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (artist IDs for Sister Hazel, Toad the Wet Sprocket, Natalie Merchant via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API. No table rows older than 12 weeks to prune.
+
+_Last updated: October 16, 2026_
