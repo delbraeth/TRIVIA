@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 19 | Alberta (Canada) | Edmonton (province capital; Calgary larger; separation-referendum vote Oct 19, 2026) |
+| Oct 19 | Iceland | Reykjavík (northernmost sovereign capital; Höfði House Reagan–Gorbachev summit Oct 1986) |
+| Oct 19 | The Gambia | Banjul (on St. Mary's Island; called Bathurst until 1973; smallest mainland African country) |
+| Oct 19 | Central African Republic | Bangui (on the Ubangi River; Bokassa crowned himself emperor 1977) |
 | Oct 16 | Italy | Rome (FAO headquarters; World Food Day / FAO founded Oct 16, 1945) |
 | Oct 16 | Mexico | Mexico City (1968 Olympics, first in Latin America; Smith & Carlos protest Oct 16, 1968) |
 | Oct 16 | Poland | Warsaw (Kraków capital until c. 1596; John Paul II elected Oct 16, 1978) |
@@ -205,6 +209,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 19 | Hey Vern, It's Ernest! (1988) | Ernest P. Worrell | Jim Varney (born Lexington KY; Daytime Emmy) |
+| Oct 19 | Pee-wee's Playhouse (1986–90) | Cowboy Curtis | Laurence Fishburne (Paul Reubens as Pee-wee; Phil Hartman as Captain Carl) |
+| Oct 19 | Buck Rogers in the 25th Century (1979–81) | Buck Rogers | Gil Gerard (Twiki voiced by Mel Blanc) |
+| Oct 19 | My So-Called Life (1994–95) | Angela Chase | Claire Danes (Jared Leto as Jordan Catalano) |
+| Oct 19 | Moesha (1996–2001) | Moesha Mitchell | Brandy (spin-off The Parkers) |
+| Oct 19 | The Commish (1991–96) | Tony Scali | Michael Chiklis (later The Shield) |
 | Oct 16 | Step by Step (1991–98) | Carol Foster | Suzanne Somers (born Oct 16, 1946; opposite Patrick Duffy) |
 | Oct 16 | Frank's Place (1987–88) | Frank Parrish | Tim Reid (deeper cut; wife Daphne Maxwell Reid co-starred) |
 | Oct 16 | Full House (1987–95) | Danny Tanner | Bob Saget |
@@ -476,6 +486,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 19 | George Smiley creator, born David Cornwell Oct 19, 1931 | John le Carré |
+| Oct 19 | His Dark Materials author born Oct 19, 1946; soul companions | Philip Pullman; daemons (Lyra Belacqua) |
+| Oct 19 | Gulliver's Travels / A Modest Proposal, died Oct 19, 1745 | Jonathan Swift |
+| Oct 19 | Tom Ripley creator (Helen Mirren film A Talent for Murder) | Patricia Highsmith |
+| Oct 19 | Unique Forms of Continuity in Space (Italian 20-cent coin), born Oct 19, 1882 | Umberto Boccioni |
+| Oct 19 | Religio Medici author born and died Oct 19 (1605/1682); coined 'electricity' | Sir Thomas Browne |
 | Oct 16 | The Tin Drum author, born Oct 16, 1927 in Danzig | Günter Grass (Nobel 1999; Oskar Matzerath) |
 | Oct 16 | "Let them eat cake" source | Jean-Jacques Rousseau, Confessions ("brioche") |
 | Oct 16 | Normal People (2018) author | Sally Rooney (Paul Mescal, Daisy Edgar-Jones series 2020) |
@@ -745,6 +761,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 19 | Geography | Kentucky one of four commonwealths (MA, PA, VA) |
+| Oct 19 | History | Lincoln and Jefferson Davis both born in Kentucky, <1 year and ~100 mi apart |
+| Oct 19 | Science | Tonic water glows under black light (quinine fluorescence) |
+| Oct 19 | History | Yorktown band legend 'The World Turned Upside Down' (Hamilton song) |
+| Oct 19 | Racing | Rachel Alexandra (by Medaglia d'Oro) 2009 Preakness, first filly since 1924 |
+| Oct 19 | College FB | Auburn–Georgia 'Deep South's Oldest Rivalry' since 1892 |
+| Oct 19 | Science | Chicago Pile-1 under Stagg Field stands, Dec 2, 1942 |
+| Oct 19 | Animals | Gray wolves reintroduced to Yellowstone 1995, trophic cascade/willows |
+| Oct 19 | Tennis | Davidovich Fokina lost first five finals, now won three straight |
+| Oct 19 | Finance | NYSE circuit breakers adopted after Black Monday |
 | Oct 16 | History | 1834 Parliament fire started by burning Exchequer tally sticks; Turner painted it |
 | Oct 16 | History | Marie Antoinette last words: apology for stepping on executioner's foot |
 | Oct 16 | Olympics | Peter Norman wore OPHR badge 1968; Smith & Carlos pallbearers at his 2006 funeral |
@@ -1286,6 +1312,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 19 | October 19 (Cornwallis surrenders at Yorktown 1781 — 245th anniv, O'Hara/Rochambeau/Benjamin Lincoln; Black Monday 1987, Dow −508 / −22.6%; St. Albans Raid 1864 and Cedar Creek; also Ferdinand & Isabella marry 1469) |
 | Oct 16 | October 16 (Cuban Missile Crisis begins 1962 — JFK shown U-2 photos; Smith & Carlos fists at Mexico City Olympics 1968; Marie Antoinette guillotined 1793; also Westminster fire 1834, Harpers Ferry raid 1859, Disney founded 1923, FAO 1945, John Paul II elected 1978, Million Man March 1995) |
 | Oct 15 | October 15 (I Love Lucy premieres 1951 — 75th anniv; Kirk Gibson walk-off HR WS Game 1 1988 off Eckersley; Mata Hari executed 1917; also DOT created 1966, Göring suicide 1946) |
 | Oct 14 | October 14 (Battle of Hastings 1066 — 960th anniv; Winnie-the-Pooh published 1926 — 100th anniv; Chuck Yeager breaks sound barrier in Bell X-1 Glamorous Glennis 1947; also TR shot in Milwaukee 1912, MLK named Nobel Peace laureate 1964; births of Eisenhower 1890, Roger Moore 1927, Ralph Lauren 1939, Usher 1978) |
@@ -1338,6 +1365,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 19 | National Kentucky Day; National Seafood Bisque Day; National Clean Your Virtual Desktop Day; National LGBT Center Awareness Day; International Gin & Tonic Day; World Pediatric Bone & Joint Day; Nuclear Science Week; Wolf Awareness Week |
 | Oct 16 | National Boss's Day; Dictionary Day; National Liqueur Day; Department Store Day; National Sports Day; World Food Day; Global Cat Day; World Spine Day; World Restart a Heart Day |
 | Oct 15 | National I Love Lucy Day; National Grouch Day; National Shawarma Day; National Cheese Curd Day; National Mushroom Day; National Real Sugar Day; White Cane Safety Day; Global Handwashing Day; Get to Know Your Customers Day; International Day of Rural Women |
 | Oct 14 | National Dessert Day; National Bring Your Teddy Bear to Work/School Day; National Take Your Parents to Lunch Day; National Stop Bullying Day; National Emergency Nurses Day; Be Bald and Be Free Day; World Standards Day; International Top Spinning Day |
@@ -1398,6 +1426,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 19 | Geneva 1783 brand by watchmaker Johann Jacob Schweppe | Schweppes |
+| Oct 19 | Kentucky city building every Corvette since 1981 | Bowling Green (museum sinkhole 2014) |
+| Oct 19 | 1884 bat for Pete Browning by Bud Hillerich | Louisville Slugger |
+| Oct 19 | Bowling Green KY salesman, Adventures in Good Eating 1935 | Duncan Hines |
+| Oct 19 | Dow Jones Industrial Average 1896 | Charles Dow; 12 stocks |
+| Oct 19 | 1973 PARC computer with desktop GUI | Xerox Alto |
 | Oct 16 | Company founded Oct 16, 1923 (Alice Comedies deal) | Walt Disney Company (Disney Brothers Cartoon Studio) |
 | Oct 16 | National Boss's Day creator, 1958 | Patricia Bays Haroski, State Farm, Deerfield IL (father's birthday) |
 | Oct 16 | City where FAO founded, 1945 | Quebec City |
@@ -1660,6 +1694,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 19 | Fast as You | Dwight Yoakam | 1993 | This Time |
+| Oct 19 | Golden | My Morning Jacket | 2003 | It Still Moves |
+| Oct 19 | Love Can Build a Bridge | The Judds | 1990 | Love Can Build a Bridge |
+| Oct 19 | My Town | Montgomery Gentry | 2002 | My Town |
+| Oct 19 | I Swear | John Michael Montgomery | 1994 | Kickin' It Up |
+| Oct 19 | One of Us | Joan Osborne | 1995 | Relish |
 | Oct 16 | Daughters | John Mayer | 2004 | Heavier Things |
 | Oct 16 | Scar Tissue | Red Hot Chili Peppers | 1999 | Californication |
 | Oct 16 | All for You | Sister Hazel | 1997 | ...Somewhere More Familiar |
@@ -3268,4 +3308,18 @@ MLB (MLB Stats API): NLCS G4 Brewers 6-4 at LAD, MIL sweeps 4-0 (rallied from 4 
 ### Notes
 Friday run (daily cadence; fired 11:06 UTC). Oct 16 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (artist IDs for Sister Hazel, Toad the Wet Sprocket, Natalie Merchant via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API. No table rows older than 12 weeks to prune.
 
-_Last updated: October 16, 2026_
+## October 19, 2026 (v89)
+
+### NFL
+After Week 7 Sunday (MNF WSH at SF pending). ESPN byteam, splitId 0: Kansas City Chiefs 421.6 yds/g (2,108 total, 5 GP, 10th in total); top 5 Chiefs / Panthers 418.6 / Rams 413.8 (2,483 total, No. 1 in total, 6 GP) / Lions 411.2 / Bears 406.7. Bengals 355.0 yds/g 13th, 1,775 total 25th; 3-2, Week 7 bye. Next: Sun Oct 25 at Baltimore 1:00 p.m. ET CBS (Ravens lost 13-10 at CLE).
+
+### Box Office
+Weekend Oct 16-18: #1 Street Fighter $31.0M; You Can See Everything $15.0M; Other Mommy $8.3M ($44.8M); Whalefall $8.0M; Sense and Sensibility $7.2M. Fun fact used: game 1987, 1994 film preceded Mortal Kombat (1995); RT 42% vs 20% (1994) and 3% (2009 Chun-Li). Coming Oct 23-25: Clayface, Klara and the Sun (Waititi; Ortega, Adams), A Talent for Murder (Mirren as Highsmith), Wildwood (Laika), Ali G: Who Iz I? (one week).
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): ALCS G4 Rays 7-3, G5 Rays 3-1 (Rasmussen 7 IP, Baker save), TB leads 3-2, G6 Mon 8:08 ET at TB (Peralta); WS G1 Fri Oct 23 at MIL. NFL Week 7 scores. NCAA: Cincinnati lost 45-42 at WVU; Auburn 27 No.1 Georgia 24; BYU 28 No.2 ND 24; Tennessee 26 Alabama 10; Florida 27 Texas 24; Ohio State 19-15 at Indiana; Kentucky 21-13 at Oklahoma; Miami (OH) 34-14 Akron. MLS: Columbus 2-0 at FC Cincinnati (FCC 9th East, 36 pts, 29 GP). NHL: CBJ 1-0 NYR, lost 2-1 at MIN. WNBA Finals G1 Valkyries 68-64 Dream. NBA opens Oct 20. Tennis: Davidovich Fokina d. Jodar 1-6 7-6(5) 6-4 Shanghai. LPGA: Ruoning Yin wins Buick Shanghai. Deaths: Cliff Hagan 94, Noah Adams 84, Jon Morris 84, Alan Mandell 98, Douglas Dunn 83, Sam Noto 96, Craig L. Symonds 79, Medaglia d'Oro 27; also Arroyo, RJ Mitte, Kasey Redfern. Current events: Alberta separation-referendum vote Oct 19; CBS Texas Senate poll Talarico 51 Paxton 49; Trump paused Graham Russia-oil sanctions enforcement, Starlink slowdown in Ukraine; threatening envelopes to 36 lawmakers/officials; Kenya Ebola 7 cases; Czech Senate setback for Babis; Pakistan-Afghanistan border fire.
+
+### Notes
+Monday run (daily cadence; fired ~11:05 UTC). Oct 19 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs (Kentucky Day theme): Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API.
+
+_Last updated: October 19, 2026_
