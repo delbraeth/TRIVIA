@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thursday Trivia Night — October 20, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+<body>
+<header>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — Tuesday, October 20, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-10-20.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 20</a>
+  <a href="./thursday-trivia-2026-10-19.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 19</a>
+  <a href="./thursday-trivia-2026-10-16.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 16</a>
+  <a href="./thursday-trivia-2026-10-15.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 15</a>
+  <a href="./thursday-trivia-2026-10-14.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 14</a>
+  <a href="./thursday-trivia-2026-10-13.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 13</a>
+  <a href="./thursday-trivia-2026-10-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 12</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">421.6</div>
+      <div class="nfl-team">Kansas City Chiefs — yards per game</div>
+      <div class="nfl-sub">2,108 total yards (11th in total) · 5 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Kansas City Chiefs</strong> — 421.6/g &nbsp;<span style="color:#777;">(2,108 yds, 5 GP)</span></li>
+        <li><span class="tag">2</span><strong>Carolina Panthers</strong> — 418.6/g &nbsp;<span style="color:#777;">(2,093 yds, 5 GP)</span></li>
+        <li><span class="tag">3</span><strong>Los Angeles Rams</strong> — 413.8/g &nbsp;<span style="color:#777;">(2,483 yds, 6 GP)</span></li>
+        <li><span class="tag">4</span><strong>Detroit Lions</strong> — 411.2/g &nbsp;<span style="color:#777;">(2,056 yds, 5 GP)</span></li>
+        <li><span class="tag">5</span><strong>Chicago Bears</strong> — 406.7/g &nbsp;<span style="color:#777;">(2,440 yds, 6 GP)</span></li>
+      </ul>
+      <p style="margin-top:10px;font-size:12.5px;color:#666;">Bar bet: the <strong>Rams lead the NFL in total yards (2,483)</strong> but are only 3rd per game. They've played one more game than Kansas City.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>355.0 yards per game, 13th</strong> in the NFL. <strong>1,775 total yards, 26th</strong>, but that's because they've played only 5 games after their Week 7 bye. Record: <strong>3–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Oct 25 at Baltimore, 1:00 p.m. ET</strong> on CBS.</div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Includes Monday night's 49ers 23, Commanders 17. Source: ESPN team-stats endpoint (own offense only, splitId 0), checked against ESPN's own rank order.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 16–18</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Street Fighter</strong> — $31.0M opening (3,575 theaters)</li>
+        <li>#2 You Can See Everything — $15.0M &nbsp;|&nbsp; #3 Other Mommy — ~$8.4M</li>
+        <li>#4 Whalefall — $8.0M &nbsp;|&nbsp; #5 Sense and Sensibility — $7.25M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> <em>Street Fighter</em> made <strong>$51.1M worldwide</strong> in its first weekend, on an $82M budget. IMAX and other premium screens brought in 58% of its U.S. weekend. Audiences gave it a <strong>B– CinemaScore</strong>. The bigger surprise was #2: <em>You Can See Everything</em> made $15M from only <strong>855 theaters</strong>, about $17,500 per screen. It goes wide this weekend.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Oct 23–25)</h3>
+        <ul>
+          <li><strong>Clayface</strong> — DC Studios horror spin-off about the shape-shifting Batman villain. Projected opening: $22–31M.</li>
+          <li><strong>Klara and the Sun</strong> — Taika Waititi directs Jenna Ortega and Amy Adams in Kazuo Ishiguro's story of a robot "Artificial Friend."</li>
+          <li><strong>Wildwood</strong> — Laika's stop-motion adventure, based on Colin Meloy's children's novel.</li>
+          <li><strong>Ali G: Who Iz I?</strong> — Sacha Baron Cohen's character returns. Also, <em>You Can See Everything</em> expands nationwide.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span><strong>The Rays win the AL pennant.</strong> They beat Cleveland 7–3 in Game 6 at Tropicana Field and took the ALCS 4–2, after trailing 2–1. Junior Caminero and Yandy Díaz each hit two-run homers. Díaz had guaranteed the win. <strong>Freddy Peralta</strong> was ALCS MVP (2–0, 0.75 ERA).</li>
+        <li><span class="tag">MLB</span><strong>World Series: Rays vs. Brewers.</strong> Neither team has ever won a title, so the champion will be a first-timer. <strong>Game 1 is Friday, Oct 23, in Milwaukee, 8 p.m. ET on FOX.</strong> The Brewers had MLB's best record and swept the Dodgers.</li>
+        <li><span class="tag">NFL</span>MNF: <strong>49ers 23, Commanders 17</strong>. Week 7 is complete. The Bengals were on bye and play at Baltimore Sunday. The Ravens lost 13–10 at Cleveland.</li>
+        <li><span class="tag">NCAA</span>New AP Top 5 after last Saturday's upsets: <strong>1. Miami, 2. BYU, 3. Ohio State, 4. Notre Dame, 5. Georgia.</strong> Georgia fell from No. 1 after losing to Auburn.</li>
+        <li><span class="tag">WNBA</span>Finals Game 2: <strong>Dream 79, Valkyries 65</strong>. Angel Reese had 30 points and 16 rebounds. The series is tied 1–1, and Game 3 is Wednesday in Atlanta.</li>
+        <li><span class="tag">NBA</span><strong>The season opens tonight.</strong> The Knicks get their rings and raise their first banner since 1973, against LeBron James in his 76ers debut (season 24). Also tonight: Celtics at Pistons, and Thunder at Spurs in a rematch of the West finals.</li>
+        <li><span class="tag">NHL</span>🏒 Blue Jackets host <strong>Toronto tonight at 7 p.m. ET</strong> and Vegas on Saturday.</li>
+        <li><span class="tag">Golf</span>The PGA Tour's fall swing moves to the <strong>Butterfield Bermuda Championship</strong> (Oct 22–25) at Port Royal.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Richard Riehle</strong>, 78 (announced Oct 19). Character actor who played Tom Smykowski, inventor of the "Jump to Conclusions" mat, in <em>Office Space</em>. Also Principal Ed Rooney on TV's <em>Ferris Bueller</em> and Grandpa Walt on <em>Grounded for Life</em>.</li>
+        <li><strong>Michael Forest</strong>, 97 (Oct 14). Played the Greek god Apollo in <em>Star Trek</em>'s "Who Mourns for Adonais?"</li>
+        <li><strong>Chuck Amato</strong>, 80 (Oct 19). Head coach at NC State, where he coached Philip Rivers, and longtime assistant to Bobby Bowden at Florida State.</li>
+        <li><strong>John Beake</strong>, 87 (Oct 17). Longtime Denver Broncos general manager during their John Elway–era Super Bowl teams.</li>
+        <li><strong>Ann Hornaday</strong>, 66 (Oct 18). Chief film critic of <em>The Washington Post</em>.</li>
+        <li><strong>Sahara Ray</strong>, 34 (announced Oct 19). Australian model and swimwear designer, daughter of surfer Tony Ray.</li>
+        <li><strong>Richard E. Holmes</strong>, 82 (Oct 16). Physician who integrated Mississippi State in 1965 as its first Black student.</li>
+        <li>Also: <strong>Benito di Paula</strong>, 84, Brazilian samba singer (Oct 18); <strong>Deva</strong>, 75, Tamil film composer (Oct 17); <strong>Mr. Whitekeys</strong>, 79, Anchorage comic musician (Oct 19); <strong>Cliff Hagan</strong>, 94, and <strong>Noah Adams</strong>, 84 (Oct 15–16).</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — October 20</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1973</strong> — <strong>The "Saturday Night Massacre."</strong> Nixon ordered Watergate special prosecutor Archibald Cox fired. Attorney General Elliot Richardson and his deputy, William Ruckelshaus, both resigned rather than do it. Solicitor General <strong>Robert Bork</strong> fired Cox.</li>
+        <li><strong>1944</strong> — <strong>MacArthur wades ashore at Leyte</strong>: "People of the Philippines, I have returned." The Battle of Leyte Gulf, probably the largest naval battle in history, began days later.</li>
+        <li><strong>1973</strong> — On the same day as the firings, <strong>Queen Elizabeth II opened the Sydney Opera House</strong>. It was 10 years late and cost A$102 million against a A$7 million estimate.</li>
+        <li style="color:#666;">Also: a <strong>Lynyrd Skynyrd</strong> plane crash near Gillsburg, Mississippi, killed Ronnie Van Zant and Steve and Cassie Gaines (1977). The band had released <em>Street Survivors</em>, with flames on the cover, three days earlier. Jacqueline Kennedy married Aristotle Onassis on Skorpios (1968).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Oct 20</h3>
+        <ul>
+          <li>🎉 National Chicken &amp; Waffles Day · International Chefs Day</li>
+          <li>🎉 National Day on Writing · National Pharmacy Technician Day</li>
+          <li>🎉 National Brandied Fruit Day · World Osteoporosis Day</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Alberta rejected separation.</strong> In early results from the province's first-ever vote on the question, about <strong>77%</strong> chose to stay in Canada. PM Mark Carney called it a "clear choice" for unity. Premier Danielle Smith said she voted no.</li>
+        <li><strong>"No Kings" protests:</strong> organizers counted millions of people at more than 3,000 events in all 50 states, aimed at getting voters out for the Nov 3 midterms.</li>
+        <li><strong>France:</strong> hundreds of thousands protested over living costs and education cuts in more than 140 cities. About 2,400 people were arrested.</li>
+        <li><strong>Israel votes Oct 27.</strong> Trump endorsed Benjamin Netanyahu, whose coalition is polling short of a majority.</li>
+        <li><strong>Brazil:</strong> Lula and Flávio Bolsonaro held their only debate before the presidential runoff.</li>
+        <li><strong>Ukraine</strong> launched more than 1,000 drones at Russian regions. Russia struck Kyiv again and cut power to many homes.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 World Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇻🇪 Simón Bolívar was born in this South American capital in 1783.</span><br><span class="a">Caracas, Venezuela</span></p>
+      <p><span class="q">🇸🇸 The world's newest UN-recognized country became independent in 2011. What is its capital?</span><br><span class="a">Juba, South Sudan</span></p>
+      <p><span class="q">🇨🇩 Ali and Foreman's 1974 "Rumble in the Jungle" was fought in this capital, which was then called the capital of Zaire. (Hard)</span><br><span class="a">Kinshasa, Democratic Republic of the Congo (the city across the river, Brazzaville, is the capital of the <em>other</em> Congo)</span></p>
+      <p><span class="q">🇨🇲 Cameroon's biggest city and main port is Douala. What is its capital? (Hard)</span><br><span class="a">Yaoundé</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Richard Riehle played Principal Ed Rooney on NBC's 1990 <em>Ferris Bueller</em> series. Who played Ferris? Bonus: which future <em>Friends</em> star played his sister Jeannie?</span><br><span class="a">Charlie Schlatter; Jennifer Aniston</span></p>
+      <p><span class="q">On <em>Hazel</em> (1961–66), who played George Baxter, the lawyer Hazel called "Mr. B"?</span><br><span class="a">Don DeFore (Shirley Booth played Hazel)</span></p>
+      <p><span class="q">On <em>Barnaby Jones</em> (1973–80), which 1955 Miss America played Barnaby's daughter-in-law and partner, Betty? She also played Catwoman in the 1966 <em>Batman</em> movie.</span><br><span class="a">Lee Meriwether</span></p>
+      <p><span class="q">On <em>In Living Color</em> (1990–94), who played the badly burned safety officer Fire Marshal Bill ("Let me show you something!")?</span><br><span class="a">Jim Carrey</span></p>
+      <p><span class="q">Who played magazine publisher Khadijah James on Fox's <em>Living Single</em> (1993–98)?</span><br><span class="a">Queen Latifah (Dana Owens)</span></p>
+      <p><span class="q">On <em>Star Trek: Voyager</em> (1995–2001), who played the Doctor, an emergency medical hologram? (Hard)</span><br><span class="a">Robert Picardo (Kate Mulgrew played Capt. Janeway)</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">The Sydney Opera House opened 53 years ago today. Which Danish architect designed it? He quit in 1966 and never saw it finished.</span><br><span class="a">Jørn Utzon (Pritzker Prize, 2003)</span></p>
+      <p><span class="q">Born Oct 20, 1854, this French poet wrote "Le Bateau ivre" and gave up poetry by about age 21. His lover Paul Verlaine shot him in the wrist in 1873.</span><br><span class="a">Arthur Rimbaud</span></p>
+      <p><span class="q">Born Oct 20, 1874, this composer made his money selling insurance and won the 1947 Pulitzer Prize for his Symphony No. 3. (Hard)</span><br><span class="a">Charles Ives</span></p>
+      <p><span class="q">Philosopher John Dewey was born on this date in 1859. Did he create the Dewey Decimal System?</span><br><span class="a">No. Librarian Melvil Dewey created it, in 1876.</span></p>
+      <p><span class="q">Which author wrote the Nebraska prairie novels <em>O Pioneers!</em> and <em>My Ántonia</em>?</span><br><span class="a">Willa Cather (Pulitzer for <em>One of Ours</em>, 1923)</span></p>
+      <p><span class="q">Laika's <em>Wildwood</em>, opening Friday, is based on a children's book by the lead singer of which indie-rock band?</span><br><span class="a">The Decemberists (Colin Meloy; illustrated by his wife, Carson Ellis)</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">For Pharmacy Technician Day: Charles Walgreen bought his first drugstore in 1901 in which city? A Walgreens employee also made what popular soda-fountain treat in 1922?</span><br><span class="a">Chicago; the malted milkshake (Ivar "Pop" Coulson)</span></p>
+      <p><span class="q">CVS started in Lowell, Massachusetts, in 1963. What did the letters originally stand for?</span><br><span class="a">Consumer Value Stores</span></p>
+      <p><span class="q">For Chicken &amp; Waffles Day: the Dorsey brothers of San Jose first sold this frozen waffle in 1953 as "Froffles." What brand did they rename it, for its eggy taste?</span><br><span class="a">Eggo ("L'Eggo my Eggo!")</span></p>
+      <p><span class="q">A Lynchburg, Virginia, doctor invented this lip balm in the 1880s. In 1912 the rights were sold for $5. What is it?</span><br><span class="a">ChapStick (Dr. Charles Browne Fleet)</span></p>
+      <p><span class="q">Which Nintendo engineer led the team that made the 1989 Game Boy, which came with <em>Tetris</em>?</span><br><span class="a">Gunpei Yokoi</span></p>
+      <p><span class="q">This Scottish scientist invented the vacuum flask in 1892 but never patented it. Germany's Thermos company later made money from it. (Hard)</span><br><span class="a">Sir James Dewar (the "Dewar flask")</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Food</span>For International Chefs Day: tradition says a chef's tall white <strong>toque</strong> has <strong>100 pleats</strong>, one for each way to cook an egg.</li>
+        <li><span class="tag">Food</span><strong>Chicken and waffles</strong> as a dish is usually traced to Harlem's <strong>Wells Supper Club</strong> in 1938. It fed jazz musicians coming off late gigs, when it was too late for dinner and too early for breakfast.</li>
+        <li><span class="tag">Movies</span><strong>Bela Lugosi</strong> was born on this date in 1882, in Lugos, Hungary. He named himself after his hometown and was <strong>buried in his Dracula cape</strong> in 1956.</li>
+        <li><span class="tag">Sports</span><strong>Mickey Mantle</strong> was born Oct 20, 1931. His father named him after the Hall of Fame catcher <strong>Mickey Cochrane</strong>. Mantle still holds the record for World Series home runs, with <strong>18</strong>.</li>
+        <li><span class="tag">Music</span><strong>Tom Petty</strong> was born Oct 20, 1950, in Gainesville. At age 10 he <strong>met Elvis</strong> on the Florida set of <em>Follow That Dream</em> (1961).</li>
+        <li><span class="tag">Music</span><strong>Snoop Dogg</strong> (Calvin Broadus Jr.) turns 55 today. His mother called him "Snoopy" because he loved the <em>Peanuts</em> beagle.</li>
+        <li><span class="tag">Did You Know</span>To <strong>"bork"</strong> someone, meaning to block a nominee with a public attack, comes from Robert Bork. He fired Cox in 1973, and the Senate rejected his Supreme Court nomination 58–42 in 1987.</li>
+        <li><span class="tag">Geography</span>The Sydney Opera House's sails are covered in <strong>1,056,006 self-cleaning tiles</strong>, made in Sweden.</li>
+        <li><span class="tag">Geography</span>Alberta, which just voted to stay in Canada, has been <strong>essentially rat-free since the 1950s</strong>. A provincial "rat patrol" guards its eastern border.</li>
+        <li><span class="tag">Did You Know</span>The UN's <strong>World Statistics Day</strong> is held only <strong>every five years</strong>, on Oct 20 (2010, 2015, 2020, 2025). The next one is in 2030.</li>
+        <li><span class="tag">Baseball</span>The Rays lost the 2008 World Series to the Phillies and the 2020 Series to the Dodgers. The Brewers lost their only Series, in 1982, to the Cardinals. One of them wins its first title this year.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Oct 20 edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">You Don't Know How It Feels</div>
+          <div class="song-meta">Tom Petty (born Oct 20, 1950) · 1994 · <em>Wildflowers</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/you-dont-know-how-it-feels/892018539?i=892018547" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Drop It Like It's Hot</div>
+          <div class="song-meta">Snoop Dogg ft. Pharrell (born Oct 20, 1971) · 2004 · <em>R&amp;G (Rhythm &amp; Gangsta): The Masterpiece</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/drop-it-like-its-hot-feat-pharrell-williams/1443395920?i=1443396469" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">All Summer Long</div>
+          <div class="song-meta">Kid Rock (samples Skynyrd's "Sweet Home Alabama") · 2008 single · <em>Rock N Roll Jesus</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/all-summer-long/324975086?i=324975210" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">U.N.I.T.Y.</div>
+          <div class="song-meta">Queen Latifah (Grammy, Best Rap Solo) · 1993 · <em>Black Reign</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/u-n-i-t-y/1443227533?i=1443227554" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Somebody Told Me</div>
+          <div class="song-meta">The Killers · 2004 · <em>Hot Fuss</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/somebody-told-me/1526194184?i=1526194195" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Sugar, We're Goin Down</div>
+          <div class="song-meta">Fall Out Boy · 2005 · <em>From Under the Cork Tree</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/sugar-were-goin-down/1440748840?i=1440749374" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
