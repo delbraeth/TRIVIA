@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 20 | Venezuela | Caracas (Simón Bolívar born there 1783) |
+| Oct 20 | South Sudan | Juba (newest UN-recognized country, independent 2011) |
+| Oct 20 | Democratic Republic of the Congo | Kinshasa (Ali–Foreman Rumble in the Jungle 1974, then Zaire; Brazzaville is the other Congo's capital) |
+| Oct 20 | Cameroon | Yaoundé (not Douala, largest city and port) |
 | Oct 19 | Alberta (Canada) | Edmonton (province capital; Calgary larger; separation-referendum vote Oct 19, 2026) |
 | Oct 19 | Iceland | Reykjavík (northernmost sovereign capital; Höfði House Reagan–Gorbachev summit Oct 1986) |
 | Oct 19 | The Gambia | Banjul (on St. Mary's Island; called Bathurst until 1973; smallest mainland African country) |
@@ -209,6 +213,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 20 | Ferris Bueller (1990–91) | Ferris Bueller | Charlie Schlatter (Jennifer Aniston as sister Jeannie; Richard Riehle as Principal Ed Rooney) |
+| Oct 20 | Hazel (1961–66) | George "Mr. B" Baxter | Don DeFore |
+| Oct 20 | Barnaby Jones (1973–80) | Betty Jones | Lee Meriwether (Miss America 1955; Catwoman in 1966 Batman film) |
+| Oct 20 | In Living Color (1990–94) | Fire Marshal Bill | Jim Carrey |
+| Oct 20 | Living Single (1993–98) | Khadijah James | Queen Latifah |
+| Oct 20 | Star Trek: Voyager (1995–2001) | The Doctor (EMH) | Robert Picardo |
 | Oct 19 | Hey Vern, It's Ernest! (1988) | Ernest P. Worrell | Jim Varney (born Lexington KY; Daytime Emmy) |
 | Oct 19 | Pee-wee's Playhouse (1986–90) | Cowboy Curtis | Laurence Fishburne (Paul Reubens as Pee-wee; Phil Hartman as Captain Carl) |
 | Oct 19 | Buck Rogers in the 25th Century (1979–81) | Buck Rogers | Gil Gerard (Twiki voiced by Mel Blanc) |
@@ -486,6 +496,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 20 | Sydney Opera House architect (opened Oct 20, 1973) | Jørn Utzon (quit 1966; Pritzker 2003) |
+| Oct 20 | French poet born Oct 20, 1854; "Le Bateau ivre"; shot by Verlaine | Arthur Rimbaud |
+| Oct 20 | Composer born Oct 20, 1874; insurance man; 1947 Pulitzer for Symphony No. 3 | Charles Ives |
+| Oct 20 | Did John Dewey (born Oct 20, 1859) create the Dewey Decimal System? | No — Melvil Dewey, 1876 |
+| Oct 20 | O Pioneers! / My Ántonia author | Willa Cather (Pulitzer for One of Ours, 1923) |
+| Oct 20 | Wildwood (Laika) book author's band | The Decemberists (Colin Meloy; illus. Carson Ellis) |
 | Oct 19 | George Smiley creator, born David Cornwell Oct 19, 1931 | John le Carré |
 | Oct 19 | His Dark Materials author born Oct 19, 1946; soul companions | Philip Pullman; daemons (Lyra Belacqua) |
 | Oct 19 | Gulliver's Travels / A Modest Proposal, died Oct 19, 1745 | Jonathan Swift |
@@ -761,6 +777,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 20 | Food | Chef's toque 100 pleats = 100 ways to cook an egg (International Chefs Day) |
+| Oct 20 | Food | Chicken and waffles traced to Wells Supper Club, Harlem, 1938 |
+| Oct 20 | Movies | Bela Lugosi born Oct 20, 1882 in Lugos; buried in Dracula cape 1956 |
+| Oct 20 | Sports | Mickey Mantle born Oct 20, 1931, named for Mickey Cochrane; record 18 WS HRs |
+| Oct 20 | Music | Tom Petty born Oct 20, 1950; met Elvis on Follow That Dream set 1961 |
+| Oct 20 | Music | Snoop Dogg (Calvin Broadus Jr.) born Oct 20, 1971; "Snoopy" nickname from mother |
+| Oct 20 | Language | "Bork" from Robert Bork (Saturday Night Massacre 1973; rejected 58–42 in 1987) |
+| Oct 20 | Geography | Sydney Opera House sails: 1,056,006 Swedish self-cleaning tiles |
+| Oct 20 | Geography | Alberta essentially rat-free since 1950s; rat patrol on eastern border |
+| Oct 20 | Did You Know | UN World Statistics Day only every five years (2010–2025); next 2030 |
+| Oct 20 | Baseball | Rays (lost 2008, 2020) vs Brewers (lost 1982): first-time champion guaranteed |
 | Oct 19 | Geography | Kentucky one of four commonwealths (MA, PA, VA) |
 | Oct 19 | History | Lincoln and Jefferson Davis both born in Kentucky, <1 year and ~100 mi apart |
 | Oct 19 | Science | Tonic water glows under black light (quinine fluorescence) |
@@ -1312,6 +1339,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 20 | October 20 (Saturday Night Massacre 1973 — Richardson & Ruckelshaus resign, Bork fires Cox; MacArthur lands at Leyte 1944, "I have returned"; Sydney Opera House opened by Elizabeth II 1973, A$102M vs A$7M; also Lynyrd Skynyrd plane crash 1977, Jackie Kennedy marries Onassis 1968) |
 | Oct 19 | October 19 (Cornwallis surrenders at Yorktown 1781 — 245th anniv, O'Hara/Rochambeau/Benjamin Lincoln; Black Monday 1987, Dow −508 / −22.6%; St. Albans Raid 1864 and Cedar Creek; also Ferdinand & Isabella marry 1469) |
 | Oct 16 | October 16 (Cuban Missile Crisis begins 1962 — JFK shown U-2 photos; Smith & Carlos fists at Mexico City Olympics 1968; Marie Antoinette guillotined 1793; also Westminster fire 1834, Harpers Ferry raid 1859, Disney founded 1923, FAO 1945, John Paul II elected 1978, Million Man March 1995) |
 | Oct 15 | October 15 (I Love Lucy premieres 1951 — 75th anniv; Kirk Gibson walk-off HR WS Game 1 1988 off Eckersley; Mata Hari executed 1917; also DOT created 1966, Göring suicide 1946) |
@@ -1365,6 +1393,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 20 | National Chicken & Waffles Day; International Chefs Day; National Day on Writing; National Pharmacy Technician Day; National Brandied Fruit Day; World Osteoporosis Day |
 | Oct 19 | National Kentucky Day; National Seafood Bisque Day; National Clean Your Virtual Desktop Day; National LGBT Center Awareness Day; International Gin & Tonic Day; World Pediatric Bone & Joint Day; Nuclear Science Week; Wolf Awareness Week |
 | Oct 16 | National Boss's Day; Dictionary Day; National Liqueur Day; Department Store Day; National Sports Day; World Food Day; Global Cat Day; World Spine Day; World Restart a Heart Day |
 | Oct 15 | National I Love Lucy Day; National Grouch Day; National Shawarma Day; National Cheese Curd Day; National Mushroom Day; National Real Sugar Day; White Cane Safety Day; Global Handwashing Day; Get to Know Your Customers Day; International Day of Rural Women |
@@ -1426,6 +1455,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 20 | Walgreens first store city (1901); 1922 soda-fountain creation | Chicago; malted milkshake (Ivar "Pop" Coulson) |
+| Oct 20 | CVS original name (Lowell MA, 1963) | Consumer Value Stores |
+| Oct 20 | Frozen waffle first sold as "Froffles" (Dorsey brothers, San Jose, 1953) | Eggo |
+| Oct 20 | Lip balm by Lynchburg VA doctor, 1880s; rights sold for $5 in 1912 | ChapStick (Dr. Charles Browne Fleet) |
+| Oct 20 | Nintendo Game Boy (1989) lead engineer | Gunpei Yokoi |
+| Oct 20 | Vacuum flask inventor (1892, unpatented; Thermos) | Sir James Dewar |
 | Oct 19 | Geneva 1783 brand by watchmaker Johann Jacob Schweppe | Schweppes |
 | Oct 19 | Kentucky city building every Corvette since 1981 | Bowling Green (museum sinkhole 2014) |
 | Oct 19 | 1884 bat for Pete Browning by Bud Hillerich | Louisville Slugger |
@@ -1694,6 +1729,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 20 | You Don't Know How It Feels | Tom Petty | 1994 | Wildflowers |
+| Oct 20 | Drop It Like It's Hot | Snoop Dogg ft. Pharrell | 2004 | R&G (Rhythm & Gangsta): The Masterpiece |
+| Oct 20 | All Summer Long | Kid Rock | 2008 | Rock N Roll Jesus |
+| Oct 20 | U.N.I.T.Y. | Queen Latifah | 1993 | Black Reign |
+| Oct 20 | Somebody Told Me | The Killers | 2004 | Hot Fuss |
+| Oct 20 | Sugar, We're Goin Down | Fall Out Boy | 2005 | From Under the Cork Tree |
 | Oct 19 | Fast as You | Dwight Yoakam | 1993 | This Time |
 | Oct 19 | Golden | My Morning Jacket | 2003 | It Still Moves |
 | Oct 19 | Love Can Build a Bridge | The Judds | 1990 | Love Can Build a Bridge |
@@ -3322,4 +3363,18 @@ MLB (MLB Stats API): ALCS G4 Rays 7-3, G5 Rays 3-1 (Rasmussen 7 IP, Baker save),
 ### Notes
 Monday run (daily cadence; fired ~11:05 UTC). Oct 19 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs (Kentucky Day theme): Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API.
 
-_Last updated: October 19, 2026_
+## October 20, 2026 (v90)
+
+### NFL
+After Week 7 complete (MNF 49ers 23, Commanders 17). ESPN byteam, splitId 0: Kansas City Chiefs 421.6 yds/g (2,108 total, 5 GP, 11th in total); top 5 Chiefs / Panthers 418.6 / Rams 413.8 (2,483 total, No. 1 in total, 6 GP) / Lions 411.2 / Bears 406.7. Bengals 355.0 yds/g 13th, 1,775 total 26th; 3-2, Week 7 bye. Next: Sun Oct 25 at Baltimore 1:00 p.m. ET CBS.
+
+### Box Office
+Weekend Oct 16-18 (same weekend as Oct 19 run): #1 Street Fighter $31.0M; You Can See Everything $15.0M (855 theaters); Other Mommy ~$8.4M; Whalefall $8.0M; Sense and Sensibility $7.25M. Fun fact used: $51.1M global vs $82M budget, 58% PLF/IMAX, B- CinemaScore; You Can See Everything ~$17.5K per screen. Coming Oct 23-25: Clayface ($22-31M tracking), Klara and the Sun, Wildwood, Ali G: Who Iz I?, You Can See Everything wide.
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): ALCS G6 Rays 7-3 Guardians at Tropicana Field, TB wins 4-2 (Caminero and Yandy Diaz 2-run HRs; Kevin Kelly K'd Rocchio bases loaded in 8th); Freddy Peralta ALCS MVP (2-0, 0.75); WS Rays vs Brewers, G1 Fri Oct 23 8 ET FOX at MIL; first-time champion guaranteed. NFL MNF 49ers 23-17 WSH. AP Week 8 top 5: Miami, BYU, Ohio State, Notre Dame, Georgia. WNBA Finals G2 Dream 79-65 Valkyries (Angel Reese 30 pts/16 reb), 1-1, G3 Wed in Atlanta. NBA opens Oct 20 (Knicks ring night vs 76ers/LeBron debut; Celtics at Pistons; Thunder at Spurs). NHL: CBJ host TOR Oct 20, VGK Oct 24. Golf: Butterfield Bermuda Championship Oct 22-25. Deaths: Richard Riehle 78, Michael Forest 97, Chuck Amato 80, John Beake 87, Ann Hornaday 66, Sahara Ray 34, Richard E. Holmes 82, Benito di Paula 84, Deva 75, Mr. Whitekeys 79; also Hagan, Noah Adams. Current events: Alberta rejects separation ~77% remain (Carney "clear choice"); No Kings protests 3,000+ events; France protests ~2,400 arrests; Trump endorses Netanyahu before Oct 27 Israel vote; Lula vs Flavio Bolsonaro runoff debate; Ukraine 1,000+ drones at Russia, Russian strikes on Kyiv.
+
+### Notes
+Tuesday run (daily cadence; fired ~11:03 UTC). Oct 20 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (Queen Latifah artist ID via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API. Original Petty pick Mary Jane's Last Dance swapped for You Don't Know How It Feels (no verifiable Spotify ID found). Pruned thursday-trivia-2026-10-09.html per the 7-file archive window.
+
+_Last updated: October 20, 2026_
