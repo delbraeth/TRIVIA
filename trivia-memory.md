@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 21 | Libya | Tripoli ("shores of Tripoli" in the Marines' Hymn, First Barbary War) |
+| Oct 21 | Uganda | Kampala (not Entebbe, colonial-era capital and 1976 raid site) |
+| Oct 21 | Mali | Bamako (on the Niger; not Timbuktu) |
+| Oct 21 | Syria | Damascus (oldest continuously inhabited capital claim; "road to Damascus") |
 | Oct 20 | Venezuela | Caracas (Simón Bolívar born there 1783) |
 | Oct 20 | South Sudan | Juba (newest UN-recognized country, independent 2011) |
 | Oct 20 | Democratic Republic of the Congo | Kinshasa (Ali–Foreman Rumble in the Jungle 1974, then Zaire; Brazzaville is the other Congo's capital) |
@@ -213,6 +217,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 21 | Police Squad! (1982) | Lt. Frank Drebin | Leslie Nielsen (6 episodes, became The Naked Gun) |
+| Oct 21 | Tales from the Crypt (1989–96) | The Crypt Keeper | John Kassir (voice) |
+| Oct 21 | Sabrina the Teenage Witch (1996–2003) | Sabrina Spellman | Melissa Joan Hart (Nick Bakay voiced Salem) |
+| Oct 21 | Eerie, Indiana (1991–92) | Marshall Teller | Omri Katz (Max in Hocus Pocus) |
+| Oct 21 | Charles in Charge (1984–90) | Charles | Scott Baio (Willie Aames as Buddy) |
+| Oct 21 | The Ghost & Mrs. Muir (1968–70) | Capt. Daniel Gregg | Edward Mulhare (Hope Lange two Emmys as Carolyn Muir) |
 | Oct 20 | Ferris Bueller (1990–91) | Ferris Bueller | Charlie Schlatter (Jennifer Aniston as sister Jeannie; Richard Riehle as Principal Ed Rooney) |
 | Oct 20 | Hazel (1961–66) | George "Mr. B" Baxter | Don DeFore |
 | Oct 20 | Barnaby Jones (1973–80) | Betty Jones | Lee Meriwether (Miss America 1955; Catwoman in 1966 Batman film) |
@@ -496,6 +506,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 21 | Earthsea wizard Ged ("Sparrowhawk") creator, born Oct 21, 1929 | Ursula K. Le Guin |
+| Oct 21 | Nelson's Trafalgar signal "England expects that every man…" | "…will do his duty" |
+| Oct 21 | Sense and Sensibility Dashwood sisters; 1811 author credit | Elinor and Marianne; "By a Lady" (Jane Austen) |
+| Oct 21 | Bebop trumpeter born Oct 21, 1917, Cheraw SC (bent horn, A Night in Tunisia) | Dizzy Gillespie |
+| Oct 21 | The Sorcerer's Apprentice (1897, Fantasia) composer | Paul Dukas (after Goethe) |
+| Oct 21 | Frank Lloyd Wright house over a waterfall | Fallingwater (Mill Run PA, Kaufmann family) |
 | Oct 20 | Sydney Opera House architect (opened Oct 20, 1973) | Jørn Utzon (quit 1966; Pritzker 2003) |
 | Oct 20 | French poet born Oct 20, 1854; "Le Bateau ivre"; shot by Verlaine | Arthur Rimbaud |
 | Oct 20 | Composer born Oct 20, 1874; insurance man; 1947 Pulitzer for Symphony No. 3 | Charles Ives |
@@ -777,6 +793,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 21 | Space | Phobos and Deimos = "fear" and "dread"; both found by Asaph Hall, US Naval Observatory, 1877 |
+| Oct 21 | Space | Phobos orbits Mars ~3 times a day and is spiraling inward |
+| Oct 21 | Movies | Back to the Future Part II predicted Cubs winning 2015 WS (Mets swept them in NLCS; Cubs won 2016) |
+| Oct 21 | Movies | Eric Stoltz originally cast as Marty McFly, replaced after ~6 weeks |
+| Oct 21 | Animals | Hagfish slime; hagfish tie themselves in knots to escape it (Hagfish Day) |
+| Oct 21 | Animals | Komodo dragon largest living lizard, ~10 ft, 150+ lb |
+| Oct 21 | Animals | Tuatara not a lizard; last of an ancient reptile order; parietal "third eye" |
+| Oct 21 | Science | Iodine discovered 1811 by Bernard Courtois in seaweed ash while making saltpeter |
+| Oct 21 | Did You Know | Oil barrel = 42 US gallons (Pennsylvania 1860s standard) |
+| Oct 21 | History | Nelson's body preserved in a cask of brandy after Trafalgar ("tapping the admiral") |
 | Oct 20 | Food | Chef's toque 100 pleats = 100 ways to cook an egg (International Chefs Day) |
 | Oct 20 | Food | Chicken and waffles traced to Wells Supper Club, Harlem, 1938 |
 | Oct 20 | Movies | Bela Lugosi born Oct 20, 1882 in Lugos; buried in Dracula cape 1956 |
@@ -1339,6 +1365,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 21 | October 21 (Battle of Trafalgar 1805 — Nelson killed aboard HMS Victory, 27 vs 33 ships, none British lost; Edison carbon cotton-thread filament burns ~13½ hours at Menlo Park 1879; Guggenheim Museum opens 1959, Wright died six months earlier; also Aberfan disaster 1966, 144 dead incl. 116 children; BTTF Part II date 2015) |
 | Oct 20 | October 20 (Saturday Night Massacre 1973 — Richardson & Ruckelshaus resign, Bork fires Cox; MacArthur lands at Leyte 1944, "I have returned"; Sydney Opera House opened by Elizabeth II 1973, A$102M vs A$7M; also Lynyrd Skynyrd plane crash 1977, Jackie Kennedy marries Onassis 1968) |
 | Oct 19 | October 19 (Cornwallis surrenders at Yorktown 1781 — 245th anniv, O'Hara/Rochambeau/Benjamin Lincoln; Black Monday 1987, Dow −508 / −22.6%; St. Albans Raid 1864 and Cedar Creek; also Ferdinand & Isabella marry 1469) |
 | Oct 16 | October 16 (Cuban Missile Crisis begins 1962 — JFK shown U-2 photos; Smith & Carlos fists at Mexico City Olympics 1968; Marie Antoinette guillotined 1793; also Westminster fire 1834, Harpers Ferry raid 1859, Disney founded 1923, FAO 1945, John Paul II elected 1978, Million Man March 1995) |
@@ -1393,6 +1420,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 21 | Back to the Future Day; National Apple Day; International Nacho Day; National Pumpkin Cheesecake Day; National Reptile Awareness Day; Hagfish Day; National Witch Hazel Day; World Iodine Deficiency Day; Support Your Local Chamber of Commerce Day; Medical Assistants Recognition Day |
 | Oct 20 | National Chicken & Waffles Day; International Chefs Day; National Day on Writing; National Pharmacy Technician Day; National Brandied Fruit Day; World Osteoporosis Day |
 | Oct 19 | National Kentucky Day; National Seafood Bisque Day; National Clean Your Virtual Desktop Day; National LGBT Center Awareness Day; International Gin & Tonic Day; World Pediatric Bone & Joint Day; Nuclear Science Week; Wolf Awareness Week |
 | Oct 16 | National Boss's Day; Dictionary Day; National Liqueur Day; Department Store Day; National Sports Day; World Food Day; Global Cat Day; World Spine Day; World Restart a Heart Day |
@@ -1455,6 +1483,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 21 | DMC-12 company founder; where built | John DeLorean (DeLorean Motor Co., 1975); Dunmurry, near Belfast |
+| Oct 21 | Theron Pond's 1846 Utica NY witch hazel tonic became | Pond's (Pond's Extract; later cold cream) |
+| Oct 21 | Company selling iodized salt nationally from 1924 | Morton Salt |
+| Oct 21 | Airline started Waterford–Gatwick 1985 with a 15-seat plane | Ryanair (founded 1984, Tony Ryan) |
+| Oct 21 | Revolut founding city/year | London, 2015 (Storonsky and Yatsenko) |
+| Oct 21 | First US chamber of commerce (1768) meeting place | Fraunces Tavern (New York Chamber of Commerce) |
 | Oct 20 | Walgreens first store city (1901); 1922 soda-fountain creation | Chicago; malted milkshake (Ivar "Pop" Coulson) |
 | Oct 20 | CVS original name (Lowell MA, 1963) | Consumer Value Stores |
 | Oct 20 | Frozen waffle first sold as "Froffles" (Dorsey brothers, San Jose, 1953) | Eggo |
@@ -1729,6 +1763,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 21 | Criminal | Fiona Apple | 1996 |
+| Oct 21 | Good Riddance (Time of Your Life) | Green Day | 1997 |
+| Oct 21 | Time Is Running Out | Muse | 2003 |
+| Oct 21 | Don't Stop the Music | Rihanna | 2007 |
+| Oct 21 | Heart-Shaped Box | Nirvana | 1993 |
 | Oct 20 | You Don't Know How It Feels | Tom Petty | 1994 | Wildflowers |
 | Oct 20 | Drop It Like It's Hot | Snoop Dogg ft. Pharrell | 2004 | R&G (Rhythm & Gangsta): The Masterpiece |
 | Oct 20 | All Summer Long | Kid Rock | 2008 | Rock N Roll Jesus |
@@ -3377,4 +3416,18 @@ MLB (MLB Stats API): ALCS G6 Rays 7-3 Guardians at Tropicana Field, TB wins 4-2 
 ### Notes
 Tuesday run (daily cadence; fired ~11:03 UTC). Oct 20 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (Queen Latifah artist ID via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API. Original Petty pick Mary Jane's Last Dance swapped for You Don't Know How It Feels (no verifiable Spotify ID found). Pruned thursday-trivia-2026-10-09.html per the 7-file archive window.
 
-_Last updated: October 20, 2026_
+## October 21, 2026 (v91)
+
+### NFL
+No games since MNF; same board as Oct 20. ESPN byteam, splitId 0: Kansas City Chiefs 421.6 yds/g (2,108 total, 5 GP, 11th in total); top 5 Chiefs / Panthers 418.6 / Rams 413.8 (2,483 total, No. 1 in total, 6 GP) / Lions 411.2 / Bears 406.7. Ravens 7th 384.2. Bengals 355.0 yds/g 13th, 1,775 total 26th; 3-2. Next: Sun Oct 25 at Baltimore 1:00 p.m. ET CBS.
+
+### Box Office
+Weekend Oct 16-18 actuals (The Numbers): #1 Street Fighter $30.8M (3,575 theaters); You Can See Everything $15.6M; Other Mommy $8.2M ($44.7M); Whalefall $7.8M; Sense and Sensibility $7.2M. Fun fact used: set in 1993; Roman Reigns (Akuma), Cody Rhodes (Guile), 50 Cent (Balrog), Jason Momoa (Blanka); shot in Australia as "Punch". Coming Oct 23-25: Clayface ($23-33M, James Watkins, Tom Rhys Harries), Klara and the Sun, Wildwood (Travis Knight), Ali G: Who Iz I?
+
+### Sports / Deaths / Current Events
+NBA opening night Oct 20: 76ers 106-100 at Knicks (Maxey 28, Brown 19, LeBron 14/9/7); Pistons 121-113 Celtics (Paul George 38 for BOS); Thunder 116-104 at Spurs (SGA 32). MLB WS Rays vs Brewers G1 Fri Oct 23 at MIL. MLS: Columbus 2-0 at FC Cincinnati Oct 18 (Tapia, Habroune; FCC 23 shots), FCC last East wild-card spot, 4 games left; US Open Cup final Columbus vs St. Louis City Wed Oct 21 8 ET. WNBA Finals 1-1, G3 Wed in Atlanta. NCAA: Bearcats host Texas Tech Sat noon. NHL: Leafs 6-2 at CBJ; Celebrini 2 incl. OT winner at MTL. Tennis: Davidovich Fokina won Shanghai over Jodar. LPGA: Ruoning Yin defends Buick Shanghai. Deaths: Hiroshi Tsuchida 54, Early Voting 7 (2022 Preakness), Antonio Grimau 82, Lua Blanco 39, Kenneth Atchity 82, Karthik Sabesh 37; also Riehle, Forest, Amato, Hornaday, Hilkka Kinnunen 101. Current events: 12.6M early votes by Oct 20 (Georgia 1M+, Dallas County record); oil above $110; UK jets for Saudi defense vs Houthis; Zelenskyy calls for trilateral talks after Oslo meeting; Spain DANA floods (5 dead), Storm Adam, Marseille/Corsica floods; Japan MMX launch to Phobos (IDEFIX rover, return 2031); Albania protests; Revolut outage.
+
+### Notes
+Wednesday run (daily cadence; fired ~11:03 UTC). Oct 21 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 5 songs: Spotify IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search/Lookup API. Disturbia and This Is Halloween dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
+
+_Last updated: October 21, 2026_
