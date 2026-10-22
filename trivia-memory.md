@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 22 | Sudan | Khartoum (confluence of Blue and White Nile) |
+| Oct 22 | Thailand | Bangkok (Krung Thep; longest ceremonial place name) |
+| Oct 22 | Algeria | Algiers (Casbah; The Battle of Algiers, 1966) |
+| Oct 22 | Kuwait | Kuwait City (Kuwaiti dinar, highest-valued currency unit) |
 | Oct 21 | Libya | Tripoli ("shores of Tripoli" in the Marines' Hymn, First Barbary War) |
 | Oct 21 | Uganda | Kampala (not Entebbe, colonial-era capital and 1976 raid site) |
 | Oct 21 | Mali | Bamako (on the Niger; not Timbuktu) |
@@ -217,6 +221,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 22 | Tenspeed and Brown Shoe (1980) | Lionel "Brown Shoe" Whitney | Jeff Goldblum (Ben Vereen as Tenspeed; born Oct 22, 1952) |
+| Oct 22 | The Mickey Mouse Club (1955–59) | Mouseketeer | Annette Funicello (born Oct 22, 1942) |
+| Oct 22 | I, Claudius (1976) | Claudius | Derek Jacobi (born Oct 22, 1938) |
+| Oct 22 | Broken Arrow (1956–58) | Cochise | Michael Ansara |
+| Oct 22 | Lassie (1954–73) | Timmy Martin | Jon Provost |
+| Oct 22 | The Pretender (1996–2000) | Jarod | Michael T. Weiss |
 | Oct 21 | Police Squad! (1982) | Lt. Frank Drebin | Leslie Nielsen (6 episodes, became The Naked Gun) |
 | Oct 21 | Tales from the Crypt (1989–96) | The Crypt Keeper | John Kassir (voice) |
 | Oct 21 | Sabrina the Teenage Witch (1996–2003) | Sabrina Spellman | Melissa Joan Hart (Nick Bakay voiced Salem) |
@@ -506,6 +516,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 22 | The Golden Notebook author, born Oct 22, 1919, Nobel 2007 at 87 | Doris Lessing |
+| Oct 22 | Sartre play with "Hell is other people" (Sartre declined Nobel Oct 22, 1964) | No Exit (Huis Clos, 1944) |
+| Oct 22 | Opera that opened the Met in 1883 and its composer | Faust, Charles Gounod |
+| Oct 22 | Old Yeller (1956) author | Fred Gipson (1957 Newbery Honor) |
+| Oct 22 | Ancient poet of the "wine-dark sea" | Homer |
+| Oct 22 | Painter of the Houston chapel color-field canvases (1971) | Mark Rothko (Rothko Chapel) |
 | Oct 21 | Earthsea wizard Ged ("Sparrowhawk") creator, born Oct 21, 1929 | Ursula K. Le Guin |
 | Oct 21 | Nelson's Trafalgar signal "England expects that every man…" | "…will do his duty" |
 | Oct 21 | Sense and Sensibility Dashwood sisters; 1811 author credit | Elinor and Marianne; "By a Lady" (Jane Austen) |
@@ -793,6 +809,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 22 | Geography | California has the most national parks (9), Alaska 8; Chiricahua is 64th |
+| Oct 22 | Nature | Chiricahuas are a "sky island"; Apache "Land of Standing-Up Rocks" |
+| Oct 22 | Animals | Dog nose prints are unique like fingerprints |
+| Oct 22 | Animals | Basenji does not bark; "baroo" yodel |
+| Oct 22 | Science | Brazil nut effect = granular convection |
+| Oct 22 | Words | Color orange named after the fruit; earlier "geoluhread" (yellow-red) |
+| Oct 22 | History | Adrian Nicholas jumped Leonardo's pyramid parachute design, 2000 |
+| Oct 22 | History | Sam Houston only person elected governor of two states (TN, TX) |
+| Oct 22 | Food | Chicago tavern-style pizza: cracker crust, "party cut" squares |
+| Oct 22 | Sports | U.S. Open Cup since 1914, oldest ongoing US national soccer competition |
+| Oct 22 | Sports | Misiorowski 104.8 mph, fastest tracked postseason pitch (since 2008) |
 | Oct 21 | Space | Phobos and Deimos = "fear" and "dread"; both found by Asaph Hall, US Naval Observatory, 1877 |
 | Oct 21 | Space | Phobos orbits Mars ~3 times a day and is spiraling inward |
 | Oct 21 | Movies | Back to the Future Part II predicted Cubs winning 2015 WS (Mets swept them in NLCS; Cubs won 2016) |
@@ -1365,6 +1392,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 22 | October 22 (Garnerin first frameless parachute jump over Parc Monceau 1797; Sam Houston sworn in as first elected Republic of Texas president 1836; Metropolitan Opera opens with Gounod's Faust 1883; also Pretty Boy Floyd killed near East Liverpool OH 1934, JFK Cuba quarantine address 1962, Sartre declines Nobel 1964) |
 | Oct 21 | October 21 (Battle of Trafalgar 1805 — Nelson killed aboard HMS Victory, 27 vs 33 ships, none British lost; Edison carbon cotton-thread filament burns ~13½ hours at Menlo Park 1879; Guggenheim Museum opens 1959, Wright died six months earlier; also Aberfan disaster 1966, 144 dead incl. 116 children; BTTF Part II date 2015) |
 | Oct 20 | October 20 (Saturday Night Massacre 1973 — Richardson & Ruckelshaus resign, Bork fires Cox; MacArthur lands at Leyte 1944, "I have returned"; Sydney Opera House opened by Elizabeth II 1973, A$102M vs A$7M; also Lynyrd Skynyrd plane crash 1977, Jackie Kennedy marries Onassis 1968) |
 | Oct 19 | October 19 (Cornwallis surrenders at Yorktown 1781 — 245th anniv, O'Hara/Rochambeau/Benjamin Lincoln; Black Monday 1987, Dow −508 / −22.6%; St. Albans Raid 1864 and Cedar Creek; also Ferdinand & Isabella marry 1469) |
@@ -1420,6 +1448,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 22 | National Nut Day; National Color Day; National Make a Dog's Day; National Tavern-Style Pizza Day; International Stuttering Awareness Day; International Caps Lock Day |
 | Oct 21 | Back to the Future Day; National Apple Day; International Nacho Day; National Pumpkin Cheesecake Day; National Reptile Awareness Day; Hagfish Day; National Witch Hazel Day; World Iodine Deficiency Day; Support Your Local Chamber of Commerce Day; Medical Assistants Recognition Day |
 | Oct 20 | National Chicken & Waffles Day; International Chefs Day; National Day on Writing; National Pharmacy Technician Day; National Brandied Fruit Day; World Osteoporosis Day |
 | Oct 19 | National Kentucky Day; National Seafood Bisque Day; National Clean Your Virtual Desktop Day; National LGBT Center Awareness Day; International Gin & Tonic Day; World Pediatric Bone & Joint Day; Nuclear Science Week; Wolf Awareness Week |
@@ -1483,6 +1512,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 22 | Nut company co-founded by Amedeo Obici, Wilkes-Barre 1906; mascot artist | Planters; Mr. Peanut by schoolboy Antonio Gentile, 1916 |
+| Oct 22 | Color company founded by Lawrence Herbert 1962; first Color of the Year | Pantone; Cerulean (2000) |
+| Oct 22 | Carmaker named for the Pleiades (Make a Dog's Day sponsor) | Subaru (Fuji Heavy Industries, 1953) |
+| Oct 22 | Michael J. Owens' c. 1903 Toledo machine | Automatic glass-bottle machine (Libbey; Owens-Illinois) |
+| Oct 22 | Frederick Miller's 1855 Milwaukee purchase | Plank Road Brewery → Miller Brewing |
+| Oct 22 | Why the Metropolitan Opera was founded (1880) | New-money families couldn't get boxes at the Academy of Music |
 | Oct 21 | DMC-12 company founder; where built | John DeLorean (DeLorean Motor Co., 1975); Dunmurry, near Belfast |
 | Oct 21 | Theron Pond's 1846 Utica NY witch hazel tonic became | Pond's (Pond's Extract; later cold cream) |
 | Oct 21 | Company selling iodized salt nationally from 1924 | Morton Salt |
@@ -1763,6 +1798,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 22 | Seminole Wind | John Anderson | 1992 |
+| Oct 22 | Who Let the Dogs Out | Baha Men | 2000 |
+| Oct 22 | Nuthin' but a "G" Thang | Dr. Dre ft. Snoop Dogg | 1992 |
+| Oct 22 | Colorblind | Counting Crows | 1999 |
+| Oct 22 | Colors of the Wind | Vanessa Williams | 1995 |
+| Oct 22 | Black Horse and the Cherry Tree | KT Tunstall | 2005 |
 | Oct 21 | Criminal | Fiona Apple | 1996 |
 | Oct 21 | Good Riddance (Time of Your Life) | Green Day | 1997 |
 | Oct 21 | Time Is Running Out | Muse | 2003 |
@@ -3430,4 +3471,18 @@ NBA opening night Oct 20: 76ers 106-100 at Knicks (Maxey 28, Brown 19, LeBron 14
 ### Notes
 Wednesday run (daily cadence; fired ~11:03 UTC). Oct 21 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 5 songs: Spotify IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search/Lookup API. Disturbia and This Is Halloween dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
 
-_Last updated: October 21, 2026_
+## October 22, 2026 (v92)
+
+### NFL
+No games since MNF; same board as Oct 20–21. ESPN byteam, splitId 0: Kansas City Chiefs 421.6 yds/g (2,108 total, 5 GP, 11th in total); top 5 Chiefs / Panthers 418.6 / Rams 413.8 (2,483 total, No. 1 in total, 6 GP) / Lions 411.2 / Bears 406.7. Patriots 8th 382.2. Bengals 355.0 yds/g 13th, 1,775 total 26th; 3-2. Next: Sun Oct 25 at Baltimore 1:00 p.m. ET CBS. TNF Oct 22 Patriots at Bears 8:15 ET. Lamar Jackson (ankle) limited Wed; Burrow/Chase not on report.
+
+### Box Office
+Weekend Oct 16-18 (same frame): #1 Street Fighter $30.8M; You Can See Everything $15.6M; Other Mommy $8.2M; Whalefall $7.8M; Sense and Sensibility $7.2M. Fun fact used: 1987 anime-style prologue; Kitao Sakurai director/co-writer; Andrew Koji (Ryu), Noah Centineo (Ken), Callina Liang (Chun-Li); Jolt Cola and Bugles placement. Coming Oct 23-25: Clayface, Klara and the Sun, Wildwood, Ali G: Who Iz I?
+
+### Sports / Deaths / Current Events
+MLB WS G1 Fri Oct 23 8 ET FOX at MIL (first WS game at American Family Field), Rasmussen vs Misiorowski. St. Louis City won US Open Cup, 0-0, 5-3 pens over Columbus (Lundt save after Bürki injury; first trophy). FC Cincinnati last East wild card, 4 games left. WNBA Finals G3 Dream 97-71 Valkyries (Reese 21/12, Howard 16 + 5 stl), ATL leads 2-1, G4 Sat 1 ET NBC. NBA Oct 21: Edwards 45 in MIN 131-106 at MIA (Giannis 35, first Heat regular-season game); Ty Jerome 45 MEM 123-103 UTA; Lakers 127-105 Warriors (Doncic 28). NHL: Flyers 3-1 at BUF, OTT 5-1 FLA; CBJ host VGK Sat. NCAA: Bearcats host Texas Tech Sat noon. Golf: Butterfield Bermuda Championship Oct 22-25, Port Royal, Conners top-ranked (61), Schenk defending. Deaths: John Anderson 71 (Oct 21), Georgi Nemsadze 54 (Oct 21), Ken Ring 86; also Tsuchida, Early Voting, Grimau, Hornaday, Riehle, Hagan, Noah Adams. Current events: Chiricahua 64th national park (signed Oct 20); Toledo glycidyl methacrylate tank explosion, 900+ evacuated; Russia freed Stephen Hubbard (74), trilateral talks in November; Meta ordered to pay $25B (New Mexico); 12M+ early votes, State Dept nonessential staff out of Saudi Arabia; SCOTUS blocked cutoff of hormone therapy for trans federal prisoners; Nigeria Ebola case in Abuja.
+
+### Notes
+Thursday run (daily cadence; fired ~11:03 UTC). Oct 22 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API via the device shell (cloud iTunes API returned 403). No table rows older than 12 weeks to prune.
+
+_Last updated: October 22, 2026_
