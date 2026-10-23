@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 23 | Belgium | Brussels (Smurfs debuted in Belgium's Spirou Oct 23, 1958; EU/NATO HQ) |
+| Oct 23 | Sweden | Stockholm (Pelé, 17, scored twice in 1958 World Cup final at Råsunda, Solna) |
+| Oct 23 | Afghanistan | Kabul (Snow Leopard Day; Wakhan Corridor) |
+| Oct 23 | Guinea | Conakry (not Bissau) |
 | Oct 22 | Sudan | Khartoum (confluence of Blue and White Nile) |
 | Oct 22 | Thailand | Bangkok (Krung Thep; longest ceremonial place name) |
 | Oct 22 | Algeria | Algiers (Casbah; The Battle of Algiers, 1966) |
@@ -221,6 +225,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 23 | The Tonight Show Starring Johnny Carson (1962–92) | Carnac the Magnificent | Johnny Carson (born Oct 23, 1925) |
+| Oct 23 | Fernwood 2 Night (1977) | Jerry Hubbard (sidekick to Martin Mull's Barth Gimble) | Fred Willard |
+| Oct 23 | Elvira's Movie Macabre (1981–86) | Elvira, Mistress of the Dark | Cassandra Peterson |
+| Oct 23 | ER (1994–2009) | Dr. Mark Greene | Anthony Edwards (Crichton created ER) |
+| Oct 23 | Ally McBeal (1997–2002) | Ally McBeal | Calista Flockhart |
+| Oct 23 | Two Guys, a Girl and a Pizza Place (1998–2001) | Michael "Berg" Bergen | Ryan Reynolds (born Oct 23, 1976) |
 | Oct 22 | Tenspeed and Brown Shoe (1980) | Lionel "Brown Shoe" Whitney | Jeff Goldblum (Ben Vereen as Tenspeed; born Oct 22, 1952) |
 | Oct 22 | The Mickey Mouse Club (1955–59) | Mouseketeer | Annette Funicello (born Oct 22, 1942) |
 | Oct 22 | I, Claudius (1976) | Claudius | Derek Jacobi (born Oct 22, 1938) |
@@ -516,6 +526,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 23 | The Andromeda Strain / Jurassic Park author, born Oct 23, 1942 | Michael Crichton |
+| Oct 23 | Sue Townsend 1982 diary novel, age of hero (Mole Day) | 13¾ — The Secret Diary of Adrian Mole |
+| Oct 23 | The Snow Leopard (1978), National Book Award | Peter Matthiessen |
+| Oct 23 | The Haunting of Hill House (1959) first line | Shirley Jackson |
+| Oct 23 | Ferenc Molnár's Liliom became which R&H musical | Carousel (1945) |
+| Oct 23 | The Nightmare (1781) painter | Henry Fuseli (Detroit Institute of Arts) |
 | Oct 22 | The Golden Notebook author, born Oct 22, 1919, Nobel 2007 at 87 | Doris Lessing |
 | Oct 22 | Sartre play with "Hell is other people" (Sartre declined Nobel Oct 22, 1964) | No Exit (Huis Clos, 1944) |
 | Oct 22 | Opera that opened the Met in 1883 and its composer | Faust, Charles Gounod |
@@ -809,6 +825,17 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 23 | Nature | Capistrano swallows leave Oct 23, return March 19 (St. Joseph's Day), winter near Goya, Argentina |
+| Oct 23 | Animals | Snow leopards can't roar (chuff); tail used as a scarf |
+| Oct 23 | Sports | Pelé born Edson Arantes do Nascimento, named for Thomas Edison |
+| Oct 23 | Sports | Ron Duguay tied Rangers record, goal 9 seconds in, April 6, 1980 |
+| Oct 23 | Movies | Tom Skerritt's debut War Hunt (1962) also Robert Redford's debut; Redford directed him in A River Runs Through It |
+| Oct 23 | Comics | First Clayface (Detective Comics #40, 1940) = Basil Karlo, horror-movie actor |
+| Oct 23 | TV | Johnny Carson hosted Tonight Show 30 years; teen magician "The Great Carsoni," Norfolk NE |
+| Oct 23 | Music | Weird Al started by mailing tapes to Dr. Demento; accordion lessons day before 7th birthday |
+| Oct 23 | Food | Boston cream pie is a cake; Massachusetts state dessert; Boston cream is state doughnut |
+| Oct 23 | Science | A mole of donuts would cover Earth ~5 miles deep |
+| Oct 23 | Tech | ~450 million iPods sold; last model (iPod touch) discontinued May 2022 |
 | Oct 22 | Geography | California has the most national parks (9), Alaska 8; Chiricahua is 64th |
 | Oct 22 | Nature | Chiricahuas are a "sky island"; Apache "Land of Standing-Up Rocks" |
 | Oct 22 | Animals | Dog nose prints are unique like fingerprints |
@@ -1392,6 +1419,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 23 | October 23 (Hungarian Revolution begins 1956 — 70th anniv, Stalin statue toppled, crushed by Nov 10; Joe Carter WS Game 6 walk-off 3-run HR off Mitch Williams, 8–6, 1993 — only come-from-behind walk-off to end a WS; iPod unveiled 2001 — 25th anniv, 5 GB, $399; also El Alamein 1942, Smurfs debut 1958, Beirut barracks bombing 1983 (241); births Carson 1925, Pelé 1940, Crichton 1942, Weird Al 1959, Ryan Reynolds 1976) |
 | Oct 22 | October 22 (Garnerin first frameless parachute jump over Parc Monceau 1797; Sam Houston sworn in as first elected Republic of Texas president 1836; Metropolitan Opera opens with Gounod's Faust 1883; also Pretty Boy Floyd killed near East Liverpool OH 1934, JFK Cuba quarantine address 1962, Sartre declines Nobel 1964) |
 | Oct 21 | October 21 (Battle of Trafalgar 1805 — Nelson killed aboard HMS Victory, 27 vs 33 ships, none British lost; Edison carbon cotton-thread filament burns ~13½ hours at Menlo Park 1879; Guggenheim Museum opens 1959, Wright died six months earlier; also Aberfan disaster 1966, 144 dead incl. 116 children; BTTF Part II date 2015) |
 | Oct 20 | October 20 (Saturday Night Massacre 1973 — Richardson & Ruckelshaus resign, Bork fires Cox; MacArthur lands at Leyte 1944, "I have returned"; Sydney Opera House opened by Elizabeth II 1973, A$102M vs A$7M; also Lynyrd Skynyrd plane crash 1977, Jackie Kennedy marries Onassis 1968) |
@@ -1448,6 +1476,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 23 | National Mole Day; National Boston Cream Pie Day; National iPod Day; National TV Talk Show Host Day; National Horror Movie Day; Swallows Depart From San Juan Capistrano Day; International Snow Leopard Day |
 | Oct 22 | National Nut Day; National Color Day; National Make a Dog's Day; National Tavern-Style Pizza Day; International Stuttering Awareness Day; International Caps Lock Day |
 | Oct 21 | Back to the Future Day; National Apple Day; International Nacho Day; National Pumpkin Cheesecake Day; National Reptile Awareness Day; Hagfish Day; National Witch Hazel Day; World Iodine Deficiency Day; Support Your Local Chamber of Commerce Day; Medical Assistants Recognition Day |
 | Oct 20 | National Chicken & Waffles Day; International Chefs Day; National Day on Writing; National Pharmacy Technician Day; National Brandied Fruit Day; World Osteoporosis Day |
@@ -1512,6 +1541,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 23 | Device pitched as "1,000 songs in your pocket" (Oct 23, 2001); its "father" | iPod; Tony Fadell |
+| Oct 23 | Boston hotel that birthed Boston cream pie (1856) and a dinner roll | Parker House (Omni Parker House) |
+| Oct 23 | Belgian cartoonist (Pierre Culliford) who created the Smurfs, 1958 | Peyo |
+| Oct 23 | First host of The Tonight Show (1954) | Steve Allen |
+| Oct 23 | Number honored by Mole Day, 6.02 × 10^23 | Avogadro's number (Amedeo Avogadro) |
+| Oct 23 | Word Tampa Bay dropped in 2008 (first WS that year) | "Devil" (Devil Rays, founded 1998) |
 | Oct 22 | Nut company co-founded by Amedeo Obici, Wilkes-Barre 1906; mascot artist | Planters; Mr. Peanut by schoolboy Antonio Gentile, 1916 |
 | Oct 22 | Color company founded by Lawrence Herbert 1962; first Color of the Year | Pantone; Cerulean (2000) |
 | Oct 22 | Carmaker named for the Pleiades (Make a Dog's Day sponsor) | Subaru (Fuji Heavy Industries, 1953) |
@@ -1798,6 +1833,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 23 | 1234 | Feist | 2007 |
+| Oct 23 | Flathead | The Fratellis | 2006 |
+| Oct 23 | White & Nerdy | "Weird Al" Yankovic | 2006 |
+| Oct 23 | I'm Shipping Up to Boston | Dropkick Murphys | 2005 |
+| Oct 23 | Mas Que Nada | Sérgio Mendes ft. The Black Eyed Peas | 2006 |
+| Oct 23 | Living Dead Girl | Rob Zombie | 1998 |
 | Oct 22 | Seminole Wind | John Anderson | 1992 |
 | Oct 22 | Who Let the Dogs Out | Baha Men | 2000 |
 | Oct 22 | Nuthin' but a "G" Thang | Dr. Dre ft. Snoop Dogg | 1992 |
@@ -3485,4 +3526,18 @@ MLB WS G1 Fri Oct 23 8 ET FOX at MIL (first WS game at American Family Field), R
 ### Notes
 Thursday run (daily cadence; fired ~11:03 UTC). Oct 22 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API via the device shell (cloud iTunes API returned 403). No table rows older than 12 weeks to prune.
 
-_Last updated: October 22, 2026_
+## October 23, 2026 (v93)
+
+### NFL
+ESPN byteam, splitId 0, after TNF (Bears 30, Patriots 24; Williams 308 yds 2 TD, Burden 130 rec yds; Maye 321 yds; CHI 5-2, NE 4-3): Kansas City Chiefs 421.6 yds/g (2,108 total, 5 GP, 11th in total); top 5 Chiefs / Panthers 418.6 / Rams 413.8 / Lions 411.2 / Bears 409.1 (2,864 total, 7 GP, now No. 1 in total). Bengals 355.0 yds/g 13th, 1,775 total 26th; 3-2. Next: Sun Oct 25 at Baltimore 1:00 p.m. ET CBS.
+
+### Box Office
+Weekend Oct 16-18 (same frame): #1 Street Fighter $30.8M ($82M budget); You Can See Everything $15.6M; Other Mommy $8.2M; Whalefall $7.8M; Sense and Sensibility $7.2M. Fun fact used: 1994 film, Van Damme as Guile, Raul Julia as M. Bison (died Oct 24, 1994, before release; took role for his kids). Opening Oct 23-25: Clayface ($3.5M Thursday previews, $20-25M projection, $44M budget, 76% RT), You Can See Everything expands to ~2,600, Klara and the Sun, Wildwood.
+
+### Sports / Deaths / Current Events
+MLB WS G1 tonight 8 ET FOX at MIL: Nick Martinez (TB, over Rasmussen) vs Misiorowski; MIL 103-59 home field; G3 Mon at Tropicana. NHL Oct 22: Rangers lost 5-4 at TOR the night Duguay died; BOS 6-0 NSH (Pastrnak 2); PIT 4-0 FLA; EDM 6-5 SO CAR; CBJ host VGK Sat. NBA Oct 22: 76ers 114-106 Cavs (Maxey, Mitchell 32 each); Thunder 96-84 Nuggets (J. Williams 21). WNBA Finals ATL leads 2-1, G4 Sat 1 ET NBC. MLS: FC Cincinnati 39 pts, 8th East, 4 games left (ESPN standings). NCAA: Bearcats (4-2) host No. 8 Texas Tech Sat noon, No. 10 Utah next. Golf: Bermuda R1 Chandler Blanchet -9, Conners/Kohles/Silverman/Walker -8. Deaths: Tom Skerritt 93 (Oct 21); Todd Benzinger 63 (Oct 21, Reds 1990 final out); Ron Duguay 69 (Oct 22); John Anderson 71; Chuck Amato 80 (Oct 19); also Cornell Green 86, Ann Hornaday, Benito di Paula 84, John Beake 87. Current events: NYT says US/Israel drafted plans to resume Iran strikes after midterms; IRGC hit 4 oil-transfer ships, 3 ships hit mines in Hormuz; Houthi attacks killed 4 in Saudi Arabia (King Fahd airport, oil field); Russian strikes on 12 Ukrainian regions, talks resume next month; UN Emissions Gap Report says 1.5 C missed; PHP vulnerabilities took parts of Wikipedia/BBC offline; midterms Nov 3, Ramaswamy $4M ad vs Acton.
+
+### Notes
+Friday run (fired ~11:02 UTC Friday Oct 23); header dated Friday, October 23, 2026. Oct 23 not previously used for This Day in History. Ryu Murakami listed as dead on one aggregator but unconfirmed by news, so omitted. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API via the device shell. Vertigo (U2) and Jerk It Out (Caesars) dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
+
+_Last updated: October 23, 2026_
