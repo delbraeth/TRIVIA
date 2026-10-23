@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thursday Trivia Night — October 23, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — Friday, October 23, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-10-23.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 23</a>
+  <a href="./thursday-trivia-2026-10-22.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 22</a>
+  <a href="./thursday-trivia-2026-10-21.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 21</a>
+  <a href="./thursday-trivia-2026-10-20.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 20</a>
+  <a href="./thursday-trivia-2026-10-19.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 19</a>
+  <a href="./thursday-trivia-2026-10-16.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 16</a>
+  <a href="./thursday-trivia-2026-10-15.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 15</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">421.6</div>
+      <div class="nfl-team">Kansas City Chiefs — yards per game</div>
+      <div class="nfl-sub">2,108 total yards (11th in total) · 5 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Kansas City Chiefs</strong> — 421.6/g &nbsp;<span style="color:#777;">(2,108 yds, 5 GP)</span></li>
+        <li><span class="tag">2</span><strong>Carolina Panthers</strong> — 418.6/g &nbsp;<span style="color:#777;">(2,093 yds, 5 GP)</span></li>
+        <li><span class="tag">3</span><strong>Los Angeles Rams</strong> — 413.8/g &nbsp;<span style="color:#777;">(2,483 yds, 6 GP)</span></li>
+        <li><span class="tag">4</span><strong>Detroit Lions</strong> — 411.2/g &nbsp;<span style="color:#777;">(2,056 yds, 5 GP)</span></li>
+        <li><span class="tag">5</span><strong>Chicago Bears</strong> — 409.1/g &nbsp;<span style="color:#777;">(2,864 yds, 7 GP — now No. 1 in total yards)</span></li>
+      </ul>
+      <p style="margin-top:10px;font-size:12.5px;color:#666;">Last night (TNF): <strong>Bears 30, Patriots 24</strong>. Caleb Williams threw for 308 yards and 2 TDs, and rookie Luther Burden III had 130 receiving yards. Chicago is 5–2. Drake Maye threw for 321 yards for New England (4–3).</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>355.0 yards per game, 13th</strong> in the NFL. <strong>1,775 total yards, 26th</strong>, because the Week 7 bye means they've played only 5 games. Record: <strong>3–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Oct 25 at Baltimore, 1:00 p.m. ET</strong> on CBS</div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), including TNF. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 16–18</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Street Fighter</strong> — $30.8M opening (3,575 theaters, $82M budget)</li>
+        <li>#2 You Can See Everything — $15.6M &nbsp;|&nbsp; #3 Other Mommy — $8.2M</li>
+        <li>#4 Whalefall — $7.8M &nbsp;|&nbsp; #5 Sense and Sensibility — $7.2M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> In the first live-action <em>Street Fighter</em> (1994), Jean-Claude Van Damme played Guile and <strong>Raul Julia played M. Bison</strong>. Julia took the role because his kids loved the game. He died on <strong>Oct 24, 1994</strong> (32 years ago tomorrow), two months before the film opened, so it was his last film released in theaters.</p>
+      <div class="sub">
+        <h3>Opening This Weekend (Oct 23–25)</h3>
+        <ul>
+          <li><strong>Clayface</strong> — dir. James Watkins; Tom Rhys Harries in DC's body-horror villain film. <strong>$3.5M in Thursday previews</strong>, tracking for a $20–25M No. 1 opening on a $44M budget, 76% on Rotten Tomatoes.</li>
+          <li><strong>You Can See Everything</strong> — Nathan Fielder's Elizabeth Holmes documentary expands from 855 to about 2,600 theaters.</li>
+          <li><strong>Klara and the Sun</strong> — dir. Taika Waititi; Jenna Ortega and Amy Adams in the Kazuo Ishiguro robot-companion story.</li>
+          <li><strong>Wildwood</strong> — dir. Travis Knight; Laika's stop-motion adventure in a hidden forest outside Portland.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span><strong>World Series Game 1 tonight: Rays at Brewers, 8 p.m. ET</strong> on FOX. Tampa Bay passed over Drew Rasmussen (11–0, 1.73 ERA since the All-Star break) and is starting first-time All-Star <strong>Nick Martinez</strong>. Milwaukee starts <strong>Jacob Misiorowski</strong> (1.80 ERA, 252 K). The Brewers (103–59) have home field, and neither team has won a title. Game 3 is Monday at Tropicana Field.</li>
+        <li><span class="tag">MLB</span>🔴 <strong>Reds mourn Todd Benzinger</strong>, 63, the Dayton, KY, native who caught the final out of the 1990 sweep of Oakland (see Deaths).</li>
+        <li><span class="tag">NFL</span><strong>TNF: Bears 30, Patriots 24.</strong> Sunday: Bengals at Ravens, 1 p.m. ET.</li>
+        <li><span class="tag">NCAA</span>🐾 Bearcats (4–2) host <strong>No. 8 Texas Tech Saturday at noon</strong>, then No. 10 Utah next week.</li>
+        <li><span class="tag">NHL</span><strong>Ron Duguay died at 69</strong>. The same night, his old Rangers lost 5–4 at Toronto. Also Thursday: Boston 6, Nashville 0 (Pastrňák 2 goals); Pittsburgh shut out Florida 4–0; Edmonton beat Carolina 6–5 in a shootout. 🏒 Blue Jackets host Vegas Saturday.</li>
+        <li><span class="tag">NBA</span>Thursday: 76ers 114, Cavaliers 106 (Maxey and Donovan Mitchell 32 each); Thunder 96, Nuggets 84 (Jalen Williams 21).</li>
+        <li><span class="tag">WNBA</span>Finals: <strong>Atlanta leads Golden State 2–1</strong>. Game 4 is Saturday, 1 p.m. ET, on NBC.</li>
+        <li><span class="tag">MLS</span>🟠 FC Cincinnati (39 pts) sits 8th in the East, in wild-card position, with four games left.</li>
+        <li><span class="tag">Golf</span><strong>Bermuda Championship, Round 1:</strong> Chandler Blanchet leads at −9. Corey Conners is one back with Ben Kohles, Ben Silverman and Danny Walker.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Tom Skerritt</strong>, 93 (Oct 21). Captain Dallas in <em>Alien</em>, Viper in <em>Top Gun</em>, and Sheriff Jimmy Brock on <em>Picket Fences</em>, which won him a 1993 Emmy. He also played Sally Field's husband in <em>Steel Magnolias</em> and the minister father in <em>A River Runs Through It</em>. He died of natural causes.</li>
+        <li><strong>Todd Benzinger</strong>, 63 (Oct 21). 🔴 Reds first baseman, 1989–91, who caught the last out of the 1990 World Series. He grew up in Dayton, Kentucky, went to New Richmond High, and later managed the Dayton Dragons.</li>
+        <li><strong>Ron Duguay</strong>, 69 (Oct 22). Long-haired, helmetless Rangers star of the late '70s who played in the 1979 Stanley Cup Final, had 274 NHL goals, and later called Rangers games on MSG. He died after a battle with Stage 4 cancer.</li>
+        <li><strong>John Anderson</strong>, 71 (Oct 21). Country Hall of Famer who sang "Swingin'" and "Seminole Wind."</li>
+        <li><strong>Chuck Amato</strong>, 80 (Oct 19). Head football coach at NC State and longtime Florida State assistant.</li>
+        <li>Also: <strong>Cornell Green</strong>, 86 (Oct 21), Cowboys Pro Bowl defensive back; Washington Post film critic <strong>Ann Hornaday</strong>, 66; Brazilian singer-songwriter <strong>Benito di Paula</strong>, 84; and former Broncos GM <strong>John Beake</strong>, 87.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — October 23</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1956</strong> — <strong>The Hungarian Revolution began</strong> (70 years ago today). A student march in Budapest grew into a national uprising, and crowds pulled down a giant statue of Stalin. Soviet tanks crushed the revolt by Nov. 10.</li>
+        <li><strong>1993</strong> — <strong>Joe Carter won the World Series with a walk-off homer.</strong> Toronto trailed 6–5 in the 9th of Game 6 when his three-run shot off Phillies closer Mitch "Wild Thing" Williams made it 8–6. It's still the only Series ended by a come-from-behind walk-off home run.</li>
+        <li><strong>2001</strong> — <strong>Steve Jobs unveiled the iPod</strong> (25 years ago today). It had a 5 GB drive and cost $399, pitched as "1,000 songs in your pocket."</li>
+        <li style="color:#666;">Also: the Second Battle of El Alamein began (1942). The Smurfs first appeared in Belgium's <em>Spirou</em> magazine (1958). A truck bomb at the Beirut Marine barracks killed 241 U.S. service members (1983). Born today: Johnny Carson (1925), Pelé (1940), Michael Crichton (1942), "Weird Al" Yankovic (1959), Ryan Reynolds (1976).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Oct 23</h3>
+        <ul>
+          <li>🎉 National Mole Day (6:02 a.m. to 6:02 p.m.) · National Boston Cream Pie Day</li>
+          <li>🎉 National iPod Day · National TV Talk Show Host Day · National Horror Movie Day</li>
+          <li>🎉 Swallows Depart from San Juan Capistrano Day · International Snow Leopard Day</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Iran:</strong> The <em>New York Times</em> reports that Pentagon and Israeli planners have drafted plans to resume strikes on Iran after the midterms. Iran's Revolutionary Guard says it hit four oil-transfer ships in the northern Persian Gulf, and three ships struck mines in the Strait of Hormuz.</li>
+        <li><strong>Saudi Arabia:</strong> Houthi attacks killed four people, two at King Fahd International Airport and two at an oil field. The State Department ordered U.S. diplomats' families out.</li>
+        <li><strong>Ukraine:</strong> Russian strikes hit 12 regions overnight. The Kremlin says U.S.-brokered peace talks resume next month, the first since February.</li>
+        <li><strong>Climate:</strong> The U.N.'s Emissions Gap Report says the world has missed its chance to hold warming to 1.5 °C.</li>
+        <li><strong>Tech:</strong> Critical flaws in <strong>PHP</strong>, the language behind most websites, briefly took parts of Wikipedia and the BBC offline while programmers rushed to patch.</li>
+        <li><strong>Midterms are 11 days away (Nov 3).</strong> In Ohio's governor race, Vivek Ramaswamy is spending $4M on an attack ad against Amy Acton.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 World Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇧🇪 The Smurfs debuted 68 years ago today in a magazine from this country, also home to the EU and NATO headquarters. Name the capital.</span><br><span class="a">Brussels, Belgium</span></p>
+      <p><span class="q">🇸🇪 A 17-year-old Pelé (born today, 1940) scored twice in the 1958 World Cup final, played just outside which capital?</span><br><span class="a">Stockholm, Sweden (Råsunda Stadium, Solna)</span></p>
+      <p><span class="q">🇦🇫 For Snow Leopard Day: the cats roam the Wakhan Corridor in the northeast of this country. Name its capital.</span><br><span class="a">Kabul, Afghanistan</span></p>
+      <p><span class="q">🇬🇳 Not Bissau: what is the capital of plain Guinea, a port on the Atlantic? (Hard)</span><br><span class="a">Conakry, Guinea</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">For Talk Show Host Day and his birthday (Oct 23, 1925): what was the name of Johnny Carson's turban-wearing psychic, who held sealed envelopes to his forehead to "divine" the answers?</span><br><span class="a">Carnac the Magnificent</span></p>
+      <p><span class="q">On the fake talk show <em>Fernwood 2 Night</em> (1977), Martin Mull played host Barth Gimble. Who played his dim sidekick, Jerry Hubbard? (Deep cut)</span><br><span class="a">Fred Willard</span></p>
+      <p><span class="q">For Horror Movie Day: which actress, in a black beehive wig, hosted <em>Elvira's Movie Macabre</em> starting in 1981?</span><br><span class="a">Cassandra Peterson</span></p>
+      <p><span class="q">Michael Crichton (born today, 1942) created <em>ER</em>. Who played Dr. Mark Greene, the chief resident at County General?</span><br><span class="a">Anthony Edwards</span></p>
+      <p><span class="q">For Boston Cream Pie Day: who played Boston lawyer Ally McBeal on Fox (1997–2002)?</span><br><span class="a">Calista Flockhart</span></p>
+      <p><span class="q">Born Oct 23, 1976: which actor played Michael "Berg" Bergen on <em>Two Guys, a Girl and a Pizza Place</em> (1998–2001)?</span><br><span class="a">Ryan Reynolds</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Born Oct 23, 1942: this Harvard Medical School graduate wrote <em>The Andromeda Strain</em> (1969) and <em>Jurassic Park</em> (1990).</span><br><span class="a">Michael Crichton</span></p>
+      <p><span class="q">For Mole Day: Sue Townsend's 1982 comic novel is the "secret diary" of a Leicester teenager, aged how old?</span><br><span class="a">13¾ (<em>The Secret Diary of Adrian Mole, Aged 13¾</em>)</span></p>
+      <p><span class="q">For Snow Leopard Day: which author's 1978 Himalayan travel book <em>The Snow Leopard</em> won the National Book Award?</span><br><span class="a">Peter Matthiessen</span></p>
+      <p><span class="q">For Horror Movie Day: who wrote <em>The Haunting of Hill House</em> (1959), which opens "No live organism can continue for long to exist sanely under conditions of absolute reality"?</span><br><span class="a">Shirley Jackson</span></p>
+      <p><span class="q">For the 70th anniversary of 1956: Hungarian playwright Ferenc Molnár's <em>Liliom</em> became which Rodgers &amp; Hammerstein musical? (Hard)</span><br><span class="a"><em>Carousel</em> (1945)</span></p>
+      <p><span class="q">Which Swiss-born painter's <em>The Nightmare</em> (1781) shows a demon squatting on a sleeping woman's chest?</span><br><span class="a">Henry Fuseli (Detroit Institute of Arts)</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">Unveiled 25 years ago today: which Apple device was pitched as "1,000 songs in your pocket"? Bonus: who is called its "father"?</span><br><span class="a">The iPod (Oct 23, 2001); Tony Fadell</span></p>
+      <p><span class="q">For Boston Cream Pie Day: which Boston hotel says it served the dessert when it opened in 1856, under the name "Chocolate Cream Pie"? It also gave its name to a dinner roll.</span><br><span class="a">The Parker House (now Omni Parker House)</span></p>
+      <p><span class="q">Which Belgian cartoonist, born Pierre Culliford, created the Smurfs (<em>Schtroumpfs</em>) in 1958?</span><br><span class="a">Peyo</span></p>
+      <p><span class="q">For Talk Show Host Day: <em>The Tonight Show</em> premiered on NBC in 1954. Who was its first host?</span><br><span class="a">Steve Allen</span></p>
+      <p><span class="q">Mole Day falls on 10/23 from 6:02 a.m. to 6:02 p.m. Which chemist's number, 6.02 × 10<sup>23</sup>, is it honoring?</span><br><span class="a">Amedeo Avogadro (Avogadro's number)</span></p>
+      <p><span class="q">Tampa Bay's MLB team, founded in 1998, dropped which word from its name in 2008 and reached its first World Series that same year?</span><br><span class="a">"Devil" (they were the Devil Rays)</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Nature</span>The swallows of <strong>Mission San Juan Capistrano</strong> traditionally leave on Oct 23 and return on <strong>March 19</strong>, St. Joseph's Day. They winter about 6,000 miles away, around <strong>Goya, Argentina</strong>.</li>
+        <li><span class="tag">Animals</span><strong>Snow leopards can't roar.</strong> They chuff, hiss and mew, and they wrap their thick, nearly body-length tails around their faces like a scarf.</li>
+        <li><span class="tag">Sports</span><strong>Pelé</strong> was born Edson Arantes do Nascimento, <strong>named after Thomas Edison</strong>.</li>
+        <li><span class="tag">Sports</span>Ron Duguay is tied for the <strong>fastest goal to start a game</strong> in Rangers history: <strong>9 seconds</strong> in, on April 6, 1980.</li>
+        <li><span class="tag">Movies</span>Tom Skerritt's first film, <em>War Hunt</em> (1962), was also the screen debut of <strong>Robert Redford</strong>, who directed him 30 years later in <em>A River Runs Through It</em>.</li>
+        <li><span class="tag">Comics</span>The first <strong>Clayface</strong> (<em>Detective Comics</em> #40, 1940) was <strong>Basil Karlo, a washed-up horror-movie actor</strong>, which fits Horror Movie Day.</li>
+        <li><span class="tag">TV</span><strong>Johnny Carson</strong> hosted <em>The Tonight Show</em> for <strong>30 years</strong> (1962–92). He grew up in Norfolk, Nebraska, and performed magic as a teenager as "The Great Carsoni."</li>
+        <li><span class="tag">Music</span>"Weird Al" Yankovic got his start mailing homemade tapes to radio host <strong>Dr. Demento</strong> as a teenager. His accordion lessons began the day before his 7th birthday.</li>
+        <li><span class="tag">Food</span><strong>Boston cream pie is a cake</strong>: sponge layers with custard filling and chocolate glaze. It's the official <strong>state dessert of Massachusetts</strong>. Its state doughnut is the Boston cream.</li>
+        <li><span class="tag">Science</span>A <strong>mole of donuts</strong> would cover the Earth about 5 miles deep. Avogadro's number is that big.</li>
+        <li><span class="tag">Tech</span>Apple sold roughly <strong>450 million iPods</strong> before discontinuing the last model, the iPod touch, in <strong>May 2022</strong>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Oct 23 edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">1234</div>
+          <div class="song-meta">Feist (the 2007 iPod nano ad song) · 2007 · <em>The Reminder</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/1234/1440837029?i=1440837804" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Flathead</div>
+          <div class="song-meta">The Fratellis (from a 2006 iPod ad) · 2006 · <em>Costello Music</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5t1Eqjxu93ub0LiTgxZQOB" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/flathead/1440665897?i=1440665906" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">White &amp; Nerdy</div>
+          <div class="song-meta">"Weird Al" Yankovic (born Oct 23, 1959) · 2006 · <em>Straight Outta Lynwood</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/60R2v9lheAu3lwZwAFxMZK" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/white-nerdy-parody-of-ridin-by-chamillionaire-feat/309731664?i=309732001" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">I'm Shipping Up to Boston</div>
+          <div class="song-meta">Dropkick Murphys (Boston Cream Pie Day) · 2005 · <em>The Warrior's Code</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/im-shipping-up-to-boston/1485050452?i=1485050464" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Mas Que Nada</div>
+          <div class="song-meta">Sérgio Mendes ft. The Black Eyed Peas (Pelé's birthday) · 2006 · <em>Timeless</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6U7GUjtamt2P0LcFod1dBT" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/mas-que-nada-feat-the-black-eyed-peas/1440800263?i=1440800273" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Living Dead Girl</div>
+          <div class="song-meta">Rob Zombie (Horror Movie Day) · 1998 · <em>Hellbilly Deluxe</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/living-dead-girl/1440845642?i=1440845809" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
