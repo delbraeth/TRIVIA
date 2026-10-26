@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thursday Trivia Night — October 26, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — Monday, October 26, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-10-26.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 26</a>
+  <a href="./thursday-trivia-2026-10-23.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 23</a>
+  <a href="./thursday-trivia-2026-10-22.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 22</a>
+  <a href="./thursday-trivia-2026-10-21.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 21</a>
+  <a href="./thursday-trivia-2026-10-20.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 20</a>
+  <a href="./thursday-trivia-2026-10-19.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 19</a>
+  <a href="./thursday-trivia-2026-10-16.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 16</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">413.0</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">2,478 total yards (8th in total) · 6 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 413.0/g &nbsp;<span style="color:#777;">(2,478 yds, 6 GP)</span></li>
+        <li><span class="tag">2</span><strong>Los Angeles Rams</strong> — 411.0/g &nbsp;<span style="color:#777;">(2,877 yds, 7 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Chicago Bears</strong> — 409.1/g &nbsp;<span style="color:#777;">(2,864 yds, 7 GP)</span></li>
+        <li><span class="tag">4</span><strong>Buffalo Bills</strong> — 399.5/g &nbsp;<span style="color:#777;">(2,397 yds, 6 GP)</span></li>
+        <li><span class="tag">5</span><strong>Carolina Panthers</strong> — 398.5/g &nbsp;<span style="color:#777;">(2,391 yds, 6 GP)</span></li>
+      </ul>
+      <p style="margin-top:10px;font-size:12.5px;color:#666;">Kansas City dropped from 1st to 6th (387.2/g) after <strong>Seattle beat the Chiefs 20–3</strong> Sunday night. Tonight's MNF game, <strong>Cowboys at Eagles (8:15 p.m. ET)</strong>, isn't counted yet.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>356.7 yards per game, 13th</strong> in the NFL. <strong>2,140 total yards, 24th</strong>, because they've played only 6 games. They won <strong>35–13 at Baltimore</strong> Sunday: Joe Burrow went 22-of-30 for 292 yards and <strong>4 TDs</strong>, and Tee Higgins had 148 receiving yards. Baltimore played without Lamar Jackson. Record: <strong>4–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 1 vs. Tennessee Titans, 1:00 p.m. EST</strong> on CBS <span style="font-weight:400;">(clocks fall back that morning)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), through Sunday night. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 23–25</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Clayface</strong> — $24.5M opening (about $43M worldwide), A– CinemaScore</li>
+        <li>#2 You Can See Everything — $19.5M &nbsp;|&nbsp; #3 Wildwood — $11.6M</li>
+        <li>#4 Street Fighter — $8.6M (down 72%) &nbsp;|&nbsp; #5 Wicker — $5.7M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> Star <strong>Tom Rhys Harries shot all of his scenes with a torn ACL</strong>. The film shot in Liverpool under the fake working title <em>Corinthians</em>. Mike Flanagan wrote the story, inspired by Ron Perlman's voice of Clayface on <em>Batman: The Animated Series</em>, and James Watkins directed.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Oct 30–Nov 1)</h3>
+        <ul>
+          <li><strong>The Only Living Pickpocket in New York</strong>: John Turturro stars as an aging pickpocket who lifts the wrong USB stick and has to return it before a crime family catches up with him. With Steve Buscemi and Giancarlo Esposito.</li>
+          <li><strong>Christmas at the Kringles</strong>: Rob Riggle and Thomas Lennon in a horror comedy about neighbors who celebrate Christmas all year, with sinister results.</li>
+          <li><strong>Everest: The Other Side</strong>: an IMAX documentary from Jimmy Chin and Elizabeth Chai Vasarhelyi about skiing the North Face of Everest.</li>
+          <li><strong>The Mosquito Bowl</strong> (limited): a WWII story about Marines who were college football stars and played one last game before Okinawa. Stars Bill Skarsgård and Nicholas Galitzine.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span><strong>The Brewers lead the World Series 2–0.</strong> They won Game 1, 3–2. In Game 2, Tampa Bay scored 4 runs in the 1st, but Milwaukee came back to win 5–4: Sal Frelick tied it with a homer in the 6th, Cooper Pratt drove in the go-ahead run, and Aaron Ashby got the last five outs. <strong>Game 3 is tonight, 8 p.m. ET, on FOX at Tropicana Field.</strong> Freddy Peralta, who pitched 8 seasons for Milwaukee, starts for the Rays.</li>
+        <li><span class="tag">NFL</span>🐅 <strong>Bengals 35, Ravens 13</strong> (Burrow 4 TD). Seattle beat Kansas City 20–3 on Sunday night, the Giants won 27–21 in overtime at Houston, and Tampa Bay beat Carolina 43–13.</li>
+        <li><span class="tag">NCAA</span>🐾 <strong>Cincinnati upset No. 8 Texas Tech, 37–24.</strong> JC French IV threw a career-high 4 TD passes, and Cole Tabb ran for a career-best 173 yards. Also: Indiana beat Michigan 13–6 in overtime, and Miami (OH) won 28–27 at Central Michigan.</li>
+        <li><span class="tag">F1</span><strong>Kimi Antonelli (20) won the U.S. Grand Prix</strong> in Austin, ahead of Leclerc and Verstappen. He leads by 123 points with 125 left, so a top-9 finish in Mexico City on Sunday makes him <strong>F1's youngest-ever champion</strong>.</li>
+        <li><span class="tag">WNBA</span><strong>The Finals are tied 2–2</strong> after Golden State won 67–62 in Atlanta. <strong>Game 5 is tonight, 8 p.m. ET, in San Francisco.</strong></li>
+        <li><span class="tag">NBA</span><strong>Luka Dončić scored 52</strong> as the Lakers beat Utah 132–123. Devin Booker had 43 in Phoenix's win over the Warriors, and Jamal Murray had 42 for Denver.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati won 2–0 at D.C. United.</strong> They have 42 points with three games left, and ESPN's table has them in a playoff wild-card spot.</li>
+        <li><span class="tag">NHL</span>🏒 <strong>The Blue Jackets beat Vegas 2–1 in overtime</strong> on Saturday. Toronto routed Edmonton 7–2.</li>
+        <li><span class="tag">Golf</span><strong>Bermuda Championship:</strong> weather suspended Round 3, with Austin Smotherman and Séamus Power tied at −16 and Corey Conners two shots back.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Eric Bauza</strong>, 46 (Oct 25). The current voice of <strong>Bugs Bunny, Daffy Duck, Porky Pig and Tweety</strong>. He also voiced Puss in Boots, Baby Fozzie on <em>Muppet Babies</em>, and Luke Skywalker in <em>Star Wars</em> cartoons. The Canadian actor died of hypertensive heart disease.</li>
+        <li><strong>Dale Brown</strong>, 90 (Oct 23). Hall of Fame LSU basketball coach (1972–97) who recruited <strong>Shaquille O'Neal</strong> and reached two Final Fours.</li>
+        <li><strong>Yasuo Fukuda</strong>, 90 (Oct 22). Prime minister of Japan, 2007–08. His father, Takeo Fukuda, was also prime minister, the first father and son to both hold the office.</li>
+        <li><strong>Claude Cohen-Tannoudji</strong>, 93 (Oct 22). French physicist who shared the <strong>1997 Nobel Prize</strong> for cooling atoms with lasers.</li>
+        <li><strong>Lawrence McCutcheon</strong>, 76 (Oct 23), a 5-time Pro Bowl running back for the Rams, and <strong>Pete Banaszak</strong>, 82 (announced Oct 24), the Raiders running back who scored twice in Super Bowl XI.</li>
+        <li>Also: Irish folk musician <strong>Dónal Lunny</strong>, 79 (Planxty, the Bothy Band); singer <strong>Peggy King</strong>, 96; Met Opera soprano <strong>Judith Blegen</strong>, 85; Cleveland TV weatherman and horror-show co-host <strong>Bob "Hoolihan" Wells</strong>, 93; and track coach <strong>Frank Gagliano</strong>, 89. Earlier this week: Tom Skerritt, Todd Benzinger, Ron Duguay and John Anderson.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — October 26</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1825</strong> — <strong>The Erie Canal opened.</strong> Gov. DeWitt Clinton left Buffalo on the <em>Seneca Chief</em> and reached New York Harbor nine days later, where he poured a keg of Lake Erie water into the Atlantic, the "Wedding of the Waters." The canal ran 363 miles to Albany.</li>
+        <li><strong>1881</strong> — <strong>The Gunfight at the O.K. Corral</strong> (145 years ago today) in Tombstone, Arizona Territory. Wyatt, Virgil and Morgan Earp and Doc Holliday faced the Clantons and McLaurys. It lasted about 30 seconds, and Billy Clanton and both McLaury brothers were killed.</li>
+        <li><strong>1977</strong> — <strong>The last natural case of smallpox.</strong> Ali Maow Maalin, a hospital cook in Merca, Somalia, got sick and recovered. In 1980 the WHO declared smallpox eradicated, the only human disease ever wiped out.</li>
+        <li style="color:#666;">Also: England's Football Association was founded in a London tavern (1863). Pan Am flew the first scheduled transatlantic jet service, on a Boeing 707 (1958). Austria declared permanent neutrality, now its National Day (1955). <em>The Terminator</em> opened (1984). Israel and Jordan signed a peace treaty (1994). Born today: Domenico Scarlatti (1685), Mahalia Jackson (1911), Jaclyn Smith (1945), <strong>Pat Sajak (1946, turns 80 today)</strong>, Hillary Clinton (1947), Kevin Kline (1947), Dylan McDermott (1961), Cary Elwes (1962), Seth MacFarlane (1973).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Oct 26</h3>
+        <ul>
+          <li>🎉 National Pumpkin Day · National Mule Day · National Tennessee Day</li>
+          <li>🎉 National Chicken Fried Steak Day · National Mincemeat Day</li>
+          <li>🎉 National Day of the Deployed · Austrian National Day</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Brazil:</strong> <strong>Lula, 80, won a record fourth term</strong> in Sunday's runoff, about 51% to 48% over Sen. Flávio Bolsonaro, who led the first round. Bolsonaro says he'll try to annul the result because voting hours were extended.</li>
+        <li><strong>Serbia:</strong> <strong>Aleksandar Vučić conceded defeat</strong> to the Student List, which grew out of a year of student-led protests, in a snap parliamentary election. By his own count, the students won about 135–140 seats to his party's roughly 105.</li>
+        <li><strong>Israel votes tomorrow (Tuesday, Oct 27)</strong> in a parliamentary election seen as a referendum on Benjamin Netanyahu.</li>
+        <li><strong>Iran:</strong> CNN reports that Netanyahu pushed for a strike on Iran before the U.S. midterms and that Trump refused, while Qatari mediators were in Tehran.</li>
+        <li><strong>Midterms are 8 days away (Nov 3).</strong> Barack Obama campaigned in Ohio for Senate candidate Sherrod Brown and governor nominee Amy Acton, then rallied in Detroit.</li>
+        <li><strong>Weather:</strong> Vance, which formed Oct 21, is churning in the eastern Pacific off Mexico's coast.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 World Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇸🇴 The last natural smallpox case (Oct 26, 1977) was in Merca, a port south of which capital? Bonus: rapper K'naan was born there.</span><br><span class="a">Mogadishu, Somalia</span></p>
+      <p><span class="q">🇯🇵 Former PM Yasuo Fukuda died this week. Japan's capital was called what until 1868? Name it then and now.</span><br><span class="a">Edo, now Tokyo</span></p>
+      <p><span class="q">🇮🇷 Qatari mediators were reported in this capital this week. It sits at the foot of the Alborz mountains. Name it.</span><br><span class="a">Tehran, Iran</span></p>
+      <p><span class="q">🇷🇺 This week's Russia–Africa Summit convenes in which capital, home of the Kremlin and Red Square?</span><br><span class="a">Moscow, Russia</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Pat Sajak turns 80 today. Who hosted <em>Wheel of Fortune</em> before him, from its 1975 debut until 1981?</span><br><span class="a">Chuck Woolery</span></p>
+      <p><span class="q">For the O.K. Corral anniversary: who played the lawman in ABC's <em>The Life and Legend of Wyatt Earp</em> (1955–61)?</span><br><span class="a">Hugh O'Brian</span></p>
+      <p><span class="q">Born Oct 26, 1947: which future Oscar winner played Woody Reed on the soap <em>Search for Tomorrow</em> in the mid-1970s? (Deep cut)</span><br><span class="a">Kevin Kline</span></p>
+      <p><span class="q"><em>The Terminator</em> opened 42 years ago today. Which of its actors, also Bishop in <em>Aliens</em>, played profiler Frank Black on Chris Carter's <em>Millennium</em> (1996–99)?</span><br><span class="a">Lance Henriksen</span></p>
+      <p><span class="q">For Tennessee Day: which Grand Ole Opry star in a price-tagged hat greeted <em>Hee Haw</em> audiences with "How-DEE!"?</span><br><span class="a">Minnie Pearl (Sarah Ophelia Colley Cannon)</span></p>
+      <p><span class="q">For Pumpkin Day: in CBS's <em>It's the Great Pumpkin, Charlie Brown</em> (1966), what does Charlie Brown get at every house he trick-or-treats?</span><br><span class="a">A rock</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">For Mule Day and the Erie Canal: in the 1905 song "Low Bridge, Everybody Down," what is the name of the mule that works "fifteen miles on the Erie Canal"?</span><br><span class="a">Sal (song by Thomas S. Allen)</span></p>
+      <p><span class="q">For Pumpkin Day: which French writer's 1697 <em>Cendrillon</em> gave Cinderella her pumpkin coach and glass slipper?</span><br><span class="a">Charles Perrault</span></p>
+      <p><span class="q">For Tennessee Day: which author, raised in Henning, Tennessee, won a special Pulitzer in 1977 for <em>Roots</em>?</span><br><span class="a">Alex Haley</span></p>
+      <p><span class="q">For Austrian National Day: which Viennese Expressionist and protégé of Klimt died of the 1918 flu at 28, three days after his wife?</span><br><span class="a">Egon Schiele</span></p>
+      <p><span class="q">Kevin Kline (born today) won a Tony playing the Pirate King in a 1981 Broadway revival of which Gilbert &amp; Sullivan operetta?</span><br><span class="a"><em>The Pirates of Penzance</em></span></p>
+      <p><span class="q">Born Oct 26, 1685, the same year as Bach and Handel, this Italian composer wrote about 555 keyboard sonatas. (Hard)</span><br><span class="a">Domenico Scarlatti</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">The Football Association, the world's oldest, was founded Oct 26, 1863, in what kind of London establishment?</span><br><span class="a">A pub, the Freemasons' Tavern on Great Queen Street</span></p>
+      <p><span class="q">The Erie Canal opened Oct 26, 1825. What mocking nickname did critics give the project, after the governor who pushed it?</span><br><span class="a">"Clinton's Ditch" (DeWitt Clinton)</span></p>
+      <p><span class="q">On Oct 26, 1958, which airline flew the first scheduled transatlantic jet service, on a Boeing 707 from New York to Paris?</span><br><span class="a">Pan Am (Pan American World Airways)</span></p>
+      <p><span class="q">In 1796, which English doctor tested the first smallpox vaccine, using cowpox from a milkmaid's hand on 8-year-old James Phipps?</span><br><span class="a">Edward Jenner (<em>vacca</em> is Latin for cow)</span></p>
+      <p><span class="q">For Pat Sajak's 80th: which TV mogul created <em>Wheel of Fortune</em> (1975) as well as <em>Jeopardy!</em>?</span><br><span class="a">Merv Griffin</span></p>
+      <p><span class="q">For Austrian National Day: which crystal company did Daniel Swarovski found in 1895, and in what Tyrolean town?</span><br><span class="a">Swarovski, Wattens, Austria</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">History</span><strong>The O.K. Corral gunfight didn't happen in the corral.</strong> It was in a narrow vacant lot on Fremont Street, near C.S. Fly's photo studio, behind the corral. About 30 shots were fired in roughly 30 seconds.</li>
+        <li><span class="tag">Animals</span>A <strong>mule</strong> has a donkey father and a horse mother. Flip the parents and you get a <strong>hinny</strong>. Both are almost always sterile.</li>
+        <li><span class="tag">Geography</span><strong>Tennessee borders 8 states</strong>, tied with Missouri for the most. Columbia, Tennessee, calls itself the "Mule Capital of the World" and holds Mule Day every spring.</li>
+        <li><span class="tag">TV</span>Before <em>Wheel</em>, <strong>Pat Sajak was a TV weatherman in Nashville</strong> (WSM) and then Los Angeles (KNBC). In Vietnam he was an Armed Forces Radio DJ who opened his show with "Good morning, Vietnam!"</li>
+        <li><span class="tag">Food</span><strong>A pumpkin is a fruit</strong>, a type of berry called a pepo. <strong>Illinois</strong> grows more pumpkins than any other state, mostly for canning.</li>
+        <li><span class="tag">Science</span>Smallpox is the only human disease ever eradicated. The only animal disease is <strong>rinderpest</strong>, declared gone in 2011.</li>
+        <li><span class="tag">Movies</span><strong>O.J. Simpson was considered for the Terminator</strong>, and Schwarzenegger was first approached to play the hero, Kyle Reese. As the cyborg, Arnold has <strong>fewer than 20 lines</strong>.</li>
+        <li><span class="tag">F1</span>If Antonelli clinches in Mexico, he'll be <strong>Italy's first champion since Alberto Ascari in 1953</strong> and will beat Sebastian Vettel's record as youngest champion (23, in 2010).</li>
+        <li><span class="tag">Baseball</span>Milwaukee's only other World Series was in <strong>1982</strong>, as an American League team. "Harvey's Wallbangers" lost to the Cardinals in 7 games.</li>
+        <li><span class="tag">History</span>The Erie Canal made New York City the country's top port, and it helped cement New York's nickname: <strong>the Empire State</strong>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Oct 26 edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Space Jam</div>
+          <div class="song-meta">Quad City DJ's (for Eric Bauza, today's voice of Bugs) · 1996 · <em>Space Jam</em> soundtrack</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/space-jam/1170755018?i=1170755174" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">You Could Be Mine</div>
+          <div class="song-meta">Guns N' Roses (<em>Terminator 2</em> theme; <em>The Terminator</em> opened Oct 26, 1984) · 1991 · <em>Use Your Illusion II</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/you-could-be-mine/1389971138?i=1389971339" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Walking in Memphis</div>
+          <div class="song-meta">Marc Cohn (Tennessee Day) · 1991 · <em>Marc Cohn</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/walking-in-memphis/217490768?i=217490782" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Empire State of Mind</div>
+          <div class="song-meta">Jay-Z ft. Alicia Keys (the Erie Canal made the Empire State) · 2009 · <em>The Blueprint 3</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/empire-state-of-mind-feat-alicia-keys/1440932009?i=1440932018" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Life Is a Highway</div>
+          <div class="song-meta">Tom Cochrane (for F1's Austin race) · 1991 · <em>Mad Mad World</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/life-is-a-highway/724389207?i=724389622" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Wavin' Flag (Coca-Cola Celebration Mix)</div>
+          <div class="song-meta">K'naan (born in Mogadishu; 2010 World Cup anthem) · 2010 · <em>Troubadour</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/wavin-flag-coca-cola-celebration-mix/1445842067?i=1445842712" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
