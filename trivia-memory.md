@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 26 | Somalia | Mogadishu (last natural smallpox case, Merca, Oct 26 1977; K'naan born there) |
+| Oct 26 | Japan | Tokyo (called Edo until 1868; Yasuo Fukuda died Oct 22) |
+| Oct 26 | Iran | Tehran (Alborz mountains; Qatari mediators) |
+| Oct 26 | Russia | Moscow (Russia–Africa Summit this week) |
 | Oct 23 | Belgium | Brussels (Smurfs debuted in Belgium's Spirou Oct 23, 1958; EU/NATO HQ) |
 | Oct 23 | Sweden | Stockholm (Pelé, 17, scored twice in 1958 World Cup final at Råsunda, Solna) |
 | Oct 23 | Afghanistan | Kabul (Snow Leopard Day; Wakhan Corridor) |
@@ -225,6 +229,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 26 | Wheel of Fortune (1975– ) | original host before Pat Sajak | Chuck Woolery (Sajak born Oct 26, 1946) |
+| Oct 26 | The Life and Legend of Wyatt Earp (1955–61) | Wyatt Earp | Hugh O'Brian (O.K. Corral anniv) |
+| Oct 26 | Search for Tomorrow (1970s) | Woody Reed | Kevin Kline (born Oct 26, 1947) |
+| Oct 26 | Millennium (1996–99) | Frank Black | Lance Henriksen (Terminator opened Oct 26, 1984) |
+| Oct 26 | Hee Haw (1969–92) | Minnie Pearl ("How-DEE!") | Sarah Ophelia Colley Cannon (Tennessee Day) |
+| Oct 26 | It's the Great Pumpkin, Charlie Brown (1966) | Charlie Brown gets a rock | (animated special; Pumpkin Day) |
 | Oct 23 | The Tonight Show Starring Johnny Carson (1962–92) | Carnac the Magnificent | Johnny Carson (born Oct 23, 1925) |
 | Oct 23 | Fernwood 2 Night (1977) | Jerry Hubbard (sidekick to Martin Mull's Barth Gimble) | Fred Willard |
 | Oct 23 | Elvira's Movie Macabre (1981–86) | Elvira, Mistress of the Dark | Cassandra Peterson |
@@ -526,6 +536,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 26 | Mule in "Low Bridge, Everybody Down" (1905, Erie Canal song) | Sal (Thomas S. Allen) |
+| Oct 26 | 1697 Cendrillon added pumpkin coach and glass slipper | Charles Perrault |
+| Oct 26 | Roots author raised in Henning, Tennessee; special Pulitzer 1977 | Alex Haley |
+| Oct 26 | Viennese Expressionist, Klimt protégé, died of 1918 flu at 28 | Egon Schiele |
+| Oct 26 | Kevin Kline Tony as the Pirate King (1981) | The Pirates of Penzance |
+| Oct 26 | Composer born Oct 26, 1685, ~555 keyboard sonatas | Domenico Scarlatti |
 | Oct 23 | The Andromeda Strain / Jurassic Park author, born Oct 23, 1942 | Michael Crichton |
 | Oct 23 | Sue Townsend 1982 diary novel, age of hero (Mole Day) | 13¾ — The Secret Diary of Adrian Mole |
 | Oct 23 | The Snow Leopard (1978), National Book Award | Peter Matthiessen |
@@ -825,6 +841,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 26 | History | O.K. Corral gunfight was in a vacant lot on Fremont St, ~30 seconds |
+| Oct 26 | Animals | Mule = donkey father + horse mother; hinny is the reverse |
+| Oct 26 | Geography | Tennessee borders 8 states (tied with Missouri); Columbia TN Mule Day |
+| Oct 26 | TV | Pat Sajak was a Nashville (WSM) weatherman; "Good morning, Vietnam!" as Armed Forces Radio DJ |
+| Oct 26 | Food | Pumpkin is a fruit (pepo); Illinois grows the most |
+| Oct 26 | Science | Smallpox only human disease eradicated; rinderpest the animal one (2011) |
+| Oct 26 | Movies | O.J. Simpson considered for the Terminator; Arnold first approached for Kyle Reese |
+| Oct 26 | F1 | Antonelli would be Italy's first champion since Ascari 1953; youngest ever (beats Vettel, 23) |
+| Oct 26 | Baseball | Brewers' only other WS was 1982 as an AL team (Harvey's Wallbangers, lost to STL in 7) |
+| Oct 26 | History | Erie Canal made NYC the top port; "Empire State" nickname |
 | Oct 23 | Nature | Capistrano swallows leave Oct 23, return March 19 (St. Joseph's Day), winter near Goya, Argentina |
 | Oct 23 | Animals | Snow leopards can't roar (chuff); tail used as a scarf |
 | Oct 23 | Sports | Pelé born Edson Arantes do Nascimento, named for Thomas Edison |
@@ -1419,6 +1445,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 26 | October 26 (Erie Canal opens 1825 — DeWitt Clinton, Seneca Chief, Wedding of the Waters; O.K. Corral gunfight 1881 — 145th anniv; last natural smallpox case, Ali Maow Maalin, Merca, Somalia 1977; also FA founded 1863, Pan Am 707 first transatlantic jet service 1958, Austrian neutrality 1955, The Terminator 1984, Israel–Jordan treaty 1994; births Scarlatti 1685, Mahalia Jackson 1911, Jaclyn Smith 1945, Pat Sajak 1946 (80th), Hillary Clinton 1947, Kevin Kline 1947, Dylan McDermott 1961, Cary Elwes 1962, Seth MacFarlane 1973) |
 | Oct 23 | October 23 (Hungarian Revolution begins 1956 — 70th anniv, Stalin statue toppled, crushed by Nov 10; Joe Carter WS Game 6 walk-off 3-run HR off Mitch Williams, 8–6, 1993 — only come-from-behind walk-off to end a WS; iPod unveiled 2001 — 25th anniv, 5 GB, $399; also El Alamein 1942, Smurfs debut 1958, Beirut barracks bombing 1983 (241); births Carson 1925, Pelé 1940, Crichton 1942, Weird Al 1959, Ryan Reynolds 1976) |
 | Oct 22 | October 22 (Garnerin first frameless parachute jump over Parc Monceau 1797; Sam Houston sworn in as first elected Republic of Texas president 1836; Metropolitan Opera opens with Gounod's Faust 1883; also Pretty Boy Floyd killed near East Liverpool OH 1934, JFK Cuba quarantine address 1962, Sartre declines Nobel 1964) |
 | Oct 21 | October 21 (Battle of Trafalgar 1805 — Nelson killed aboard HMS Victory, 27 vs 33 ships, none British lost; Edison carbon cotton-thread filament burns ~13½ hours at Menlo Park 1879; Guggenheim Museum opens 1959, Wright died six months earlier; also Aberfan disaster 1966, 144 dead incl. 116 children; BTTF Part II date 2015) |
@@ -1476,6 +1503,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 26 | National Pumpkin Day; National Mule Day; National Tennessee Day; National Chicken Fried Steak Day; National Mincemeat Day; National Day of the Deployed; Austrian National Day |
 | Oct 23 | National Mole Day; National Boston Cream Pie Day; National iPod Day; National TV Talk Show Host Day; National Horror Movie Day; Swallows Depart From San Juan Capistrano Day; International Snow Leopard Day |
 | Oct 22 | National Nut Day; National Color Day; National Make a Dog's Day; National Tavern-Style Pizza Day; International Stuttering Awareness Day; International Caps Lock Day |
 | Oct 21 | Back to the Future Day; National Apple Day; International Nacho Day; National Pumpkin Cheesecake Day; National Reptile Awareness Day; Hagfish Day; National Witch Hazel Day; World Iodine Deficiency Day; Support Your Local Chamber of Commerce Day; Medical Assistants Recognition Day |
@@ -1541,6 +1569,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 26 | Where the Football Association was founded, Oct 26, 1863 | Freemasons' Tavern, Great Queen Street, London |
+| Oct 26 | Erie Canal critics' nickname | "Clinton's Ditch" (DeWitt Clinton) |
+| Oct 26 | Airline with first scheduled transatlantic jet service, Oct 26, 1958 | Pan Am (Boeing 707, New York–Paris) |
+| Oct 26 | First smallpox vaccine, 1796, James Phipps | Edward Jenner (cowpox) |
+| Oct 26 | Creator of Wheel of Fortune (1975) and Jeopardy! | Merv Griffin |
+| Oct 26 | Crystal company founded 1895 in Wattens, Tyrol | Swarovski (Daniel Swarovski) |
 | Oct 23 | Device pitched as "1,000 songs in your pocket" (Oct 23, 2001); its "father" | iPod; Tony Fadell |
 | Oct 23 | Boston hotel that birthed Boston cream pie (1856) and a dinner roll | Parker House (Omni Parker House) |
 | Oct 23 | Belgian cartoonist (Pierre Culliford) who created the Smurfs, 1958 | Peyo |
@@ -1833,6 +1867,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 26 | Space Jam | Quad City DJ's | 1996 |
+| Oct 26 | You Could Be Mine | Guns N' Roses | 1991 |
+| Oct 26 | Walking in Memphis | Marc Cohn | 1991 |
+| Oct 26 | Empire State of Mind | Jay-Z ft. Alicia Keys | 2009 |
+| Oct 26 | Life Is a Highway | Tom Cochrane | 1991 |
+| Oct 26 | Wavin' Flag (Coca-Cola Celebration Mix) | K'naan | 2010 |
 | Oct 23 | 1234 | Feist | 2007 |
 | Oct 23 | Flathead | The Fratellis | 2006 |
 | Oct 23 | White & Nerdy | "Weird Al" Yankovic | 2006 |
@@ -3540,4 +3580,18 @@ MLB WS G1 tonight 8 ET FOX at MIL: Nick Martinez (TB, over Rasmussen) vs Misioro
 ### Notes
 Friday run (fired ~11:02 UTC Friday Oct 23); header dated Friday, October 23, 2026. Oct 23 not previously used for This Day in History. Ryu Murakami listed as dead on one aggregator but unconfirmed by news, so omitted. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API via the device shell. Vertigo (U2) and Jerk It Out (Caesars) dropped (no verifiable Spotify ID). No table rows older than 12 weeks to prune.
 
-_Last updated: October 23, 2026_
+## October 26, 2026 (v94)
+
+### NFL
+ESPN byteam, splitId 0, through Sunday night Week 8 (MNF DAL at PHI pending): Detroit Lions 413.0 yds/g (2,478 total, 6 GP, 8th in total); top 5 Lions / Rams 411.0 (2,877, 7 GP, No. 1 total) / Bears 409.1 / Bills 399.5 / Panthers 398.5. Chiefs fell to 6th (387.2) after SEA 20-3 KC. Bengals 356.7 yds/g 13th, 2,140 total 24th; won 35-13 at BAL (Burrow 22/30, 292, 4 TD; Higgins 148 rec yds; no Lamar Jackson); 4-2. Next: Sun Nov 1 vs Tennessee 1:00 p.m. EST CBS.
+
+### Box Office
+Weekend Oct 23-25: #1 Clayface $24.5M (~$43M WW, A- CinemaScore); You Can See Everything $19.5M; Wildwood $11.6M; Street Fighter $8.6M (-72%); Wicker $5.7M. Fun fact used: Tom Rhys Harries shot with a torn ACL; Liverpool shoot, working title Corinthians; Flanagan story inspired by Ron Perlman's BTAS voice; dir. James Watkins. Coming Oct 30-Nov 1: The Only Living Pickpocket in New York, Christmas at the Kringles, Everest: The Other Side, The Mosquito Bowl (limited).
+
+### Sports / Deaths / Current Events
+MLB WS: MIL leads 2-0 (G1 3-2; G2 5-4 after TB scored 4 in 1st; Frelick HR, Pratt go-ahead hit, Ashby 5 outs); G3 Mon 8 ET FOX at Tropicana, Freddy Peralta starts for TB. NCAA: Cincinnati 37, No. 8 Texas Tech 24 (French 4 TD, Tabb 173 rush). F1: Antonelli won US GP (Leclerc, Verstappen); leads by 123 with 125 left; top-9 in Mexico Nov 1 clinches. WNBA Finals 2-2 (GS 67-62 at ATL), G5 Mon 8 ET. NBA: Doncic 52 at UTA, Booker 43, Murray 42. MLS: FCC 2-0 at DC, 42 pts, 3 left. NHL: CBJ 2-1 OT VGK. Golf: Bermuda R3 suspended, Smotherman/Power -16. Deaths: Eric Bauza 46 (Oct 25), Dale Brown 90, Yasuo Fukuda 90, Claude Cohen-Tannoudji 93, Lawrence McCutcheon 76, Pete Banaszak 82; also Donal Lunny, Peggy King, Judith Blegen, Bob "Hoolihan" Wells, Frank Gagliano. Current events: Lula wins fourth term (~51-48 over Flavio Bolsonaro); Vucic concedes to Student List in Serbia; Israel votes Oct 27; CNN: Trump refused Netanyahu push for pre-election Iran strike; midterms Nov 3, Obama in Ohio for Brown/Acton; Vance off Mexico's Pacific coast.
+
+### Notes
+Monday run (daily cadence; fired ~11:03 UTC); header dated Monday, October 26, 2026. Oct 26 not previously used for This Day in History. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902; K'naan artist ID from a track embed), all oEmbed-verified; Apple IDs from the iTunes Search API (worked from cloud this run). Wavin' Flag uses the Celebration Mix on both services (original album cut not in embed top tracks). Cloud git push refused by the proxy; pushed from the connected device shell. No table rows older than 12 weeks to prune.
+
+_Last updated: October 26, 2026_
