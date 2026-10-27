@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 27 | Israel | Jerusalem (Knesset; election Oct 27; most embassies in Tel Aviv) |
+| Oct 27 | Czech Republic | Prague (Charles Bridge, Astronomical Clock; Czechoslovak independence Oct 28, 1918) |
+| Oct 27 | Iraq | Baghdad (on the Tigris; Abbasid caliphate; One Thousand and One Nights) |
+| Oct 27 | Pennsylvania | Harrisburg (not Pittsburgh; Donnie Iris tie) |
 | Oct 26 | Somalia | Mogadishu (last natural smallpox case, Merca, Oct 26 1977; K'naan born there) |
 | Oct 26 | Japan | Tokyo (called Edo until 1868; Yasuo Fukuda died Oct 22) |
 | Oct 26 | Iran | Tehran (Alborz mountains; Qatari mediators) |
@@ -229,6 +233,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 27 | Babylon 5 (1994–98) | Psi Cop Alfred Bester | Walter Koenig (died Oct 25, 2026) |
+| Oct 27 | Star Trek (1966–69) | Ensign Pavel Chekov (mop-top wig to evoke Monkee Davy Jones) | Walter Koenig |
+| Oct 27 | Star Trek (1966–69) | Lt. Hikaru Sulu | George Takei |
+| Oct 27 | Fawlty Towers (1975–79) | Sybil Fawlty | Prunella Scales (John Cleese born Oct 27, 1939) |
+| Oct 27 | McHale's Navy (1962–66) | Lt. Cmdr. Quinton McHale | Ernest Borgnine (Navy Day) |
+| Oct 27 | The Munsters (1964–66) | Lily Munster | Yvonne De Carlo (Black Cat Day) |
 | Oct 26 | Wheel of Fortune (1975– ) | original host before Pat Sajak | Chuck Woolery (Sajak born Oct 26, 1946) |
 | Oct 26 | The Life and Legend of Wyatt Earp (1955–61) | Wyatt Earp | Hugh O'Brian (O.K. Corral anniv) |
 | Oct 26 | Search for Tomorrow (1970s) | Woody Reed | Kevin Kline (born Oct 26, 1947) |
@@ -536,6 +546,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 27 | Shared pen name of the Federalist Papers (first essay Oct 27, 1787) | "Publius" |
+| Oct 27 | Radio "play for voices" set in Llareggub | Dylan Thomas, Under Milk Wood |
+| Oct 27 | Sylvia Plath's husband, later Poet Laureate | Ted Hughes |
+| Oct 27 | Pop artist of Whaam! (1963), Ben-Day dots, born Oct 27, 1923 | Roy Lichtenstein |
+| Oct 27 | Violinist whose Caprice No. 24 inspired Rachmaninoff's 1934 Rhapsody | Niccolò Paganini (born Oct 27, 1782) |
+| Oct 27 | Narrator's first cat in Poe's "The Black Cat" (1843) | Pluto |
 | Oct 26 | Mule in "Low Bridge, Everybody Down" (1905, Erie Canal song) | Sal (Thomas S. Allen) |
 | Oct 26 | 1697 Cendrillon added pumpkin coach and glass slipper | Charles Perrault |
 | Oct 26 | Roots author raised in Henning, Tennessee; special Pulitzer 1977 | Alex Haley |
@@ -841,6 +857,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 27 | Baseball | 21 of 25 teams up 3-0 in the World Series swept; no WS team has come back from 0-3 |
+| Oct 27 | Baseball | Mets won 1986 WS Game 7 on Oct 27 after a rainout, two nights after Buckner |
+| Oct 27 | Transit | NYC subway has 472 stations, most in the world; opened with 28 |
+| Oct 27 | Geography | Darvaza gas crater ("Door to Hell"), Turkmenistan, burning since 1971 |
+| Oct 27 | Animals | Black cats are good luck in Britain, Scotland and Japan |
+| Oct 27 | History | Theodore Roosevelt youngest president (42) |
+| Oct 27 | Geography | Pittsburgh "City of Bridges," 446 bridges, more than Venice |
+| Oct 27 | Politics | No single party has ever won a Knesset majority; always coalitions |
+| Oct 27 | TV | Chekov running gag that everything was invented in Russia (Scotch "inwented" in Leningrad) |
+| Oct 27 | Manga | 1970 JAL 351 (Yodogo) hijackers declared "We are Ashita no Joe" |
 | Oct 26 | History | O.K. Corral gunfight was in a vacant lot on Fremont St, ~30 seconds |
 | Oct 26 | Animals | Mule = donkey father + horse mother; hinny is the reverse |
 | Oct 26 | Geography | Tennessee borders 8 states (tied with Missouri); Columbia TN Mule Day |
@@ -1445,6 +1471,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 27 | October 27 (first Federalist essay in the Independent Journal 1787, "Publius"; NYC subway opens 1904, IRT, City Hall to 145th St, 28 stations, Mayor McClellan drove; Red Sox win 2004 WS, sweep of Cardinals during total lunar eclipse; also Mets win 1986 Game 7, Saturn I first flight 1961, Congo renamed Zaire 1971, Turkmenistan independence 1991; births Capt. Cook 1728, Paganini 1782, Theodore Roosevelt 1858, Dylan Thomas 1914, Ruby Dee 1922, Roy Lichtenstein 1923, Sylvia Plath 1932, John Cleese 1939) |
 | Oct 26 | October 26 (Erie Canal opens 1825 — DeWitt Clinton, Seneca Chief, Wedding of the Waters; O.K. Corral gunfight 1881 — 145th anniv; last natural smallpox case, Ali Maow Maalin, Merca, Somalia 1977; also FA founded 1863, Pan Am 707 first transatlantic jet service 1958, Austrian neutrality 1955, The Terminator 1984, Israel–Jordan treaty 1994; births Scarlatti 1685, Mahalia Jackson 1911, Jaclyn Smith 1945, Pat Sajak 1946 (80th), Hillary Clinton 1947, Kevin Kline 1947, Dylan McDermott 1961, Cary Elwes 1962, Seth MacFarlane 1973) |
 | Oct 23 | October 23 (Hungarian Revolution begins 1956 — 70th anniv, Stalin statue toppled, crushed by Nov 10; Joe Carter WS Game 6 walk-off 3-run HR off Mitch Williams, 8–6, 1993 — only come-from-behind walk-off to end a WS; iPod unveiled 2001 — 25th anniv, 5 GB, $399; also El Alamein 1942, Smurfs debut 1958, Beirut barracks bombing 1983 (241); births Carson 1925, Pelé 1940, Crichton 1942, Weird Al 1959, Ryan Reynolds 1976) |
 | Oct 22 | October 22 (Garnerin first frameless parachute jump over Parc Monceau 1797; Sam Houston sworn in as first elected Republic of Texas president 1836; Metropolitan Opera opens with Gounod's Faust 1883; also Pretty Boy Floyd killed near East Liverpool OH 1934, JFK Cuba quarantine address 1962, Sartre declines Nobel 1964) |
@@ -1503,6 +1530,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 27 | Navy Day; National American Beer Day; National Civics Day; National Black Cat Day; World Occupational Therapy Day; World Day for Audiovisual Heritage; Turkmenistan Independence Day |
 | Oct 26 | National Pumpkin Day; National Mule Day; National Tennessee Day; National Chicken Fried Steak Day; National Mincemeat Day; National Day of the Deployed; Austrian National Day |
 | Oct 23 | National Mole Day; National Boston Cream Pie Day; National iPod Day; National TV Talk Show Host Day; National Horror Movie Day; Swallows Depart From San Juan Capistrano Day; International Snow Leopard Day |
 | Oct 22 | National Nut Day; National Color Day; National Make a Dog's Day; National Tavern-Style Pizza Day; International Stuttering Awareness Day; International Caps Lock Day |
@@ -1569,6 +1597,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 27 | Company that ran NYC's first subway (Oct 27, 1904) | IRT (Interborough Rapid Transit Company) |
+| Oct 27 | Why Navy Day (1922) is Oct 27 | Theodore Roosevelt's birthday; former Assistant Secretary of the Navy |
+| Oct 27 | America's oldest operating brewery, Pottsville PA, 1829 | D.G. Yuengling & Son |
+| Oct 27 | Pittsburgh-area company founded 1869, "57 Varieties" | H.J. Heinz Company |
+| Oct 27 | Sandwich invented 1967 in Uniontown PA by Jim Delligatti | Big Mac |
+| Oct 27 | Engineer whose Marshall team built Saturn I (first flight Oct 27, 1961) | Wernher von Braun |
 | Oct 26 | Where the Football Association was founded, Oct 26, 1863 | Freemasons' Tavern, Great Queen Street, London |
 | Oct 26 | Erie Canal critics' nickname | "Clinton's Ditch" (DeWitt Clinton) |
 | Oct 26 | Airline with first scheduled transatlantic jet service, Oct 26, 1958 | Pan Am (Boeing 707, New York–Paris) |
@@ -1867,6 +1901,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 27 | Black Cat | Janet Jackson | 1990 |
+| Oct 27 | Beer for My Horses | Toby Keith & Willie Nelson | 2002 |
+| Oct 27 | Black and Yellow | Wiz Khalifa | 2010 |
+| Oct 27 | Wind of Change | Scorpions | 1990 |
+| Oct 27 | Harvest Moon | Neil Young | 1992 |
 | Oct 26 | Space Jam | Quad City DJ's | 1996 |
 | Oct 26 | You Could Be Mine | Guns N' Roses | 1991 |
 | Oct 26 | Walking in Memphis | Marc Cohn | 1991 |
@@ -3594,4 +3633,18 @@ MLB WS: MIL leads 2-0 (G1 3-2; G2 5-4 after TB scored 4 in 1st; Frelick HR, Prat
 ### Notes
 Monday run (daily cadence; fired ~11:03 UTC); header dated Monday, October 26, 2026. Oct 26 not previously used for This Day in History. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902; K'naan artist ID from a track embed), all oEmbed-verified; Apple IDs from the iTunes Search API (worked from cloud this run). Wavin' Flag uses the Celebration Mix on both services (original album cut not in embed top tracks). Cloud git push refused by the proxy; pushed from the connected device shell. No table rows older than 12 weeks to prune.
 
-_Last updated: October 26, 2026_
+## October 27, 2026 (v95)
+
+### NFL
+ESPN byteam, splitId 0, through MNF Week 8 (DAL 38-21 at PHI): Detroit Lions 413.0 yds/g (2,478 total, 6 GP, 9th in total); top 5 Lions / Rams 411.0 (2,877, 7 GP, No. 1 total) / Bears 409.1 / Bills 399.5 / Panthers 398.5. Dallas to 13th (358.7). Bengals 356.7 yds/g 14th, 2,140 total 25th; 4-2. Next: Sun Nov 1 vs Tennessee 1:00 p.m. EST CBS.
+
+### Box Office
+Weekend Oct 23-25 unchanged: #1 Clayface $24.5M (~$43M WW); You Can See Everything $19.5M; Wildwood $11.6M; Street Fighter $8.6M; Wicker $5.7M. Fun fact used: Liverpool doubled for Gotham (Derby Square = Gotham Hospital, Central Library = courthouse), ~$40M budget, moved from Sept 11 to Oct 23 for Halloween. Coming Oct 30-Nov 1 unchanged.
+
+### Sports / Deaths / Current Events
+MLB WS (MLB Stats API): Brewers 10-1 Rays in G3, MIL leads 3-0 (8-run 5th, 7 straight two-out hits, postseason record; Robert Gasser faced minimum through 6, first lefty since Koufax 1965; Chourio 4-for-5); G4 Tue 8 ET FOX at Tropicana, Griffin Jax for TB. WNBA Finals: Valkyries 64-55 Dream, GS leads 3-2 (Kiah Stokes 13 pts, 3 blk); G6 Thu afternoon in Atlanta. Golf: Austin Smotherman won Bermuda in Monday playoff over Seamus Power (54 holes, -16; 2nd straight win). NBA: Edwards 47 in MIN 125-127 OT loss at CLE; Brandon Miller 39; Cooper Flagg 29 in DAL 113-109 at MIA. MLS: FCC at Inter Miami Wed 7:30 ET. NCAA: Cincinnati (5-2) hosts Utah Sat 3:45 ET. NHL: Kings 6-3 at NYR, DET SO win at EDM, CBJ 4-5-0. F1 Mexico Sunday. Deaths: Walter Koenig 90 (Oct 25), Donnie Iris 83 (Oct 26), Tetsuya Chiba 87 (announced Oct 27), Ryu Murakami 74; carried Bauza, Dale Brown, Fukuda, Cohen-Tannoudji, McCutcheon, Banaszak, Duguay, Peggy King. Current events: Israel votes Oct 27 (Netanyahu vs Eisenkot/Yashar; 61 of 120; polls close 4 p.m. ET); UN commission reports on Gaza and on Russian energy strikes; Oleshky limited ceasefire; new DOJ charges against James Comey; Anthropic IPO filing; midterms Nov 3.
+
+### Notes
+Tuesday run (daily cadence; fired ~14:13 UTC); header dated Tuesday, October 27, 2026. Oct 27 not previously used for This Day in History. 5 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels; Wikipedia/Wikidata API rate-limited), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push and GitHub REST writes refused by the proxy (403); pushed from the connected device shell. No table rows older than 12 weeks to prune.
+
+_Last updated: October 27, 2026_
