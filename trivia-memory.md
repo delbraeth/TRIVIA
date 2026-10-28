@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 28 | Greece | Athens (Ohi Day; Metaxas said "No" to Mussolini Oct 28, 1940) |
+| Oct 28 | Vatican City | Vatican City (John XXIII elected Oct 28, 1958) |
+| Oct 28 | New Mexico | Santa Fe (oldest and highest state capital, c. 1610, ~7,000 ft; Dolores Huerta born in Dawson NM) |
+| Oct 28 | Missouri | Jefferson City (not St. Louis; Gateway Arch completed Oct 28, 1965) |
 | Oct 27 | Israel | Jerusalem (Knesset; election Oct 27; most embassies in Tel Aviv) |
 | Oct 27 | Czech Republic | Prague (Charles Bridge, Astronomical Clock; Czechoslovak independence Oct 28, 1918) |
 | Oct 27 | Iraq | Baghdad (on the Tigris; Abbasid caliphate; One Thousand and One Nights) |
@@ -233,6 +237,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 28 | The Name of the Game (1968–71) | Peggy Maxwell | Susan Saint James (1969 Emmy; died Oct 26; Gene Barry/Tony Franciosa/Robert Stack rotating leads) |
+| Oct 28 | Bosom Buddies (1980–82) | Isabelle | Telma Hopkins (born Oct 28, 1948; Tony Orlando and Dawn) |
+| Oct 28 | The Flintstones (1960–66) | Fred Flintstone (voice) | Alan Reed (Mel Blanc voiced Barney; Animation Day) |
+| Oct 28 | Rocky and His Friends (1959–64) | Rocky the Flying Squirrel / Natasha (voice) | June Foray |
+| Oct 28 | Pirates of Silicon Valley (TNT, 1999) | Bill Gates | Anthony Michael Hall (Noah Wyle as Steve Jobs; Gates born Oct 28, 1955) |
 | Oct 27 | Babylon 5 (1994–98) | Psi Cop Alfred Bester | Walter Koenig (died Oct 25, 2026) |
 | Oct 27 | Star Trek (1966–69) | Ensign Pavel Chekov (mop-top wig to evoke Monkee Davy Jones) | Walter Koenig |
 | Oct 27 | Star Trek (1966–69) | Lt. Hikaru Sulu | George Takei |
@@ -546,6 +555,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 28 | "The New Colossus" poet (Statue of Liberty plaque) | Emma Lazarus (1883) |
+| Oct 28 | Brideshead Revisited author (teddy bear Aloysius) | Evelyn Waugh (born Oct 28, 1903) |
+| Oct 28 | "Screaming popes" painter after Velázquez's Innocent X | Francis Bacon (born Dublin Oct 28, 1909) |
+| Oct 28 | Zorba the Greek (1946) author | Nikos Kazantzakis |
+| Oct 28 | Like Water for Chocolate (1989) author | Laura Esquivel |
+| Oct 28 | Satire dedicated to Thomas More | Erasmus, In Praise of Folly (1511) |
 | Oct 27 | Shared pen name of the Federalist Papers (first essay Oct 27, 1787) | "Publius" |
 | Oct 27 | Radio "play for voices" set in Llareggub | Dylan Thomas, Under Milk Wood |
 | Oct 27 | Sylvia Plath's husband, later Poet Laureate | Ted Hughes |
@@ -857,6 +872,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 28 | History | Statue of Liberty torch arm displayed at 1876 Centennial (Philadelphia) and Madison Square Park to raise funds |
+| Oct 28 | Food | Theobroma (cacao genus) = Greek for "food of the gods" |
+| Oct 28 | Language | "Sí, se puede" — Huerta, Phoenix 1972 during Chavez fast; Obama "Yes, we can"; Medal of Freedom 2012 |
+| Oct 28 | Space | Prospero (Oct 28, 1971) only British satellite on a British rocket (Black Arrow, Woomera); program already canceled |
+| Oct 28 | Law | Volstead Act defined "intoxicating" as more than 0.5% alcohol |
+| Oct 28 | Vatican | Swiss Guard dates to 1506; recruits must be Catholic Swiss men |
+| Oct 28 | Movies | Julia Roberts first actress paid $20M (Erin Brockovich, 2000) |
+| Oct 28 | Architecture | Gateway Arch tallest man-made monument in Western Hemisphere; tram of small pods in each leg |
+| Oct 28 | Baseball | Ben Williamson walk-off = Rays' first WS walk-off since Brett Phillips, 2020 Game 4 |
+| Oct 28 | Politics | Israel Arab parties on track for 19 seats, up from 10 |
 | Oct 27 | Baseball | 21 of 25 teams up 3-0 in the World Series swept; no WS team has come back from 0-3 |
 | Oct 27 | Baseball | Mets won 1986 WS Game 7 on Oct 27 after a rainout, two nights after Buckner |
 | Oct 27 | Transit | NYC subway has 472 stations, most in the world; opened with 28 |
@@ -1471,6 +1496,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 28 | October 28 (Statue of Liberty dedicated 1886 — 140th anniv, first NYC ticker-tape parade; Ohi Day 1940 — Metaxas rejects Mussolini; Gateway Arch final section 1965; also Harvard founding vote 1636, Whitney cotton gin patent application 1793, Volstead Act veto override 1919, John XXIII elected 1958, Khrushchev agrees to remove Cuba missiles 1962; born Erasmus, Waugh, Francis Bacon, Salk, Telma Hopkins, Annie Potts, Bill Gates, Julia Roberts, Joaquin Phoenix) |
 | Oct 27 | October 27 (first Federalist essay in the Independent Journal 1787, "Publius"; NYC subway opens 1904, IRT, City Hall to 145th St, 28 stations, Mayor McClellan drove; Red Sox win 2004 WS, sweep of Cardinals during total lunar eclipse; also Mets win 1986 Game 7, Saturn I first flight 1961, Congo renamed Zaire 1971, Turkmenistan independence 1991; births Capt. Cook 1728, Paganini 1782, Theodore Roosevelt 1858, Dylan Thomas 1914, Ruby Dee 1922, Roy Lichtenstein 1923, Sylvia Plath 1932, John Cleese 1939) |
 | Oct 26 | October 26 (Erie Canal opens 1825 — DeWitt Clinton, Seneca Chief, Wedding of the Waters; O.K. Corral gunfight 1881 — 145th anniv; last natural smallpox case, Ali Maow Maalin, Merca, Somalia 1977; also FA founded 1863, Pan Am 707 first transatlantic jet service 1958, Austrian neutrality 1955, The Terminator 1984, Israel–Jordan treaty 1994; births Scarlatti 1685, Mahalia Jackson 1911, Jaclyn Smith 1945, Pat Sajak 1946 (80th), Hillary Clinton 1947, Kevin Kline 1947, Dylan McDermott 1961, Cary Elwes 1962, Seth MacFarlane 1973) |
 | Oct 23 | October 23 (Hungarian Revolution begins 1956 — 70th anniv, Stalin statue toppled, crushed by Nov 10; Joe Carter WS Game 6 walk-off 3-run HR off Mitch Williams, 8–6, 1993 — only come-from-behind walk-off to end a WS; iPod unveiled 2001 — 25th anniv, 5 GB, $399; also El Alamein 1942, Smurfs debut 1958, Beirut barracks bombing 1983 (241); births Carson 1925, Pelé 1940, Crichton 1942, Weird Al 1959, Ryan Reynolds 1976) |
@@ -1530,6 +1556,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 28 | National Chocolate Day; National First Responders Day; Statue of Liberty Day; Wild Foods Day; National Internal Medicine Day; International Animation Day; Ohi Day (Greece & Cyprus); Czech Independence Day |
 | Oct 27 | Navy Day; National American Beer Day; National Civics Day; National Black Cat Day; World Occupational Therapy Day; World Day for Audiovisual Heritage; Turkmenistan Independence Day |
 | Oct 26 | National Pumpkin Day; National Mule Day; National Tennessee Day; National Chicken Fried Steak Day; National Mincemeat Day; National Day of the Deployed; Austrian National Day |
 | Oct 23 | National Mole Day; National Boston Cream Pie Day; National iPod Day; National TV Talk Show Host Day; National Horror Movie Day; Swallows Depart From San Juan Capistrano Day; International Snow Leopard Day |
@@ -1597,6 +1624,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 28 | Statue of Liberty sculptor | Frédéric Auguste Bartholdi (face reportedly modeled on his mother) |
+| Oct 28 | Gateway Arch architect | Eero Saarinen (died 1961 before construction) |
+| Oct 28 | Gates & Allen's pre-Microsoft company (1972) | Traf-O-Data |
+| Oct 28 | "Could you patent the sun?" | Jonas Salk (born Oct 28, 1914; polio vaccine) |
+| Oct 28 | Inventor of chocolate conching (Bern, 1879) | Rodolphe Lindt |
+| Oct 28 | Théâtre Optique, first paid animated show (Oct 28, 1892, Musée Grévin) | Émile Reynaud (International Animation Day) |
 | Oct 27 | Company that ran NYC's first subway (Oct 27, 1904) | IRT (Interborough Rapid Transit Company) |
 | Oct 27 | Why Navy Day (1922) is Oct 27 | Theodore Roosevelt's birthday; former Assistant Secretary of the Navy |
 | Oct 27 | America's oldest operating brewery, Pottsville PA, 1829 | D.G. Yuengling & Son |
@@ -1901,6 +1934,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 28 | It Must Have Been Love | Roxette | 1990 |
+| Oct 28 | She | Elvis Costello | 1999 |
+| Oct 28 | You've Got a Friend in Me | Randy Newman | 1995 |
+| Oct 28 | You'll Be in My Heart | Phil Collins | 1999 |
+| Oct 28 | Chocolate | Kylie Minogue | 2004 |
 | Oct 27 | Black Cat | Janet Jackson | 1990 |
 | Oct 27 | Beer for My Horses | Toby Keith & Willie Nelson | 2002 |
 | Oct 27 | Black and Yellow | Wiz Khalifa | 2010 |
@@ -3647,4 +3685,18 @@ MLB WS (MLB Stats API): Brewers 10-1 Rays in G3, MIL leads 3-0 (8-run 5th, 7 str
 ### Notes
 Tuesday run (daily cadence; fired ~14:13 UTC); header dated Tuesday, October 27, 2026. Oct 27 not previously used for This Day in History. 5 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels; Wikipedia/Wikidata API rate-limited), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push and GitHub REST writes refused by the proxy (403); pushed from the connected device shell. No table rows older than 12 weeks to prune.
 
-_Last updated: October 27, 2026_
+## October 28, 2026 (v96)
+
+### NFL
+ESPN byteam, splitId 0, through Week 8 (unchanged since MNF): Detroit Lions 413.0 yds/g (2,478 total, 6 GP, 9th in total); top 5 Lions / Rams 411.0 (2,877, 7 GP, No. 1 total) / Bears 409.1 / Bills 399.5 / Panthers 398.5. Titans last at 259.6. Bengals 356.7 yds/g 14th, 2,140 total 25th; 4-2. Next: Sun Nov 1 vs Tennessee 1:00 p.m. EST CBS.
+
+### Box Office
+Weekend Oct 23-25 (The Numbers): #1 Clayface $24.0M, 3,458 theaters (~$43M WW); You Can See Everything $19.5M; Wildwood $12.3M; Street Fighter $8.6M; Wicker $5.7M. Fun fact used: Naomi Ackie (Dr. Caitlin Corr) played Whitney Houston in I Wanna Dance with Somebody (2022); Flanagan says he hasn't seen the film. Coming Oct 30-Nov 1 unchanged.
+
+### Sports / Deaths / Current Events
+MLB WS (MLB Stats API): Rays 4-3 Brewers in 12 (G4), MIL leads 3-1; Cooper Pratt solo HR top 12, DeLuca tying single, pinch-hitter Ben Williamson walk-off single scoring pinch-runner Nick Fortes; W Ian Seymour, L Shane Drohan. G5 Wed 8 ET FOX at Tropicana. WNBA Finals GS leads 3-2, G6 Thu 12:30 ET in Atlanta. MLS: FCC (42 pts, 11-11-9, 8th East) at Inter Miami Wed; win + CLB loss at DAL clinches. NBA: Tatum 40 + OT buzzer-beater BOS 125-124 BKN; Doncic 41 in LAL 129-136 loss to unbeaten POR; Towns 27/20 Knicks first win; Wembanyama 29/10/5 blk. NHL: Hellebuyck 16 saves in Devils debut, NJ 5-1 at DAL (traded from WPG Friday); CBJ OT win at PHI after blowing 3-goal lead. NCAA: Cincinnati hosts Utah Sat 3:45. F1 Mexico Sunday (Antonelli top-9 clinches). Tennis: Paris Masters Oct 31-Nov 8 at Paris La Defense Arena. Deaths: Dolores Huerta 96 (Oct 28), Susan Saint James 80 (Oct 26), B.P. Singh 77 (CID creator, Oct 27), Alan Dysert 75 (All My Children, Oct 23); carried Koenig, Donnie Iris, Bauza, Chiba, Ryu Murakami, Duguay. Current events: Israel no clear winner (~86% counted: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties 19; Likud 26; final count by Fri, official Nov 4); Flavio Bolsonaro hasn't conceded, passport ordered surrendered, reportedly left Brazil; WSJ: US told allies to prepare for post-midterm Iran strikes; WMO record 2025 CO2 426.8 ppm, methane rule ended; Powerball ~$716M; midterms Nov 3.
+
+### Notes
+Wednesday run (daily cadence; fired ~16:50 UTC); header dated Wednesday, October 28, 2026. Oct 28 not previously used for This Day in History. 5 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels; Kylie album via MusicBrainz release url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Springsteen "Into the Fire" dropped (no verifiable Spotify ID). Cloud git push refused by the proxy (403); pushed from the connected device shell. No table rows older than 12 weeks to prune.
+
+_Last updated: October 28, 2026_
