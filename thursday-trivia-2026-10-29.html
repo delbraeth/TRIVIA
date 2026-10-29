@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thursday Trivia Night — October 29, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — Thursday, October 29, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-10-29.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 29</a>
+  <a href="./thursday-trivia-2026-10-28.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 28</a>
+  <a href="./thursday-trivia-2026-10-27.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 27</a>
+  <a href="./thursday-trivia-2026-10-26.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 26</a>
+  <a href="./thursday-trivia-2026-10-23.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 23</a>
+  <a href="./thursday-trivia-2026-10-22.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 22</a>
+  <a href="./thursday-trivia-2026-10-21.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 21</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">413.0</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">2,478 total yards (9th in total) · 6 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 413.0/g &nbsp;<span style="color:#777;">(2,478 yds, 6 GP)</span></li>
+        <li><span class="tag">2</span><strong>Los Angeles Rams</strong> — 411.0/g &nbsp;<span style="color:#777;">(2,877 yds, 7 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Chicago Bears</strong> — 409.1/g &nbsp;<span style="color:#777;">(2,864 yds, 7 GP)</span></li>
+        <li><span class="tag">4</span><strong>Buffalo Bills</strong> — 399.5/g &nbsp;<span style="color:#777;">(2,397 yds, 6 GP)</span></li>
+        <li><span class="tag">5</span><strong>Carolina Panthers</strong> — 398.5/g &nbsp;<span style="color:#777;">(2,391 yds, 6 GP)</span></li>
+      </ul>
+      <p style="margin-top:10px;font-size:12.5px;color:#666;">Week 9 starts tonight: <strong>No. 5 Carolina plays at Green Bay</strong> (8:15 p.m. ET, Prime Video), so this list can change by Friday.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>356.7 yards per game, 14th</strong> in the NFL. <strong>2,140 total yards, 25th</strong>, because they've played only 6 games. Record: <strong>4–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 1 vs. Tennessee Titans, 1:00 p.m. EST</strong> on CBS <span style="font-weight:400;">(clocks fall back that morning)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), through Week 8. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 23–25</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Clayface</strong> — $24.0M opening in 3,458 theaters (about $43M worldwide)</li>
+        <li>#2 You Can See Everything — $19.5M ($45.1M total) &nbsp;|&nbsp; #3 Wildwood — $12.3M</li>
+        <li>#4 Street Fighter — $8.6M ($46.9M total) &nbsp;|&nbsp; #5 Wicker — $5.7M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> <em>Clayface</em> began as Mike Flanagan's passion project for <strong>Matt Reeves's <em>The Batman</em> universe</strong>. James Gunn and Peter Safran moved it into the new DCU. When Flanagan got busy making his <strong><em>Carrie</em></strong> series, <strong>Hossein Amini</strong> and director <strong>James Watkins</strong> took over the script, and Flanagan kept a "story by" credit.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Oct 30–Nov 1)</h3>
+        <ul>
+          <li><strong>The Only Living Pickpocket in New York</strong>: John Turturro plays an aging pickpocket who lifts the wrong USB stick. With Steve Buscemi and Giancarlo Esposito.</li>
+          <li><strong>Christmas at the Kringles</strong>: Rob Riggle and Thomas Lennon star in a horror comedy about neighbors who celebrate Christmas all year.</li>
+          <li><strong>Everest: The Other Side</strong>: an IMAX documentary from Jimmy Chin and Elizabeth Chai Vasarhelyi about skiing Everest's North Face.</li>
+          <li><strong>The Mosquito Bowl</strong> (limited): WWII Marines who were college football stars play one last game before Okinawa. Bill Skarsgård and Nicholas Galitzine star.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span>🏆 <strong>The Milwaukee Brewers won the World Series</strong>, 4 games to 1, with a <strong>4–1 win at Tampa Bay</strong> last night. It's the <strong>first title in the franchise's 57 seasons</strong> and Milwaukee's first since the 1957 Braves. Jacob Misiorowski threw 5⅔ scoreless innings before a calf cramp. Rookie Cooper Pratt drove in two runs and set a World Series rookie record for consecutive hits. Trevor Megill got the last out, a grounder to Brice Turang. Pat Murphy's team won a franchise-record 103 games and went 11–2 in the playoffs. The Reds' NL Central rival is now champion.</li>
+        <li><span class="tag">WNBA</span>Golden State leads Atlanta 3–2 in the Finals. <strong>Game 6 is today at 12:30 p.m. ET in Atlanta</strong>. A Valkyries win gives them the title in their second season.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati 2, Inter Miami 2.</strong> Luis Suárez scored first. Kenji Mboma Dem tied it in the 80th minute and Samuel Gidi put FCC ahead in the 86th, but Miami tied it in stoppage time. FCC (43 pts) holds 8th in the East, a wild-card spot, with two games left: <strong>vs. Philadelphia Sat 2:00 p.m. ET</strong>, then Nashville Nov 7. Columbus (41) won 2–0 at Dallas.</li>
+        <li><span class="tag">NFL</span>Tonight: Panthers at Packers, 8:15 p.m. ET. 🐅 The Bengals (4–2) host Tennessee, the league's last-ranked offense, on Sunday.</li>
+        <li><span class="tag">NBA</span><strong>Stephen Curry</strong> scored 44 in Golden State's 119–114 win at Minnesota. <strong>Wembanyama</strong> had 36 in a win at Utah. Jalen Brunson scored 38 in a Knicks win in Chicago. Houston is 5–0 after a 132–100 rout in Milwaukee. Cooper Flagg's Mavericks beat Oklahoma City 120–96.</li>
+        <li><span class="tag">NHL</span>Edmonton shut out Calgary 4–0 and is 9–2–2.</li>
+        <li><span class="tag">NCAA</span>🐾 Cincinnati (5–2) hosts No. 6 Utah on Saturday at 3:45 p.m. ET.</li>
+        <li><span class="tag">F1</span>Mexico City Grand Prix on Sunday. A top-9 finish clinches the title for <strong>Kimi Antonelli</strong>, 20, which would make him F1's youngest champion ever.</li>
+        <li><span class="tag">Golf</span>The PGA Tour's Mexico Open at Vidanta starts today in Puerto Vallarta.</li>
+        <li><span class="tag">Tennis</span>The Paris Masters starts Saturday (Oct 31–Nov 8).</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Elke Sommer</strong>, 85 (Oct 28). The German actress starred opposite Peter Sellers in <strong><em>A Shot in the Dark</em></strong> (1964) and Paul Newman in <em>The Prize</em> (1963).</li>
+        <li><strong>Barbara Barrie</strong>, 95 (Oct 28). She was nominated for an Oscar as the mom in <strong><em>Breaking Away</em></strong> (1979) and played Barney's wife, Liz, on <em>Barney Miller</em>.</li>
+        <li><strong>Dolores Huerta</strong>, 96 (Oct 28). She co-founded the United Farm Workers with Cesar Chavez and coined <strong>"¡Sí, se puede!"</strong></li>
+        <li><strong>Cuauhtémoc Cárdenas</strong>, 92 (Oct 28). He was the son of Mexican president Lázaro Cárdenas, ran for president three times, and was <strong>Mexico City's first elected mayor</strong> (1997).</li>
+        <li><strong>Peter Medak</strong>, 88 (Oct 27). He directed the ghost story <strong><em>The Changeling</em></strong> (1980) with George C. Scott, and <em>The Ruling Class</em>.</li>
+        <li><strong>Dale Brown</strong>, 90 (Oct 23). The Hall of Fame LSU basketball coach recruited <strong>Shaquille O'Neal</strong> and took the Tigers to two Final Fours.</li>
+        <li><strong>Lawrence McCutcheon</strong>, 76 (Oct 23), five-time Pro Bowl running back for the Rams. <strong>Pete Banaszak</strong>, 82 (Oct 24), scored two touchdowns for the Raiders in Super Bowl XI.</li>
+        <li>Also: <strong>Susan Saint James</strong>, 80; <strong>Walter Koenig</strong>, 90 (Chekov); Pittsburgh rocker <strong>Donnie Iris</strong>, 83; Bugs Bunny voice actor <strong>Eric Bauza</strong>, 46; <em>Daily Show</em> writer <strong>Kevin Bleyer</strong>, 54; Rangers center <strong>Ron Duguay</strong>, 69; Nobel physicist <strong>Claude Cohen-Tannoudji</strong>, 93; <em>Abbey Road</em> engineer <strong>Phil McDonald</strong>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — October 29</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1923</strong> — <strong>Turkey became a republic</strong>, with Mustafa Kemal (later Atatürk) as its first president. Ankara had been made the capital two weeks earlier. Today is Republic Day there.</li>
+        <li><strong>1929</strong> — <strong>"Black Tuesday."</strong> More than 16 million shares traded on the New York Stock Exchange, a record that stood for almost 40 years. The crash helped bring on the Great Depression.</li>
+        <li><strong>1998</strong> — <strong>Sen. John Glenn went back to space</strong> on the shuttle Discovery at age 77, 36 years after he became the first American to orbit Earth. He was the oldest person in space until William Shatner flew at 90 in 2021.</li>
+        <li style="color:#666;">Also: Sir Walter Raleigh was executed in London (1618). Israel invaded Egypt's Sinai, starting the Suez Crisis (1956). UCLA sent the first message over ARPANET (1969). Superstorm Sandy made landfall in New Jersey (2012). Born today: James Boswell (1740), Richard Dreyfuss (1947), Kate Jackson (1948), <strong>Dan Castellaneta (1957)</strong>, Winona Ryder (1971), Gabrielle Union and Tracee Ellis Ross (1972).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Oct 29</h3>
+        <ul>
+          <li>🎉 National Cat Day · National Oatmeal Day · National Hermit Day</li>
+          <li>🎉 International Internet Day · World Stroke Day · World Psoriasis Day</li>
+          <li>🎉 Republic Day (Turkey) · Karva Chauth (India)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Brewers fans are celebrating</strong> Milwaukee's first World Series title (see Sports).</li>
+        <li><strong>Israel's election is still deadlocked.</strong> With most votes counted, Netanyahu's bloc has 53 seats and Gadi Eisenkot's bloc has 48. Forming a government takes 61. Arab parties are at a record 19, and Likud (26) is the largest party. Soldiers' and other absentee ballots, over half a million, are being counted today.</li>
+        <li><strong>Brazil:</strong> Lula, 80, won a <strong>fourth term</strong> in Sunday's runoff, about 51.8% to 48.2%, after trailing in the first round. Flávio Bolsonaro hasn't conceded and has flown to Miami.</li>
+        <li><strong>Ebola:</strong> the head of Africa CDC says the outbreak is near 10,000 cases and 5,000 deaths, and warned it could spread abroad without more funding.</li>
+        <li><strong>The U.N. General Assembly again voted to condemn the U.S. embargo of Cuba</strong>, though more countries abstained this year.</li>
+        <li>🕰️ <strong>Clocks fall back Sunday</strong> at 2 a.m. 🎃 Halloween is Saturday. 🗳️ <strong>The midterms are Tuesday, Nov 3.</strong></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇮🇳 Today is Karva Chauth, a Hindu fasting festival. India's capital is not Mumbai. What is it? (Edwin Lutyens designed much of it.)</span><br><span class="a">New Delhi</span></p>
+      <p><span class="q">🇨🇬 It faces Kinshasa across the Congo River, making the two the closest pair of national capitals (not counting Rome and Vatican City). What is the Republic of the Congo's capital?</span><br><span class="a">Brazzaville (named for the explorer Pierre Savorgnan de Brazza)</span></p>
+      <p><span class="q">🇺🇦 Which capital, on the Dnieper River, is famous for its Golden Gate and the gold domes of St. Sophia's Cathedral?</span><br><span class="a">Kyiv</span></p>
+      <p><span class="q">🇩🇰 Which capital is home to the Little Mermaid statue, based on the story by Hans Christian Andersen?</span><br><span class="a">Copenhagen</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Born today in 1957, he has voiced Homer Simpson on <em>The Simpsons</em> since 1989, including every "Treehouse of Horror" Halloween episode. Who is he?</span><br><span class="a">Dan Castellaneta</span></p>
+      <p><span class="q">Who spoke as the "Control Voice" that opened <em>The Outer Limits</em> (1963–65): "There is nothing wrong with your television set. Do not attempt to adjust the picture"?</span><br><span class="a">Vic Perrin</span></p>
+      <p><span class="q">On <em>Buffy the Vampire Slayer</em> (1997–2003), who played Rupert Giles, Buffy's Watcher and the school librarian?</span><br><span class="a">Anthony Head (earlier the Taster's Choice coffee-ad neighbor)</span></p>
+      <p><span class="q">Who played the Atlanta defense lawyer Ben Matlock, known for his seersucker suits, on <em>Matlock</em> (1986–95)?</span><br><span class="a">Andy Griffith</span></p>
+      <p><span class="q">Adam Cartwright on <em>Bonanza</em> later played Dr. John "Trapper" McIntyre on <em>Trapper John, M.D.</em> (1979–86). Who was the actor?</span><br><span class="a">Pernell Roberts</span></p>
+      <p><span class="q">On Fox's <em>Get a Life</em> (1990–92), who played Chris Peterson, a 30-year-old paperboy who still lived with his parents?</span><br><span class="a">Chris Elliott (his real father, Bob Elliott, played his dad)</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Born today in 1740, this Scottish writer wrote <em>The Life of Samuel Johnson</em> (1791), often called the greatest biography in English. Who was he?</span><br><span class="a">James Boswell</span></p>
+      <p><span class="q">Who wrote <em>Strange Case of Dr Jekyll and Mr Hyde</em> (1886)? According to a family story, he burned the first draft and rewrote it in about six days.</span><br><span class="a">Robert Louis Stevenson</span></p>
+      <p><span class="q">Which Spanish artist painted <em>Saturn Devouring His Son</em> directly on a wall of his house, as one of his "Black Paintings"?</span><br><span class="a">Francisco Goya (now in the Prado)</span></p>
+      <p><span class="q">In which 1902 short story by W. W. Jacobs does a mummified hand grant three wishes, with terrible results?</span><br><span class="a">"The Monkey's Paw"</span></p>
+      <p><span class="q">Which 1976 novel, the first of the Vampire Chronicles, introduced Louis and Lestat?</span><br><span class="a"><em>Interview with the Vampire</em> — Anne Rice</span></p>
+      <p><span class="q">Which Stephen King novel, his first one published (1974), did his wife Tabitha pull out of the trash after he threw the pages away?</span><br><span class="a"><em>Carrie</em></span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">On Oct 29, 1969, UCLA sent the first message over ARPANET to the Stanford Research Institute. They were trying to type "LOGIN." What actually arrived before the system crashed?</span><br><span class="a">"LO" (sent by student Charley Kline in Leonard Kleinrock's lab)</span></p>
+      <p><span class="q">Candy corn, once marketed as "Chicken Feed," was created in the 1880s by George Renninger of which Philadelphia company?</span><br><span class="a">Wunderlee Candy Company (Goelitz, now Jelly Belly, mass-produced it from 1898)</span></p>
+      <p><span class="q">The Ouija board was patented in 1891 and first sold by which Baltimore company?</span><br><span class="a">Kennard Novelty Company (patent by Elijah Bond; Parker Brothers bought it in 1966)</span></p>
+      <p><span class="q">In 1928, a former dairy worker for Milton Hershey started selling peanut butter cups under his own name. What was his name?</span><br><span class="a">H. B. Reese</span></p>
+      <p><span class="q">Leo Hirshfield's chewy chocolate candy, first made in New York in 1896, was named for his daughter Clara's nickname. What is the candy?</span><br><span class="a">Tootsie Roll</span></p>
+      <p><span class="q">🟠 Local: Ludwig Hudepohl founded a Cincinnati brewery in 1885 that lasted for more than a century. Locals called its beer what?</span><br><span class="a">"Hudy" (Hudepohl; later known for Hudy Delight)</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Movies</span>Michael Myers's mask in <em>Halloween</em> (1978) was a <strong>$1.98 Captain Kirk mask</strong>. The crew painted it white and widened the eyeholes.</li>
+        <li><span class="tag">History</span><strong>Harry Houdini died on Halloween</strong> in 1926, in Detroit, of peritonitis from a ruptured appendix.</li>
+        <li><span class="tag">Folklore</span>The first jack-o'-lanterns in Ireland and Scotland were <strong>carved from turnips</strong>. Immigrants to America switched to pumpkins.</li>
+        <li><span class="tag">Geography</span>Romania's <strong>Bran Castle</strong> is sold to tourists as "Dracula's Castle," but Bram Stoker <strong>never went to Romania</strong>.</li>
+        <li><span class="tag">Candy</span>Snickers (1930) is named after the Mars family's <strong>favorite horse</strong>.</li>
+        <li><span class="tag">Music</span>"Monster Mash" by Bobby "Boris" Pickett reached <strong>No. 1 just before Halloween 1962</strong>, and it charted again in 1973.</li>
+        <li><span class="tag">Animals</span>Vampire bats can starve after about <strong>two nights without a meal</strong>, so well-fed bats regurgitate blood to share with hungry roostmates.</li>
+        <li><span class="tag">Places</span>Anoka, Minnesota calls itself the <strong>"Halloween Capital of the World."</strong> It began a citywide celebration in 1920 to keep kids from pulling pranks.</li>
+        <li><span class="tag">Words</span>The phrase <strong>"trick or treat"</strong> first appeared in print in 1927, in an Alberta, Canada newspaper.</li>
+        <li><span class="tag">Baseball</span>With the Brewers' win, only <strong>four teams have never won a World Series</strong>: the Mariners, Padres, Rays and Rockies.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Halloween edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">This Is Halloween</div>
+          <div class="song-meta">Danny Elfman &amp; the cast of <em>The Nightmare Before Christmas</em> · 1993 · soundtrack</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662847" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Sweet Dreams (Are Made of This)</div>
+          <div class="song-meta">Marilyn Manson (Eurythmics cover) · 1995 · <em>Smells Like Children</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/sweet-dreams-are-made-of-this/1440800538?i=1440800769" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Welcome to the Black Parade</div>
+          <div class="song-meta">My Chemical Romance · 2006 · <em>The Black Parade</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/welcome-to-the-black-parade/209388277?i=209388682" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Ghosts 'n' Stuff</div>
+          <div class="song-meta">deadmau5 feat. Rob Swire · 2008 · <em>For Lack of a Better Name</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5m4taQjTIjgEBU6mWpv5OC" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/ghosts-n-stuff/1824106689?i=1824106694" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Monster</div>
+          <div class="song-meta">Skillet · 2009 · <em>Awake</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/monster/668404134?i=668404139" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Nightmare</div>
+          <div class="song-meta">Avenged Sevenfold · 2010 · <em>Nightmare</em></div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/nightmare/378658741?i=378658742" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
