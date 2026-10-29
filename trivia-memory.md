@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 29 | India | New Delhi (Karva Chauth; Lutyens; not Mumbai) |
+| Oct 29 | Republic of the Congo | Brazzaville (faces Kinshasa across the Congo River; named for Savorgnan de Brazza) |
+| Oct 29 | Ukraine | Kyiv (Dnieper; Golden Gate; St. Sophia's) |
+| Oct 29 | Denmark | Copenhagen (Little Mermaid statue, H.C. Andersen) |
 | Oct 28 | Greece | Athens (Ohi Day; Metaxas said "No" to Mussolini Oct 28, 1940) |
 | Oct 28 | Vatican City | Vatican City (John XXIII elected Oct 28, 1958) |
 | Oct 28 | New Mexico | Santa Fe (oldest and highest state capital, c. 1610, ~7,000 ft; Dolores Huerta born in Dawson NM) |
@@ -237,6 +241,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Oct 29 | The Simpsons (1989– ) | Homer Simpson (voice) | Dan Castellaneta (born Oct 29, 1957; Treehouse of Horror) |
+| Oct 29 | The Outer Limits (1963–65) | Control Voice | Vic Perrin |
+| Oct 29 | Buffy the Vampire Slayer (1997–2003) | Rupert Giles | Anthony Head (Taster's Choice ads) |
+| Oct 29 | Matlock (1986–95) | Ben Matlock | Andy Griffith |
+| Oct 29 | Trapper John, M.D. (1979–86) | Dr. John "Trapper" McIntyre | Pernell Roberts (Adam on Bonanza) |
+| Oct 29 | Get a Life (1990–92) | Chris Peterson | Chris Elliott (father Bob Elliott played his dad) |
 | Oct 28 | The Name of the Game (1968–71) | Peggy Maxwell | Susan Saint James (1969 Emmy; died Oct 26; Gene Barry/Tony Franciosa/Robert Stack rotating leads) |
 | Oct 28 | Bosom Buddies (1980–82) | Isabelle | Telma Hopkins (born Oct 28, 1948; Tony Orlando and Dawn) |
 | Oct 28 | The Flintstones (1960–66) | Fred Flintstone (voice) | Alan Reed (Mel Blanc voiced Barney; Animation Day) |
@@ -555,6 +565,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Oct 29 | Life of Samuel Johnson author, born Oct 29, 1740 | James Boswell |
+| Oct 29 | Strange Case of Dr Jekyll and Mr Hyde (1886) | Robert Louis Stevenson (burned first draft story) |
+| Oct 29 | Saturn Devouring His Son (Black Paintings) | Francisco Goya |
+| Oct 29 | "The Monkey's Paw" (1902) | W. W. Jacobs |
+| Oct 29 | Interview with the Vampire (1976), Louis and Lestat | Anne Rice |
+| Oct 29 | Stephen King's first published novel, rescued from trash by Tabitha | Carrie (1974) |
 | Oct 28 | "The New Colossus" poet (Statue of Liberty plaque) | Emma Lazarus (1883) |
 | Oct 28 | Brideshead Revisited author (teddy bear Aloysius) | Evelyn Waugh (born Oct 28, 1903) |
 | Oct 28 | "Screaming popes" painter after Velázquez's Innocent X | Francis Bacon (born Dublin Oct 28, 1909) |
@@ -872,6 +888,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Oct 29 | Movies | Halloween (1978) Myers mask was a $1.98 Captain Kirk mask painted white |
+| Oct 29 | History | Houdini died on Halloween 1926, Detroit, peritonitis |
+| Oct 29 | Folklore | First jack-o'-lanterns carved from turnips in Ireland/Scotland |
+| Oct 29 | Geography | Bran Castle marketed as Dracula's Castle; Stoker never visited Romania |
+| Oct 29 | Candy | Snickers (1930) named after Mars family's favorite horse |
+| Oct 29 | Music | "Monster Mash" No. 1 just before Halloween 1962; charted again 1973 |
+| Oct 29 | Animals | Vampire bats starve after ~2 nights; share regurgitated blood |
+| Oct 29 | Places | Anoka, MN "Halloween Capital of the World," citywide celebration since 1920 |
+| Oct 29 | Words | "Trick or treat" first in print 1927, Alberta newspaper |
+| Oct 29 | Baseball | After Brewers title, only Mariners, Padres, Rays, Rockies lack a WS title |
 | Oct 28 | History | Statue of Liberty torch arm displayed at 1876 Centennial (Philadelphia) and Madison Square Park to raise funds |
 | Oct 28 | Food | Theobroma (cacao genus) = Greek for "food of the gods" |
 | Oct 28 | Language | "Sí, se puede" — Huerta, Phoenix 1972 during Chavez fast; Obama "Yes, we can"; Medal of Freedom 2012 |
@@ -1496,6 +1522,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Oct 29 | October 29 (Turkey becomes a republic 1923; Black Tuesday 1929, 16M+ shares; John Glenn returns to space at 77 on Discovery 1998; also Raleigh executed 1618, Suez 1956, ARPANET first message 1969, Sandy landfall 2012) |
 | Oct 28 | October 28 (Statue of Liberty dedicated 1886 — 140th anniv, first NYC ticker-tape parade; Ohi Day 1940 — Metaxas rejects Mussolini; Gateway Arch final section 1965; also Harvard founding vote 1636, Whitney cotton gin patent application 1793, Volstead Act veto override 1919, John XXIII elected 1958, Khrushchev agrees to remove Cuba missiles 1962; born Erasmus, Waugh, Francis Bacon, Salk, Telma Hopkins, Annie Potts, Bill Gates, Julia Roberts, Joaquin Phoenix) |
 | Oct 27 | October 27 (first Federalist essay in the Independent Journal 1787, "Publius"; NYC subway opens 1904, IRT, City Hall to 145th St, 28 stations, Mayor McClellan drove; Red Sox win 2004 WS, sweep of Cardinals during total lunar eclipse; also Mets win 1986 Game 7, Saturn I first flight 1961, Congo renamed Zaire 1971, Turkmenistan independence 1991; births Capt. Cook 1728, Paganini 1782, Theodore Roosevelt 1858, Dylan Thomas 1914, Ruby Dee 1922, Roy Lichtenstein 1923, Sylvia Plath 1932, John Cleese 1939) |
 | Oct 26 | October 26 (Erie Canal opens 1825 — DeWitt Clinton, Seneca Chief, Wedding of the Waters; O.K. Corral gunfight 1881 — 145th anniv; last natural smallpox case, Ali Maow Maalin, Merca, Somalia 1977; also FA founded 1863, Pan Am 707 first transatlantic jet service 1958, Austrian neutrality 1955, The Terminator 1984, Israel–Jordan treaty 1994; births Scarlatti 1685, Mahalia Jackson 1911, Jaclyn Smith 1945, Pat Sajak 1946 (80th), Hillary Clinton 1947, Kevin Kline 1947, Dylan McDermott 1961, Cary Elwes 1962, Seth MacFarlane 1973) |
@@ -1556,6 +1583,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Oct 29 | National Cat Day; National Oatmeal Day; National Hermit Day; International Internet Day; World Stroke Day; World Psoriasis Day; Republic Day (Turkey); Karva Chauth |
 | Oct 28 | National Chocolate Day; National First Responders Day; Statue of Liberty Day; Wild Foods Day; National Internal Medicine Day; International Animation Day; Ohi Day (Greece & Cyprus); Czech Independence Day |
 | Oct 27 | Navy Day; National American Beer Day; National Civics Day; National Black Cat Day; World Occupational Therapy Day; World Day for Audiovisual Heritage; Turkmenistan Independence Day |
 | Oct 26 | National Pumpkin Day; National Mule Day; National Tennessee Day; National Chicken Fried Steak Day; National Mincemeat Day; National Day of the Deployed; Austrian National Day |
@@ -1624,6 +1652,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Oct 29 | ARPANET first message, Oct 29, 1969 | "LO" (Charley Kline, Kleinrock lab, UCLA to SRI) |
+| Oct 29 | Candy corn ("Chicken Feed") company | Wunderlee Candy Co., George Renninger, 1880s; Goelitz mass-produced from 1898 |
+| Oct 29 | Ouija board 1891 maker | Kennard Novelty Co., Baltimore (Elijah Bond patent) |
+| Oct 29 | Peanut butter cups 1928 | H. B. Reese, former Hershey dairy worker |
+| Oct 29 | Candy named for daughter Clara's nickname, 1896 | Tootsie Roll (Leo Hirshfield) |
+| Oct 29 | Hudepohl Brewing (Local) | Ludwig Hudepohl, Cincinnati, 1885; "Hudy" |
 | Oct 28 | Statue of Liberty sculptor | Frédéric Auguste Bartholdi (face reportedly modeled on his mother) |
 | Oct 28 | Gateway Arch architect | Eero Saarinen (died 1961 before construction) |
 | Oct 28 | Gates & Allen's pre-Microsoft company (1972) | Traf-O-Data |
@@ -1934,6 +1968,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Oct 29 | This Is Halloween | Danny Elfman | 1993 |
+| Oct 29 | Sweet Dreams (Are Made of This) | Marilyn Manson | 1995 |
+| Oct 29 | Welcome to the Black Parade | My Chemical Romance | 2006 |
+| Oct 29 | Ghosts 'n' Stuff | deadmau5 feat. Rob Swire | 2008 |
+| Oct 29 | Monster | Skillet | 2009 |
+| Oct 29 | Nightmare | Avenged Sevenfold | 2010 |
 | Oct 28 | It Must Have Been Love | Roxette | 1990 |
 | Oct 28 | She | Elvis Costello | 1999 |
 | Oct 28 | You've Got a Friend in Me | Randy Newman | 1995 |
@@ -2438,68 +2478,20 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ## August 5, 2026 (v40)
 
 ### Capitals
-| Aug 5 | Malawi | Lilongwe |
-| Aug 5 | Nicaragua | Managua |
-| Aug 5 | Montenegro | Podgorica |
-| Aug 5 | Palau | Ngerulmud |
-| Aug 5 | NOTE | All 50 US state capitals now exhausted — future runs should be all-world or reuse oldest states |
 
 ### Classic TV
-| Aug 5 | Peyton Place (1964–69) | Allison MacKenzie | Mia Farrow |
-| Aug 5 | The Courtship of Eddie's Father (1969–72) | Tom Corbett | Bill Bixby |
-| Aug 5 | Room 222 (1969–74) | Pete Dixon | Lloyd Haynes |
-| Aug 5 | Hardcastle and McCormick (1983–86) | Judge Milton C. Hardcastle | Brian Keith |
-| Aug 5 | Silver Spoons (1982–87) | Derek Taylor | Jason Bateman |
-| Aug 5 | The Practice (1997–2004) | Bobby Donnell | Dylan McDermott |
 
 ### Arts & Literature
-| Aug 5 | First Japanese Nobel Literature laureate (1968) | Yasunari Kawabata |
-| Aug 5 | The Godfather (1969) author | Mario Puzo |
-| Aug 5 | The Fighting Temeraire / Rain, Steam and Speed painter | J.M.W. Turner |
-| Aug 5 | "Resurrection" Symphony No. 2 composer | Gustav Mahler |
-| Aug 5 | Ficciones / The Aleph author | Jorge Luis Borges |
-| Aug 5 | The Little Mermaid statue sculptor (1913) | Edvard Eriksen |
 
 ### Founded & Invented
-| Aug 5 | First portable fire extinguisher (1818) | George William Manby |
-| Aug 5 | Jeep WWII manufacturer | Willys-Overland (Bantam prototype 1940) |
-| Aug 5 | Modern pin tumbler lock (1861–65) | Linus Yale Jr. |
-| Aug 5 | Hasbro founded | 1923, Hassenfeld Brothers, Providence RI |
-| Aug 5 | Whirlpool bath / Jacuzzi (1956) | Candido Jacuzzi |
-| Aug 5 | Instant ramen (1958) | Momofuku Ando |
 
 ### General Trivia
-| Aug 5 | Science | Helium — only element found in space (1868 Sun spectrum) before Earth |
-| Aug 5 | Geography | Nauru has no official capital; offices in Yaren district |
-| Aug 5 | Food | Ripe cranberries bounce; graded on "bounce boards" |
-| Aug 5 | History | Harvard (1636) is older than calculus (1660s–70s) |
-| Aug 5 | Sports | Olympic gold medals are mostly silver — ~6g gold plating required |
-| Aug 5 | Pop Culture | Mario debuted in Donkey Kong (1981) as carpenter "Jumpman" |
-| Aug 5 | Animals | A group of ladybugs is a "loveliness" |
-| Aug 5 | Language | "Dord" — ghost word in Webster's 1934–1947 from "D or d" (density) |
-| Aug 5 | Space | Enceladus plumes feed Saturn's E ring |
-| Aug 5 | Did You Know | Nishiyama Onsen Keiunkan (Japan, 705 AD) — oldest hotel, 52 generations |
-| Aug 5 | History | Great Molasses Flood, Boston 1919 — 2.3M gallons, ~35 mph, 21 dead |
-| Aug 5 | Science | Human bone ~4x compressive strength of concrete pound for pound |
 
 ### Songs
-| Aug 5 | Regulate | Warren G feat. Nate Dogg | 1994 |
-| Aug 5 | Interstate Love Song | Stone Temple Pilots | 1994 |
-| Aug 5 | Breakfast at Tiffany's | Deep Blue Something | 1995 |
-| Aug 5 | Fly Away | Lenny Kravitz | 1998 |
-| Aug 5 | Meet Virginia | Train | 1998 |
-| Aug 5 | Hey Ya! | OutKast | 2003 |
 
 ### This Day in History
-| Aug 5 | August 5 (Statue of Liberty pedestal cornerstone laid 1884; first electric traffic signal, Cleveland 1914; Marilyn Monroe found dead 1962; Reagan fires 11,000+ PATCO air traffic controllers 1981) | - |
-| Aug 5 | National Days: National Oyster Day; National Underwear Day; National Work Like a Dog Day; International Traffic Light Day; National Dash Cam Day | - |
 
 ### Sports / Current Events
-| Aug 5 | Reds | 54-58, 5th NL Central 15.5 GB (Brewers 70-43); last 5 W-W-L-W-W (streak W2, 6-4 L10); took 3 of 4 from Pirates incl 10-2, beat Athletics 5-4 Aug 4; GAME TONIGHT vs Athletics 6:40 PM ET |
-| Aug 5 | Box Office | Spider-Man: Brand New Day #1 with $360.1M — biggest domestic opening ever (passed Endgame $357.1M); records for Thursday previews ($72M) and single day ($168M Fri); The Odyssey $51M/$395M total = biggest overall weekend in history; opening Aug 7-9: Super Troopers 3, Ice Cream Man, One Night Only, The Last House |
-| Aug 5 | Sports | NFL camps week 2, HOF Game Aug 6 Cardinals-Panthers; Seahawks defending SB LX champs open vs Patriots Sept 9; Jalon Walker (ATL) feared torn ACL, Coby Bryant (CHI) out 8-10 wks. MLB: Brewers 70-43 best, Dodgers 69-45 (L5), Braves 68-45 (W6), Padres 8-2 L10. Soccer: Messi's first Miami game post-WC, 2-2 draw w/ Columbus; Lewandowski 2 goals in Chicago Fire home debut; Leagues Cup begins. World Cup final recap: Spain 1-0 Argentina, Ferran Torres 106', MetLife, Jul 19. NCAA: preseason Coaches Poll — Ohio State #1 (38/72 firsts), Oregon 2, Georgia 3, Texas 4, Notre Dame 5; AP poll Aug 17. WNBA: trade deadline Aug 2, 15 teams (Portland Fire, Toronto Tempo), FIBA break Aug 31-Sep 16 |
-| Aug 5 | Deaths | David Z (78, Grammy producer/engineer — Prince, Fine Young Cannibals, Jonny Lang, Aug 2); Peter Gill (86, Welsh playwright/director, Aug 4); Jimmy Cricket (80, Irish comedian b. James Mulgrew, Aug 3); Andrzej Morozowski (69, Polish TV journalist, Aug 4); Allan Nascimento (34, Brazilian UFC flyweight, Aug 3) |
-| Aug 5 | Current Events | Cargo ship hit by projectile off Oman in Strait of Hormuz, crew abandoned ship, one missing; Iran-Oman near deal to reopen strait. Berlin police kill suspect in Pride attack (1 dead, 29 wounded). Jocelyn Benson wins Michigan Dem gubernatorial primary with 84%. Todd Blanche AG nomination back on track (Cornyn, Tillis). Record European heat waves and wildfires; arson arrest in Washington state. Multi-state cyclosporiasis outbreak (AR, IA, MO, NE, NH, NC) |
 
 ---
 
@@ -3699,4 +3691,18 @@ MLB WS (MLB Stats API): Rays 4-3 Brewers in 12 (G4), MIL leads 3-1; Cooper Pratt
 ### Notes
 Wednesday run (daily cadence; fired ~16:50 UTC); header dated Wednesday, October 28, 2026. Oct 28 not previously used for This Day in History. 5 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels; Kylie album via MusicBrainz release url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Springsteen "Into the Fire" dropped (no verifiable Spotify ID). Cloud git push refused by the proxy (403); pushed from the connected device shell. No table rows older than 12 weeks to prune.
 
-_Last updated: October 28, 2026_
+## October 29, 2026 (v97)
+
+### NFL
+ESPN byteam, splitId 0, through Week 8 (unchanged; TNF CAR at GB tonight): Detroit Lions 413.0 yds/g (2,478 total, 6 GP, 9th in total); top 5 Lions / Rams 411.0 (2,877, 7 GP, No. 1 total) / Bears 409.1 / Bills 399.5 / Panthers 398.5. Bengals 356.7 yds/g 14th, 2,140 total 25th; 4-2. Next: Sun Nov 1 vs Tennessee 1:00 p.m. EST CBS.
+
+### Box Office
+Weekend Oct 23-25 (The Numbers): #1 Clayface $24.0M, 3,458 theaters; You Can See Everything $19.5M ($45.1M); Wildwood $12.3M; Street Fighter $8.6M ($46.9M); Wicker $5.7M. Fun fact used: began as Flanagan passion project for Reeves's Batverse, moved to DCU by Gunn/Safran; Flanagan left for his Carrie series, Hossein Amini and James Watkins took over the script, Flanagan keeps story credit. Coming Oct 30-Nov 1 unchanged.
+
+### Sports / Deaths / Current Events
+MLB (MLB Stats API): Brewers 4-1 at TB in G5, win WS 4-1, first title in franchise's 57 seasons, Milwaukee's first since 1957 Braves; Misiorowski 5.2 scoreless (calf cramp), Pratt RBI single + sac fly and WS rookie consecutive-hits record, Hamilton RBI single, Contreras RBI double, Megill final out (Turang grounder); 103 wins, 11-2 postseason, manager Pat Murphy. MLS (ESPN): FCC 2-2 at Inter Miami (Suarez 61', Mboma Dem 80', Gidi 86', Fillipi 90'), FCC 43 pts 8th East, vs PHI Sat Oct 31 2 ET, vs NSH Nov 7; CLB won 2-0 at DAL (41). WNBA Finals GS leads 3-2, G6 today 12:30 ET ATL. NBA Oct 28: Curry 44 GS 119-114 at MIN; Wembanyama 36; Brunson 38; HOU 5-0; DAL 120-96 OKC. NHL: EDM 4-0 CGY (9-2-2). NCAA: Bearcats 5-2 host No. 6 Utah Sat 3:45 ET. Golf: Mexico Open at Vidanta starts Thu. Deaths (Wikipedia Deaths in 2026): Elke Sommer 85, Barbara Barrie 95, Dolores Huerta 96, Cuauhtemoc Cardenas 92 (all Oct 28); Peter Medak 88 (Oct 27); Dale Brown 90, Lawrence McCutcheon 76 (Oct 23); Pete Banaszak 82 (Oct 24). News: Israel 53-48 blocs, Arab parties 19, Likud 26, absentee ballots counted Thu; Lula 4th term 51.8-48.2; Ebola near 10,000 cases per Africa CDC; UN Cuba embargo vote; clocks fall back Nov 1; midterms Nov 3.
+
+### Notes
+Thursday run (daily cadence; fired ~11:03 UTC); header dated Thursday, October 29, 2026. Oct 29 not previously used for This Day in History. 6 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API (Nightmare via device shell after cloud 403). Love Song for a Vampire (Annie Lennox) dropped (no verifiable Spotify ID). Ryu Murakami dropped from deaths (not on Wikipedia list). Cloud git push refused by the proxy (403); pushed from the connected device shell. Pruned 48 table rows dated before Aug 6.
+
+_Last updated: October 29, 2026_
