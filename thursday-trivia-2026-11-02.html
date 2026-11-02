@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thursday Trivia Night — November 2, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Thursday Trivia Night</h1>
+    <div class="date">Reference Sheet — Monday, November 2, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-02.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 2</a>
+  <a href="./thursday-trivia-2026-10-29.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 29</a>
+  <a href="./thursday-trivia-2026-10-28.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 28</a>
+  <a href="./thursday-trivia-2026-10-27.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 27</a>
+  <a href="./thursday-trivia-2026-10-26.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 26</a>
+  <a href="./thursday-trivia-2026-10-23.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 23</a>
+  <a href="./thursday-trivia-2026-10-22.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 22</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">412.0</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">2,884 total yards (3rd in total) · 7 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 412.0/g &nbsp;<span style="color:#777;">(2,884 yds, 7 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 409.1/g &nbsp;<span style="color:#777;">(2,864 yds, 7 GP)</span></li>
+        <li><span class="tag">3</span><strong>Buffalo Bills</strong> — 404.6/g &nbsp;<span style="color:#777;">(2,832 yds, 7 GP)</span></li>
+        <li><span class="tag">4</span><strong>Los Angeles Rams</strong> — 395.4/g &nbsp;<span style="color:#777;">(3,163 yds, 8 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">5</span><strong>Kansas City Chiefs</strong> — 390.6/g &nbsp;<span style="color:#777;">(2,734 yds, 7 GP)</span></li>
+      </ul>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>382.4 yards per game, 7th</strong> in the NFL (up from 14th last week). <strong>2,677 total yards, 16th</strong>. Record: <strong>5–2</strong> after Sunday's <strong>43–36 overtime win over Tennessee</strong>. Joe Burrow threw for 462 yards and 5 TDs, then ran in the winner from 9 yards out. No NFL game had ever ended 43–36.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 8 vs. Atlanta Falcons in Madrid, 9:30 a.m. EST</strong> on NFL Network <span style="font-weight:400;">(Santiago Bernabéu; Falcons are the home team)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), through Sunday's games. ESPN's rank column matches. Monday night's game isn't included.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 30–Nov 1</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>You Can See Everything</strong> — $10.6M (about $63.9M total) in its third weekend, back at No. 1</li>
+        <li>#2 Clayface — $10.4M ($44.1M total) &nbsp;|&nbsp; #3 Wildwood — $7.5M ($25.9M)</li>
+        <li>#4 Wicker — $4.1M &nbsp;|&nbsp; #5 Street Fighter — $3.2M ($53.0M total)</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> <em>You Can See Everything</em> is an <strong>A24 documentary about Elizabeth Holmes</strong> of Theranos, co-directed by <strong>Nathan Fielder</strong> (<em>Nathan for You</em>, <em>The Rehearsal</em>) and Lance Oppenheim. It cost about $7 million, runs about three hours, and opened to $15 million on only 855 screens. Among documentaries, only <em>Fahrenheit 9/11</em> ($23.9M in 2004) has opened bigger.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 6–8)</h3>
+        <ul>
+          <li><strong>The Cat in the Hat</strong>: Warner Bros.' animated Dr. Seuss movie. Bill Hader voices the Cat, with Quinta Brunson, Bowen Yang, and Matt Berry as a fish named Waffles.</li>
+          <li><strong>Godzilla Minus Zero</strong>: Takashi Yamazaki's sequel to the Oscar-winning <em>Godzilla Minus One</em>. It's set in 1949, and Ryunosuke Kamiki and Minami Hamabe return.</li>
+          <li><strong>Wild Horse Nine</strong> (limited): Martin McDonagh's film with Sam Rockwell and John Malkovich as two CIA agents who can't stop bickering.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">NFL</span>🐅 <strong>Bengals 43, Titans 36 (OT).</strong> Ja'Marr Chase and Tee Higgins each had more than 140 receiving yards, and Higgins tied it with 1:17 left. It's the 1,098th different final score in NFL history. Also Sunday: <strong>Denver beat Kansas City 28–24</strong>, Buffalo routed Baltimore 36–10, and Pittsburgh beat Cleveland 27–6.</li>
+        <li><span class="tag">WNBA</span>🏆 <strong>The Golden State Valkyries are champions</strong> in their second season. They beat Atlanta <strong>68–63 in Game 7</strong>, the first Game 7 in WNBA Finals history. Finals MVP <strong>Gabby Williams</strong> scored 28 of her 30 points in the second half and set a Finals series scoring record (137). No U.S. pro expansion team has ever won a title faster.</li>
+        <li><span class="tag">F1</span><strong>Kimi Antonelli (Mercedes) is world champion</strong> at 20 years, 68 days, the youngest ever, after finishing 3rd in Mexico City. Sebastian Vettel held the record (23, in 2010). Max Verstappen won the race.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati 1, Philadelphia 0</strong> clinched a playoff spot, FCC's fifth straight. Ayoub Jabbari scored and Roman Celentano got the shutout. The regular season ends Saturday at Nashville.</li>
+        <li><span class="tag">NCAA</span><strong>USC beat No. 2 Ohio State 30–18.</strong> No. 1 Miami held off North Carolina 38–35. 🐾 Cincinnati lost 49–25 to No. 6 Utah.</li>
+        <li><span class="tag">NBA</span><strong>Wembanyama</strong> had 43 points and 6 blocks against Minnesota. Memphis is 6–0 and Philadelphia is 6–1 after 38 points from Tyrese Maxey.</li>
+        <li><span class="tag">NHL</span><strong>Connor McDavid</strong> has at least one assist in all 15 games this season, an NHL record (Wayne Gretzky shared the old one, 12). He's the fastest player ever to 30 assists. Edmonton is 11–2–2.</li>
+        <li><span class="tag">MLB</span>Gold Gloves came out Sunday. 🟥 Guardians pitcher <strong>Tanner Bibee</strong> and the Brewers' Jackson Chourio both won for the first time. No Reds were finalists.</li>
+        <li><span class="tag">Racing</span><strong>Sovereignty</strong> won the Breeders' Cup Classic at Keeneland in Lexington, Ky.</li>
+        <li><span class="tag">Golf</span><strong>Andrew Novak</strong> won the Mexico Open by 5 shots at 25 under. It's his first solo PGA Tour win.</li>
+        <li><span class="tag">Soccer</span><strong>Harry Kane</strong> won his first men's Ballon d'Or. Alexia Putellas won the women's award for a record-tying third time.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Sir Patrick Stewart</strong>, 86 (Oct 28). He was Capt. Jean-Luc Picard on <strong><em>Star Trek: The Next Generation</em></strong> and Professor Charles Xavier in the <em>X-Men</em> films, after years with the Royal Shakespeare Company.</li>
+        <li><strong>Jerry Koosman</strong>, 83 (Nov 1). The Mets left-hander won Games 2 and 5 of the <strong>1969 World Series</strong>, pitching a complete game in the clincher.</li>
+        <li><strong>John Leeson</strong>, 83 (Nov 1). He was the voice of <strong>K9</strong>, the robot dog on <em>Doctor Who</em>.</li>
+        <li><strong>William Nordhaus</strong>, 85 (Oct 30). The Yale economist won the <strong>2018 Nobel</strong> for building climate change into economic models.</li>
+        <li><strong>Juan Atkins</strong>, 64 (Oct 31). As one of Detroit's "Belleville Three," he's known as a <strong>godfather of techno</strong> (Cybotron, "No UFO's").</li>
+        <li><strong>June Jones</strong>, 73 (Oct 29). He played QB for the Falcons and coached Hawaii to an unbeaten regular season and the 2008 Sugar Bowl.</li>
+        <li>Also: Stephen Kovacevich, 86, pianist; Ursula von Rydingsvard, 84, sculptor; Marvin Shanken, 83, publisher of <em>Wine Spectator</em> and <em>Cigar Aficionado</em>; Eddie Gray, 78, guitarist for Tommy James and the Shondells; Ronny Hallin, 88, producer of <em>Happy Days</em> and <em>Laverne &amp; Shirley</em>; Martin Erlichman, 97, Barbra Streisand's longtime manager.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 2</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1889</strong> — <strong>North and South Dakota were admitted to the Union</strong> on the same day. President Benjamin Harrison shuffled the papers before signing, so no one knows which came first. North Dakota is listed as the 39th state only because it's first alphabetically.</li>
+        <li><strong>1920</strong> — <strong>Pittsburgh's KDKA</strong> broadcast the Harding–Cox election returns, the start of commercial radio. Warren Harding won the election on his <strong>55th birthday</strong>.</li>
+        <li><strong>1947</strong> — <strong>Howard Hughes flew the "Spruce Goose"</strong> (the H-4 Hercules) for its only flight: about a mile, roughly 70 feet over Long Beach Harbor.</li>
+        <li style="color:#666;">Also: Quiz-show star Charles Van Doren admitted to Congress that <em>Twenty-One</em> was rigged (1959). The first crew moved into the International Space Station, which has been occupied without a break ever since (2000). Born today: Daniel Boone (1734), Marie Antoinette (1755), <strong>James K. Polk (1795) and Warren G. Harding (1865)</strong>, the only two presidents who share a birthday, Burt Lancaster (1913), Stefanie Powers (1942), k.d. lang (1961), David Schwimmer (1966), Nelly (1974).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 2</h3>
+        <ul>
+          <li>🎉 National Deviled Egg Day · National Ohio Day · Cookie Monster's birthday</li>
+          <li>🎉 Día de los Muertos (Mexico) · All Souls' Day</li>
+          <li>🎉 International Day to End Impunity for Crimes Against Journalists</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>🗳️ <strong>The midterms are tomorrow, Tuesday, Nov 3.</strong></li>
+        <li><strong>Spain train crash:</strong> two high-speed trains collided near Toledo on Oct 28, killing at least 69 people. Protests have put more pressure on Prime Minister Pedro Sánchez.</li>
+        <li><strong>The biggest crypto theft ever:</strong> hackers took about <strong>$6.3 billion</strong> from Binance. The FBI blames North Korea's Lazarus Group.</li>
+        <li><strong>DoorDash plans to buy Instacart</strong> for about $17 billion. Separately, <strong>ECB president Christine Lagarde</strong> will resign early, in February.</li>
+        <li><strong>Brazil:</strong> Flávio Bolsonaro left for Florida in defiance of a court order and calls himself Brazil's "rightful" president-elect. <strong>Israel:</strong> no bloc has a Knesset majority after Oct 27's election.</li>
+        <li>Cost-of-living protests spread across Europe: a general strike in Italy, and protests or riots in Germany, Switzerland, France, the Netherlands and Portugal.</li>
+        <li>Dictionary.com's 2026 Word of the Year is <strong>"maxxing."</strong> 🏇 The <strong>Melbourne Cup</strong>, "the race that stops a nation," is Tuesday.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇰🇵 The FBI says North Korea's Lazarus Group carried out the $6.3 billion Binance hack. What is North Korea's capital?</span><br><span class="a">Pyongyang</span></p>
+      <p><span class="q">🇩🇪 Protests swept 34 German cities this weekend. Which city was West Germany's capital from 1949 until reunification?</span><br><span class="a">Bonn (Berlin is the capital today)</span></p>
+      <p><span class="q">🇲🇨 Monte Carlo hosts the famous Grand Prix and casino, but it isn't the capital of Monaco. What is?</span><br><span class="a">Monaco (also called Monaco-Ville, "the Rock," site of the Prince's Palace)</span></p>
+      <p><span class="q">🇹🇼 Which capital's "101" tower was the world's tallest building from 2004 to 2010?</span><br><span class="a">Taipei (Taipei 101)</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Born today in 1966, he played the paleontologist Ross Geller on <em>Friends</em> (1994–2004). Who is he?</span><br><span class="a">David Schwimmer</span></p>
+      <p><span class="q">Who voiced K9, the robot dog on <em>Doctor Who</em>, starting in 1977? He died Sunday at 83.</span><br><span class="a">John Leeson</span></p>
+      <p><span class="q">With the midterms tomorrow: who played President Josiah "Jed" Bartlet, the Nobel-winning economist from New Hampshire, on <em>The West Wing</em> (1999–2006)?</span><br><span class="a">Martin Sheen</span></p>
+      <p><span class="q">Born today in 1942, she played the spy April Dancer on <em>The Girl from U.N.C.L.E.</em> (1966–67), years before <em>Hart to Hart</em>. Who is she?</span><br><span class="a">Stefanie Powers</span></p>
+      <p><span class="q">Before she was Capt. Kathryn Janeway, she played Mary Ryan on the soap opera <em>Ryan's Hope</em> (1975–78). Who is she?</span><br><span class="a">Kate Mulgrew</span></p>
+      <p><span class="q">"There can be only one." Who played the immortal Duncan MacLeod on <em>Highlander: The Series</em> (1992–98)?</span><br><span class="a">Adrian Paul</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Which 1947 novel by Malcolm Lowry takes place over a single Day of the Dead (Nov 2, 1938) and follows a drunken British consul in Mexico?</span><br><span class="a"><em>Under the Volcano</em></span></p>
+      <p><span class="q">Which Mexican printmaker etched <em>La Calavera Catrina</em> (c. 1910), the fancy-hatted skeleton that became a symbol of Día de los Muertos?</span><br><span class="a">José Guadalupe Posada (Diego Rivera named her "Catrina" and put her in a 1947 mural)</span></p>
+      <p><span class="q">A new <em>Cat in the Hat</em> movie opens Friday. What was Dr. Seuss's real name? (He wrote the 1957 book using only 236 different words.)</span><br><span class="a">Theodor Seuss Geisel</span></p>
+      <p><span class="q">Patrick Stewart played Claudius in a 2008 <em>Hamlet</em>. What are the play's first two words?</span><br><span class="a">"Who's there?" (spoken by the guard Barnardo)</span></p>
+      <p><span class="q">With the Melbourne Cup on Tuesday: which Australian poet wrote the words to "Waltzing Matilda" and "The Man from Snowy River"?</span><br><span class="a">A. B. "Banjo" Paterson (he's on Australia's $10 note)</span></p>
+      <p><span class="q">Which 1946 Robert Penn Warren novel, winner of the Pulitzer Prize, follows the politician Willie Stark, a character based on Huey Long?</span><br><span class="a"><em>All the King's Men</em></span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">KDKA, the station that broadcast the election returns on Nov 2, 1920, was launched by which Pittsburgh-area company?</span><br><span class="a">Westinghouse (it grew out of engineer Frank Conrad's amateur station, 8XK)</span></p>
+      <p><span class="q">Howard Hughes hated the nickname "Spruce Goose." Which wood was the H-4 Hercules actually made of, mostly?</span><br><span class="a">Birch (it's now at the Evergreen museum in McMinnville, Oregon)</span></p>
+      <p><span class="q">DoorDash, now bidding for Instacart, was started in 2013 by Stanford students under what name?</span><br><span class="a">PaloAltoDelivery.com</span></p>
+      <p><span class="q">Godzilla first appeared in 1954, from which Japanese studio? Its Japanese name, "Gojira," blends the words for gorilla and what?</span><br><span class="a">Toho; whale ("kujira") (director Ishirō Honda)</span></p>
+      <p><span class="q">Which Kentucky horseman came up with the Breeders' Cup? It was first run in 1984 at Hollywood Park.</span><br><span class="a">John R. Gaines</span></p>
+      <p><span class="q"><em>Wine Spectator</em> began in San Diego in 1976. Which publisher, who died this week, bought it in 1979 and later started <em>Cigar Aficionado</em>?</span><br><span class="a">Marvin Shanken</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Civics</span>By an 1845 law, Election Day is the <strong>Tuesday after the first Monday in November</strong>. That means it can never fall on Nov 1. This year it's Nov 3.</li>
+        <li><span class="tag">Presidents</span><strong>James K. Polk and Warren G. Harding</strong> were both born on Nov 2. They're the only presidents who share a birthday. 🟥 Harding was born in Blooming Grove, Ohio.</li>
+        <li><span class="tag">Horses</span>The <strong>Melbourne Cup</strong> (first run in 1861) is a public holiday in Melbourne. The great horse <strong>Phar Lap</strong> is now in three museums: his heart in Canberra, his hide in Melbourne, and his skeleton in Wellington, New Zealand.</li>
+        <li><span class="tag">Culture</span>On Día de los Muertos, families decorate altars with orange <strong>cempasúchil (marigolds)</strong>. People say the flowers' scent guides spirits home.</li>
+        <li><span class="tag">Space</span>People have lived aboard the <strong>ISS without a break since Nov 2, 2000</strong>. That's 26 years today.</li>
+        <li><span class="tag">TV</span>Charles Van Doren's admission that <em>Twenty-One</em> was rigged inspired Robert Redford's film <strong><em>Quiz Show</em></strong> (1994).</li>
+        <li><span class="tag">Movies</span><strong><em>Godzilla Minus One</em></strong> (2023) was the first Godzilla film to win an Oscar, for Visual Effects, on a budget under $15 million.</li>
+        <li><span class="tag">Food</span>"Deviled" has meant spicy food since the 1700s. Today is National Deviled Egg Day.</li>
+        <li><span class="tag">Muppets</span>Cookie Monster's birthday is listed as <strong>Nov 2</strong>. In the 1960s Jim Henson made an early version of him for a snack-food commercial.</li>
+        <li><span class="tag">Words</span>Dictionary.com's 2026 Word of the Year, <strong>"maxxing,"</strong> means pushing something to the extreme, as in "looksmaxxing."</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Born-today &amp; this-day edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">I'll Be There for You</div>
+          <div class="song-meta">The Rembrandts · 1995 · <em>L.P.</em> (theme from <em>Friends</em>; David Schwimmer born today)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/15tHagkk8z306XkyOHqiip" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/ill-be-there-for-you-theme-from-friends/373220996?i=373221221" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Constant Craving</div>
+          <div class="song-meta">k.d. lang · 1992 · <em>Ingénue</em> (born today, 1961)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/constant-craving/251006836?i=251007106" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Dilemma</div>
+          <div class="song-meta">Nelly feat. Kelly Rowland · 2002 · <em>Nellyville</em> (Nelly born today, 1974)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/dilemma-feat-kelly-rowland/1440735154?i=1440735612" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Dakota</div>
+          <div class="song-meta">Stereophonics · 2005 · <em>Language. Sex. Violence. Other?</em> (the Dakotas became states today, 1889)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/dakota/1443178381?i=1443178943" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Learn to Fly</div>
+          <div class="song-meta">Foo Fighters · 1999 · <em>There Is Nothing Left to Lose</em> (Spruce Goose flew today, 1947)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/learn-to-fly/278229648?i=278229654" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Tomorrow</div>
+          <div class="song-meta">Silverchair · 1994 · <em>Frogstomp</em> (Australian teens; Melbourne Cup and the midterms are tomorrow)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/tomorrow/193022617?i=193023048" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
