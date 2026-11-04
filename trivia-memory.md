@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 4 | Wyoming | Cheyenne (Nellie Tayloe Ross elected Nov 4, 1924, first woman governor) |
+| Nov 4 | Kansas | Topeka (not Wichita; Adam Hamilton first Kansas Dem senator since one elected in 1932) |
+| Nov 4 | Maine | Augusta (not Portland/Bangor; Collins lost to Troy Jackson) |
+| Nov 4 | Singapore | Singapore (city-state; Raffles 1819) |
 | Nov 3 | Scotland | Edinburgh (Lulu born Nov 3, 1948, from Glasgow — largest city, not capital) |
 | Nov 3 | San Marino | City of San Marino (Monte Titano; oldest surviving republic, trad. 301; Election Day tie) |
 | Nov 3 | South Korea | Seoul (Students' Day Nov 3 — 1929 Gwangju student uprising) |
@@ -249,6 +253,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 4 | M*A*S*H (1972–83) | Maj. Margaret "Hot Lips" Houlihan | Loretta Swit (born Nov 4, 1937) |
+| Nov 4 | Everybody Loves Raymond (1996–2005) | Marie Barone | Doris Roberts (born Nov 4, 1925; 4 Emmys) |
+| Nov 4 | The Fall Guy (1981–86) | Terri Michaels (bail bondswoman, 1982–85) | Markie Post (born Nov 4, 1950) |
+| Nov 4 | Suddenly Susan (1996–2000) | Vicki Groener / Susan Keane | Kathy Griffin (born Nov 4, 1960) / Brooke Shields |
+| Nov 4 | The Rogues (1964–65) | Gentleman con man (rotating lead with Niven, Boyer) | Gig Young (born Nov 4, 1913) |
+| Nov 4 | The Mary Tyler Moore Show (1974 ep. "Ted Baxter Meets Walter Cronkite") | Himself | Walter Cronkite (born Nov 4, 1916) |
 | Nov 3 | All in the Family / The Jeffersons (1971–81) | Lionel Jefferson | Mike Evans (born Nov 3, 1949; co-created Good Times) |
 | Nov 3 | Mystery Science Theater 3000 (1988–99) | Tom Servo (voice/puppeteer, 1990–99) | Kevin Murphy (born Nov 3, 1956) |
 | Nov 3 | Darkwing Duck (1991–92) | Darkwing Duck (voice) | Jim Cummings (born Nov 3, 1952; also Winnie the Pooh/Tigger) |
@@ -585,6 +595,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 4 | 1978 picture book, Little Bear & Little Tiger seek a land smelling of bananas (Janosch died Nov 3) | Oh, How Beautiful Panama (Oh, wie schön ist Panama) |
+| Nov 4 | "I never met a man I didn't like" (born Nov 4, 1879) | Will Rogers |
+| Nov 4 | WWI poet killed Nov 4, 1918; "the old Lie: Dulce et decorum est" | Wilfred Owen — "Dulce et Decorum Est" |
+| Nov 4 | Memoir Just Kids (2010 National Book Award) about Robert Mapplethorpe (born Nov 4, 1946) | Patti Smith |
+| Nov 4 | French composer died Nov 4, 1924; Requiem with "Pie Jesu"; taught Ravel | Gabriel Fauré |
+| Nov 4 | 1996 novel by "Anonymous" about Gov. Jack Stanton's campaign | Primary Colors — Joe Klein |
 | Nov 3 | 1981 thriller introducing Arkady Renko (Martin Cruz Smith born Nov 3, 1942) | Gorky Park |
 | Nov 3 | 1941 book on Alabama sharecroppers by Walker Evans (born Nov 3, 1903) and James Agee | Let Us Now Praise Famous Men |
 | Nov 3 | 1956 Edwin O'Connor novel, Mayor Frank Skeffington's last campaign | The Last Hurrah (1958 film, John Ford/Spencer Tracy) |
@@ -920,6 +936,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 4 | Politics | Talarico first TX Dem senator since Lloyd Bentsen 1988; Bentsen ran for VP and Senate at once (LBJ law) |
+| Nov 4 | Politics | Nellie Tayloe Ross never campaigned; first woman Director of the U.S. Mint (20 years) |
+| Nov 4 | Words | "Gerrymander" — Gov. Elbridge Gerry, 1812 salamander-shaped district cartoon |
+| Nov 4 | Egypt | Tutankhamun dagger blade of meteoric iron (2016 analysis); King Tut Day |
+| Nov 4 | History | Will Rogers died 1935 plane crash near Point Barrow, Alaska, with pilot Wiley Post |
+| Nov 4 | TV | Cronkite "And that's the way it is"; 1972 poll "most trusted man in America" |
+| Nov 4 | Hockey | Jets scored 4 goals in final 2:39 vs Montreal, won 5-4 OT (Nov 3) |
+| Nov 4 | Baseball | Gold Glove voting 75% managers/coaches, 25% stats; can't vote for own team |
+| Nov 4 | Music | "Telstar" made the Tornados first British group to hit No. 1 on Billboard Hot 100 |
+| Nov 4 | Italy | Nov 4 National Unity and Armed Forces Day — 1918 armistice with Austria-Hungary took effect |
 | Nov 3 | Civics | Secret ballot = "Australian ballot" (Victoria & South Australia 1856); Louisville KY first US city, 1888 |
 | Nov 3 | Words | "Candidate" from Latin candidatus, "dressed in white" (chalk-whitened togas) |
 | Nov 3 | Words | "Bellwether" = belled castrated ram leading the flock; Ohio picked every presidential winner 1964–2016 |
@@ -1574,6 +1600,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 4 | November 4 (Carter finds first step of Tutankhamun's tomb 1922; Nellie Tayloe Ross elected first woman governor 1924; Iran hostage crisis begins 1979, 52 held 444 days, Reagan elected exactly a year later. Also noted: Eisenhower 1952, NSA 1952, Hungary 1956, Rabin 1995, Obama 2008; births Will Rogers, Cronkite, Art Carney, Doris Roberts, Loretta Swit, Laura Bush, Mapplethorpe, Markie Post, Kathy Griffin, Ralph Macchio, McConaughey) |
 | Nov 3 | November 3 ("Dewey Defeats Truman" Chicago Daily Tribune dated Nov 3, 1948; Sputnik 2 with Laika 1957; Cubs win 2016 World Series Game 7 8–7 in 10 at Cleveland after midnight, 108-year drought. Also noted: Panama separates 1903, Chevrolet 1911, FDR 46-state landslide 1936, LBJ + first DC presidential vote 1964, Nixon "silent majority" 1969, Clinton elected 1992, One WTC opens 2014) |
 | Nov 2 | November 2 (North & South Dakota admitted 1889 — Harrison shuffled papers, ND 39th alphabetically; KDKA first commercial radio broadcast, Harding–Cox returns 1920, Harding won on 55th birthday; Spruce Goose only flight 1947; also Van Doren Twenty-One confession 1959, ISS Expedition 1 arrives 2000; births Boone 1734, Marie Antoinette 1755, Polk 1795, Harding 1865, Lancaster 1913, Stefanie Powers 1942, k.d. lang 1961, Schwimmer 1966, Nelly 1974) |
 | Oct 29 | October 29 (Turkey becomes a republic 1923; Black Tuesday 1929, 16M+ shares; John Glenn returns to space at 77 on Discovery 1998; also Raleigh executed 1618, Suez 1956, ARPANET first message 1969, Sandy landfall 2012) |
@@ -1637,6 +1664,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 4 | National Candy Day; King Tut Day; Use Your Common Sense Day; Check Your Blood Pressure Day; Flag Day (Panama); National Unity and Armed Forces Day (Italy); Unity Day (Russia) |
 | Nov 3 | Election Day; National Sandwich Day; National Housewife Day; World Jellyfish Day; Culture Day (Japan); Students' Day (South Korea); Independence Days of Panama, Dominica, Micronesia |
 | Nov 2 | National Deviled Egg Day; National Ohio Day; Cookie Monster's birthday; Día de los Muertos; All Souls' Day; International Day to End Impunity for Crimes Against Journalists |
 | Oct 29 | National Cat Day; National Oatmeal Day; National Hermit Day; International Internet Day; World Stroke Day; World Psoriasis Day; Republic Day (Turkey); Karva Chauth |
@@ -1708,6 +1736,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 4 | ABC special "The Iran Crisis—America Held Hostage" (Nov 8, 1979) became | Nightline (Roone Arledge; Ted Koppel) |
+| Nov 4 | Election tool credited to Warren Mitofsky, CBS, 1967 Kentucky governor race | Exit poll (Marcel van Dam claims Dutch one earlier in 1967) |
+| Nov 4 | US agency established Nov 4, 1952 under Truman ("No Such Agency") | NSA |
+| Nov 4 | Satellite behind the Tornados' "Telstar" (Clem Cattini died Nov 2) was built by | Bell Labs (AT&T) |
+| Nov 4 | UN agency whose constitution took effect Nov 4, 1946 (Paris HQ, World Heritage List) | UNESCO |
 | Nov 3 | Chevrolet founded Nov 3, 1911 with Louis Chevrolet by | William C. Durant (GM founder; regained GM control 1916) |
 | Nov 3 | Game company co-founded 1996 by Gabe Newell (born Nov 3, 1962) | Valve (with Mike Harrington; Half-Life, Steam) |
 | Nov 3 | McCain Foods (Harrison McCain born Nov 3, 1927), founded 1957 in which province | New Brunswick (Florenceville) |
@@ -2036,6 +2069,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 4 | Right Here, Right Now | Jesus Jones | 1991 |
+| Nov 4 | That's the Way It Is | Céline Dion | 1999 |
+| Nov 4 | Candy | Mandy Moore | 1999 |
+| Nov 4 | Good Man, Good Woman | Bonnie Raitt & Delbert McClinton | 1991 |
+| Nov 4 | Common People | Pulp | 1995 |
+| Nov 4 | Desert Rose | Sting feat. Cheb Mami | 1999 |
 | Nov 3 | Relight My Fire | Take That feat. Lulu | 1993 |
 | Nov 3 | Wonderful | Adam Ant | 1995 |
 | Nov 3 | Children | Robert Miles | 1995 |
@@ -2660,75 +2699,28 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ### Capitals
 | Week | Question | Answer |
 |------|----------|--------|
-| Aug 11 | Uruguay | Montevideo |
-| Aug 11 | Senegal | Dakar |
-| Aug 11 | Mongolia | Ulaanbaatar |
-| Aug 11 | Sri Lanka | Sri Jayawardenepura Kotte (Colombo = largest city / commercial capital) |
 
 ### Classic TV
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
-| Aug 11 | Bonanza (1959-73) | Ben Cartwright | Lorne Greene |
-| Aug 11 | Hawaii Five-O (1968-80) | Det. Capt. Steve McGarrett | Jack Lord |
-| Aug 11 | The Odd Couple (1970-75) | Felix Unger | Tony Randall |
-| Aug 11 | Hill Street Blues (1981-87) | Capt. Frank Furillo | Daniel J. Travanti |
-| Aug 11 | The Golden Girls (1985-92) | Blanche Devereaux | Rue McClanahan |
-| Aug 11 | Star Trek: The Next Generation (1987-94) | Capt. Jean-Luc Picard | Patrick Stewart |
 
 ### Arts & Literature
 | Week | Question | Answer |
 |------|----------|--------|
-| Aug 11 | Les Miserables / The Hunchback of Notre-Dame author | Victor Hugo |
-| Aug 11 | Brave New World (1932) author | Aldous Huxley |
-| Aug 11 | Invisible Man (1952) author | Ralph Ellison |
-| Aug 11 | Impression, Sunrise (1872) painter - named Impressionism | Claude Monet |
-| Aug 11 | Peter and the Wolf (1936) composer | Sergei Prokofiev |
-| Aug 11 | First songwriter to win Nobel Literature (2016) | Bob Dylan |
 
 ### Founded & Invented
 | Week | Question | Answer |
 |------|----------|--------|
-| Aug 11 | WD-40 - what "40" means | 40th formula; "Water Displacement, 40th attempt," Rocket Chemical Co. San Diego 1953, for the Atlas missile |
-| Aug 11 | Band-Aid inventor | Earle Dickson, 1920, Johnson & Johnson - for his accident-prone wife Josephine |
-| Aug 11 | Modern air conditioning inventor / purpose | Willis Carrier, 1902 - humidity control at a Brooklyn printing plant, not comfort |
-| Aug 11 | Frisbee origin | Frisbie Pie Company tins; Wham-O "Pluto Platter" 1957, renamed Frisbee 1958 |
-| Aug 11 | Origin of the name "Crayola" | French craie (chalk) + oleaginous (oily); Alice Binney, 1903, Binney & Smith |
-| Aug 11 | First US fast-food hamburger chain | White Castle, 1921, Wichita KS (white porcelain/steel to fight ground-beef stigma) |
 
 ### General Trivia
 | Week | Topic | Fact |
 |------|-------|------|
-| Aug 11 | History (Local) | Roebling Suspension Bridge (Cincinnati, 1866) longest suspension bridge in the world at 1,057 ft; Roebling then built the Brooklyn Bridge |
-| Aug 11 | Geography | ~80% of Nevada is federally owned land - highest share of any state |
-| Aug 11 | Architecture | Pentagon has ~2x the bathrooms it needs - built 1941 in segregated Virginia, FDR ordered they never be used that way |
-| Aug 11 | Language | "Big Ben" is the bell, not the tower; tower renamed Elizabeth Tower in 2012 (was just the Clock Tower) |
-| Aug 11 | Animals | Narwhal "tusk" is a canine tooth spiraling through the upper lip, up to 10 ft, full of nerve endings |
-| Aug 11 | Space | Olympus Mons (Mars) ~3x the height of Everest, base about the size of Arizona |
-| Aug 11 | Science | Roman concrete gets STRONGER in seawater - seawater + volcanic ash grows interlocking crystals |
-| Aug 11 | Food | A Twinkie's real shelf life is ~45 days, not decades |
-| Aug 11 | Sports | A regulation MLB baseball has exactly 108 double stitches, still hand-sewn |
-| Aug 11 | Business | Nike paid student Carolyn Davidson $35 for the Swoosh in 1971 |
-| Aug 11 | Tech | "Wi-Fi" doesn't stand for anything - branding-firm name; "Wireless Fidelity" was a dropped slogan |
-| Aug 11 | Did You Know | More public libraries in the US (~17,000 outlets) than McDonald's restaurants (~13,500) |
 
 ### Songs
-| Aug 11 | Been Caught Stealing | Jane's Addiction | 1990 |
-| Aug 11 | Runaway Train | Soul Asylum | 1993 |
-| Aug 11 | Tubthumping | Chumbawamba | 1997 |
-| Aug 11 | I Want It That Way | Backstreet Boys | 1999 |
-| Aug 11 | Stacy's Mom | Fountains of Wayne | 2003 |
-| Aug 11 | Use Somebody | Kings of Leon | 2008 |
 
 ### This Day in History
-| Aug 11 | August 11 (DJ Kool Herc's back-to-school party at 1520 Sedgwick Ave, Bronx 1973 - birth of hip-hop; Watts riots begin in LA 1965, 34 dead over six days; Mall of America opens in Bloomington MN 1992) | - |
-| Aug 11 | National Days: Hip Hop Day; National Son and Daughter Day; National Presidential Joke Day; Play in the Sand Day; National Raspberry Bombe Day; Global Kinetic Sand Day; National Fufu Day; Chad Independence Day (1960) | - |
 
 ### Sports / Current Events
-| Aug 11 | Reds | 56-61 (.479), 5th NL Central 17.0 GB (Brewers 74-45); last 5 W-W-L-L-L (streak L3, 6-4 L10); swept Athletics at home then swept BY Nationals 3-5, 2-8, 1-7; off day Aug 10; TODAY @ Chicago White Sox 7:40 PM ET. Source: MLB Stats API |
-| Aug 11 | Box Office | Spider-Man: Brand New Day #1 2nd weekend $145M (-60%), $655M domestic in 10 days, ~$1.67B WW. NEW ANGLE USED: $1B worldwide in 6 days (2nd-fastest ever, behind Endgame's 5); biggest domestic opening weekend ever $360M; biggest single Monday ever $46M; highest-grossing 2026 film in 7 days. Top 5: Odyssey $31.5M ($461M dom, Nolan's biggest), One Night Only $5.7M, Super Troopers 3 $4.0M, Toy Story 5 $3.9M. Opening Aug 14-16: The End of Oak Street, The Brink of War, PAW Patrol: The Dino Movie, Six: The Musical Live! |
-| Aug 11 | Sports | WNBA: Kayla McBride 10 threes (WNBA single-game record) + career-high 43, Lynx 103-90 over Wings Aug 9; Lynx franchise-record 18 threes, first team to clinch playoff spot, won 12 of 13. MLB: Max Scherzer passed Walter Johnson for 10th all-time in Ks (3,516) vs PHI Aug 8; Brewers 74-45 best, Cubs 69-50. NFL: Aug 10 injuries - Cade Mays (DET, fractured hand), Isiah Pacheco (DET, torn MCL), Laremy Tunsil (WAS, torn triceps); Teddy Bridgewater retires again; joint practices start Aug 11 (DAL-LAR, IND-NE, TB-NYJ); preseason Wk1 Aug 13. Soccer: FC Cincinnati beat Pachuca 3-1 Aug 4 and Pumas 2-0 Aug 7, vs Atlas Aug 11; Leagues Cup Aug 4-Sep 6, QFs Aug 25-27. Golf: FedExCup playoffs open Aug 13, FedEx St. Jude at TPC Southwind, 69 players (Berger WD), Scheffler #1 and +500 favorite, top 50 advance. Tennis: Cincinnati Open Aug 13-23, Sabalenka top women's seed, Zverev/Djokovic/Auger-Aliassime/Medvedev on men's side. NHL: Koivunen 8yr/$32M PIT, Grebenkin 2yr/$2.2M PHI, Bedard 5yr/$15M AAV CHI. NCAA: Coaches Poll Ohio State #1, AP poll Aug 17 |
-| Aug 11 | Deaths | Don Nelson (86, HOF coach, 2nd-winningest NBA, 1,335-1,063 over 31 seasons, 5 titles as a Celtics player, invented the point forward, Aug 9 in Frisco TX after a stroke); Ben Jones (84, "Cooter" on The Dukes of Hazzard, 2-term GA congressman, heart attack Aug 9); Jorge Messi (68, Lionel Messi's father/agent, Aug 8); Violet Hensley (109, Arkansas "Whittlin' Fiddler," ~80 handmade violins, Aug 7); Tommy Detamore (70, Texas steel guitarist/producer, Aug 5); Robby Albarado (52, jockey, 5,000+ wins, 2x Preakness incl. Curlin 2007, Aug 4) |
-| Aug 11 | Current Events | COLOMBIA EARTHQUAKE Aug 10: M7.4 in western Colombia, strongest recorded this century there; at least 132 dead / 570 injured (Cali 85, Pereira 66; damage in Quibdo, Manizales); state of national disaster. Todd Blanche confirmed US Attorney General 50-49 in an overnight Senate vote Aug 8 (Collins & Murkowski the only GOP no votes; Cassidy decisive). Federal court: no White House ballroom without Congressional approval. Netanyahu says Israel "rejects" the US-backed Board of Peace Gaza disarmament roadmap. Iran near a final pact with Oman to reopen Strait of Hormuz; Houthis hit a Saudi Aramco refinery. Abelardo de la Espriella sworn in as Colombia's president. Ukrainian drone attack killed at least 13 in Russia. Monsoon flooding in India, Brahmaputra over its banks |
 
 ---
 
@@ -3673,4 +3665,19 @@ NFL: CHI 34-17 at SEA MNF (Swift 3 rush TD, Jeffery Simmons debut after trade fr
 ### Notes
 Run fired Tuesday Nov 3, 2026 (~12:03 UTC); header dated Tuesday, November 3, 2026. Nov 3 not previously used for This Day in History. Remaining never-used capitals after this run: France, Singapore, China, United Kingdom (as a whole). Song Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API via device shell. Cloud git push refused by the proxy (403); pushed from the connected device shell. Pruned 47 table rows dated before Aug 11.
 
-_Last updated: November 3, 2026_
+
+## November 4, 2026 (v100)
+
+### NFL
+ESPN byteam 2026, splitId 0, through MNF Nov 2 (unchanged from Nov 3): Detroit Lions 412.0 yds/g (2,884 total, 7 GP, 4th in total); top 5 Lions / Bears 404.6 (3,237, 8 GP, No. 1 total) / Bills 404.6 (2,832, 7) / Rams 395.4 (3,163, 8) / Chiefs 390.6 (2,734, 7); 6th Panthers 383.1. Bengals 382.4 yds/g 7th, 2,677 total 17th; 5-2. Next: Sun Nov 8 vs ATL (Falcons home) at Santiago Bernabéu, Madrid, 9:30 a.m. EST, NFL Network (ESPN schedule 14:30Z). ESPN rank arrays matched.
+
+### Box Office
+Weekend Oct 30-Nov 1 (same as Nov 3): #1 You Can See Everything $11.4M ($64.7M, wk 3). Fun fact used: ~$7M budget, opened on 855 screens (~$17,500/screen), dirs Nathan Fielder & Lance Oppenheim, opens 34 days before Holmes reported to prison. Coming Nov 6-8: The Cat in the Hat, Godzilla Minus Zero, Wild Horse Nine (limited).
+
+### Sports / Deaths / Current Events
+CFP first rankings Nov 3: Miami, Georgia, Utah, Indiana top 4; Ohio State 12th, first out (Boise State No. 25 takes G6 bid); SEC 10 in top 25. NHL Nov 3: WPG 5-4 OT MTL from 4-0 down (4 goals in last 2:39, Samberg OT); Robertson natural hat trick (DAL 6-5 WSH); Gauthier 2nd straight hat trick; McDavid assist streak 16. NBA off Election Day; Nov 4 PHI (7-1) at DET (6-1). Gold Gloves Nov 1: BOS & ARI 3 each, Crow-Armstrong repeat (+26 FRV), no Reds. Deaths: Janosch 95 (Nov 3), John Frieda 75 (Nov 3), Clem Cattini 89 (Nov 2), Tony Butala 87 (Nov 1), Patrick Stewart 86 & Dolores Huerta 96 (Oct 28), Martin Erlichman 97, Bill Clifton 95. Midterms: Democrats won House and Senate (at least 54 Senate seats; 7 flips OH TX ME NC IA KS SC); Ohio: Sherrod Brown beat Husted, Amy Acton beat Ramaswamy; Texas: Talarico beat Paxton, Hinojosa beat Abbott; firsts Jeffries (first Black speaker), El-Sayed, Pappas, Flanagan, Annie Andrews. US strikes on Iranian targets in Strait of Hormuz Nov 2 (Qeshm Island); Patriot sale to Ukraine.
+
+### Notes
+Run fired Wednesday Nov 4, 2026 (~12:02 UTC); header dated Wednesday, November 4, 2026. Nov 4 not previously used for This Day in History. Never-used capitals remaining: France, China, United Kingdom (as a whole). 6 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API via device shell (cloud 403). Leonard Cohen "Democracy" dropped (no verifiable Spotify ID). Cloud git push refused by the proxy (403). Pruned 47 table rows dated before Aug 12.
+
+_Last updated: November 4, 2026_
