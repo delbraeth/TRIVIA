@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 5, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Thursday, November 5, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 5</a>
+  <a href="./thursday-trivia-2026-11-04.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 4</a>
+  <a href="./thursday-trivia-2026-11-03.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 3</a>
+  <a href="./thursday-trivia-2026-11-02.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 2</a>
+  <a href="./thursday-trivia-2026-10-29.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 29</a>
+  <a href="./thursday-trivia-2026-10-28.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 28</a>
+  <a href="./thursday-trivia-2026-10-27.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 27</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">412.0</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">2,884 total yards (4th in total) · 7 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 412.0/g &nbsp;<span style="color:#777;">(2,884 yds, 7 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 404.6/g &nbsp;<span style="color:#777;">(3,237 yds, 8 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Buffalo Bills</strong> — 404.6/g &nbsp;<span style="color:#777;">(2,832 yds, 7 GP)</span></li>
+        <li><span class="tag">4</span><strong>Los Angeles Rams</strong> — 395.4/g &nbsp;<span style="color:#777;">(3,163 yds, 8 GP)</span></li>
+        <li><span class="tag">5</span><strong>Kansas City Chiefs</strong> — 390.6/g &nbsp;<span style="color:#777;">(2,734 yds, 7 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">Through Week 8. Week 9 starts tonight, when Jacksonville (10th, 365.4/g) plays at Baltimore (12th, 356.6/g). The Bears (404.625) lead the Bills (404.571) by five-hundredths of a yard per game.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>382.4 yards per game, 7th</strong> in the NFL, just behind Carolina (383.1). <strong>2,677 total yards, 17th</strong>. Record: <strong>5–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 8 vs. Atlanta Falcons in Madrid, 9:30 a.m. EST</strong> on NFL Network <span style="font-weight:400;">(Santiago Bernabéu; Falcons are the home team)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Thursday morning. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Oct 30–Nov 1</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>You Can See Everything</strong> — $11.4M (about $64.7M total) in its third weekend</li>
+        <li>#2 Clayface — $11.0M ($44.7M total) &nbsp;|&nbsp; #3 Wildwood — $8.9M ($27.4M)</li>
+        <li>#4 Wicker — $4.4M ($13.5M) &nbsp;|&nbsp; #5 Street Fighter — $3.7M ($53.5M total)</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> The Elizabeth Holmes documentary didn't reach No. 1 until its <strong>third weekend</strong>. It got there on a Halloween weekend whose total, just under <strong>$63 million</strong>, was the <strong>third-lowest of 2026</strong>. Sunday's studio estimates had it ahead of <em>Clayface</em> by only about <strong>$200,000</strong>. In No. 4 <em>Wicker</em>, Olivia Colman hires a basket maker (Alexander Skarsgård) to <strong>weave her a husband</strong>.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 6–8)</h3>
+        <ul>
+          <li><strong>The Cat in the Hat</strong>: Warner Bros.' animated Dr. Seuss movie, with Bill Hader voicing the Cat and Quinta Brunson, Bowen Yang and Matt Berry in the cast.</li>
+          <li><strong>Godzilla Minus Zero</strong>: Takashi Yamazaki's sequel to the Oscar-winning <em>Godzilla Minus One</em>, set in 1949, released in the U.S. by GKIDS.</li>
+          <li><strong>Wild Horse Nine</strong> (limited): Martin McDonagh's comedy with Sam Rockwell (born today, 1968) and John Malkovich as two bickering CIA agents.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">NFL</span>The <strong>Ravens traded for QB Jacoby Brissett</strong> from Arizona on Wednesday, and they host Jacksonville tonight (8:15 p.m. ET). The trade deadline is <strong>Tuesday, Nov 10, at 4 p.m. ET</strong>. 🐅 The Bengals have made no deadline moves and play in <strong>Madrid on Sunday morning</strong>.</li>
+        <li><span class="tag">NBA</span><strong>Philadelphia won 112–106 at Detroit</strong> in a game between the East's top two teams. Jaylen Brown scored a season-high 30 and made a key late block. The 76ers are <strong>8–1</strong>. Luka Dončić scored 40 as the Lakers beat Sacramento, and Portland (6–1) won its fifth straight road game.</li>
+        <li><span class="tag">NCAA</span>🏀 <strong>Local season openers:</strong> Xavier beat Mount St. Mary's 97–52, Cincinnati beat American 79–53, Dayton beat NJIT 89–58, and Miami (OH) beat James Madison 86–77. 🌰 <strong>BYU beat Ohio State 94–83.</strong> Kentucky beat Manhattan 85–57.</li>
+        <li><span class="tag">Tennis</span>At the Paris Masters, <strong>Novak Djokovic was upset by Australia's Rinky Hijikata</strong>, and Zverev, Medvedev and De Minaur also lost. Jannik Sinner withdrew before the event. <strong>Carlos Alcaraz reached the quarterfinals without playing</strong> today because Matteo Berrettini withdrew with arm pain. Frenchman Arthur Fils qualified for his first ATP Finals. The <strong>WTA Finals start Sunday at Indian Wells</strong>. They were moved from Riyadh because of the Iran war.</li>
+        <li><span class="tag">MLS</span>🟠 It's Decision Day this Saturday: FC Cincinnati, already in the playoffs, ends the regular season at Nashville.</li>
+        <li><span class="tag">NASCAR</span>The Cup title is decided Sunday at <strong>Homestead-Miami</strong>. Kyle Larson leads Christopher Bell and Denny Hamlin.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Alan Jones</strong>, 80 (Nov 5). The Australian won the <strong>1980 Formula One world championship</strong>, the Williams team's first drivers' title.</li>
+        <li><strong>Herbert Blomstedt</strong>, 99 (Nov 4). The Swedish-American conductor, born in Springfield, Mass., led the San Francisco Symphony and Leipzig's Gewandhaus Orchestra. He was still conducting in his late 90s.</li>
+        <li><strong>Tinto Brass</strong>, 93 (Nov 4). The Italian filmmaker directed the notorious 1979 epic <em>Caligula</em>.</li>
+        <li><strong>Jack Mapanje</strong>, 82 (Nov 4). The Malawian poet was jailed without charge for more than three years under Hastings Banda.</li>
+        <li><strong>Sir Lloyd Geering</strong>, 108 (Nov 5). The theologian was New Zealand's oldest man.</li>
+        <li><strong>Harold Greene</strong>, 82 (Nov 3). He was a longtime ABC7 Los Angeles news anchor.</li>
+        <li><strong>John Nicks</strong>, 97 (Nov 3). The British pairs skater won a world title in 1953 and later coached in California.</li>
+        <li style="color:#666;">Also: Janosch, 95, German children's author; John Frieda, 75, celebrity hairstylist; June Carpenter, 88, one of the last three Shakers; Clem Cattini, 89, drummer for the Tornados ("Telstar"); Sir Patrick Stewart, 86 (Oct 28).</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 5</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1605</strong> — Guy Fawkes was <strong>caught guarding 36 barrels of gunpowder</strong> in a cellar under the House of Lords, foiling the Gunpowder Plot to blow up King James I. Britain still marks the day as <strong>Bonfire Night</strong>.</li>
+        <li><strong>1872</strong> — <strong>Susan B. Anthony voted</strong> in the presidential election in Rochester, N.Y. She was arrested two weeks later, convicted and fined $100, which she <strong>never paid</strong>.</li>
+        <li><strong>1940</strong> — <strong>FDR won an unprecedented third term</strong>, beating Wendell Willkie. He is the only president elected more than twice.</li>
+        <li><strong>1994</strong> — <strong>George Foreman, 45, knocked out Michael Moorer</strong> in the 10th round and became the oldest heavyweight champion, 20 years after losing the title to Ali.</li>
+        <li style="color:#666;">Also: George Selden got a U.S. patent for the automobile (1895). Parker Brothers released Monopoly (1935). Nixon was elected (1968). In <em>Back to the Future</em>, Nov 5, 1955 is the day Doc Brown dreamed up the flux capacitor. Born today: Ida Tarbell (1857), Will Durant (1885), Roy Rogers (1911), Vivien Leigh (1913), Ike Turner (1931), Elke Sommer (1940), Art Garfunkel (1941), Sam Shepard (1943), Peter Noone (1947), Bryan Adams (1959), Tilda Swinton (1960), Tatum O'Neal (1963), Famke Janssen (1964), Sam Rockwell (1968), Corin Nemec (1971), Kevin Jonas (1987).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 5</h3>
+        <ul>
+          <li>🎉 International Stout Day (first Thursday of November) · National Doughnut Appreciation Day · National Chinese Take-Out Day</li>
+          <li>🎉 American Football Day · National Love Your Red Hair Day · National Men Make Dinner Day · Bank Transfer Day</li>
+          <li>🎉 Guy Fawkes Night (UK) · World Tsunami Awareness Day (UN)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>🗳️ <strong>After the midterms:</strong> Democrats hold at least <strong>54 Senate seats</strong>, and CBS projects <strong>251 to 268 House seats</strong> for them. Two Senate races were uncalled. In <strong>Mississippi</strong>, Democrat Scott Colom led Sen. Cindy Hyde-Smith by <strong>43 votes</strong>, with about 15,000 affidavit ballots left to count. Alaska (Sullivan vs. Peltola) was also open.</li>
+        <li><strong>Speaker Mike Johnson won't run for GOP leader</strong> in the next Congress, and Steve Scalise is running for minority leader. Hakeem Jeffries ("America is back") has Nancy Pelosi's backing for speaker.</li>
+        <li><strong>VP J.D. Vance blamed the Iran war</strong> for the losses: "The reason we lost is the war." President Trump said he would accept the results and called Democrats to congratulate them. He also said, "If I was on the ballot, we would have won," and that he will use his veto.</li>
+        <li><strong>Firsts and upsets:</strong> Melat Kiros, 29, is the <strong>first Gen Z woman elected to Congress</strong>. Rep. David Valadao (Calif.), one of the Republicans who voted to impeach Trump, lost his seat, and Ohio's Max Miller lost too.</li>
+        <li>🛰️ NASA's <strong>Swift Observatory</strong>, which studied gamma-ray bursts, burned up over Sumatra, ending a mission of almost 22 years. Hungary opened its Communist-era secret police files, with about 60,000 names. Spanish writer Cristina Fernández Cubas won the <strong>Cervantes Prize</strong>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">💥 Guy Fawkes tried to blow up Parliament on Nov 5, 1605. What is the capital of the United Kingdom?</span><br><span class="a">London (Parliament meets at the Palace of Westminster)</span></p>
+      <p><span class="q">🗳️ Susan B. Anthony voted illegally in Rochester on Nov 5, 1872. What is New York's capital? (Not NYC, Buffalo or Rochester.)</span><br><span class="a">Albany</span></p>
+      <p><span class="q">🎾 Carlos Alcaraz reached the quarterfinals of this week's Masters tournament in France's capital. What is France's capital?</span><br><span class="a">Paris (the tournament is played at Paris La Défense Arena)</span></p>
+      <p><span class="q">🥡 It's National Chinese Take-Out Day. What is China's capital? (Not Shanghai or Hong Kong.)</span><br><span class="a">Beijing (the name means "northern capital"; Nanjing means "southern capital")</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Born today in 1971, he played the always-cool title student, whose catchphrase was "Not a problem," on Fox's 1990–93 sitcom <em>Parker Lewis Can't Lose</em>. Who is he?</span><br><span class="a">Corin Nemec</span></p>
+      <p><span class="q">For election week: on ABC's <em>Spin City</em> (1996–2002), who played New York's bumbling Mayor Randall Winston, boss of Michael J. Fox's deputy mayor?</span><br><span class="a">Barry Bostwick (Brad in <em>The Rocky Horror Picture Show</em>)</span></p>
+      <p><span class="q">For Love Your Red Hair Day: in which 1962–68 CBS sitcom did Lucille Ball play the widow Lucy Carmichael, with Vivian Vance as her friend Vivian Bagley?</span><br><span class="a"><em>The Lucy Show</em></span></p>
+      <p><span class="q">For American Football Day: which Rams Hall of Fame defensive tackle starred in NBC's <em>Father Murphy</em> (1981–83) as a frontier drifter who poses as a priest to run an orphanage?</span><br><span class="a">Merlin Olsen (the character was John Michael Murphy; Michael Landon created the show)</span></p>
+      <p><span class="q">Who played Texas Ranger Cordell Walker on CBS's <em>Walker, Texas Ranger</em> (1993–2001)?</span><br><span class="a">Chuck Norris (Clarence Gilyard played his partner, Jimmy Trivette)</span></p>
+      <p><span class="q">On NBC and later CBS's <em>In the Heat of the Night</em> (1988–95), who played Virgil Tibbs, the part Sidney Poitier had in the 1967 film?</span><br><span class="a">Howard Rollins (Carroll O'Connor played Chief Bill Gillespie)</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">"Remember, remember the fifth of November." Which graphic novel by Alan Moore and artist David Lloyd made the Guy Fawkes mask a worldwide protest symbol?</span><br><span class="a"><em>V for Vendetta</em> (1982–89; film 2005)</span></p>
+      <p><span class="q">Which playwright, born today in 1943, won the 1979 Pulitzer Prize for Drama for <em>Buried Child</em>?</span><br><span class="a">Sam Shepard</span></p>
+      <p><span class="q">Born today in 1885, which historian wrote the 11-volume <em>The Story of Civilization</em> with his wife, Ariel, and shared a 1968 Pulitzer for it?</span><br><span class="a">Will Durant</span></p>
+      <p><span class="q">Born today in 1857, which muckraking journalist wrote <em>The History of the Standard Oil Company</em> (1904), which helped lead to the breakup of John D. Rockefeller's monopoly?</span><br><span class="a">Ida Tarbell</span></p>
+      <p><span class="q">Which Malawian poet, who died Nov 4, was jailed without charge from 1987 to 1991 after his first collection, <em>Of Chameleons and Gods</em>, was banned?</span><br><span class="a">Jack Mapanje</span></p>
+      <p><span class="q">Herbert Blomstedt died at 99. Which American orchestra did he lead as music director from 1985 to 1995?</span><br><span class="a">The San Francisco Symphony</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">On Nov 5, 1895, Rochester lawyer George Selden got a U.S. patent for what invention? Henry Ford fought the patent and won in 1911.</span><br><span class="a">The automobile (a "road engine")</span></p>
+      <p><span class="q">For Chinese Take-Out Day: the folded, wire-handled takeout box began as an "oyster pail." Who patented it in Chicago in 1894?</span><br><span class="a">Frederick Weeks Wilcox</span></p>
+      <p><span class="q">For Doughnut Appreciation Day: William Rosenberg renamed his Quincy, Mass., doughnut shop "Open Kettle" in 1950. What did he call it?</span><br><span class="a">Dunkin' Donuts</span></p>
+      <p><span class="q">For International Stout Day: in 1759, who signed a 9,000-year lease on the St. James's Gate brewery in Dublin, at £45 a year?</span><br><span class="a">Arthur Guinness</span></p>
+      <p><span class="q">Gunpowder, the heart of Fawkes's plot, was invented in which country in about the 9th century? The alchemists who made it were trying to make an elixir of immortality.</span><br><span class="a">China (in the Tang dynasty)</span></p>
+      <p><span class="q">Alan Jones gave this team its first F1 drivers' title in 1980. Who co-founded it in 1977 with engineer Patrick Head?</span><br><span class="a">Frank Williams (Williams Grand Prix Engineering)</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Words</span>The word <strong>"guy"</strong> comes from Guy Fawkes. Ragged Fawkes effigies burned on bonfires were called "guys," and the word came to mean any man.</li>
+        <li><span class="tag">UK</span>Before every State Opening of Parliament, the <strong>Yeomen of the Guard search the Westminster cellars</strong>, a ceremony that goes back to the Gunpowder Plot.</li>
+        <li><span class="tag">Movies</span>In <em>Back to the Future</em>, Doc Brown dials <strong>Nov 5, 1955</strong> into the DeLorean. It's the day he hit his head on his sink and pictured the flux capacitor.</li>
+        <li><span class="tag">Beer</span>Guinness looks black, but it's actually a <strong>very dark ruby red</strong>. Hold a glass up to a light to see it.</li>
+        <li><span class="tag">Science</span>Only about <strong>1–2% of people</strong> have naturally red hair. <strong>Scotland</strong> has the highest share of any country.</li>
+        <li><span class="tag">Boxing</span>Foreman beat Moorer in 1994 wearing the <strong>same red trunks</strong> he wore when he lost to Ali in the 1974 "Rumble in the Jungle."</li>
+        <li><span class="tag">F1</span>Alan Jones's father, <strong>Stan Jones</strong>, won the 1959 Australian Grand Prix.</li>
+        <li><span class="tag">Religion</span>Sir Lloyd Geering, who died at 108, was tried for <strong>heresy</strong> by New Zealand's Presbyterian Church in 1967. The charges were dismissed.</li>
+        <li><span class="tag">Politics</span>Mississippi's Senate race came down to <strong>43 votes</strong> with about 15,000 ballots still to count.</li>
+        <li><span class="tag">Tennis</span>The WTA Finals were moved from Riyadh to Indian Wells in July because of safety concerns over the Iran war. Saudi Arabia's three-year hosting contract ended six months early.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Bonfire Night &amp; birthdays edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">(Everything I Do) I Do It for You</div>
+          <div class="song-meta">Bryan Adams · 1991 · Waking Up the Neighbours (born today, 1959; 16 weeks at No. 1 in the UK)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/everything-i-do-i-do-it-for-you/1440756670?i=1440756952" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Firework</div>
+          <div class="song-meta">Katy Perry · 2010 · Teenage Dream (Bonfire Night)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/firework/716192216?i=716192625" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Gunpowder &amp; Lead</div>
+          <div class="song-meta">Miranda Lambert · 2008 · Crazy Ex-Girlfriend (the Gunpowder Plot)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/gunpowder-lead/251081798?i=251081801" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Remember the Name</div>
+          <div class="song-meta">Fort Minor feat. Styles of Beyond · 2005 · The Rising Tied ("Remember, remember…")</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/remember-the-name-feat-styles-of-beyond/1345062256?i=1345062275" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Burnin' Up</div>
+          <div class="song-meta">Jonas Brothers · 2008 · A Little Bit Longer (Kevin Jonas born today, 1987)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6QQG95C5Evjbichtoxl4RH" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/burnin-up/1814619120?i=1814619125" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Fairground</div>
+          <div class="song-meta">Simply Red · 1995 · Life (Love Your Red Hair Day, for redhead Mick Hucknall; the band's only UK No. 1)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3lghqWELEWj9yEPvme7c4W" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/fairground/1002766917?i=1002767528" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
