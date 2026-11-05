@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 5 | United Kingdom | London (Gunpowder Plot Nov 5, 1605; Palace of Westminster) |
+| Nov 5 | New York | Albany (Susan B. Anthony voted in Rochester Nov 5, 1872) |
+| Nov 5 | France | Paris (Alcaraz in Paris Masters QF) |
+| Nov 5 | China | Beijing ("northern capital"; Chinese Take-Out Day) |
 | Nov 4 | Wyoming | Cheyenne (Nellie Tayloe Ross elected Nov 4, 1924, first woman governor) |
 | Nov 4 | Kansas | Topeka (not Wichita; Adam Hamilton first Kansas Dem senator since one elected in 1932) |
 | Nov 4 | Maine | Augusta (not Portland/Bangor; Collins lost to Troy Jackson) |
@@ -253,6 +257,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 5 | Parker Lewis Can't Lose (1990–93) | Parker Lewis | Corin Nemec (born Nov 5, 1971) |
+| Nov 5 | Spin City (1996–2002) | Mayor Randall Winston | Barry Bostwick |
+| Nov 5 | The Lucy Show (1962–68) | Lucy Carmichael | Lucille Ball (Love Your Red Hair Day) |
+| Nov 5 | Father Murphy (1981–83) | John Michael Murphy | Merlin Olsen (American Football Day; Michael Landon created) |
+| Nov 5 | Walker, Texas Ranger (1993–2001) | Cordell Walker | Chuck Norris |
+| Nov 5 | In the Heat of the Night (1988–95) | Virgil Tibbs | Howard Rollins |
 | Nov 4 | M*A*S*H (1972–83) | Maj. Margaret "Hot Lips" Houlihan | Loretta Swit (born Nov 4, 1937) |
 | Nov 4 | Everybody Loves Raymond (1996–2005) | Marie Barone | Doris Roberts (born Nov 4, 1925; 4 Emmys) |
 | Nov 4 | The Fall Guy (1981–86) | Terri Michaels (bail bondswoman, 1982–85) | Markie Post (born Nov 4, 1950) |
@@ -595,6 +605,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 5 | "Remember, remember the fifth of November" graphic novel (Alan Moore & David Lloyd) | V for Vendetta |
+| Nov 5 | 1979 Pulitzer for Drama, Buried Child (born Nov 5, 1943) | Sam Shepard |
+| Nov 5 | The Story of Civilization with wife Ariel; 1968 Pulitzer (born Nov 5, 1885) | Will Durant |
+| Nov 5 | The History of the Standard Oil Company (1904) (born Nov 5, 1857) | Ida Tarbell |
+| Nov 5 | Malawian poet jailed without charge 1987–91 after Of Chameleons and Gods banned (died Nov 4) | Jack Mapanje |
+| Nov 5 | Orchestra Herbert Blomstedt led 1985–95 (died Nov 4 at 99) | San Francisco Symphony |
 | Nov 4 | 1978 picture book, Little Bear & Little Tiger seek a land smelling of bananas (Janosch died Nov 3) | Oh, How Beautiful Panama (Oh, wie schön ist Panama) |
 | Nov 4 | "I never met a man I didn't like" (born Nov 4, 1879) | Will Rogers |
 | Nov 4 | WWI poet killed Nov 4, 1918; "the old Lie: Dulce et decorum est" | Wilfred Owen — "Dulce et Decorum Est" |
@@ -936,6 +952,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 5 | Words | "guy" comes from Guy Fawkes effigies |
+| Nov 5 | UK | Yeomen of the Guard search Westminster cellars before State Opening |
+| Nov 5 | Movies | Back to the Future: Nov 5, 1955 is Doc Brown flux capacitor day |
+| Nov 5 | Beer | Guinness is actually dark ruby red |
+| Nov 5 | Science | 1–2% of people redheads; Scotland highest share |
+| Nov 5 | Boxing | Foreman beat Moorer 1994 in same red trunks as 1974 Ali loss |
+| Nov 5 | F1 | Alan Jones's father Stan Jones won 1959 Australian GP |
+| Nov 5 | Religion | Lloyd Geering 1967 heresy trial, charges dismissed |
+| Nov 5 | Politics | Mississippi Senate race at 43 votes, ~15,000 affidavit ballots |
+| Nov 5 | Tennis | WTA Finals moved Riyadh → Indian Wells over Iran war |
 | Nov 4 | Politics | Talarico first TX Dem senator since Lloyd Bentsen 1988; Bentsen ran for VP and Senate at once (LBJ law) |
 | Nov 4 | Politics | Nellie Tayloe Ross never campaigned; first woman Director of the U.S. Mint (20 years) |
 | Nov 4 | Words | "Gerrymander" — Gov. Elbridge Gerry, 1812 salamander-shaped district cartoon |
@@ -1600,6 +1626,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 5 | November 5 (Gunpowder Plot foiled 1605; Susan B. Anthony votes in Rochester 1872, fined $100 never paid; FDR third term 1940 over Willkie; Foreman KOs Moorer at 45, 1994. Also noted: Selden auto patent 1895, Monopoly released 1935, Nixon elected 1968, Back to the Future Nov 5 1955; births Tarbell, Durant, Roy Rogers, Vivien Leigh, Ike Turner, Elke Sommer, Garfunkel, Sam Shepard, Peter Noone, Bryan Adams, Tilda Swinton, Tatum O'Neal, Famke Janssen, Sam Rockwell, Corin Nemec, Kevin Jonas) |
 | Nov 4 | November 4 (Carter finds first step of Tutankhamun's tomb 1922; Nellie Tayloe Ross elected first woman governor 1924; Iran hostage crisis begins 1979, 52 held 444 days, Reagan elected exactly a year later. Also noted: Eisenhower 1952, NSA 1952, Hungary 1956, Rabin 1995, Obama 2008; births Will Rogers, Cronkite, Art Carney, Doris Roberts, Loretta Swit, Laura Bush, Mapplethorpe, Markie Post, Kathy Griffin, Ralph Macchio, McConaughey) |
 | Nov 3 | November 3 ("Dewey Defeats Truman" Chicago Daily Tribune dated Nov 3, 1948; Sputnik 2 with Laika 1957; Cubs win 2016 World Series Game 7 8–7 in 10 at Cleveland after midnight, 108-year drought. Also noted: Panama separates 1903, Chevrolet 1911, FDR 46-state landslide 1936, LBJ + first DC presidential vote 1964, Nixon "silent majority" 1969, Clinton elected 1992, One WTC opens 2014) |
 | Nov 2 | November 2 (North & South Dakota admitted 1889 — Harrison shuffled papers, ND 39th alphabetically; KDKA first commercial radio broadcast, Harding–Cox returns 1920, Harding won on 55th birthday; Spruce Goose only flight 1947; also Van Doren Twenty-One confession 1959, ISS Expedition 1 arrives 2000; births Boone 1734, Marie Antoinette 1755, Polk 1795, Harding 1865, Lancaster 1913, Stefanie Powers 1942, k.d. lang 1961, Schwimmer 1966, Nelly 1974) |
@@ -1664,6 +1691,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 5 | International Stout Day; National Doughnut Appreciation Day; National Chinese Take-Out Day; American Football Day; National Love Your Red Hair Day; National Men Make Dinner Day; Bank Transfer Day; Guy Fawkes Night (UK); World Tsunami Awareness Day |
 | Nov 4 | National Candy Day; King Tut Day; Use Your Common Sense Day; Check Your Blood Pressure Day; Flag Day (Panama); National Unity and Armed Forces Day (Italy); Unity Day (Russia) |
 | Nov 3 | Election Day; National Sandwich Day; National Housewife Day; World Jellyfish Day; Culture Day (Japan); Students' Day (South Korea); Independence Days of Panama, Dominica, Micronesia |
 | Nov 2 | National Deviled Egg Day; National Ohio Day; Cookie Monster's birthday; Día de los Muertos; All Souls' Day; International Day to End Impunity for Crimes Against Journalists |
@@ -1736,6 +1764,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 5 | Patent granted to George Selden Nov 5, 1895 (Ford fought it, won 1911) | Automobile |
+| Nov 5 | Wire-handled "oyster pail" takeout box patented Chicago 1894 | Frederick Weeks Wilcox |
+| Nov 5 | Quincy, Mass. "Open Kettle" renamed 1950 | Dunkin' Donuts (William Rosenberg) |
+| Nov 5 | 9,000-year lease at St. James's Gate, £45/yr, 1759 | Arthur Guinness |
+| Nov 5 | Gunpowder invented ~9th century by alchemists seeking immortality elixir | China (Tang dynasty) |
+| Nov 5 | F1 team co-founded 1977 with Patrick Head; first drivers' title Alan Jones 1980 | Frank Williams |
 | Nov 4 | ABC special "The Iran Crisis—America Held Hostage" (Nov 8, 1979) became | Nightline (Roone Arledge; Ted Koppel) |
 | Nov 4 | Election tool credited to Warren Mitofsky, CBS, 1967 Kentucky governor race | Exit poll (Marcel van Dam claims Dutch one earlier in 1967) |
 | Nov 4 | US agency established Nov 4, 1952 under Truman ("No Such Agency") | NSA |
@@ -2069,6 +2103,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 5 | (Everything I Do) I Do It for You | Bryan Adams | 1991 |
+| Nov 5 | Firework | Katy Perry | 2010 |
+| Nov 5 | Gunpowder & Lead | Miranda Lambert | 2008 |
+| Nov 5 | Remember the Name | Fort Minor feat. Styles of Beyond | 2005 |
+| Nov 5 | Burnin' Up | Jonas Brothers | 2008 |
+| Nov 5 | Fairground | Simply Red | 1995 |
 | Nov 4 | Right Here, Right Now | Jesus Jones | 1991 |
 | Nov 4 | That's the Way It Is | Céline Dion | 1999 |
 | Nov 4 | Candy | Mandy Moore | 1999 |
@@ -2729,81 +2769,34 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ### Capitals
 | Week | Question | Answer |
 |------|----------|--------|
-| Aug 12 | Morocco | Rabat (not Casablanca) |
-| Aug 12 | Nigeria | Abuja (moved from Lagos 1991) |
-| Aug 12 | Myanmar | Naypyidaw (purpose-built; moved from Yangon 2005) |
-| Aug 12 | Croatia | Zagreb |
 
 ### Classic TV
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
-| Aug 12 | Get Smart (1965-70) | Maxwell Smart | Don Adams |
-| Aug 12 | The Fugitive (1963-67) | Dr. Richard Kimble | David Janssen |
-| Aug 12 | Lost in Space (1965-68) | Dr. Zachary Smith | Jonathan Harris |
-| Aug 12 | Barney Miller (1975-82) | Capt. Barney Miller | Hal Linden |
-| Aug 12 | Dallas (1978-91) | J.R. Ewing | Larry Hagman |
-| Aug 12 | Quantum Leap (1989-93) | Dr. Sam Beckett | Scott Bakula |
 
 ### Arts & Literature
 | Week | Question | Answer |
 |------|----------|--------|
-| Aug 12 | "It is a truth universally acknowledged..." opener | Pride and Prejudice (1813) - Jane Austen |
-| Aug 12 | Painter of American Gothic (1930) | Grant Wood |
-| Aug 12 | Composer of Bolero (1928) | Maurice Ravel |
-| Aug 12 | Author of Catch-22 (1961) | Joseph Heller |
-| Aug 12 | Poet of "Ozymandias" (1818) | Percy Bysshe Shelley |
-| Aug 12 | One Hundred Years of Solitude (1967); Nobel 1982 | Gabriel Garcia Marquez |
 
 ### Founded & Invented
 | Week | Question | Answer |
 |------|----------|--------|
-| Aug 12 | Velcro inventor / inspiration | George de Mestral, 1941 (patented 1955) - burdock burrs on his dog; velours + crochet |
-| Aug 12 | Riveted blue jeans patent 1873 | Jacob Davis (Reno tailor) & Levi Strauss |
-| Aug 12 | Microsoft founded where/when | Albuquerque NM, 1975 (Gates & Allen, near Altair maker MITS) |
-| Aug 12 | Super Glue accidental discovery | Harry Coover, 1942 - trying to make clear plastic gun sights; sold 1958 |
-| Aug 12 | Slinky inventor | Richard James, 1943, naval engineer; wife Betty named it |
-| Aug 12 | What IKEA stands for | Ingvar Kamprad, Elmtaryd (farm), Agunnaryd (village); founded 1943 at age 17 |
 
 ### General Trivia
 | Week | Topic | Fact |
 |------|-------|------|
-| Aug 12 | Astronomy | Neptune (discovered 1846) completed its first full orbit only in 2011 - 165-yr year |
-| Aug 12 | Animals | A sloth can take up to a month to digest a single leaf |
-| Aug 12 | Geography | Mauna Kea measured from the seafloor (~33,500 ft) is taller than Everest (29,032 above sea level) |
-| Aug 12 | Food | Vanilla = 2nd-most-expensive spice after saffron; hand-pollinated outside Mexico |
-| Aug 12 | History | Roman laundries used stale urine (ammonia); Vespasian taxed it - "pecunia non olet" |
-| Aug 12 | Language | Longest dictionary word: pneumonoultramicroscopicsilicovolcanoconiosis (45 letters), coined 1935 |
-| Aug 12 | Biology | Slightly more bacterial cells than human cells in the body (~1.3:1) |
-| Aug 12 | Sports | First basketball hoops were actual peach baskets; bottoms not cut out until ~1900 |
-| Aug 12 | Space | Apollo footprints on the Moon could last millions of years - no wind or water |
-| Aug 12 | Business | Michelin Guide created by a tire company (1900) to encourage more driving |
-| Aug 12 | Pop Culture | Star Trek's transporter exists because landing the Enterprise every episode was too expensive to film |
-| Aug 12 | Science | Bananas are slightly radioactive (potassium-40) - the "banana equivalent dose" |
 
 ### Songs
 | Week | Song | Artist | Year |
 |------|------|--------|------|
-| Aug 12 | Enter Sandman | Metallica | 1991 |
-| Aug 12 | Loser | Beck | 1994 |
-| Aug 12 | Wonderwall | Oasis | 1995 |
-| Aug 12 | Torn | Natalie Imbruglia | 1997 |
-| Aug 12 | Yeah! | Usher feat. Lil Jon & Ludacris | 2004 |
-| Aug 12 | Chasing Cars | Snow Patrol | 2006 |
 
 ### This Day in History
 | Week | Date Used | Events |
 |------|-----------|--------|
-| Aug 12 | August 12 (IBM PC model 5150 goes on sale 1981 - 45th anniversary; Susan Hendrickson discovers "Sue" the T. rex in South Dakota 1990; Hawaii formally annexed by the US at Iolani Palace 1898 + Spanish-American War armistice protocol same day) | - |
-| Aug 12 | National Days: National Vinyl Record Day; World Elephant Day; International Youth Day (UN); National Middle Child Day; National Sewing Machine Day; IBM PC Day; Baseball Fans Day; National Julienne Fries Day; National Gooey Butter Cake Day | - |
 
 ### Sports / Current Events
 | Week | Topic | Detail |
 |------|-------|--------|
-| Aug 12 | Reds | 57-61 (.483), 4th NL Central, 16.0 GB (Brewers 74-46); last 5 W-L-L-L-W (streak W1, 6-4 L10); beat White Sox 5-4 in 10 Aug 11 (De La Cruz sac fly scored McLain; Stephenson tying bases-loaded single in 8th; Pagan 14th save); TODAY @ Chicago White Sox 7:40 PM ET. Source: MLB Stats API |
-| Aug 12 | Box Office | Spider-Man: Brand New Day #1. NEW ANGLE USED: final 2nd-weekend actuals $144.2M (-60%), 3rd-biggest 2nd weekend ever; $654.3M domestic; ~$1.67B WW; $225M production budget recouped in ~2 days ($72M previews + $168M Friday). Odyssey $31.7M ($460M+ dom, Nolan's biggest); One Night Only $5.5M. Opening Aug 14-16: The End of Oak Street (David Robert Mitchell, WB, $30-45M tracking), PAW Patrol: The Dino Movie (Cal Brunker, $14-19M), The Brink of War (Angel, Jeff Daniels as Reagan / J.K. Simmons as Gorbachev, ~$4.5M), The Wrong Girls |
-| Aug 12 | Sports | Tennis: Cincinnati Open main draw starts Aug 13 (Mason OH), runs to Aug 23; draw ceremony Aug 11; 9 top-10 players, 10 Grand Slam champs; Serena & Venus Williams reunite in doubles on a wild card. MLB: Rays won 8th straight 12-4 over Athletics Aug 11, Taylor Walls homered from both sides, Nick Martinez complete game; Rays 73-46 lead AL East. WNBA: Fever 106-92 over Liberty Aug 11 (Kelsey Mitchell 28, Caitlin Clark double-double); Rivals Week Aug 8-14. NFL: preseason Wk1 Aug 13-15 all 32 teams; No.1 pick Fernando Mendoza debuts for Raiders vs ARI; Cowboys at SEA; Rams-Chiefs; Harbaugh's Giants host Vikings; Rodgers says no advantage to preseason snaps while McCarthy wants him to play. Golf: FedEx St. Jude Championship Aug 13-16 TPC Southwind, $20M purse, 750 pts, top 70 no cut, top 50 advance; Scheffler #1, Rose defending champ, Fleetwood defending FedExCup, McIlroy returns. Soccer: FC Cincinnati lost 2-1 to Atlas Aug 11 (Evander 44'), finish league phase 2-1, 6 pts; QFs Aug 25-27. NBA: Dillon Brooks 3yr/$73M ext with PHX Aug 8; Lonnie Walker IV to DEN, KCP to PHI. NHL: Calvin Pickard 1yr/$1M MIN; Hendrix Lapierre 2yr/$1.3M AAV PIT |
-| Aug 12 | Deaths | Fiorenza Marchegiani (73, Italian actress, Aug 11); Andrzej Zaborski (75, Polish actor/theatre director, Aug 11); Vyacheslav Vorobyov (63, Russian footballer Kuban/KAMAZ, Aug 11); Alejandro Castellanos (46, Honduran swimmer, heart attack, Aug 10); Tommy Detamore (70, Texas steel guitarist/producer, Aug 5). Carried over as "still in the news": Don Nelson (86), Ben Jones (84), Jorge Messi (68) |
-| Aug 12 | Current Events | Colombia M7.4 quake death toll passes 200 (forensic institute received 202 bodies); strongest in 47 years; foreign aid arriving; first crisis for new president Abelardo de la Espriella. Minnesota primaries Aug 11: Amy Klobuchar wins DFL gubernatorial nod (first woman to lead a major MN gov ticket), faces GOP House Speaker Lisa Demuth, who beat Trump-endorsed Mike Lindell (Demuth also first woman for her party); open Senate seat = Peggy Flanagan (D) vs Michele Tafoya (R), the former Sunday Night Football sideline reporter. Connecticut: Luke Bronin unseats 14-term Rep. John Larson in CT-01 Dem primary. Wisconsin: David Crowley wins Dem gubernatorial primary over Francesca Hong. Iran-Oman reported near a deal to reopen the Strait of Hormuz |
 
 
 ## August 13, 2026 (v46)
@@ -3680,4 +3673,19 @@ CFP first rankings Nov 3: Miami, Georgia, Utah, Indiana top 4; Ohio State 12th, 
 ### Notes
 Run fired Wednesday Nov 4, 2026 (~12:02 UTC); header dated Wednesday, November 4, 2026. Nov 4 not previously used for This Day in History. Never-used capitals remaining: France, China, United Kingdom (as a whole). 6 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API via device shell (cloud 403). Leonard Cohen "Democracy" dropped (no verifiable Spotify ID). Cloud git push refused by the proxy (403). Pruned 47 table rows dated before Aug 12.
 
-_Last updated: November 4, 2026_
+
+## November 5, 2026 (v101)
+
+### NFL
+ESPN byteam 2026, splitId 0, through Week 8 (unchanged since MNF Nov 2; Week 9 opens TNF Nov 5 JAX at BAL): Detroit Lions 412.0 yds/g (2,884 total, 7 GP, 4th in total); top 5 Lions / Bears 404.6 (3,237, 8 GP, No. 1 total) / Bills 404.6 (2,832, 7) / Rams 395.4 (3,163, 8) / Chiefs 390.6 (2,734, 7); 6th Panthers 383.1. Bengals 382.4 yds/g 7th, 2,677 total 17th; 5-2. Next: Sun Nov 8 vs ATL (Falcons home) at Santiago Bernabéu, Madrid, 9:30 a.m. EST, NFL Network (ESPN schedule 14:30Z). ESPN rank arrays matched.
+
+### Box Office
+Weekend Oct 30-Nov 1 (same frame): #1 You Can See Everything $11.4M ($64.7M, wk 3). Fun fact used: first time at No. 1 came in 3rd weekend; Halloween weekend ~$63M total was 3rd-lowest of 2026; studio estimates had it ~$200K ahead of Clayface; Wicker premise (Colman commissions wicker husband from Skarsgård). Coming Nov 6-8: The Cat in the Hat, Godzilla Minus Zero, Wild Horse Nine (limited).
+
+### Sports / Deaths / Current Events
+NFL: Ravens acquire QB Jacoby Brissett from ARI Nov 4; trade deadline Nov 10 4 p.m. ET; no Bengals deals. NBA Nov 4: PHI 112-106 at DET (Jaylen Brown season-high 30 + key block; PHI 8-1); Doncic 40 in LAL 116-103 at SAC; POR 132-119 at PHX, 5th straight road win. NCAA hoops openers: Xavier 97-52 Mount St. Mary's; Cincinnati 79-53 American; Dayton 89-58 NJIT; Miami (OH) 86-77 James Madison; BYU 94-83 Ohio State; Kentucky 85-57 Manhattan. Tennis: Paris Masters — Hijikata upset Djokovic; Zverev, Medvedev, De Minaur out; Sinner withdrew; Alcaraz to QF via Berrettini arm-pain walkover Nov 5; Fils qualified for first ATP Finals. WTA Finals Nov 8-15 at Indian Wells (moved from Riyadh, Iran war). MLS Decision Day Sat: FCC at Nashville. NASCAR finale Homestead Sun. Deaths: Alan Jones 80 (Nov 5), Lloyd Geering 108 (Nov 5), Herbert Blomstedt 99 (Nov 4), Tinto Brass 93 (Nov 4), Jack Mapanje 82 (Nov 4), Harold Greene 82 (Nov 3), John Nicks 97 (Nov 3), June Carpenter 88 (Nov 3); carried Janosch, John Frieda, Clem Cattini, Patrick Stewart. News: Dems at least 54 Senate, CBS est. 251-268 House; MS Senate Colom +43 over Hyde-Smith, ~15,000 affidavit ballots; AK uncalled; Mike Johnson won't seek GOP leader post, Scalise for minority leader; Vance "The reason we lost is the war"; Trump accepts results, "If I was on the ballot, we would have won"; Melat Kiros, 29, first Gen Z woman in Congress; Valadao and Max Miller lost. NASA Swift Observatory re-entered over Sumatra (~22-yr mission); Hungary opened Communist-era secret police files (~60,000 names); Cervantes Prize to Cristina Fernández Cubas.
+
+### Notes
+Run fired Thursday Nov 5, 2026 (~12:02 UTC); header dated Thursday, November 5, 2026. Nov 5 not previously used for This Day in History. Capitals used France, China, United Kingdom (the last never-used countries) plus New York (state). 6 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API via device shell (cloud 403). Cloud git push refused by the proxy (403); pushed from the connected device shell. Repo now has CNAME trivia.waynesville.news (added Nov 4). Pruned 47 table rows dated before Aug 13.
+
+_Last updated: November 5, 2026_
