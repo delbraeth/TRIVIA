@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 6 | Illinois | Springfield (Lincoln elected Nov 6, 1860; not Chicago) |
+| Nov 6 | Massachusetts | Boston (Naismith invented basketball in Springfield, Mass. — not the capital) |
+| Nov 6 | New Jersey | Trenton (Rutgers 6, Princeton 4 — first college football game, Nov 6, 1869) |
+| Nov 6 | Alaska | Juneau (Cannikin test on Amchitka Nov 6, 1971; no road access) |
 | Nov 5 | United Kingdom | London (Gunpowder Plot Nov 5, 1605; Palace of Westminster) |
 | Nov 5 | New York | Albany (Susan B. Anthony voted in Rochester Nov 5, 1872) |
 | Nov 5 | France | Paris (Alcaraz in Paris Masters QF) |
@@ -240,10 +244,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 19 | Kazakhstan | Astana (Nur-Sultan 2019-2022) |
 
 
-| Aug 13 | Bhutan | Thimphu |
-| Aug 13 | Namibia | Windhoek |
-| Aug 13 | Latvia | Riga |
-| Aug 13 | Suriname | Paramaribo |
 | Aug 17 | Ethiopia | Addis Ababa (HQ of the African Union) |
 | Aug 17 | Vietnam | Hanoi |
 | Aug 17 | Iceland | Reykjavík (northernmost capital of a sovereign state) |
@@ -257,6 +257,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 6 | Fame (1982–87) | Julie Miller (cellist) | Lori Singer (born Nov 6, 1957) |
+| Nov 6 | South of Sunset (1993, CBS, 1 episode) | Cody McMahon | Glenn Frey (born Nov 6, 1948) |
+| Nov 6 | The White Shadow (1978–81) | Coach Ken Reeves | Ken Howard |
+| Nov 6 | Hangin' with Mr. Cooper (1992–97) | Mark Cooper | Mark Curry |
+| Nov 6 | Sandburg's Lincoln (1974–76, NBC) | Abraham Lincoln | Hal Holbrook (Emmy) |
+| Nov 6 | 1st & Ten (1984–91, HBO) | Diane Barrow, California Bulls owner | Delta Burke |
 | Nov 5 | Parker Lewis Can't Lose (1990–93) | Parker Lewis | Corin Nemec (born Nov 5, 1971) |
 | Nov 5 | Spin City (1996–2002) | Mayor Randall Winston | Barry Bostwick |
 | Nov 5 | The Lucy Show (1962–68) | Lucy Carmichael | Lucille Ball (Love Your Red Hair Day) |
@@ -585,12 +591,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 13 | The Andy Griffith Show (1960-68) | Deputy Barney Fife | Don Knotts |
-| Aug 13 | The Wild Wild West (1965-69) | James West | Robert Conrad |
-| Aug 13 | All in the Family (1971-79) | Archie Bunker | Carroll O'Connor |
-| Aug 13 | Banacek (1972-74) | Thomas Banacek | George Peppard |
-| Aug 13 | Cheers (1982-93) | Sam Malone | Ted Danson |
-| Aug 13 | Moonlighting (1985-89) | Maddie Hayes | Cybill Shepherd |
 | Aug 17 | Columbo (1971–2003) | Lt. Columbo | Peter Falk |
 | Aug 17 | The Mary Tyler Moore Show (1970–77) | Lou Grant | Ed Asner |
 | Aug 17 | The Untouchables (1959–63) | Eliot Ness | Robert Stack |
@@ -605,6 +605,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 6 | The Professor and the Madman — reference work (Simon Winchester died) | Oxford English Dictionary (Dr. W.C. Minor, Broadmoor) |
+| Nov 6 | From Here to Eternity, 1952 National Book Award (born Nov 6, 1921) | James Jones |
+| Nov 6 | 1990 book on Odessa TX Permian Panthers (H.G. Bissinger) | Friday Night Lights |
+| Nov 6 | 2017 Booker winner by George Saunders set in Willie Lincoln’s cemetery | Lincoln in the Bardo |
+| Nov 6 | The Sugar Shack painter, ex-NFL lineman | Ernie Barnes |
+| Nov 6 | Bebop alto saxophonist "Bird" | Charlie Parker |
 | Nov 5 | "Remember, remember the fifth of November" graphic novel (Alan Moore & David Lloyd) | V for Vendetta |
 | Nov 5 | 1979 Pulitzer for Drama, Buried Child (born Nov 5, 1943) | Sam Shepard |
 | Nov 5 | The Story of Civilization with wife Ariel; 1968 Pulitzer (born Nov 5, 1885) | Will Durant |
@@ -932,12 +938,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 13 | Crime and Punishment (1866) author | Fyodor Dostoevsky |
-| Aug 13 | Girl with a Pearl Earring (c.1665) painter | Johannes Vermeer |
-| Aug 13 | The Four Seasons (c.1725) composer | Antonio Vivaldi |
-| Aug 13 | "Do I dare to eat a peach?" / Prufrock poet | T.S. Eliot |
-| Aug 13 | Slaughterhouse-Five (1969) author | Kurt Vonnegut |
-| Aug 13 | Sculptor of David (1504) / Sistine ceiling | Michelangelo |
 | Aug 17 | The Old Man and the Sea (1952) author | Ernest Hemingway |
 | Aug 17 | "It was the best of times…" opener | A Tale of Two Cities — Charles Dickens |
 | Aug 17 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai |
@@ -952,6 +952,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 6 | Football | Rutgers "Birthplace of College Football"; Princeton won rematch 8–0 |
+| Nov 6 | Music | Saxophone is brass-bodied but a woodwind (reed) |
+| Nov 6 | TV | Meet the Press began on radio 1945; Tim Russert hosted 1991–2008 |
+| Nov 6 | Hollywood | Emma Stone real first name Emily (SAG name taken) |
+| Nov 6 | Oscars | Sally Field 1985: "You like me, right now, you like me!" (misquoted) |
+| Nov 6 | Music | Eagles Their Greatest Hits 1971–75 best-selling US album, 38× Platinum |
+| Nov 6 | Music | Tchaikovsky conducted on Carnegie Hall opening night 1891 |
+| Nov 6 | Politics | Lincoln first Republican president, <40% of popular vote in four-way race |
+| Nov 6 | NFL | Santiago Bernabéu ~80,000 seats, retractable roof |
+| Nov 6 | Words | OED contributor W.C. Minor, Civil War surgeon, killed a man in London 1872 |
 | Nov 5 | Words | "guy" comes from Guy Fawkes effigies |
 | Nov 5 | UK | Yeomen of the Guard search Westminster cellars before State Opening |
 | Nov 5 | Movies | Back to the Future: Nov 5, 1955 is Doc Brown flux capacitor day |
@@ -1593,18 +1603,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 13 | Trivia | Guinness Book of Records invented 1954 to settle pub arguments |
-| Aug 13 | Geography | Alaska is both westernmost AND easternmost US state (Aleutians cross 180th meridian) |
-| Aug 13 | Language | "Avocado" from Nahuatl ahuacatl, which also meant "testicle" |
-| Aug 13 | Sports | Stanley Cup misspellings never corrected - 1972 "BQSTQN BRUINS" |
-| Aug 13 | Food | Ketchup sold as medicine in the 1830s - "tomato pills" |
-| Aug 13 | Body | You're ~1 cm taller in the morning - spinal discs compress |
-| Aug 13 | Space | Astronauts say space smells like seared steak / spent gunpowder |
-| Aug 13 | History | Wyoming gave women the vote in 1869, 51 yrs before the 19th Amendment |
-| Aug 13 | Animals | A group of flamingos is a "flamboyance" |
-| Aug 13 | Science | A teaspoon of healthy soil holds more microorganisms than people on Earth |
-| Aug 13 | Pop Culture | "Happy Birthday to You" under copyright until a 2016 court settlement |
-| Aug 13 | Local (Cincinnati) | Cincinnati chili "ways" from Macedonian brothers Tom & John Kiradjieff, Empress Chili 1922 |
 | Aug 17 | History | Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid |
 | Aug 17 | Geography | Africa is the only continent in all four hemispheres |
 | Aug 17 | Science | Mpemba effect — hot water can freeze faster than cold under some conditions |
@@ -1626,6 +1624,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 6 | November 6 (Lincoln elected 1860, ~40%, not on ballot in 10 Southern states; Rutgers 6–Princeton 4, first college football game 1869, 25 per side; Meet the Press debuts on NBC 1947; Cannikin ~5 Mt test on Amchitka 1971. Also Tchaikovsky dies 1893; Tammy Baldwin elected 2012; born today Sax, Sousa, Naismith, James Jones, Sally Field, Glenn Frey, Lori Singer, Jerry Yang, Ethan Hawke, Emma Stone) |
 | Nov 5 | November 5 (Gunpowder Plot foiled 1605; Susan B. Anthony votes in Rochester 1872, fined $100 never paid; FDR third term 1940 over Willkie; Foreman KOs Moorer at 45, 1994. Also noted: Selden auto patent 1895, Monopoly released 1935, Nixon elected 1968, Back to the Future Nov 5 1955; births Tarbell, Durant, Roy Rogers, Vivien Leigh, Ike Turner, Elke Sommer, Garfunkel, Sam Shepard, Peter Noone, Bryan Adams, Tilda Swinton, Tatum O'Neal, Famke Janssen, Sam Rockwell, Corin Nemec, Kevin Jonas) |
 | Nov 4 | November 4 (Carter finds first step of Tutankhamun's tomb 1922; Nellie Tayloe Ross elected first woman governor 1924; Iran hostage crisis begins 1979, 52 held 444 days, Reagan elected exactly a year later. Also noted: Eisenhower 1952, NSA 1952, Hungary 1956, Rabin 1995, Obama 2008; births Will Rogers, Cronkite, Art Carney, Doris Roberts, Loretta Swit, Laura Bush, Mapplethorpe, Markie Post, Kathy Griffin, Ralph Macchio, McConaughey) |
 | Nov 3 | November 3 ("Dewey Defeats Truman" Chicago Daily Tribune dated Nov 3, 1948; Sputnik 2 with Laika 1957; Cubs win 2016 World Series Game 7 8–7 in 10 at Cleveland after midnight, 108-year drought. Also noted: Panama separates 1903, Chevrolet 1911, FDR 46-state landslide 1936, LBJ + first DC presidential vote 1964, Nixon "silent majority" 1969, Clinton elected 1992, One WTC opens 2014) |
@@ -1682,7 +1681,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 19 | August 19 (USS Constitution beats HMS Guerrière 1812 → "Old Ironsides"; Gorbachev put under house arrest in Soviet coup 1991 — 35th anniv; Google IPO on Nasdaq at $85 in 2004; Syncom 3 first geostationary satellite 1964) |
 
 
-| Aug 13 | August 13 (Berlin Wall goes up 1961 - 65th anniv; Tenochtitlan falls to Cortes 1521 - 505 yrs; pay phone patented by William Gray of Hartford CT 1889; also Florence Nightingale dies 1910, Opha May Johnson first woman US Marine 1918) |
 
 
 ---
@@ -1691,6 +1689,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 6 | National Nachos Day; National Saxophone Day; National Basketball Day; National Fountain Pen Day (first Friday in November); Marooned Without a Compass Day; National Bittersweet Chocolate with Almonds Day; Flag Day Sweden/Finland (Gustavus Adolphus Day / Swedish Heritage Day); Constitution Day (Dominican Republic, Tajikistan); Green March Day (Morocco); UN Day for Preventing the Exploitation of the Environment in War |
 | Nov 5 | International Stout Day; National Doughnut Appreciation Day; National Chinese Take-Out Day; American Football Day; National Love Your Red Hair Day; National Men Make Dinner Day; Bank Transfer Day; Guy Fawkes Night (UK); World Tsunami Awareness Day |
 | Nov 4 | National Candy Day; King Tut Day; Use Your Common Sense Day; Check Your Blood Pressure Day; Flag Day (Panama); National Unity and Armed Forces Day (Italy); Unity Day (Russia) |
 | Nov 3 | Election Day; National Sandwich Day; National Housewife Day; World Jellyfish Day; Culture Day (Japan); Students' Day (South Korea); Independence Days of Panama, Dominica, Micronesia |
@@ -1750,7 +1749,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ---
 
 ---
-| Aug 13 | International Lefthanders Day; National Prosecco Day; National Filet Mignon Day; National Blame Someone Else Day; Central African Republic Independence Day (1960) |
 | Aug 17 | National Thrift Shop Day; Black Cat Appreciation Day; National Nonprofit Day; National Massachusetts Day; Balloon Airmail Day; National I Love My Feet Day; Indonesia Independence Day (1945); Gabon Independence Day (1960); Discovery Day (Yukon) |
 
 ---
@@ -1764,6 +1762,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 6 | Belgian born Nov 6, 1814; patented 1846 in Paris | Adolphe Sax — saxophone |
+| Nov 6 | Founded 1994 at Stanford as "Jerry and David's Guide to the World Wide Web" (Jerry Yang born Nov 6, 1968) | Yahoo! |
+| Nov 6 | Bass horn built 1893 by J.W. Pepper at Sousa's request | Sousaphone |
+| Nov 6 | FM radio paper to IRE, Nov 6, 1935 | Edwin Howard Armstrong |
+| Nov 6 | Improved fountain pen patent 1884 (leaky-pen legend) | Lewis Waterman |
+| Nov 6 | Don't Make a Wave Committee (Cannikin protest, 1971) | Greenpeace |
 | Nov 5 | Patent granted to George Selden Nov 5, 1895 (Ford fought it, won 1911) | Automobile |
 | Nov 5 | Wire-handled "oyster pail" takeout box patented Chicago 1894 | Frederick Weeks Wilcox |
 | Nov 5 | Quincy, Mass. "Open Kettle" renamed 1950 | Dunkin' Donuts (William Rosenberg) |
@@ -2089,12 +2093,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 19 | Kroger founded (Local) | Barney Kroger, Cincinnati, 1883, with $372 of savings |
 
 
-| Aug 13 | Barbie creator/year | Ruth Handler, Mattel, 1959 (named for daughter Barbara) |
-| Aug 13 | Monopoly - patent vs true origin | Charles Darrow patented 1935; from Lizzie Magie's 1904 "The Landlord's Game" |
-| Aug 13 | Corn flakes inventors | Kellogg brothers, Battle Creek MI, 1894 accident; company 1906 |
-| Aug 13 | Dishwasher inventor | Josephine Cochrane, 1886 |
-| Aug 13 | Duct tape origin | 1943, Vesta Stoudt's idea, made by Johnson & Johnson; called "duck tape" |
-| Aug 13 | Procter & Gamble founded | 1837 Cincinnati; William Procter (candles) & James Gamble (soap), brothers-in-law |
 
 
 ---
@@ -2103,6 +2101,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 6 | Forever in Love | Kenny G | 1992 |
+| Nov 6 | Part of Me, Part of You | Glenn Frey | 1991 |
+| Nov 6 | Basketball | Lil Bow Wow feat. Jermaine Dupri, Fabolous & Fundisha | 2002 |
+| Nov 6 | Pocketful of Sunshine | Natasha Bedingfield | 2008 |
+| Nov 6 | Bailamos | Enrique Iglesias | 1999 |
+| Nov 6 | Hard Rock Hallelujah | Lordi | 2006 |
 | Nov 5 | (Everything I Do) I Do It for You | Bryan Adams | 1991 |
 | Nov 5 | Firework | Katy Perry | 2010 |
 | Nov 5 | Gunpowder & Lead | Miranda Lambert | 2008 |
@@ -2593,12 +2597,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 13 | Jeremy | Pearl Jam | 1991 |
-| Aug 13 | Self Esteem | The Offspring | 1994 |
-| Aug 13 | Ironic | Alanis Morissette | 1996 |
-| Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
-| Aug 13 | In da Club | 50 Cent | 2003 |
-| Aug 13 | Kids | MGMT | 2008 |
 
 
 ## August 19, 2026 (v48)
@@ -2633,262 +2631,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
 
 
-
-## August 5, 2026 (v40)
-
-### Capitals
-
-### Classic TV
-
-### Arts & Literature
-
-### Founded & Invented
-
-### General Trivia
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
----
-
-## August 6, 2026 (v41)
-
-### Capitals
-
-### Classic TV
-
-### Arts & Literature
-
-### Founded & Invented
-
-### General Trivia
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
----
-
-## August 7, 2026 (v42)
-
-### Capitals
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Classic TV
-| Week | Show | Character | Actor |
-|------|------|-----------|-------|
-
-### Arts & Literature
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Founded & Invented
-| Week | Question | Answer |
-|------|----------|--------|
-
-### General Trivia
-| Week | Topic | Fact |
-|------|-------|------|
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
----
-
-## August 10, 2026 (v43)
-
-### Capitals
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Classic TV
-| Week | Show | Character | Actor |
-|------|------|-----------|-------|
-
-### Arts & Literature
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Founded & Invented
-| Week | Question | Answer |
-|------|----------|--------|
-
-### General Trivia
-| Week | Topic | Fact |
-|------|-------|------|
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
----
-
-## August 11, 2026 (v44)
-
-### Capitals
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Classic TV
-| Week | Show | Character | Actor |
-|------|------|-----------|-------|
-
-### Arts & Literature
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Founded & Invented
-| Week | Question | Answer |
-|------|----------|--------|
-
-### General Trivia
-| Week | Topic | Fact |
-|------|-------|------|
-
-### Songs
-
-### This Day in History
-
-### Sports / Current Events
-
----
-
-## August 12, 2026 (v45)
-
-### Capitals
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Classic TV
-| Week | Show | Character | Actor |
-|------|------|-----------|-------|
-
-### Arts & Literature
-| Week | Question | Answer |
-|------|----------|--------|
-
-### Founded & Invented
-| Week | Question | Answer |
-|------|----------|--------|
-
-### General Trivia
-| Week | Topic | Fact |
-|------|-------|------|
-
-### Songs
-| Week | Song | Artist | Year |
-|------|------|--------|------|
-
-### This Day in History
-| Week | Date Used | Events |
-|------|-----------|--------|
-
-### Sports / Current Events
-| Week | Topic | Detail |
-|------|-------|--------|
-
-
-## August 13, 2026 (v46)
-
-### Capitals
-| Week | Question | Answer |
-|------|----------|--------|
-| Aug 13 | Bhutan | Thimphu (few/no traffic lights) |
-| Aug 13 | Namibia | Windhoek |
-| Aug 13 | Latvia | Riga |
-| Aug 13 | Suriname | Paramaribo (only Dutch-speaking country in South America) |
-
-### Classic TV
-| Week | Show | Character | Actor |
-|------|------|-----------|-------|
-| Aug 13 | The Andy Griffith Show (1960-68) | Deputy Barney Fife | Don Knotts |
-| Aug 13 | The Wild Wild West (1965-69) | James West | Robert Conrad |
-| Aug 13 | All in the Family (1971-79) | Archie Bunker | Carroll O'Connor |
-| Aug 13 | Banacek (1972-74) | Thomas Banacek | George Peppard |
-| Aug 13 | Cheers (1982-93) | Sam Malone | Ted Danson |
-| Aug 13 | Moonlighting (1985-89) | Maddie Hayes | Cybill Shepherd |
-
-### Arts & Literature
-| Week | Topic / Question | Answer |
-|------|-----------------|--------|
-| Aug 13 | Crime and Punishment (1866) author | Fyodor Dostoevsky |
-| Aug 13 | Girl with a Pearl Earring (c.1665) painter | Johannes Vermeer |
-| Aug 13 | The Four Seasons (c.1725) composer | Antonio Vivaldi |
-| Aug 13 | "Do I dare to eat a peach?" / The Love Song of J. Alfred Prufrock poet | T.S. Eliot |
-| Aug 13 | Slaughterhouse-Five (1969), "So it goes" author | Kurt Vonnegut |
-| Aug 13 | Sculptor of David (1504) / Sistine Chapel ceiling | Michelangelo |
-
-### Founded & Invented
-| Week | Question | Answer |
-|------|----------|--------|
-| Aug 13 | Barbie creator / year | Ruth Handler, Mattel, 1959 - named for daughter Barbara (Ken = son) |
-| Aug 13 | Monopoly - patent vs true origin | Charles Darrow patented 1935; descends from Lizzie Magie's 1904 "The Landlord's Game," designed to criticize land monopolies |
-| Aug 13 | Corn flakes inventors | Kellogg brothers, Battle Creek MI - 1894 accident with left-out boiled wheat; company founded 1906 |
-| Aug 13 | Dishwasher inventor | Josephine Cochrane, 1886 - wealthy hostess tired of servants chipping her china |
-| Aug 13 | Duct tape origin | 1943 - Vesta Stoudt's idea, manufactured by Johnson & Johnson to waterproof WWII ammo boxes; originally "duck tape" |
-| Aug 13 | Procter & Gamble founded | 1837, Cincinnati - William Procter (candlemaker) & James Gamble (soapmaker), brothers-in-law pushed together by their father-in-law |
-| Aug 17 | Coca-Cola invented | John Pemberton, Atlanta pharmacist, 1886; bookkeeper Frank Robinson named it and wrote the script logo |
-| Aug 17 | Post-it Notes origin | Spencer Silver's failed weak adhesive at 3M 1968; Art Fry used it for hymnal bookmarks; national launch 1980 |
-| Aug 17 | Ford Motor Company founded | 1903, Detroit — Henry Ford's third car company; Model T 1908 |
-| Aug 17 | Teflon inventor | Roy Plunkett, DuPont, 1938 — accident, gas cylinder polymerized to white powder |
-| Aug 17 | Amazon's original name | "Cadabra" — 1994, Bezos, Bellevue WA garage; changed after a lawyer misheard it as "cadaver" |
-| Aug 17 | Graeter's founded (Local) | 1870, Cincinnati — Louis Charles Greater, street cart; French pot process, 2 gallons at a time |
-
-### General Trivia
-| Week | Category | Topic/Fact |
-|------|----------|-----------|
-| Aug 13 | Trivia | Guinness Book of Records invented 1954 to settle pub arguments - Guinness MD lost a bet about Europe's fastest game bird |
-| Aug 13 | Geography | Alaska is both westernmost AND easternmost US state - Aleutians cross the 180th meridian |
-| Aug 13 | Language | "Avocado" from Nahuatl ahuacatl, which also meant "testicle" |
-| Aug 13 | Sports | Stanley Cup misspellings are never corrected - 1972 Bruins engraved "BQSTQN BRUINS" |
-| Aug 13 | Food | Ketchup sold as medicine in the 1830s - "tomato pills" for indigestion/diarrhea/jaundice |
-| Aug 13 | Body | You're ~1 cm taller in the morning - spinal discs compress over the day |
-| Aug 13 | Space | Astronauts say space smells like seared steak or spent gunpowder |
-| Aug 13 | History | Wyoming gave women the vote in 1869 - 51 yrs before the 19th Amendment; refused statehood in 1890 without it |
-| Aug 13 | Animals | A group of flamingos is a "flamboyance" |
-| Aug 13 | Science | A teaspoon of healthy soil holds more microorganisms than there are people on Earth |
-| Aug 13 | Pop Culture | "Happy Birthday to You" under copyright until a 2016 court settlement put it in public domain |
-| Aug 13 | Local (Cincinnati) | Cincinnati chili "ways" (3/4/5-way) from Macedonian brothers Tom & John Kiradjieff, Empress Chili 1922, next to a burlesque house |
-
-### Songs
-| Week | Song | Artist | Year |
-|------|------|--------|------|
-| Aug 13 | Jeremy | Pearl Jam | 1991 |
-| Aug 13 | Self Esteem | The Offspring | 1994 |
-| Aug 13 | Ironic | Alanis Morissette | 1996 |
-| Aug 13 | Hanging by a Moment | Lifehouse | 2001 |
-| Aug 13 | In da Club | 50 Cent | 2003 |
-| Aug 13 | Kids | MGMT | 2008 |
-
-### This Day in History
-| Week | Date Used | Events |
-|------|-----------|--------|
-| Aug 13 | August 13 (Berlin Wall - East Germany seals the border overnight across 27 miles 1961, 65th anniversary; Tenochtitlan falls to Cortes after 93-day siege 1521, 505 yrs, last emperor Cuauhtemoc; coin-operated pay telephone patented by William Gray of Hartford CT 1889; also Florence Nightingale dies 1910 and Opha May Johnson becomes first woman to enlist in US Marine Corps 1918) | - |
-| Aug 17 | August 17 (Robert Fulton's North River Steam Boat leaves NYC for Albany 1807; Woodstock's scheduled final day 1969 — Hendrix closed Monday morning Aug 18; Double Eagle II first transatlantic balloon flight lands near Paris 1978; first commercial compact disc pressed 1982 — ABBA's The Visitors)  |
-| Aug 13 | National Days: International Lefthanders Day; National Prosecco Day; National Filet Mignon Day; National Blame Someone Else Day; Central African Republic Independence Day (1960) | - |
-
-### Sports / Current Events
-| Week | Topic | Detail |
-|------|-------|--------|
-| Aug 13 | Reds | 57-62 (.479), 4th NL Central, 16.0 GB (Brewers 74-47); last 5 L-L-L-W-L (streak L1, 5-5 L10); shut out 5-0 by White Sox Aug 12 after a 5-4 extras win Aug 11; 6 of last 8 lost; Pirates 58-64 a half game back. TODAY @ Chicago White Sox 2:10 PM ET (getaway day, series finale). Source: MLB Stats API |
-| Aug 13 | Box Office | Spider-Man: Brand New Day #1. NEW ANGLE USED: all-time chart position - ~$1.67B WW ($654.3M dom / $1.013B intl), 12th-highest-grossing film ever; $1B in 6 days (2nd fastest ever behind Endgame's 3 days) and 2nd fastest to $1B international; now chasing $2B, which only 7 films have ever reached; became highest-grossing film of 2026 in 7 days. Opening Aug 14-16: The End of Oak Street (David Robert Mitchell, WB, $30-45M), PAW Patrol: The Dino Movie (Cal Brunker, $14-19M), The Brink of War (Jeff Daniels as Reagan / J.K. Simmons as Gorbachev), Six: The Musical Live! |
-| Aug 13 | Sports | NFL: preseason Wk1 opens TONIGHT - Lions at Bengals 7:00 PM ET Paycor Stadium (local angle); 6 Thursday games, all 32 teams Aug 13-15 (Packers-Steelers 7:00 NFL Net, Colts-Patriots 7:30, Cardinals-Raiders 8:00, Chargers-Texans 8:00, Titans-49ers 9:00 NFL Net). Tennis: Cincinnati Open main draw opens TODAY in Mason OH thru Aug 23; Jack Draper & Gael Monfils headline day 1; Wednesday qualifying washed out by rain. Golf: FedExCup Playoffs open - FedEx St. Jude Championship, TPC Southwind Memphis, 69 players no cut, top 50 advance; Scheffler & McIlroy paired 9:30 AM ET. MLB: Rays win 9th straight 8-4 at Athletics, 74-46 best record in baseball; Cubs 12-6 over Nationals to 71-50; Brewers lose 3rd straight 4-3 at San Diego, NL Central lead down to 3. WNBA: Aces 86-76 snapped Mystics' 7-game win streak (A'ja Wilson 26/13/4blk, 17th double-double; Jackie Young 25); Fever 106-94 Mercury; Liberty 92-76 Sparks. Soccer: Inter Miami eliminated from Leagues Cup, lost 3-2 at home to Club Leon Aug 12, Messi off the bench after returning from his father's funeral; PSG beat Aston Villa 2-1 in Salzburg to retain UEFA Super Cup (Kvaratskhelia 20') |
-| Aug 13 | Deaths | Reggie Bannister (80, Reggie in the Phantasm series, Aug 9, Crestline CA, Lewy body dementia/Parkinson's); Robby Albarado (52, jockey, 5,000+ wins, Curlin's regular rider, Saratoga Springs NY after heart surgery); Jon Cypher (94, Chief Fletcher Daniels on Hill Street Blues / Gen. Marcus Craig on Major Dad, Aug 3, Central Point OR); David Z (78, Grammy-winning producer/engineer, Purple Rain, Prince/Fine Young Cannibals/Etta James, Aug 2 Burbank CA). Carried over: Fiorenza Marchegiani (73, Aug 11). NOTE: search engine falsely reported Brenda Fricker as dying Aug 13, 2026 - she actually died in July 2026; do not reuse |
-| Aug 13 | Current Events | Karoline Leavitt stepping down as White House press secretary at end of August (Trump announced Aug 12 on Truth Social); at 28 the youngest ever in the role and first to give birth while serving (2nd child in May); staying on as outside adviser. Iran rejects Trump's claim the Strait of Hormuz is open/under US control - Persian Gulf Strait Authority says it remains blocked. Wisconsin governor's race set: David Crowley narrowly beat Francesca Hong for the Dem nod, faces Rep. Tom Tiffany in November. Putin issued an escalation warning aboard a missile warship during a naval exercise. China calls the India border "generally stable" amid Arunachal Pradesh tension; rejected India's renaming of 27 places |
-
-
----
 
 ## August 17, 2026 (v47)
 
@@ -3688,4 +3430,18 @@ NFL: Ravens acquire QB Jacoby Brissett from ARI Nov 4; trade deadline Nov 10 4 p
 ### Notes
 Run fired Thursday Nov 5, 2026 (~12:02 UTC); header dated Thursday, November 5, 2026. Nov 5 not previously used for This Day in History. Capitals used France, China, United Kingdom (the last never-used countries) plus New York (state). 6 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API via device shell (cloud 403). Cloud git push refused by the proxy (403); pushed from the connected device shell. Repo now has CNAME trivia.waynesville.news (added Nov 4). Pruned 47 table rows dated before Aug 13.
 
-_Last updated: November 5, 2026_
+## November 6, 2026 (v102)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Fri Nov 6 (includes TNF JAX 33–10 at BAL): Detroit Lions 412.0 yds/g (2,884 total, 7 GP, 5th in total); top 5 Lions / Bears 404.6 (3,237, 8 GP, No. 1 total) / Bills 404.6 (2,832) / Rams 395.4 (3,163) / Chiefs 390.6 (2,734). Bengals 382.4/g 7th, 2,677 total 18th, 5–2. Next: Sun Nov 8 vs ATL in Madrid (Bernabéu), 9:30 a.m. EST, NFL Network.
+
+### Box Office
+Weekend Oct 30–Nov 1 (same frame): #1 You Can See Everything (A24) $11.4M ($64.7M). Fun fact used: Nathan Fielder co-directed with Lance Oppenheim; no pre-release interviews; Telluride surprise; $15M opening biggest doc since One Direction (2013), biggest non-music doc since Fahrenheit 9/11. Coming Nov 6–8: Godzilla Minus Zero ($24–33M fcst), The Cat in the Hat ($12–17M), Ramayana ($12–16M 4-day), Wild Horse Nine.
+
+### Sports / Deaths / Current Events
+NFL: JAX 33–10 at BAL TNF; deadline Tue 4 p.m. ET; Bengals–Falcons 2nd NFL game in Spain. NBA: Wembanyama 52/24/8 blk (career highs) SAS 112–111 DAL; Doncic 308 pts thru 8 games most since MJ 1988; LeBron 16,000 FG. NCAA: first CFP rankings Miami, Georgia, Utah, Indiana, Alabama; Ohio State lost 30–18 at USC, No. 12, hosts No. 23 Oregon Sat 3:30; Cincinnati lost 49–25 to Utah (5–3), at No. 17 Houston Sat 3:30; Miami (OH) lost 34–31 to Buffalo. NHL: Gauthier 9 goals in 4 games (Ducks 5–4 at EDM); TB 8–0 home; CAR in Helsinki Nov 12 & 14 vs SEA. Tennis: Paris QFs Fri — Alcaraz–Fritz, Paul–Shelton, Hijikata–Van Assche, Borges–Ruud. Golf: WWT Championship R1 leader Chris Kirk −9. MLB: Skubal top FA; QO deadline Nov 17. MLS Decision Day Sat FCC at Nashville; NASCAR Homestead Sun. Deaths led: Simon Winchester 82, Hubert Aiwanger 55, Lonnie Thompson 78, Kimmarie Johnson 50, Alan Jones 80, Herbert Blomstedt 99. News: MS Senate Colom +1,813 (96% in, ~3,600 mail ballots due); AK Peltola +~600, RCV tabulation from Nov 18, Trump on the "other Dan Sullivan"; AP Dems 54 Senate, 253 House (25 uncalled); Nithya Raman beat Karen Bass (LA mayor); Nasdaq −5.5% Nov 5 (worst post-election day since 1896, ~$2T); Judge Chutkan 14-day pause on Trump's 250-ft arch after NCPC 8–4 approval; UN Western Sahara mission (MINURSO) ended after Russian veto; WHO approved two Ebola vaccine trials (5,300+ dead); South Africa municipal vote count.
+
+### Notes
+Run fired Friday Nov 6, 2026 (~12:02 UTC); header dated Friday, November 6, 2026. Nov 6 not previously used for This Day in History. Capitals: all four were US states not in the 12-week log (Illinois, Massachusetts, New Jersey, Alaska). Music: Enrique Iglesias and Natasha Bedingfield are repeat artists with new songs. 6 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels), all checked with oEmbed; Apple IDs from the iTunes Search API. Pruned 89 table rows and 7 per-run sections dated before Aug 14.
+
+_Last updated: November 6, 2026_
