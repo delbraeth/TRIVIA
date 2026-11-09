@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 9, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Monday, November 9, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 9</a>
+  <a href="./thursday-trivia-2026-11-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 6</a>
+  <a href="./thursday-trivia-2026-11-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 5</a>
+  <a href="./thursday-trivia-2026-11-04.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 4</a>
+  <a href="./thursday-trivia-2026-11-03.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 3</a>
+  <a href="./thursday-trivia-2026-11-02.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 2</a>
+  <a href="./thursday-trivia-2026-10-29.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Oct 29</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">404.6</div>
+      <div class="nfl-team">Buffalo Bills — yards per game</div>
+      <div class="nfl-sub">2,832 total yards (21st in total) · 7 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Buffalo Bills</strong> — 404.6/g &nbsp;<span style="color:#777;">(2,832 yds, 7 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 398.7/g &nbsp;<span style="color:#777;">(3,588 yds, 9 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Detroit Lions</strong> — 395.9/g &nbsp;<span style="color:#777;">(3,167 yds, 8 GP)</span></li>
+        <li><span class="tag">4</span><strong>Kansas City Chiefs</strong> — 392.4/g &nbsp;<span style="color:#777;">(3,139 yds, 8 GP)</span></li>
+        <li><span class="tag">5</span><strong>Los Angeles Rams</strong> — 390.6/g &nbsp;<span style="color:#777;">(3,515 yds, 9 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">Through Sunday night's games. Buffalo has played one fewer game than most teams, and it plays <strong>Minnesota tonight</strong> (8:15 p.m. EST, both teams 6–1), so the top spot could change. Detroit, last week's leader, fell to third after gaining fewer yards in a 19–9 win at Miami.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>383.9 yards per game, 6th</strong> in the NFL. <strong>3,071 total yards, 10th</strong>. Record: <strong>6–2</strong>, after <strong>beating Atlanta 34–17 in Madrid</strong> on Sunday.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 15 vs. Pittsburgh Steelers, 8:20 p.m. EST</strong> <span style="font-weight:400;">(Sunday Night Football, Paycor Stadium)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Monday morning. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 6–8</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Godzilla Minus Zero</strong> (GKIDS) — <strong>$31.6M opening</strong>, $63M worldwide</li>
+        <li>#2 The Cat in the Hat — $20.5M (opening) &nbsp;|&nbsp; #3 Drummer Boy — $9.3M (opening)</li>
+        <li>#4 You Can See Everything — $8.8M ($79.8M) &nbsp;|&nbsp; #5 Ramayana: Rise of a Legend — $8.6M ($12.1M)</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> Takashi Yamazaki's sequel opened to almost <strong>three times</strong> the $11.4M debut of <em>Godzilla Minus One</em>, and it reportedly cost only <strong>$13–15M</strong> to make. That's the <strong>second-biggest opening ever for a live-action film not in English</strong>, and the biggest in GKIDS' history. Audiences gave it an "A" CinemaScore.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 13–15)</h3>
+        <ul>
+          <li><strong>Ebenezer</strong>: Ti West directs Johnny Depp as Scrooge, with Ian McKellen as Jacob Marley and Rupert Grint as Bob Cratchit. A new take on Dickens's <em>A Christmas Carol</em>, forecast at $15–30M.</li>
+          <li><strong>How to Rob a Bank</strong> (R): David Leitch's heist comedy with Nicholas Hoult, Zoë Kravitz, Pete Davidson and John C. Reilly. Bank robbers post their heists on social media and get famous enough to bring in the FBI.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">NFL</span>🐅 The <strong>Bengals beat the Falcons 34–17</strong> at Real Madrid's Santiago Bernabéu, the second NFL regular-season game in Spain, and are <strong>6–2</strong>. The <strong>49ers (7–1)</strong> have the league's best record. The Chargers lost 44–22 at Houston and are <strong>0–8</strong>. The trade deadline is <strong>Tuesday at 4 p.m. ET</strong>. Tonight: Vikings at Bills, both 6–1.</li>
+        <li><span class="tag">NCAA</span>🏈 <strong>Oregon beat Ohio State 41–28</strong> in Columbus, scoring 38 straight points after falling behind 14–0. The Buckeyes (6–3) have lost two straight games for the first time since 2011. <strong>Cincinnati lost 31–24 at Houston</strong> (5–4) and plays at Iowa State Saturday at noon.</li>
+        <li><span class="tag">NBA</span><strong>Luka Dončić scored 53</strong> in the Lakers' 124–118 win at Portland, and <strong>Austin Reaves scored 43</strong> against Detroit on Sunday. The Lakers and 76ers are both 9–2. Steph Curry scored 41 in a win at Orlando. Milwaukee is 1–9.</li>
+        <li><span class="tag">NHL</span>Anaheim's <strong>Cutter Gauthier</strong> scored his <strong>third hat trick in 10 days</strong> in a 5–2 win over Pittsburgh, believed to be an NHL first. He has 15 goals in 17 games. The Ducks have scored at least five goals in <strong>eight straight games</strong>, the first team to do that since the 1988–90 Kings.</li>
+        <li><span class="tag">Tennis</span><strong>Carlos Alcaraz beat Ben Shelton 7–6, 7–5</strong> to win his <strong>first Paris Masters</strong>, after Shelton had beaten him at the U.S. Open. It's his fifth title of 2026. The ATP Finals in Turin start Sunday.</li>
+        <li><span class="tag">Golf</span><strong>Blades Brown, 19, won the World Wide Technology Championship</strong> in Los Cabos at −25, one shot ahead of Ben James. It's his first PGA Tour win.</li>
+        <li><span class="tag">NASCAR</span><strong>Kyle Larson clinched his third Cup title</strong> with points from Stage 1 at Homestead, so it was decided long before the finish. <strong>Ryan Blaney</strong> won the race by passing Tyler Reddick with two laps left.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati lost to Nashville</strong> on Decision Day. It plays a <strong>wild-card game at Orlando City on Nov 19</strong>, and the winner meets Nashville in the first round.</li>
+        <li><span class="tag">MLB</span>Awards week: <strong>Rookie of the Year is tonight</strong> (7 p.m. ET, MLB Network). <strong>Reds 1B Sal Stewart</strong> (32 HR, 112 RBI) is an NL contender. Manager of the Year is Tuesday, the Cy Young Wednesday and MVP Thursday.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Jay Rockefeller</strong>, 89 (Nov 6). The great-grandson of John D. Rockefeller came to West Virginia as a VISTA volunteer. He became its governor and served <strong>30 years in the U.S. Senate</strong>.</li>
+        <li><strong>Sebastián Lelio</strong>, 52 (Nov 6). The Chilean director won the <strong>Oscar for Best International Feature</strong> for <em>A Fantastic Woman</em> (2017). He also made <em>Gloria</em>, <em>Disobedience</em> and <em>The Wonder</em>.</li>
+        <li><strong>Richard Lloyd</strong>, 75 (Nov 7). He was a founding guitarist of the New York punk band <strong>Television</strong>, which played early shows at CBGB and made <em>Marquee Moon</em> (1977).</li>
+        <li><strong>Julian A. Brodsky</strong>, 93 (Nov 5). He <strong>co-founded Comcast</strong> in 1963 with Ralph Roberts and Daniel Aaron.</li>
+        <li><strong>Lidiya Fedoseyeva-Shukshina</strong>, 88 (Nov 7). The Russian actress starred in <em>The Red Snowball Tree</em> (1974).</li>
+        <li style="color:#666;">Also: Herbert Blomstedt, 99, conductor; Alan Jones, 80, 1980 F1 champion; Hubert Aiwanger, 55, Bavarian deputy premier; Tinto Brass, 93, director; Janosch, 95, German children's author; Clem Cattini, 89, drummer for the Tornados ("Telstar"); Lloyd Geering, 108, New Zealand theologian; Rosemary Payne, 93, Scottish Olympic discus thrower; Leonid Arkayev, 86, Soviet gymnastics coach.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 9</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1938</strong> — <strong>Kristallnacht</strong>, the "Night of Broken Glass." Nazi mobs attacked Jewish homes, shops and synagogues across Germany and Austria over two days. About 30,000 Jewish men were sent to concentration camps.</li>
+        <li><strong>1965</strong> — The <strong>Northeast Blackout</strong> left about <strong>30 million people</strong> in the U.S. and Ontario without power for up to 13 hours. One faulty relay at a power station near Niagara Falls set it off.</li>
+        <li><strong>1967</strong> — The <strong>first issue of <em>Rolling Stone</em></strong> came out in San Francisco. John Lennon was on the cover, in a still from <em>How I Won the War</em>.</li>
+        <li><strong>1989</strong> — <strong>The Berlin Wall opened.</strong> East German spokesman Günter Schabowski said at a press conference that the new travel rules took effect "immediately." Crowds went to the checkpoints that night, and the guards let them through.</li>
+        <li style="color:#666;">Also: Cambodia became independent from France (1953). Born today: Ivan Turgenev (1818), Hedy Lamarr (1914), Spiro Agnew (1918), Dorothy Dandridge (1922), Anne Sexton (1928), Carl Sagan (1934), Bob Gibson (1935), Mary Travers (1936), Lou Ferrigno (1951), Eric Dane (1972), Nick Lachey (1973), Sisqó (1978).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 9</h3>
+        <ul>
+          <li>🎉 World Freedom Day (fall of the Berlin Wall) · National Scrapple Day · World Adoption Day</li>
+          <li>🎉 British Pudding Day · Independence Day in Cambodia · Iqbal Day (Pakistan)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>🗳️ <strong>Two Senate races are still uncalled.</strong> In Mississippi, Democrat Scott Colom leads Sen. Cindy Hyde-Smith by <strong>2,574 votes</strong> with 97% counted, and state law provides no recount. In Alaska, Mary Peltola leads Sen. Dan Sullivan by <strong>637 votes</strong>. New ballot counts are due today and Tuesday, and ranked-choice tabulation could start Nov 18.</li>
+        <li>🏛️ <strong>Stephen Miller starts today as White House chief of staff</strong>, replacing Susie Wiles. Rep. Thomas Massie says he'll file <strong>articles of impeachment against Defense Secretary Pete Hegseth</strong> as soon as this week unless Hegseth resigns.</li>
+        <li>📊 Democrats lead the House <strong>254–162</strong>, with 19 races uncalled. In Colorado, Rep. Lauren Boebert trails by about 3,200 votes. In Arizona, Democrats won the governorship and both legislative chambers, their first trifecta there since 1966.</li>
+        <li>🇮🇱 <strong>Israel's President Herzog asked Gadi Eisenkot</strong>, a former army chief, to form the next government. He has <strong>28 days</strong> to build a coalition, which may depend on support from Arab parties.</li>
+        <li>🌍 <strong>The COP31 climate summit opens today in Antalya, Turkey.</strong> It started with an early dispute over climate finance.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🧱 The Berlin Wall opened on this date in 1989. Berlin is surrounded by the German state of Brandenburg. What is Brandenburg's capital? It's where Truman, Stalin and Churchill met in 1945.</span><br><span class="a">Potsdam (its Glienicke Bridge, the "Bridge of Spies," was used for Cold War prisoner swaps)</span></p>
+      <p><span class="q">🕯️ The 1989 Monday protests that helped bring down the Wall began in Leipzig. Leipzig is the largest city in Saxony, but what is Saxony's capital?</span><br><span class="a">Dresden</span></p>
+      <p><span class="q">🏛️ Jay Rockefeller died this week after serving as West Virginia's governor and senator. What is West Virginia's capital?</span><br><span class="a">Charleston (not Wheeling, which was the first capital)</span></p>
+      <p><span class="q">⛳ PGA Tour winner Blades Brown grew up near Nashville, and Nashville SC just beat FC Cincinnati. Is Nashville the capital of Tennessee?</span><br><span class="a">Yes (Memphis is the second-largest city; Knoxville was the first capital)</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">With <em>Ebenezer</em> opening Friday: in the 1984 CBS TV movie <em>A Christmas Carol</em>, filmed in Shrewsbury, England, which actor played Scrooge? He had turned down his Oscar for <em>Patton</em>.</span><br><span class="a">George C. Scott</span></p>
+      <p><span class="q">On CBS's <em>The Wild Wild West</em> (1965–69), Robert Conrad played James West. Who played his partner Artemus Gordon, the master of disguise?</span><br><span class="a">Ross Martin</span></p>
+      <p><span class="q">Which future <em>SNL</em> star played Clinton Wonderlove, the flight engineer known as "JAFO," on ABC's 1984 helicopter series <em>Blue Thunder</em>?</span><br><span class="a">Dana Carvey (James Farentino was the pilot; NFL greats Bubba Smith and Dick Butkus were the ground crew)</span></p>
+      <p><span class="q">For the anniversary of Kristallnacht: who won an Emmy as Inga Helms Weiss in NBC's 1978 miniseries <em>Holocaust</em>?</span><br><span class="a">Meryl Streep (Michael Moriarty also won an Emmy, as SS officer Erik Dorf)</span></p>
+      <p><span class="q">Lou Ferrigno was born today in 1951. On which CBS sitcom (1998–2007) did he play himself as Doug and Carrie Heffernan's neighbor?</span><br><span class="a"><em>The King of Queens</em></span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">In Dickens's <em>A Christmas Carol</em>, what is the name of Scrooge's late business partner, the ghost Ian McKellen plays in <em>Ebenezer</em>?</span><br><span class="a">Jacob Marley ("Marley was dead: to begin with.")</span></p>
+      <p><span class="q">Carl Sagan was born today in 1934. Which of his novels, published in 1985, became a 1997 film starring Jodie Foster?</span><br><span class="a"><em>Contact</em></span></p>
+      <p><span class="q">Born today in 1928, which confessional poet won the 1967 Pulitzer Prize for Poetry for <em>Live or Die</em>?</span><br><span class="a">Anne Sexton</span></p>
+      <p><span class="q">Which Hunter S. Thompson book first ran in <em>Rolling Stone</em> in 1971, under the byline "Raoul Duke"?</span><br><span class="a"><em>Fear and Loathing in Las Vegas</em></span></p>
+      <p><span class="q">At Christmas 1989, Leonard Bernstein conducted Beethoven's Ninth in Berlin to celebrate the Wall coming down. In the "Ode to Joy," what word did he use in place of "Freude" (joy)?</span><br><span class="a">"Freiheit" (freedom)</span></p>
+      <p><span class="q">Dmitri Vrubel's mural <em>My God, Help Me to Survive This Deadly Love</em>, on Berlin's East Side Gallery, shows which two Communist leaders kissing?</span><br><span class="a">Leonid Brezhnev and Erich Honecker</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">Which magazine, founded by Jann Wenner and critic Ralph J. Gleason, published its first issue on this date in 1967?</span><br><span class="a"><em>Rolling Stone</em></span></p>
+      <p><span class="q">Hollywood star Hedy Lamarr was born today in 1914. In 1942 she and composer George Antheil patented what radio technology, meant to stop enemies from jamming torpedo guidance?</span><br><span class="a">Frequency hopping (its 88 frequencies matched the 88 keys of a piano; it's a forerunner of Wi-Fi and Bluetooth)</span></p>
+      <p><span class="q">Julian Brodsky, who died this week, helped start Comcast in 1963 by buying a small cable system in which Mississippi town, famous as Elvis's birthplace?</span><br><span class="a">Tupelo</span></p>
+      <p><span class="q">Which Berlin street-food staple, a sliced sausage covered in ketchup and curry powder, was invented in 1949 by Herta Heuwer?</span><br><span class="a">Currywurst</span></p>
+      <p><span class="q">Which 1977 gold-plated recording, chosen by a committee led by Carl Sagan, carries Chuck Berry's "Johnny B. Goode" into interstellar space?</span><br><span class="a">The Voyager Golden Record</span></p>
+      <p><span class="q">New champion Kyle Larson drives for which team, founded by a car dealer in 1984 as All-Star Racing?</span><br><span class="a">Hendrick Motorsports (Rick Hendrick)</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">History</span>Schabowski's answer about when the new travel rules started, "sofort, unverzüglich" ("immediately, without delay"), was a mistake. They weren't supposed to take effect until the <strong>next day</strong>.</li>
+        <li><span class="tag">Geography</span>The Berlin Wall ran about <strong>96 miles</strong> around West Berlin, and it stood for <strong>28 years</strong> (1961–1989).</li>
+        <li><span class="tag">Myth</span>A famous 1966 story said births spiked nine months after the 1965 blackout. A 1970 study found <strong>no baby boom</strong>.</li>
+        <li><span class="tag">Science</span>Carl Sagan never said "billions and billions" on <em>Cosmos</em>. It came from Johnny Carson's impression of him, and Sagan later used it as the title of his last book.</li>
+        <li><span class="tag">Food</span><strong>Scrapple</strong> is a Pennsylvania Dutch loaf of pork scraps, cornmeal and buckwheat flour, fried in slices. In Pennsylvania Dutch it's called <em>pon haus</em>.</li>
+        <li><span class="tag">Flags</span>Cambodia, independent since this date in 1953, has a building on its flag: <strong>Angkor Wat</strong>. Very few national flags show one.</li>
+        <li><span class="tag">Hockey</span>The Ducks have scored five or more goals in eight straight games, the first NHL team to do that since the 1988–90 Kings, Wayne Gretzky's team.</li>
+        <li><span class="tag">Film</span>The only live-action movie not in English with a bigger opening than <em>Godzilla Minus Zero</em> is <em>The Passion of the Christ</em> (2004), which is in Aramaic, Hebrew and Latin.</li>
+        <li><span class="tag">Golf</span>Blades Brown played in his first PGA Tour event at <strong>16</strong>. He won Sunday at 19.</li>
+        <li><span class="tag">Music</span>Nick and Drew Lachey of 98 Degrees grew up in <strong>Cincinnati</strong>. Both went to the city's School for Creative and Performing Arts.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Wall, birthdays &amp; holidays edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Freedom! '90</div>
+          <div class="song-meta">George Michael · 1990 · Listen Without Prejudice Vol. 1 (World Freedom Day; he doesn't appear in the video, which stars five supermodels)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/freedom-90/1625866382?i=1625866613" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">One</div>
+          <div class="song-meta">U2 · 1991 · Achtung Baby (written at Berlin's Hansa Studios, where the band went to record soon after the Wall fell)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/one/1443063058?i=1443063492" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Thong Song</div>
+          <div class="song-meta">Sisqó · 2000 · Unleash the Dragon (Sisqó, of Dru Hill, born today 1978)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/thong-song-edited-version/1443906162?i=1443906189" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">I Do (Cherish You)</div>
+          <div class="song-meta">98 Degrees · 1999 · 98 Degrees and Rising (Nick Lachey born today 1973; also on the <em>Notting Hill</em> soundtrack)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/i-do-cherish-you/1443823727?i=1443824085" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">All I Want for Christmas Is You</div>
+          <div class="song-meta">Mariah Carey · 1994 · Merry Christmas (<em>Ebenezer</em> kicks off the holiday movie season Friday; the song didn't reach No. 1 on the Hot 100 until 2019)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
