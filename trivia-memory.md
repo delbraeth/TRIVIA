@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 9 | Brandenburg (Germany) | Potsdam (surrounds Berlin; Potsdam Conference 1945; Glienicke 'Bridge of Spies') |
+| Nov 9 | Saxony (Germany) | Dresden (not Leipzig, where 1989 Monday demonstrations began) |
+| Nov 9 | West Virginia | Charleston (Jay Rockefeller died Nov 6; Wheeling was first capital) |
+| Nov 9 | Tennessee | Nashville (yes; Blades Brown, Nashville SC; Knoxville first capital) |
 | Nov 6 | Illinois | Springfield (Lincoln elected Nov 6, 1860; not Chicago) |
 | Nov 6 | Massachusetts | Boston (Naismith invented basketball in Springfield, Mass. — not the capital) |
 | Nov 6 | New Jersey | Trenton (Rutgers 6, Princeton 4 — first college football game, Nov 6, 1869) |
@@ -257,6 +261,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 9 | A Christmas Carol (1984 CBS TV movie) | Ebenezer Scrooge | George C. Scott (filmed in Shrewsbury; refused Patton Oscar) |
+| Nov 9 | The Wild Wild West (1965–69) | Artemus Gordon | Ross Martin (Robert Conrad as James West) |
+| Nov 9 | Blue Thunder (1984 ABC) | Clinton Wonderlove ("JAFO") | Dana Carvey (James Farentino pilot; Bubba Smith, Dick Butkus) |
+| Nov 9 | Holocaust (1978 NBC miniseries) | Inga Helms Weiss | Meryl Streep (Emmy; Michael Moriarty Emmy as Erik Dorf) |
+| Nov 9 | The King of Queens (1998–2007) | himself (Heffernans' neighbor) | Lou Ferrigno (born Nov 9, 1951) |
 | Nov 6 | Fame (1982–87) | Julie Miller (cellist) | Lori Singer (born Nov 6, 1957) |
 | Nov 6 | South of Sunset (1993, CBS, 1 episode) | Cody McMahon | Glenn Frey (born Nov 6, 1948) |
 | Nov 6 | The White Shadow (1978–81) | Coach Ken Reeves | Ken Howard |
@@ -605,6 +614,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 9 | A Christmas Carol — Scrooge's late partner (Ebenezer opens Nov 13) | Jacob Marley |
+| Nov 9 | Carl Sagan (born Nov 9, 1934) 1985 novel, 1997 Jodie Foster film | Contact |
+| Nov 9 | Poet born Nov 9, 1928; 1967 Pulitzer for Live or Die | Anne Sexton |
+| Nov 9 | Hunter S. Thompson book first in Rolling Stone 1971 as 'Raoul Duke' | Fear and Loathing in Las Vegas |
+| Nov 9 | Bernstein's Berlin Ninth, Christmas 1989 — word replacing 'Freude' | 'Freiheit' (freedom) |
+| Nov 9 | Vrubel East Side Gallery mural 'My God, Help Me to Survive This Deadly Love' | Brezhnev and Honecker kissing |
 | Nov 6 | The Professor and the Madman — reference work (Simon Winchester died) | Oxford English Dictionary (Dr. W.C. Minor, Broadmoor) |
 | Nov 6 | From Here to Eternity, 1952 National Book Award (born Nov 6, 1921) | James Jones |
 | Nov 6 | 1990 book on Odessa TX Permian Panthers (H.G. Bissinger) | Friday Night Lights |
@@ -952,6 +967,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 9 | History | Schabowski 'sofort, unverzüglich' — rules weren't meant to start until next day |
+| Nov 9 | Geography | Berlin Wall ~96 miles around West Berlin, stood 28 years (1961–89) |
+| Nov 9 | Myth | 1965 blackout baby boom debunked by 1970 study |
+| Nov 9 | Science | Sagan never said 'billions and billions' on Cosmos (Carson impression); last book title |
+| Nov 9 | Food | Scrapple — Pennsylvania Dutch pork scraps, cornmeal, buckwheat; 'pon haus' |
+| Nov 9 | Flags | Cambodia (independence Nov 9, 1953) flag shows Angkor Wat |
+| Nov 9 | Hockey | Ducks 5+ goals in 8 straight games, first since 1988–90 Kings |
+| Nov 9 | Film | Only non-English live-action opening bigger than Godzilla Minus Zero: The Passion of the Christ |
+| Nov 9 | Golf | Blades Brown PGA Tour debut at 16, first win at 19 (WWT Championship) |
+| Nov 9 | Music | Nick and Drew Lachey grew up in Cincinnati, attended SCPA |
 | Nov 6 | Football | Rutgers "Birthplace of College Football"; Princeton won rematch 8–0 |
 | Nov 6 | Music | Saxophone is brass-bodied but a woodwind (reed) |
 | Nov 6 | TV | Meet the Press began on radio 1945; Tim Russert hosted 1991–2008 |
@@ -1624,6 +1649,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 9 | November 9 (Kristallnacht 1938, ~30,000 Jewish men sent to camps; Northeast Blackout 1965, ~30M people up to 13 hrs, Ontario relay; first Rolling Stone issue 1967, Lennon cover; Berlin Wall opens 1989, Schabowski 'immediately'. Also Cambodia independence 1953; births Turgenev, Hedy Lamarr, Agnew, Dorothy Dandridge, Anne Sexton, Carl Sagan, Bob Gibson, Mary Travers, Lou Ferrigno, Eric Dane, Nick Lachey, Sisqó) |
 | Nov 6 | November 6 (Lincoln elected 1860, ~40%, not on ballot in 10 Southern states; Rutgers 6–Princeton 4, first college football game 1869, 25 per side; Meet the Press debuts on NBC 1947; Cannikin ~5 Mt test on Amchitka 1971. Also Tchaikovsky dies 1893; Tammy Baldwin elected 2012; born today Sax, Sousa, Naismith, James Jones, Sally Field, Glenn Frey, Lori Singer, Jerry Yang, Ethan Hawke, Emma Stone) |
 | Nov 5 | November 5 (Gunpowder Plot foiled 1605; Susan B. Anthony votes in Rochester 1872, fined $100 never paid; FDR third term 1940 over Willkie; Foreman KOs Moorer at 45, 1994. Also noted: Selden auto patent 1895, Monopoly released 1935, Nixon elected 1968, Back to the Future Nov 5 1955; births Tarbell, Durant, Roy Rogers, Vivien Leigh, Ike Turner, Elke Sommer, Garfunkel, Sam Shepard, Peter Noone, Bryan Adams, Tilda Swinton, Tatum O'Neal, Famke Janssen, Sam Rockwell, Corin Nemec, Kevin Jonas) |
 | Nov 4 | November 4 (Carter finds first step of Tutankhamun's tomb 1922; Nellie Tayloe Ross elected first woman governor 1924; Iran hostage crisis begins 1979, 52 held 444 days, Reagan elected exactly a year later. Also noted: Eisenhower 1952, NSA 1952, Hungary 1956, Rabin 1995, Obama 2008; births Will Rogers, Cronkite, Art Carney, Doris Roberts, Loretta Swit, Laura Bush, Mapplethorpe, Markie Post, Kathy Griffin, Ralph Macchio, McConaughey) |
@@ -1689,6 +1715,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 9 | World Freedom Day; National Scrapple Day; World Adoption Day; British Pudding Day; Independence Day (Cambodia); Iqbal Day (Pakistan) |
 | Nov 6 | National Nachos Day; National Saxophone Day; National Basketball Day; National Fountain Pen Day (first Friday in November); Marooned Without a Compass Day; National Bittersweet Chocolate with Almonds Day; Flag Day Sweden/Finland (Gustavus Adolphus Day / Swedish Heritage Day); Constitution Day (Dominican Republic, Tajikistan); Green March Day (Morocco); UN Day for Preventing the Exploitation of the Environment in War |
 | Nov 5 | International Stout Day; National Doughnut Appreciation Day; National Chinese Take-Out Day; American Football Day; National Love Your Red Hair Day; National Men Make Dinner Day; Bank Transfer Day; Guy Fawkes Night (UK); World Tsunami Awareness Day |
 | Nov 4 | National Candy Day; King Tut Day; Use Your Common Sense Day; Check Your Blood Pressure Day; Flag Day (Panama); National Unity and Armed Forces Day (Italy); Unity Day (Russia) |
@@ -1762,6 +1789,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 9 | Magazine first issue Nov 9, 1967 (Wenner & Ralph J. Gleason) | Rolling Stone |
+| Nov 9 | Hedy Lamarr (born Nov 9, 1914) & George Antheil 1942 patent | Frequency hopping (88 frequencies like piano keys) |
+| Nov 9 | Town where Comcast began, 1963 (Julian Brodsky died Nov 5) | Tupelo, Mississippi |
+| Nov 9 | Berlin street food invented 1949 by Herta Heuwer | Currywurst |
+| Nov 9 | 1977 record curated by Sagan committee, carries 'Johnny B. Goode' | Voyager Golden Record |
+| Nov 9 | Kyle Larson's team, founded 1984 as All-Star Racing | Hendrick Motorsports (Rick Hendrick) |
 | Nov 6 | Belgian born Nov 6, 1814; patented 1846 in Paris | Adolphe Sax — saxophone |
 | Nov 6 | Founded 1994 at Stanford as "Jerry and David's Guide to the World Wide Web" (Jerry Yang born Nov 6, 1968) | Yahoo! |
 | Nov 6 | Bass horn built 1893 by J.W. Pepper at Sousa's request | Sousaphone |
@@ -2101,6 +2134,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 9 | Freedom! '90 | George Michael | 1990 |
+| Nov 9 | One | U2 | 1991 |
+| Nov 9 | Thong Song | Sisqó | 2000 |
+| Nov 9 | I Do (Cherish You) | 98 Degrees | 1999 |
+| Nov 9 | All I Want for Christmas Is You | Mariah Carey | 1994 |
 | Nov 6 | Forever in Love | Kenny G | 1992 |
 | Nov 6 | Part of Me, Part of You | Glenn Frey | 1991 |
 | Nov 6 | Basketball | Lil Bow Wow feat. Jermaine Dupri, Fabolous & Fundisha | 2002 |
@@ -3444,4 +3482,18 @@ NFL: JAX 33–10 at BAL TNF; deadline Tue 4 p.m. ET; Bengals–Falcons 2nd NFL g
 ### Notes
 Run fired Friday Nov 6, 2026 (~12:02 UTC); header dated Friday, November 6, 2026. Nov 6 not previously used for This Day in History. Capitals: all four were US states not in the 12-week log (Illinois, Massachusetts, New Jersey, Alaska). Music: Enrique Iglesias and Natasha Bedingfield are repeat artists with new songs. 6 songs: Spotify IDs from artist/album embed pages (artist IDs via MusicBrainz url-rels), all checked with oEmbed; Apple IDs from the iTunes Search API. Pruned 89 table rows and 7 per-run sections dated before Aug 14.
 
-_Last updated: November 6, 2026_
+## November 9, 2026 (v103)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Mon Nov 9 (through SNF Week 9; MNF MIN at BUF pending): Buffalo Bills 404.6 yds/g (2,832 total, 7 GP, 21st in total); top 5 Bills / Bears 398.7 (3,588, 9 GP, No. 1 total) / Lions 395.9 (3,167, 8) / Chiefs 392.4 (3,139, 8) / Rams 390.6 (3,515, 9). Bengals 383.9/g 6th, 3,071 total 10th, 6–2 after 34–17 win vs ATL in Madrid. Next: Sun Nov 15 vs PIT, 8:20 p.m. EST (SNF).
+
+### Box Office
+Weekend Nov 6–8: #1 Godzilla Minus Zero (GKIDS) $31.6M opening, $63M worldwide; #2 The Cat in the Hat $20.5M; #3 Drummer Boy $9.3M; #4 You Can See Everything $8.8M ($79.8M); #5 Ramayana: Rise of a Legend $8.6M ($12.1M). Fun fact used: ~3x Godzilla Minus One's $11.4M debut, reported $13–15M budget, second-biggest non-English live-action opening, GKIDS record, A CinemaScore. Coming Nov 13–15: Ebenezer (Ti West; Depp, McKellen, Grint), How to Rob a Bank (Leitch; Hoult, Kravitz).
+
+### Sports / Deaths / Current Events
+NFL: CIN 34–17 at ATL (Madrid); SF 7–1; LAC 0–8; deadline Tue 4 p.m. ET. NCAA: Oregon 41–28 at Ohio State (OSU 6–3); Houston 31–24 Cincinnati (5–4), at Iowa State Sat noon. NBA: Doncic 53 at POR; Reaves 43 vs DET; Curry 41 at ORL; LAL & PHI 9–2. NHL: Gauthier third hat trick in 10 days; Ducks 5+ goals in 8 straight. Tennis: Alcaraz d. Shelton 7–6, 7–5, first Paris Masters. Golf: Blades Brown (19) wins WWT Championship at −25. NASCAR: Larson third Cup title clinched in Stage 1; Blaney won Homestead. MLS: FC Cincinnati lost to Nashville on Decision Day; wild card at Orlando Nov 19. MLB: ROY Nov 9 (Sal Stewart contender). Deaths: Jay Rockefeller 89, Sebastián Lelio 52, Richard Lloyd 75, Julian Brodsky 93, Lidiya Fedoseyeva-Shukshina 88. Current events: MS Senate Colom +2,574 (97%); AK Peltola +637, RCV Nov 18; Stephen Miller WH chief of staff starts Nov 9; Massie Hegseth impeachment articles; House D 254–R 162; Herzog taps Eisenkot (28 days); COP31 opens in Antalya.
+
+### Notes
+Run fired Monday Nov 9, 2026 (~12:02 UTC); header dated Monday, November 9, 2026. Nov 9 not previously used for This Day in History. Capitals: two German states (Brandenburg, Saxony) plus West Virginia and Tennessee. 5 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Only two wide releases found for Nov 13. Cloud git push refused by the proxy (403); pushed from the connected device shell. No memory rows older than 12 weeks (oldest Aug 17).
+
+_Last updated: November 9, 2026_
