@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 10, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media (max-width:480px) { header a { padding:5px 8px !important; font-size:12px !important; letter-spacing:0 !important; } header > div:last-child { gap:8px !important; flex-wrap:wrap; } }
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Tuesday, November 10, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-10.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 10</a>
+  <a href="./thursday-trivia-2026-11-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 9</a>
+  <a href="./thursday-trivia-2026-11-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 6</a>
+  <a href="./thursday-trivia-2026-11-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 5</a>
+  <a href="./thursday-trivia-2026-11-04.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 4</a>
+  <a href="./thursday-trivia-2026-11-03.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 3</a>
+  <a href="./thursday-trivia-2026-11-02.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 2</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">400.0</div>
+      <div class="nfl-team">Buffalo Bills — yards per game</div>
+      <div class="nfl-sub">3,200 total yards (6th in total) · 8 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Buffalo Bills</strong> — 400.0/g &nbsp;<span style="color:#777;">(3,200 yds, 8 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 398.7/g &nbsp;<span style="color:#777;">(3,588 yds, 9 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Detroit Lions</strong> — 395.9/g &nbsp;<span style="color:#777;">(3,167 yds, 8 GP)</span></li>
+        <li><span class="tag">4</span><strong>Kansas City Chiefs</strong> — 392.4/g &nbsp;<span style="color:#777;">(3,139 yds, 8 GP)</span></li>
+        <li><span class="tag">5</span><strong>Los Angeles Rams</strong> — 390.6/g &nbsp;<span style="color:#777;">(3,515 yds, 9 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">Through Week 9. Buffalo gained 368 yards in a <strong>23–6 win at Minnesota</strong> on Monday night. That lowered its average from 404.6 to 400.0, but it kept the top spot by 1.3 yards over Chicago.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>383.9 yards per game, 6th</strong> in the NFL. <strong>3,071 total yards, 11th</strong> (down from 10th after Buffalo's game). Record: <strong>6–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 15 vs. Pittsburgh Steelers, 8:20 p.m. EST</strong> <span style="font-weight:400;">(Sunday Night Football on NBC, Paycor Stadium)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Tuesday morning. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 6–8</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Godzilla Minus Zero</strong> (GKIDS) — <strong>$31.6M opening</strong>, about $63M worldwide</li>
+        <li>#2 The Cat in the Hat — $20.5M (opening) &nbsp;|&nbsp; #3 Drummer Boy — $9.3M (opening)</li>
+        <li>#4 You Can See Everything — $8.8M ($79.8M) &nbsp;|&nbsp; #5 Ramayana: Rise of a Legend — $8.6M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> It's already the <strong>second-biggest U.S. opening for a live-action film not in English</strong>. Next up on the all-time gross list for that category is <em>Life Is Beautiful</em> ($57.2M). Passing it would make <em>Minus Zero</em> No. 3. Takashi Yamazaki directed again, and he also did the visual effects, as he did on <em>Minus One</em>, which won the Oscar for visual effects.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 13–15)</h3>
+        <ul>
+          <li><strong>Ebenezer</strong>: Ti West directs Johnny Depp as Scrooge, with Ian McKellen as Jacob Marley and Rupert Grint as Bob Cratchit. A new take on Dickens's <em>A Christmas Carol</em>.</li>
+          <li><strong>How to Rob a Bank</strong> (R): David Leitch's heist comedy with Nicholas Hoult, Zoë Kravitz, Pete Davidson and John C. Reilly. Bank robbers post their heists on social media and get famous enough to bring in the FBI.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span>🔴 <strong>Reds 1B Sal Stewart won NL Rookie of the Year</strong> after hitting <strong>32 HR with 112 RBI</strong> and playing all 162 games. Carson Benge (Mets) and JJ Wetherholt (Cardinals) were the runners-up. Stewart is the <strong>ninth Red</strong> to win the award; Jonathan India (2021) was the last. The AL winner was <strong>Tigers SS Kevin McGonigle</strong>, who led the AL with 7.1 WAR. Manager of the Year is tonight, the Cy Young Wednesday and MVP Thursday.</li>
+        <li><span class="tag">NFL</span>The <strong>Bills (7–1) won 23–6 at Minnesota</strong> on Monday night. The <strong>trade deadline is today at 4 p.m. ET</strong>. Jacksonville got S <strong>Jessie Bates III</strong> from Atlanta for a 2027 second-round pick, and Detroit got S Andre Cisco from the Jets. The Bengals (6–2) host Pittsburgh Sunday night.</li>
+        <li><span class="tag">NBA</span>The <strong>Lakers are 10–2</strong> after a 124–114 win at Atlanta. Golden State beat New Orleans by <strong>51 points (138–87)</strong>. The Spurs are 9–2, and Milwaukee is 1–9.</li>
+        <li><span class="tag">NHL</span><strong>Edmonton (13–3–3)</strong> beat the Rangers 3–1. Vancouver is <strong>3–16–1</strong>. Anaheim's Cutter Gauthier has three hat tricks in 10 days.</li>
+        <li><span class="tag">Tennis</span>The <strong>ATP Finals start Sunday in Turin</strong>. Carlos Alcaraz goes in having just won his first Paris Masters, over Ben Shelton.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati</strong> plays a wild-card game <strong>at Orlando City on Nov 19</strong>. The winner meets Nashville in the first round.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Hubert "Geese" Ausbie</strong>, 88 (Nov 8). He played <strong>24 seasons with the Harlem Globetrotters</strong> and was called the "Clown Prince of Basketball." He took over as the lead showman when Meadowlark Lemon left in 1978. He was called "Geese" because Goose Tatum already had "Goose." His No. 35 is retired.</li>
+        <li><strong>Tommy Walsh</strong>, 69 (Nov 9). He was the builder on the BBC garden-makeover show <strong><em>Ground Force</em></strong>, with Alan Titchmarsh and Charlie Dimmock.</li>
+        <li><strong>Gary Fisketjon</strong>, 72 (Nov 9). The Knopf and Random House editor worked with <strong>Raymond Carver, Cormac McCarthy, Donna Tartt and Jay McInerney</strong>.</li>
+        <li><strong>Johnny McEvoy</strong>, 81 (Nov 8). Irish folk and ballad singer.</li>
+        <li style="color:#666;">Also: Arpita Singh, 89, Indian painter; Barry Daines, 75, Tottenham goalkeeper; Rosemary Payne, 93, Scottish discus thrower. Earlier in the week: Jay Rockefeller, 89; Oscar-winning director Sebastián Lelio, 52; Television guitarist Richard Lloyd, 75; 1980 F1 champion Alan Jones, 80; Comcast co-founder Julian Brodsky, 93.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 10</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1871</strong> — Henry Morton Stanley found Dr. David Livingstone at <strong>Ujiji</strong>, on Lake Tanganyika (this is the traditional date). Supposedly he greeted him with <strong>"Dr. Livingstone, I presume?"</strong></li>
+        <li><strong>1938</strong> — <strong>Mustafa Kemal Atatürk</strong>, founder of modern Turkey, died at Istanbul's Dolmabahçe Palace at <strong>9:05 a.m.</strong></li>
+        <li><strong>1969</strong> — <strong><em>Sesame Street</em></strong> premiered. It aired first on NET, the predecessor of PBS.</li>
+        <li><strong>1975</strong> — The freighter <strong>SS <em>Edmund Fitzgerald</em></strong> sank in a storm on Lake Superior, and all <strong>29 crew members</strong> died.</li>
+        <li style="color:#666;">Also: The Marine Corps was founded (1775). Harry Winston gave the Hope Diamond to the Smithsonian (1958). Born today: Martin Luther (1483), Oliver Goldsmith (1728), Friedrich Schiller (1759), Vachel Lindsay (1879), Claude Rains (1889), John P. Marquand (1893), Richard Burton (1925), Roy Scheider (1932), Tim Rice (1944), Greg Lake (1947), Ann Reinking (1949), Sinbad (1956), Mackenzie Phillips (1959), Neil Gaiman (1960), Tracy Morgan (1968), Ellen Pompeo (1969), Warren G (1970), Brittany Murphy (1977), Eve (1978), Diplo (1978), Miranda Lambert (1983).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 10</h3>
+        <ul>
+          <li>🎉 U.S. Marine Corps Birthday (251st) · Sesame Street Day · National Vanilla Cupcake Day</li>
+          <li>🎉 National Forget-Me-Not Day · National Civic Pride Day · World Science Day for Peace and Development · Atatürk Memorial Day (Turkey)</li>
+          <li>🎉 Tomorrow: Veterans Day</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>⚖️ <strong>The Supreme Court voted 8–1 to let border-wall construction resume in Texas's Big Bend region</strong>, including the national park. Its order lifts a federal judge's halt in El Paso while the case goes on. Justice Ketanji Brown Jackson dissented.</li>
+        <li>🇬🇧 <strong>Russell Brand was sentenced to 10½ years in prison</strong> after a London jury found him guilty of rape and sexual assault last week.</li>
+        <li>🗳️ <strong>Mississippi's Senate race is still uncalled.</strong> Democrat Scott Colom leads Sen. Cindy Hyde-Smith by more than 2,500 votes. About 2,800 mail ballots are still out, and counties must certify their results by <strong>Friday</strong>. In Alaska, ranked-choice tabulation could start Nov 18 if no one tops 50%.</li>
+        <li>🏈 <strong>The NFL trade deadline is 4 p.m. ET today.</strong> Jacksonville made two deals on Monday: Jessie Bates III from Atlanta and DT Davon Godchaux from New Orleans.</li>
+        <li>🎖️ The Marine Corps turns <strong>251</strong> today, and tomorrow is <strong>Veterans Day</strong>. Federal offices, banks and the post office close Wednesday.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🌵 The Supreme Court just let the Big Bend border wall go ahead. Across the Rio Grande from the park is the Mexican village of Boquillas del Carmen, in the state of Coahuila. What is Coahuila's capital?</span><br><span class="a">Saltillo (not Monterrey, which is in Nuevo León)</span></p>
+      <p><span class="q">🚢 The <em>Edmund Fitzgerald</em> sank in Canadian waters of Lake Superior, off the coast of Ontario. What is Ontario's capital?</span><br><span class="a">Toronto (Ottawa is in Ontario too, but it's the national capital)</span></p>
+      <p><span class="q">🐯 Rookie of the Year Kevin McGonigle plays for Detroit. Detroit is Michigan's largest city, but what is its capital?</span><br><span class="a">Lansing</span></p>
+      <p><span class="q">🎭 Richard Burton, born today in 1925, was a coal miner's son from Pontrhydyfen, Wales. What is the capital of Wales?</span><br><span class="a">Cardiff (capital only since 1955)</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q"><em>Sesame Street</em> premiered on this date in 1969. Who played its first Gordon, the schoolteacher who welcomes Sally to the street in the first episode?</span><br><span class="a">Matt Robinson (he also voiced the Muppet Roosevelt Franklin)</span></p>
+      <p><span class="q">Born today in 1968, which future <em>30 Rock</em> star played Hustle Man, a fast-talking street hustler, on Fox's <em>Martin</em> (1992–97)?</span><br><span class="a">Tracy Morgan</span></p>
+      <p><span class="q">Brittany Murphy, born today in 1977, voiced which character on <em>King of the Hill</em>? She's Hank's dim but sweet niece, who lives with the Hills in Arlen, Texas.</span><br><span class="a">Luanne Platter</span></p>
+      <p><span class="q">Sinbad was born today in 1956. On Fox's <em>The Sinbad Show</em> (1993–94), what was his character's name? He played a video game designer and bachelor who takes in two foster kids.</span><br><span class="a">David Bryan</span></p>
+      <p><span class="q">Born today in 1959, which <em>American Graffiti</em> actress played rock singer Molly Phillips, the mother of the paranormal-obsessed Fi, on Disney Channel's <em>So Weird</em> (1999–2001)?</span><br><span class="a">Mackenzie Phillips</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Born today in 1728, which Irish writer wrote the 1773 comedy <em>She Stoops to Conquer</em> and the novel <em>The Vicar of Wakefield</em>?</span><br><span class="a">Oliver Goldsmith</span></p>
+      <p><span class="q">Martin Luther was born today in 1483. On the door of which church did he supposedly nail his 95 Theses in 1517?</span><br><span class="a">All Saints' Church (Castle Church) in Wittenberg</span></p>
+      <p><span class="q">Lyricist Tim Rice was born today in 1944. Which of his musicals with Andrew Lloyd Webber includes "Don't Cry for Me Argentina"?</span><br><span class="a"><em>Evita</em></span></p>
+      <p><span class="q">Born today in 1893, John P. Marquand won the 1938 Pulitzer for <em>The Late George Apley</em>. Which Japanese secret agent, played by Peter Lorre in eight films, did he create?</span><br><span class="a">Mr. Moto</span></p>
+      <p><span class="q">Editor Gary Fisketjon died this week. His Vintage Contemporaries paperback line took off in 1984 with which Jay McInerney debut, written in the second person?</span><br><span class="a"><em>Bright Lights, Big City</em></span></p>
+      <p><span class="q">Born today in 1879, which Springfield, Illinois, poet wrote the chanting poem "The Congo" and traded his verses for food and lodging on walking tours?</span><br><span class="a">Vachel Lindsay</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">The Marine Corps was founded on this date in 1775. In which Philadelphia tavern, now called the Marines' birthplace, did Capt. Samuel Nicholas recruit the first Continental Marines?</span><br><span class="a">Tun Tavern</span></p>
+      <p><span class="q">Which nonprofit was founded in 1968 by Joan Ganz Cooney and Lloyd Morrisett to make <em>Sesame Street</em>?</span><br><span class="a">Children's Television Workshop (now Sesame Workshop)</span></p>
+      <p><span class="q">On this date in 1983, Microsoft announced Windows at a New York hotel. What was its internal code name before marketing chose "Windows"?</span><br><span class="a">Interface Manager (Windows 1.0 didn't ship until November 1985)</span></p>
+      <p><span class="q">On Nov 10, 1951, the mayor of Englewood, N.J., made the first U.S. long-distance call dialed directly, with no operator. Which California city's mayor did he call?</span><br><span class="a">Alameda (Mayor Frank Osborne)</span></p>
+      <p><span class="q">Geese Ausbie died this week. In what city did Abe Saperstein's team, the future Harlem Globetrotters, start in 1926? They didn't play a game in Harlem until 1968.</span><br><span class="a">Chicago (they began as the Savoy Big Five, named for the Savoy Ballroom)</span></p>
+      <p><span class="q">For Vanilla Cupcake Day: whose 1796 book, <em>American Cookery</em>, the first cookbook by an American, has the earliest known recipe for "a light cake to bake in small cups"?</span><br><span class="a">Amelia Simmons</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">History</span>Every Nov 10 at <strong>9:05 a.m.</strong>, Turkey stops for a minute of silence, with sirens and traffic halted, to mark the moment Atatürk died. Clocks at Dolmabahçe Palace are kept at 9:05.</li>
+        <li><span class="tag">Music</span>Gordon Lightfoot's "The Wreck of the <em>Edmund Fitzgerald</em>" reached <strong>No. 2</strong> on the Billboard Hot 100 in 1976, a year after the sinking.</li>
+        <li><span class="tag">Myth</span>No one can confirm Stanley said "Dr. Livingstone, I presume?" The pages for those days are <strong>missing from his diary</strong>, and Livingstone never mentioned the line.</li>
+        <li><span class="tag">Gems</span>In 1958, Harry Winston sent the <strong>Hope Diamond</strong> to the Smithsonian by <strong>registered first-class mail</strong>, in a plain brown paper package.</li>
+        <li><span class="tag">TV</span><em>Sesame Street</em> first aired on <strong>NET</strong>, National Educational Television. PBS didn't start until 1970.</li>
+        <li><span class="tag">Marines</span>At every Marine Corps birthday ball, the first slice of cake goes to the <strong>oldest Marine</strong> there, who hands it to the <strong>youngest</strong>.</li>
+        <li><span class="tag">Names</span>Martin Luther was named for <strong>St. Martin of Tours</strong> because he was baptized on Nov 11, St. Martin's feast day.</li>
+        <li><span class="tag">Film</span>Richard Burton got <strong>seven Oscar nominations</strong> for acting and never won. He married Elizabeth Taylor twice.</li>
+        <li><span class="tag">Geography</span>Big Bend National Park follows the Rio Grande for <strong>118 miles</strong> along the Mexican border, and the river's big curve there gives the park its name.</li>
+        <li><span class="tag">NBA</span>Golden State beat New Orleans <strong>138–87</strong> on Monday. A 51-point win is rare in the NBA. The record is 73 points, set by Memphis over Oklahoma City in 2021.</li>
+        <li><span class="tag">Baseball</span>The Reds' Rookies of the Year: Frank Robinson, Pete Rose, Tommy Helms, Johnny Bench, Pat Zachry, Chris Sabo, Scott Williamson, Jonathan India, and now <strong>Sal Stewart</strong>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010) — Birthdays, Big Bend &amp; Atatürk edition</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Let Me Blow Ya Mind</div>
+          <div class="song-meta">Eve feat. Gwen Stefani · 2001 · Scorpion (Eve born today 1978; won the first Grammy for Best Rap/Sung Collaboration)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4YA5g2UpNLmdql8fdrhlwY" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/let-me-blow-ya-mind-feat-gwen-stefani/1587772889?i=1587773083" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Pon de Floor</div>
+          <div class="song-meta">Major Lazer feat. Vybz Kartel · 2009 · Guns Don't Kill People… Lazers Do (Diplo born today 1978; Beyoncé's "Run the World (Girls)" is built on it)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/66j5KAHXA3gskOwpCGcQPD" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/pon-de-floor-feat-vybz-kartel/1810318671?i=1810318934" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Wide Open Spaces</div>
+          <div class="song-meta">Dixie Chicks · 1998 · Wide Open Spaces (Texas trio, for the Big Bend news; now called The Chicks)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4uCm8t9c9butMiHaSupdkF" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/wide-open-spaces/155681921?i=155682268" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Şımarık ("Kiss Kiss")</div>
+          <div class="song-meta">Tarkan · 1997 · Ölürüm Sana (Atatürk Memorial Day; a Europe-wide hit known for the kissing sounds in its chorus)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/%C5%9F%C4%B1mar%C4%B1k/499332675?i=499332705" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Dreaming of You</div>
+          <div class="song-meta">Selena · 1995 · Dreaming of You (released after her death; peaked at No. 22, the Texas Tejano star's highest Hot 100 hit)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/dreaming-of-you/1440826979?i=1440827543" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
