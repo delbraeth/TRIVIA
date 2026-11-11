@@ -22,6 +22,14 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 11 | Washington | Olympia (not Seattle; admitted 42nd state Nov 11, 1889; territorial capital) |
+| Nov 11 | North Rhine-Westphalia (Germany) | Düsseldorf (not Cologne, where Carnival opens 11/11 at 11:11) |
+| Nov 11 | Queensland (Australia) | Brisbane (Bjelke-Petersen Senate appointment; Whitlam dismissed Nov 11, 1975) |
+| Nov 11 | Hauts-de-France (France) | Lille (Armistice signed near Compiègne; de Gaulle birthplace) |
+| Nov 10 | Coahuila (Mexico) | Saltillo (not Monterrey; Boquillas del Carmen across from Big Bend; SCOTUS 8–1 Big Bend wall ruling) |
+| Nov 10 | Ontario (Canada) | Toronto (Edmund Fitzgerald sank in Canadian waters of Lake Superior Nov 10, 1975) |
+| Nov 10 | Michigan | Lansing (not Detroit; AL ROY Kevin McGonigle, Tigers) |
+| Nov 10 | Wales | Cardiff (capital since 1955; Richard Burton born Pontrhydyfen Nov 10, 1925) |
 | Nov 9 | Brandenburg (Germany) | Potsdam (surrounds Berlin; Potsdam Conference 1945; Glienicke 'Bridge of Spies') |
 | Nov 9 | Saxony (Germany) | Dresden (not Leipzig, where 1989 Monday demonstrations began) |
 | Nov 9 | West Virginia | Charleston (Jay Rockefeller died Nov 6; Wheeling was first capital) |
@@ -248,10 +256,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 19 | Kazakhstan | Astana (Nur-Sultan 2019-2022) |
 
 
-| Aug 17 | Ethiopia | Addis Ababa (HQ of the African Union) |
-| Aug 17 | Vietnam | Hanoi |
-| Aug 17 | Iceland | Reykjavík (northernmost capital of a sovereign state) |
-| Aug 17 | Fiji | Suva (on Viti Levu) |
 
 
 
@@ -261,6 +265,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 11 | Mickey Spillane's Mike Hammer (1984–87) | Mike Hammer | Stacy Keach (died Nov 10, 2026) |
+| Nov 11 | Murder One (1995–97) | Richard Cross | Stanley Tucci (born Nov 11, 1960; Emmy nom) |
+| Nov 11 | Davis Rules (1991–92) | Gunny Davis | Jonathan Winters (born Nov 11, 1925; Emmy win; WWII Marine) |
+| Nov 11 | Parenthood (NBC, 1990) | Garry Buckman | Leonardo DiCaprio (born Nov 11, 1974) |
+| Nov 11 | Blackadder Goes Forth (1989) | Capt. Edmund Blackadder / Lt. George | Rowan Atkinson / Hugh Laurie (finale "Goodbyeee" fades to poppies) |
+| Nov 10 | Sesame Street (1969– ) | Gordon (first) | Matt Robinson (premiered Nov 10, 1969; voiced Roosevelt Franklin) |
+| Nov 10 | Martin (1992–97) | Hustle Man | Tracy Morgan (born Nov 10, 1968) |
+| Nov 10 | King of the Hill (1997–2010) | Luanne Platter | Brittany Murphy (born Nov 10, 1977) |
+| Nov 10 | The Sinbad Show (1993–94, Fox) | David Bryan | Sinbad (born Nov 10, 1956) |
+| Nov 10 | So Weird (1999–2001, Disney Channel) | Molly Phillips | Mackenzie Phillips (born Nov 10, 1959) |
 | Nov 9 | A Christmas Carol (1984 CBS TV movie) | Ebenezer Scrooge | George C. Scott (filmed in Shrewsbury; refused Patton Oscar) |
 | Nov 9 | The Wild Wild West (1965–69) | Artemus Gordon | Ross Martin (Robert Conrad as James West) |
 | Nov 9 | Blue Thunder (1984 ABC) | Clinton Wonderlove ("JAFO") | Dana Carvey (James Farentino pilot; Bubba Smith, Dick Butkus) |
@@ -600,12 +614,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 17 | Columbo (1971–2003) | Lt. Columbo | Peter Falk |
-| Aug 17 | The Mary Tyler Moore Show (1970–77) | Lou Grant | Ed Asner |
-| Aug 17 | The Untouchables (1959–63) | Eliot Ness | Robert Stack |
-| Aug 17 | Sanford and Son (1972–77) | Fred Sanford | Redd Foxx |
-| Aug 17 | Miami Vice (1984–90) | Det. Sonny Crockett | Don Johnson |
-| Aug 17 | The Six Million Dollar Man (1974–78) | Steve Austin | Lee Majors |
 
 
 ---
@@ -614,6 +622,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 11 | Vonnegut (born Armistice Day 1922) novel with Billy Pilgrim "unstuck in time" | Slaughterhouse-Five (1969) |
+| Nov 11 | "In Flanders fields the poppies blow" (1915) poet | John McCrae |
+| Nov 11 | "They shall grow not old" — Remembrance ode | "For the Fallen" — Laurence Binyon (1914) |
+| Nov 11 | "Some corner of a foreign field / That is for ever England" | Rupert Brooke — "The Soldier" |
+| Nov 11 | Mexican author born Nov 11, 1928; The Death of Artemio Cruz | Carlos Fuentes |
+| Nov 11 | Painter who offered France Water Lilies panels Nov 12, 1918 (Orangerie) | Claude Monet |
+| Nov 10 | Irish writer born Nov 10, 1728; She Stoops to Conquer, The Vicar of Wakefield | Oliver Goldsmith |
+| Nov 10 | Martin Luther (born Nov 10, 1483) 95 Theses church door | All Saints' (Castle) Church, Wittenberg |
+| Nov 10 | Tim Rice (born Nov 10, 1944) musical with "Don't Cry for Me Argentina" | Evita |
+| Nov 10 | John P. Marquand (born Nov 10, 1893; 1938 Pulitzer The Late George Apley) spy character | Mr. Moto (Peter Lorre, 8 films) |
+| Nov 10 | Gary Fisketjon (died Nov 9) Vintage Contemporaries breakout, McInerney second-person debut | Bright Lights, Big City |
+| Nov 10 | Springfield IL poet born Nov 10, 1879; "The Congo"; traded rhymes for bread | Vachel Lindsay |
 | Nov 9 | A Christmas Carol — Scrooge's late partner (Ebenezer opens Nov 13) | Jacob Marley |
 | Nov 9 | Carl Sagan (born Nov 9, 1934) 1985 novel, 1997 Jodie Foster film | Contact |
 | Nov 9 | Poet born Nov 9, 1928; 1967 Pulitzer for Live or Die | Anne Sexton |
@@ -953,12 +973,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 17 | The Old Man and the Sea (1952) author | Ernest Hemingway |
-| Aug 17 | "It was the best of times…" opener | A Tale of Two Cities — Charles Dickens |
-| Aug 17 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai |
-| Aug 17 | "New World" Symphony No. 9 (1893) composer | Antonín Dvořák |
-| Aug 17 | "Do not go gentle into that good night" poet | Dylan Thomas |
-| Aug 17 | Beloved (1987) author | Toni Morrison |
 
 
 ---
@@ -967,6 +981,27 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 11 | History | Armistice signed ~5 a.m., took effect 11 a.m.; ~2,700 died last day; Henry Gunther killed 10:59 a.m. |
+| Nov 11 | History | Hitler made France sign 1940 surrender in the same Compiègne railway carriage |
+| Nov 11 | Grammar | "Veterans Day" has no apostrophe; renamed from Armistice Day 1954 |
+| Nov 11 | Science | Poppies bloomed on Western Front because shelling churned soil and rubble added lime |
+| Nov 11 | Pop culture | Singles' Day said to start with Nanjing University students, 1993 |
+| Nov 11 | Local | Boone family: Bob managed Reds 2001–03; sons Bret (Reds 1994–98) and Aaron (Reds 1997–2003) |
+| Nov 11 | Baseball | Sal Stewart 14th rookie since 1920 with 30 HR/100 RBI; drafted 32nd overall 2022 |
+| Nov 11 | Food | Sundae spelling said to avoid Sabbath offense; sold on Sundays when sodas banned |
+| Nov 11 | Football | Kirk Cousins traded back to Vikings (their starter 2018–23) |
+| Nov 11 | Hockey | NHL Global Series CAR–SEA in Helsinki; first Finland regular-season games 2017 |
+| Nov 10 | History | Turkey's 9:05 a.m. minute of silence every Nov 10 for Atatürk; Dolmabahçe clocks kept at 9:05 |
+| Nov 10 | Music | Lightfoot's 'Wreck of the Edmund Fitzgerald' No. 2 Hot 100 in 1976 |
+| Nov 10 | Myth | Stanley's 'Dr. Livingstone, I presume?' unconfirmed — diary pages missing |
+| Nov 10 | Gems | Hope Diamond mailed to Smithsonian by registered first-class mail, 1958 |
+| Nov 10 | TV | Sesame Street first aired on NET; PBS began 1970 |
+| Nov 10 | Marines | Birthday ball cake: oldest Marine passes first slice to youngest |
+| Nov 10 | Names | Martin Luther named for St. Martin of Tours (baptized Nov 11) |
+| Nov 10 | Film | Richard Burton 7 acting Oscar nominations, no wins; married Elizabeth Taylor twice |
+| Nov 10 | Geography | Big Bend NP follows Rio Grande 118 miles |
+| Nov 10 | NBA | Warriors 138–87 over Pelicans (51 pts); record margin 73 (MEM over OKC 2021) |
+| Nov 10 | Baseball | Reds' ROY winners list (Robinson, Rose, Helms, Bench, Zachry, Sabo, Williamson, India, Stewart) |
 | Nov 9 | History | Schabowski 'sofort, unverzüglich' — rules weren't meant to start until next day |
 | Nov 9 | Geography | Berlin Wall ~96 miles around West Berlin, stood 28 years (1961–89) |
 | Nov 9 | Myth | 1965 blackout baby boom debunked by 1970 study |
@@ -1628,19 +1663,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-| Aug 17 | History | Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid |
-| Aug 17 | Geography | Africa is the only continent in all four hemispheres |
-| Aug 17 | Science | Mpemba effect — hot water can freeze faster than cold under some conditions |
-| Aug 17 | Food | A pineapple plant takes ~2 years to produce one fruit |
-| Aug 17 | Animals | A group of owls is a "parliament" |
-| Aug 17 | Space | Jupiter's Great Red Spot shrinking — ~3 Earths wide a century ago, ~1 now |
-| Aug 17 | Language | "Nerd" first in print in Dr. Seuss's If I Ran the Zoo (1950) |
-| Aug 17 | Sports | Basketball's first hoops (1891) were peach baskets; ball retrieved by ladder after each score |
-| Aug 17 | Pop Culture | Sean Connery wore a toupee in every James Bond film |
-| Aug 17 | Did You Know | Eiffel Tower had a 20-year permit; saved because it worked as a radio antenna |
-| Aug 17 | Body | 2014 study: human nose can distinguish ~1 trillion smells (not 10,000) |
-| Aug 17 | Local (Cincinnati) | Music Hall built over a paupers' cemetery/Potter's Field; remains found in the 2016–17 restoration |
-| Aug 17 | Reds bar-bet | First MLB night game: May 24, 1935, Crosley Field, Reds 2–1 Phillies; FDR threw the switch from the White House |
 
 
 ---
@@ -1649,6 +1671,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 11 | November 11 (Mayflower Compact signed 1620 O.S., 41 men; Washington 42nd state 1889; Armistice 11th hour 1918, Compiègne carriage; Tomb of the Unknown Soldier dedicated by Harding 1921; Whitlam dismissed and Angola independence 1975. Births: Dostoevsky, Patton, Vonnegut, Jonathan Winters, Carlos Fuentes, Stanley Tucci, Demi Moore, Calista Flockhart, DiCaprio) |
+| Nov 10 | November 10 (Stanley finds Livingstone at Ujiji 1871, traditional date; Atatürk dies 9:05 a.m. 1938; Sesame Street premieres 1969 on NET; Edmund Fitzgerald sinks, 29 crew, 1975. Also Marine Corps founded 1775, Hope Diamond donated 1958; births Luther, Goldsmith, Schiller, Lindsay, Claude Rains, Marquand, Burton, Scheider, Tim Rice, Greg Lake, Ann Reinking, Sinbad, Mackenzie Phillips, Gaiman, Tracy Morgan, Pompeo, Warren G, Brittany Murphy, Eve, Diplo, Miranda Lambert) |
 | Nov 9 | November 9 (Kristallnacht 1938, ~30,000 Jewish men sent to camps; Northeast Blackout 1965, ~30M people up to 13 hrs, Ontario relay; first Rolling Stone issue 1967, Lennon cover; Berlin Wall opens 1989, Schabowski 'immediately'. Also Cambodia independence 1953; births Turgenev, Hedy Lamarr, Agnew, Dorothy Dandridge, Anne Sexton, Carl Sagan, Bob Gibson, Mary Travers, Lou Ferrigno, Eric Dane, Nick Lachey, Sisqó) |
 | Nov 6 | November 6 (Lincoln elected 1860, ~40%, not on ballot in 10 Southern states; Rutgers 6–Princeton 4, first college football game 1869, 25 per side; Meet the Press debuts on NBC 1947; Cannikin ~5 Mt test on Amchitka 1971. Also Tchaikovsky dies 1893; Tammy Baldwin elected 2012; born today Sax, Sousa, Naismith, James Jones, Sally Field, Glenn Frey, Lori Singer, Jerry Yang, Ethan Hawke, Emma Stone) |
 | Nov 5 | November 5 (Gunpowder Plot foiled 1605; Susan B. Anthony votes in Rochester 1872, fined $100 never paid; FDR third term 1940 over Willkie; Foreman KOs Moorer at 45, 1994. Also noted: Selden auto patent 1895, Monopoly released 1935, Nixon elected 1968, Back to the Future Nov 5 1955; births Tarbell, Durant, Roy Rogers, Vivien Leigh, Ike Turner, Elke Sommer, Garfunkel, Sam Shepard, Peter Noone, Bryan Adams, Tilda Swinton, Tatum O'Neal, Famke Janssen, Sam Rockwell, Corin Nemec, Kevin Jonas) |
@@ -1715,6 +1739,8 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 11 | Veterans Day; Remembrance Day / Armistice Day; National Sundae Day; Singles' Day (China); Pocky Day (Japan); Polish Independence Day; St. Martin's Day; Cologne Carnival opens 11:11 |
+| Nov 10 | U.S. Marine Corps Birthday (251st); Sesame Street Day; National Vanilla Cupcake Day; National Forget-Me-Not Day; National Civic Pride Day; World Science Day for Peace and Development; Atatürk Memorial Day (Turkey) |
 | Nov 9 | World Freedom Day; National Scrapple Day; World Adoption Day; British Pudding Day; Independence Day (Cambodia); Iqbal Day (Pakistan) |
 | Nov 6 | National Nachos Day; National Saxophone Day; National Basketball Day; National Fountain Pen Day (first Friday in November); Marooned Without a Compass Day; National Bittersweet Chocolate with Almonds Day; Flag Day Sweden/Finland (Gustavus Adolphus Day / Swedish Heritage Day); Constitution Day (Dominican Republic, Tajikistan); Green March Day (Morocco); UN Day for Preventing the Exploitation of the Environment in War |
 | Nov 5 | International Stout Day; National Doughnut Appreciation Day; National Chinese Take-Out Day; American Football Day; National Love Your Red Hair Day; National Men Make Dinner Day; Bank Transfer Day; Guy Fawkes Night (UK); World Tsunami Awareness Day |
@@ -1776,7 +1802,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 ---
 
 ---
-| Aug 17 | National Thrift Shop Day; Black Cat Appreciation Day; National Nonprofit Day; National Massachusetts Day; Balloon Airmail Day; National I Love My Feet Day; Indonesia Independence Day (1945); Gabon Independence Day (1960); Discovery Day (Yukon) |
 
 ---
 
@@ -1789,6 +1814,18 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 11 | Company founded 1999 in Jack Ma's Hangzhou apartment; made 11/11 Singles' Day a shopping event from 2009 | Alibaba |
+| Nov 11 | "Poppy Lady" who started remembrance poppy custom, 1918 | Moina Michael (University of Georgia) |
+| Nov 11 | Two towns claiming the ice-cream sundae | Two Rivers, WI (1881) and Ithaca, NY (1892) |
+| Nov 11 | Maker of Pocky since 1966 (Pocky Day 11/11) | Ezaki Glico |
+| Nov 11 | WWI armored vehicle code name (disguised as water carriers for Mesopotamia) | Tank (first used Flers-Courcelette, Sept 1916) |
+| Nov 11 | Database company founded 1980 by Roger Sippl (died Nov 9); IBM bought 2001 ~$1B | Informix (orig. Relational Database Systems) |
+| Nov 10 | Philadelphia tavern where first Continental Marines recruited, Nov 10, 1775 | Tun Tavern (Capt. Samuel Nicholas) |
+| Nov 10 | Nonprofit founded 1968 by Joan Ganz Cooney & Lloyd Morrisett | Children's Television Workshop (Sesame Workshop) |
+| Nov 10 | Windows announced Nov 10, 1983 — internal code name | Interface Manager (1.0 shipped Nov 1985) |
+| Nov 10 | First U.S. direct-dial long-distance call Nov 10, 1951 from Englewood NJ mayor | Alameda, CA (Mayor Frank Osborne) |
+| Nov 10 | City where Harlem Globetrotters began, 1926 (Geese Ausbie died Nov 8) | Chicago (Savoy Big Five; Abe Saperstein) |
+| Nov 10 | 1796 American Cookery author, earliest 'cake to bake in small cups' | Amelia Simmons |
 | Nov 9 | Magazine first issue Nov 9, 1967 (Wenner & Ralph J. Gleason) | Rolling Stone |
 | Nov 9 | Hedy Lamarr (born Nov 9, 1914) & George Antheil 1942 patent | Frequency hopping (88 frequencies like piano keys) |
 | Nov 9 | Town where Comcast began, 1963 (Julian Brodsky died Nov 5) | Tupelo, Mississippi |
@@ -2134,6 +2171,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 11 | Single Ladies (Put a Ring on It) | Beyoncé | 2008 |
+| Nov 11 | American Soldier | Toby Keith | 2003 |
+| Nov 11 | My Heart Will Go On | Céline Dion | 1997 |
+| Nov 11 | Searchin' My Soul | Vonda Shepard | 1998 |
+| Nov 11 | November Rain | Guns N' Roses | 1991 |
+| Nov 10 | Let Me Blow Ya Mind | Eve feat. Gwen Stefani | 2001 |
+| Nov 10 | Pon de Floor | Major Lazer feat. Vybz Kartel | 2009 |
+| Nov 10 | Wide Open Spaces | Dixie Chicks | 1998 |
+| Nov 10 | Şımarık | Tarkan | 1997 |
+| Nov 10 | Dreaming of You | Selena | 1995 |
 | Nov 9 | Freedom! '90 | George Michael | 1990 |
 | Nov 9 | One | U2 | 1991 |
 | Nov 9 | Thong Song | Sisqó | 2000 |
@@ -2669,88 +2716,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
 
 
-
-## August 17, 2026 (v47)
-
-### Capitals
-| Week | Question | Answer |
-|------|----------|--------|
-| Aug 17 | Ethiopia | Addis Ababa (also HQ of the African Union) |
-| Aug 17 | Vietnam | Hanoi (not Ho Chi Minh City) |
-| Aug 17 | Iceland | Reykjavík (northernmost capital of a sovereign state) |
-| Aug 17 | Fiji | Suva (on Viti Levu; people guess Nadi) |
-
-### Classic TV
-| Week | Show | Character | Actor |
-|------|------|-----------|-------|
-| Aug 17 | Columbo (1971–2003) | Lt. Columbo | Peter Falk |
-| Aug 17 | The Mary Tyler Moore Show (1970–77) | Lou Grant | Ed Asner |
-| Aug 17 | The Untouchables (1959–63) | Eliot Ness | Robert Stack |
-| Aug 17 | Sanford and Son (1972–77) | Fred Sanford | Redd Foxx |
-| Aug 17 | Miami Vice (1984–90) | Det. Sonny Crockett | Don Johnson |
-| Aug 17 | The Six Million Dollar Man (1974–78) | Steve Austin | Lee Majors |
-
-### Arts & Literature
-| Week | Topic / Question | Answer |
-|------|-----------------|--------|
-| Aug 17 | The Old Man and the Sea (1952) author | Ernest Hemingway (Pulitzer 1953, Nobel 1954) |
-| Aug 17 | "It was the best of times, it was the worst of times" opener | A Tale of Two Cities — Charles Dickens |
-| Aug 17 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai |
-| Aug 17 | "New World" Symphony No. 9 (1893) composer | Antonín Dvořák (written in New York) |
-| Aug 17 | "Do not go gentle into that good night" poet | Dylan Thomas (villanelle, for his dying father) |
-| Aug 17 | Beloved (1987) author | Toni Morrison (Pulitzer 1988; Nobel 1993) |
-
-### Founded & Invented
-| Week | Question | Answer |
-|------|----------|--------|
-| Aug 17 | Coca-Cola invented | John Pemberton, Atlanta pharmacist, 1886; bookkeeper Frank Robinson named it and wrote the script logo |
-| Aug 17 | Post-it Notes origin | Spencer Silver's too-weak adhesive at 3M 1968; Art Fry used it for hymnal bookmarks; national launch 1980 |
-| Aug 17 | Ford Motor Company founded | 1903, Detroit — Henry Ford's third attempt at a car company; Model T 1908 |
-| Aug 17 | Teflon inventor | Roy Plunkett, DuPont, 1938 — accident; a supposedly empty gas cylinder had polymerized to white powder |
-| Aug 17 | Amazon's original name | "Cadabra" — 1994, Bezos, Bellevue WA garage; changed after a lawyer misheard it as "cadaver" |
-| Aug 17 | Graeter's founded (Local) | 1870, Cincinnati — Louis Charles Greater, street cart; still French pot process, 2 gallons at a time |
-
-### General Trivia
-| Week | Category | Topic/Fact |
-|------|----------|-----------|
-| Aug 17 | History | Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid |
-| Aug 17 | Geography | Africa is the only continent in all four hemispheres |
-| Aug 17 | Science | Mpemba effect — hot water can freeze faster than cold under some conditions; named for a Tanzanian schoolboy, 1963 |
-| Aug 17 | Food | A pineapple plant takes about two years to produce a single fruit |
-| Aug 17 | Animals | A group of owls is a "parliament" |
-| Aug 17 | Space | Jupiter's Great Red Spot is shrinking — ~3 Earths wide a century ago, ~1 Earth now |
-| Aug 17 | Language | "Nerd" first appeared in print in Dr. Seuss's If I Ran the Zoo (1950) |
-| Aug 17 | Sports | Basketball's first hoops (1891) were peach baskets — someone climbed a ladder after every score |
-| Aug 17 | Pop Culture | Sean Connery wore a toupee in every James Bond film he made |
-| Aug 17 | Did You Know | Eiffel Tower had a 20-year permit and was slated for demolition; saved because it worked as a radio antenna |
-| Aug 17 | Body | A 2014 study estimated the human nose distinguishes ~1 trillion smells; the "10,000" figure came from a 1927 guess |
-| Aug 17 | Local (Cincinnati) | Music Hall was built over a Potter's Field / paupers' cemetery; remains uncovered again in the 2016–17 restoration |
-| Aug 17 | Reds bar-bet | First MLB night game: May 24, 1935, Crosley Field, Reds 2–1 Phillies; FDR threw the switch from the White House |
-
-### Songs
-| Week | Song | Artist | Year |
-|------|------|--------|------|
-| Aug 17 | Black Hole Sun | Soundgarden | 1994 |
-| Aug 17 | No Rain | Blind Melon | 1992 |
-| Aug 17 | Gangsta's Paradise | Coolio feat. L.V. | 1995 |
-| Aug 17 | Bitter Sweet Symphony | The Verve | 1997 |
-| Aug 17 | Clocks | Coldplay | 2002 |
-| Aug 17 | Seven Nation Army | The White Stripes | 2003 |
-
-### This Day in History
-| Week | Date Used | Events |
-|------|-----------|--------|
-| Aug 17 | August 17 (Robert Fulton's North River Steam Boat departs NYC for Albany 1807; Woodstock's scheduled final day 1969 — overran into Monday, Hendrix closed at ~9am Aug 18 to ~30,000 left; Double Eagle II completes first transatlantic balloon flight, lands near Paris 1978; first commercial compact disc pressed 1982 at a Philips plant in Germany — ABBA's The Visitors, 44th anniversary) | - |
-| Aug 17 | National Days: National Thrift Shop Day; Black Cat Appreciation Day; National Nonprofit Day; National Massachusetts Day; Balloon Airmail Day; National I Love My Feet Day; Indonesia Independence Day (1945); Gabon Independence Day (1960); Discovery Day (Yukon) | - |
-
-### Sports / Current Events
-| Week | Topic | Detail |
-|------|-------|--------|
-| Aug 17 | Reds | 59-64 (.480), 5th/last NL Central, 17.0 GB (Brewers 77-48); last 5 oldest→newest L-W-W-L-L (streak L2, 4-6 L10); won 1-0 over Miami Aug 14, then lost 8-4 and 7-1 to drop the homestand series; now behind Pittsburgh (61-65) for last place. TODAY: split doubleheader vs St. Louis at GABP — G1 1:40 PM ET (makeup of 5/24 PPD), G2 6:40 PM ET (Rhett Lowder). Source: MLB Stats API |
-| Aug 17 | Box Office | Spider-Man: Brand New Day #1 third straight weekend, $70.0M (-51%), $785.8M domestic in 17 days. NEW ANGLE USED: crossed $2B worldwide over the weekend — 8th film ever, new Sony record; and its $360M opening weekend broke Avengers: Endgame's all-time domestic opening record ($357M, held since 2019). Behind: The Odyssey $23.2M ($504.7M dom), The End of Oak Street $21.0M (new), PAW Patrol: The Dino Movie $20.5M (new). Weekend total $160.1M. Opening Aug 21-23: Mutiny (Jason Statham), Insidious: Out of the Further (Jacob Chase / Amelia Eve), The Magic Faraway Tree (Andrew Garfield, Claire Foy, Nicola Coughlan), Tony (Matt Johnson, Dominic Sessa as young Anthony Bourdain) |
-| Aug 17 | Sports | Tennis (LOCAL): Cincinnati Open running Aug 13-23 at Lindner Family Tennis Center, Mason OH — Sabalenka needed 6 match points to beat Talia Gibson 6-2 7-6(2); Ben Shelton upset by 79th-ranked Jaime Faria of Portugal 6-4 6-4 (Faria's first top-10 win); Rybakina d. Townsend, Andreeva d. Oliynykova 6-1 6-0, Swiatek (def champ) d. Arango 6-3 6-0, Gauff d. Samsonova 2-6 6-4 6-1, Auger-Aliassime d. Tsitsipas 6-3 7-5, Medvedev d. Trungelliti, Fritz d. Michelsen (smashed racquet). NFL (LOCAL): Bengals beat Lions 16-14 in preseason opener Aug 13 at Paycor; PS Wk2 Aug 20-23, Bengals at Eagles. Golf: Scottie Scheffler won the FedEx St. Jude Championship at -17, TPC Southwind; BMW Championship Aug 18-23 at Bellerive, top 50. MLB: Brewers 77-48 best record, took 3 of 4 at Dodger Stadium; Orioles swept Rays at the Trop to take the last AL WC spot (Rays best home record in the sport 41-21). WNBA: Lynx 92-87 over Aces Aug 15 (Olivia Miles 23/8, Napheesa Collier 19); Valkyries 24-9. NASCAR: Joey Logano won at Richmond Aug 15 (2nd of 2026); Kyle Larson won 4th Knoxville Nationals hours later. Soccer: Arsenal 3-0 Man City in the Community Shield Aug 16; PL opens Aug 21 (Arsenal v Coventry City); Barcelona agreed deal with Man City for Rodri; Ronaldo says "probably my last year"; Cameroon beat Malawi for first WAFCON title. Leagues Cup QFs Aug 25-26: Austin-Toluca, Leon-RSL, America-Columbus Crew, Chicago Fire-Monterrey |
-| Aug 17 | Deaths | Tommy John (83, LHP, 288 wins over 26 seasons, 4x All-Star, last pitch at 46; the 1974 Frank Jobe elbow reconstruction is named for him; died Sat Aug 15); Hayden Panettiere (36, Heroes / Nashville / Scream, found dead Aug 16 in Greenville SC, no signs of foul play, cause not released, memoir "This Is Me: A Reckoning" this year); Ruby Andrews (79, Chicago soul singer, "Casanova (Your Playing Days Are Over)", Aug 13); Prichard Colon (33, Puerto Rican boxer, brain injury from a 2015 bout, Aug 13); Christy Knowings (46, comedian, Nickelodeon's All That, Aug 11, severe asthma attack); Tyler Duckworth (44, MTV The Challenge: The Duel winner, announced Aug 13) |
-| Aug 17 | Current Events | Colombia earthquake (M7.4, Aug 10, San Jose del Palmar, most powerful this century) death toll now at least 288 with 200+ missing; Cali, Pereira, Quibdo, Manizales damaged. Historic Indiana flooding — 11+ inches of rain east of Indianapolis pushed the White River past its 1913 record, cresting ~24.9 ft at Noblesville, a foot over a 113-year mark; at least 7 deaths; Gov. Mike Braun state of emergency, National Guard, federal aid request. US and Iran missed their 60-day nuclear deadline; USS Washington heading to the Middle East to relieve the USS Lincoln. Kansas City Royals will play the 2027 Field of Dreams game in Dyersville IA vs the Red Sox |
 
 ## August 19, 2026 (v48)
 
@@ -3496,4 +3461,32 @@ NFL: CIN 34–17 at ATL (Madrid); SF 7–1; LAC 0–8; deadline Tue 4 p.m. ET. N
 ### Notes
 Run fired Monday Nov 9, 2026 (~12:02 UTC); header dated Monday, November 9, 2026. Nov 9 not previously used for This Day in History. Capitals: two German states (Brandenburg, Saxony) plus West Virginia and Tennessee. 5 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Only two wide releases found for Nov 13. Cloud git push refused by the proxy (403); pushed from the connected device shell. No memory rows older than 12 weeks (oldest Aug 17).
 
-_Last updated: November 9, 2026_
+## November 10, 2026 (v104)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Tue Nov 10 (through MNF Week 9, BUF 23–6 at MIN): Buffalo Bills 400.0 yds/g (3,200 total, 8 GP, 6th in total); top 5 Bills / Bears 398.7 (3,588, 9 GP, No. 1 total) / Lions 395.9 (3,167, 8) / Chiefs 392.4 (3,139, 8) / Rams 390.6 (3,515, 9). Bengals 383.9 yds/g 6th, 3,071 total 11th, 6–2. Next: Sun Nov 15 vs PIT 8:20 p.m. EST, NBC.
+
+### Box Office
+Weekend Nov 6–8 (same frame): #1 Godzilla Minus Zero $31.6M, ~$63M worldwide. Fun fact used: 2nd-biggest US opening for non-English live-action film; could pass Life Is Beautiful ($57.2M) for No. 3 all-time gross in category; Yamazaki also did VFX (Minus One won VFX Oscar). Coming Nov 13–15: Ebenezer; How to Rob a Bank.
+
+### Sports / Deaths / Current Events
+MLB: Sal Stewart (CIN) NL ROY — 32 HR, 112 RBI, all 162 G; runners-up Benge, Wetherholt; 9th Red. AL ROY Kevin McGonigle (DET), 7.1 bWAR. NFL: BUF 23–6 at MIN; deadline Nov 10 4 p.m. ET — JAX got Jessie Bates III (ATL) and Davon Godchaux (NO), DET got Andre Cisco (NYJ). NBA: LAL 10–2 (124–114 at ATL); GSW 138–87 NOP; SAS 9–2; MIL 1–9. NHL: EDM 13–3–3 (3–1 vs NYR); VAN 3–16–1. ATP Finals start Sun Nov 15 Turin. FC Cincinnati wild card at Orlando Nov 19. Deaths: Hubert "Geese" Ausbie 88 (Nov 8, Globetrotters); Tommy Walsh 69 (Nov 9, Ground Force); Gary Fisketjon 72 (Nov 9, editor); Johnny McEvoy 81 (Nov 8); also Arpita Singh 89, Barry Daines 75. Current events: SCOTUS 8–1 lets Big Bend border wall resume (Jackson dissent); Russell Brand sentenced to 10½ years; Mississippi Senate Colom leads Hyde-Smith by 2,500+, county certification by Fri Nov 13; Alaska RCV possible Nov 18; Marine Corps 251st birthday; Veterans Day Nov 11.
+
+### Notes
+Run fired Tuesday Nov 10, 2026 (~12:02 UTC); header dated Tuesday, November 10, 2026. Nov 10 not previously used for This Day in History. 5 songs: Spotify IDs from artist/album embed pages (artist/release IDs via MusicBrainz url-rels), all oEmbed-verified; Apple links from Apple artist pages, titles verified (iTunes Search API returned 403 from the cloud). Cloud git push and GitHub contents API both refused by the session's git proxy (repo not in authorized set); sheet and this log saved to the connected trivia folder instead. Pruned Aug 17 rows from the main tables (12-week window).
+
+## November 11, 2026 (v105)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Wed Nov 11 (through MNF Week 9): Buffalo Bills 400.0 yds/g (3,200 total, 8 GP, 6th in total); top 5 Bills / Bears 398.7 (3,588, 9 GP, No. 1 total) / Lions 395.9 (3,167, 8) / Chiefs 392.4 (3,139, 8) / Rams 390.6 (3,515, 9). Bengals 383.9 yds/g 6th, 3,071 total 11th, 6–2. Next: Sun Nov 15 vs PIT 8:20 p.m. EST, NBC SNF.
+
+### Box Office
+Weekend Nov 6–8 (same frame): #1 Godzilla Minus Zero $31.6M (~$63M worldwide); Cat in the Hat $20.5M; Drummer Boy $9.3M; You Can See Everything $8.8M ($79.8M); Ramayana $8.6M. Fun fact used: first Japanese production filmed for IMAX; shot entirely in Japan Aug–Dec 2025; James Cameron offered to direct second unit; set in 1949. Coming Nov 13–15: Ebenezer, How to Rob a Bank, Paper Tiger (limited), Wild Horse Nine expanding to 2,000+.
+
+### Sports / Deaths / Current Events
+MLB: Sal Stewart NL ROY (9th Red, first since India 2021); McGonigle AL ROY (28 of 30 firsts); Pat Murphy first 3-straight NL MOY; Venable AL MOY; Cy Young Nov 11, MVP Nov 12. NFL: BUF 23–6 at MIN; deadline: Cousins LV→MIN, Mendoza named LV starter, Josh Downs to KC; TNF WSH at NYG. NCAA: CFP No. 2 rankings Georgia, Utah, Alabama, UCLA; Indiana to 9; Cincinnati at Iowa State Sat noon; Miami (OH) 34–17 Ohio (Bellisari debut). NBA: Flagg 43/10 vs IND; Wembanyama 40 pts 9 blk, SAS 9 straight; LAL 10–2; BOS 9–2; MIL 1–10. NHL: Hellebuyck (traded to NJ) booed in Winnipeg; CAR–SEA in Helsinki Nov 12 & 14. Tennis: Gauff d. Pegula 6–4 6–7 6–2 at WTA Finals (Indian Wells); ATP Finals Nov 15. MLS: FCC wild card at Orlando Nov 19; Messi back-to-back Golden Boot (26). Golf: LIV shutting down. Deaths: Stacy Keach 85 (Nov 10), Bob Boone 78 (Nov 9), Hubert "Geese" Ausbie 88, Tommy Walsh 69, Gary Fisketjon 72, Dai Henwood 48, Danny Kelly 69, Johnny McEvoy 81, Rochelle Fleming 72, Roger Sippl 71, Ballabriggs 25. News: Massie 8 impeachment articles vs Hegseth, vote expected Nov 11; Trump questions midterm results; Colom +2,500 MS; CNN projects Boebert loses to Eileen Laubacher; Van Hollen open to challenging Schumer; Oct CPI +0.4% (core +0.3%); Iran "positive momentum," tankers moved from RAF Mildenhall; ANC 31% in SA local elections; Salon closed after 31 years; CA Prop 40 billionaire tax failed.
+
+### Notes
+Run fired Wednesday Nov 11, 2026 (~12:02 UTC); header dated Wednesday, November 11, 2026. Nov 11 not previously used for This Day in History. This log was built from the Nov 10 run's unpublished pending log (which included the Nov 10 rows); the Nov 10 sheet was published to the archive in this run. 5 songs: Spotify IDs from artist/album embed pages (IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push and GitHub API refused by the session git proxy; pushed from the connected device shell. Pruned 48 table rows and 1 per-run sections dated before Aug 19.
+
+_Last updated: November 11, 2026_
