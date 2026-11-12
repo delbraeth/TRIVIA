@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 12 | Mississippi | Jackson (Scott Colom won Senate seat, first MS Dem Senate win since 1982) |
+| Nov 12 | Guangdong (China) | Guangzhou (Sun Yat-sen born Nov 12, 1866; formerly Canton) |
+| Nov 12 | Tyrol (Austria) | Innsbruck (Austria became republic Nov 12, 1918; 1964 & 1976 Winter Olympics) |
+| Nov 12 | Barcelona is capital of which region (Spain) | Catalonia (Spain general strike, 55,000 marched in Barcelona) |
 | Nov 11 | Washington | Olympia (not Seattle; admitted 42nd state Nov 11, 1889; territorial capital) |
 | Nov 11 | North Rhine-Westphalia (Germany) | Düsseldorf (not Cologne, where Carnival opens 11/11 at 11:11) |
 | Nov 11 | Queensland (Australia) | Brisbane (Bjelke-Petersen Senate appointment; Whitlam dismissed Nov 11, 1975) |
@@ -250,10 +254,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Bolivia | Sucre (constitutional capital; La Paz is seat of government) |
 | Aug 20 | Ghana | Accra |
 | Aug 20 | Nepal | Kathmandu |
-| Aug 19 | Mongolia | Ulaanbaatar (coldest national capital on Earth) |
-| Aug 19 | Morocco | Rabat (not Casablanca/Marrakesh) |
-| Aug 19 | New Zealand | Wellington (southernmost capital of a sovereign state) |
-| Aug 19 | Kazakhstan | Astana (Nur-Sultan 2019-2022) |
 
 
 
@@ -265,6 +265,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 12 | Boston Common (1996–97) | Boyd Pritchett | Anthony Clark (died Nov 10, 2026) |
+| Nov 12 | Young Hercules (1998–99) | Hercules | Ryan Gosling (born Nov 12, 1980) |
+| Nov 12 | Will & Grace (1998–2006) | Karen Walker | Megan Mullally (born Nov 12, 1958; two Emmys) |
+| Nov 12 | Star Trek: Deep Space Nine (1993–99) | Grand Nagus Zek | Wallace Shawn (born Nov 12, 1943) |
+| Nov 12 | Get Real (1999–2000) | Meghan Green | Anne Hathaway (born Nov 12, 1982; Jesse Eisenberg as brother) |
+| Nov 12 | Lou Grant (1977–82) | Lou Grant | Ed Asner (sitcom-to-drama spinoff of The Mary Tyler Moore Show) |
 | Nov 11 | Mickey Spillane's Mike Hammer (1984–87) | Mike Hammer | Stacy Keach (died Nov 10, 2026) |
 | Nov 11 | Murder One (1995–97) | Richard Cross | Stanley Tucci (born Nov 11, 1960; Emmy nom) |
 | Nov 11 | Davis Rules (1991–92) | Gunny Davis | Jonathan Winters (born Nov 11, 1925; Emmy win; WWII Marine) |
@@ -603,12 +609,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Hogan's Heroes (1965–71) | Col. Wilhelm Klink | Werner Klemperer |
 | Aug 20 | Hill Street Blues (1981–87) | Capt. Frank Furillo | Daniel J. Travanti |
 | Aug 20 | Twin Peaks (1990–91) | Special Agent Dale Cooper | Kyle MacLachlan |
-| Aug 19 | Green Acres (1965–71) | Oliver Wendell Douglas | Eddie Albert |
-| Aug 19 | The Fugitive (1963–67) | Dr. Richard Kimble | David Janssen |
-| Aug 19 | Barney Miller (1975–82) | Capt. Barney Miller | Hal Linden |
-| Aug 19 | Dallas (1978–91) | J.R. Ewing | Larry Hagman |
-| Aug 19 | Magnum, P.I. (1980–88) | Jonathan Higgins | John Hillerman |
-| Aug 19 | Quantum Leap (1989–93) | Adm. Al Calavicci | Dean Stockwell |
 
 
 
@@ -622,6 +622,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 12 | "Declaration of Sentiments," Seneca Falls 1848 (author born Nov 12, 1815) | Elizabeth Cady Stanton |
+| Nov 12 | The NeverEnding Story / Momo author (born Nov 12, 1929) | Michael Ende |
+| Nov 12 | 1922 book by Scott search-party member (tent found Nov 12, 1912) | The Worst Journey in the World — Apsley Cherry-Garrard |
+| Nov 12 | 1955 Ealing comedy remade by Coens 2004 (Irma P. Hall Cannes Jury Prize) | The Ladykillers |
+| Nov 12 | "Tenth Muse," nun-poet of colonial Mexico (born Nov 12) | Sor Juana Inés de la Cruz |
+| Nov 12 | "The Death of the Author" (1967) critic, born Nov 12, 1915 | Roland Barthes |
 | Nov 11 | Vonnegut (born Armistice Day 1922) novel with Billy Pilgrim "unstuck in time" | Slaughterhouse-Five (1969) |
 | Nov 11 | "In Flanders fields the poppies blow" (1915) poet | John McCrae |
 | Nov 11 | "They shall grow not old" — Remembrance ode | "For the Fallen" — Laurence Binyon (1914) |
@@ -963,12 +969,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Invisible Man (1952) author | Ralph Ellison |
 | Aug 20 | "The Road Not Taken" poet | Robert Frost |
 | Aug 20 | One Hundred Years of Solitude (1967) author | Gabriel García Márquez (Macondo) |
-| Aug 19 | "It is a truth universally acknowledged…" opener | Pride and Prejudice (1813) — Jane Austen |
-| Aug 19 | The Persistence of Memory (1931) painter | Salvador Dalí |
-| Aug 19 | 1812 Overture composer | Pyotr Ilyich Tchaikovsky |
-| Aug 19 | The Grapes of Wrath (1939) author | John Steinbeck |
-| Aug 19 | "The Raven" (1845) poet | Edgar Allan Poe |
-| Aug 19 | "Happy families are all alike…" opener | Anna Karenina — Leo Tolstoy |
 
 
 
@@ -981,6 +981,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 12 | Sports | Comăneci first perfect 10, Montreal 1976; scoreboard showed 1.00 |
+| Nov 12 | Baseball | Sammy Sosa only player with three 60-HR seasons (66, 63, 64), led league in none |
+| Nov 12 | Baseball | Misiorowski fastball avg 100.6 mph; 105.5 mph fastest by a starter in Statcast era |
+| Nov 12 | Football | Dick Hoak only coach under both Chuck Noll and Bill Cowher |
+| Nov 12 | Football | Bengals White Bengal uniforms first worn vs Miami 2022; 5–1 in white helmets |
+| Nov 12 | Drinks | "Happy hour" originated in U.S. Navy 1910s shipboard entertainment |
+| Nov 12 | Weather | Nor'easter named for northeast winds off the Atlantic |
+| Nov 12 | History | Grace Kelly Oscar for The Country Girl, married Rainier 1956, career over at 26 |
+| Nov 12 | Space | Philae lost power ~60 hrs after comet landing (shadow); woke briefly June 2015 |
+| Nov 12 | Politics | Mississippi's last Democratic senator John Stennis (1947–89) |
 | Nov 11 | History | Armistice signed ~5 a.m., took effect 11 a.m.; ~2,700 died last day; Henry Gunther killed 10:59 a.m. |
 | Nov 11 | History | Hitler made France sign 1940 surrender in the same Compiègne railway carriage |
 | Nov 11 | Grammar | "Veterans Day" has no apostrophe; renamed from Armistice Day 1954 |
@@ -1647,19 +1657,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Local (Cincinnati) | WLW ran 500,000 watts 1934–39 — most powerful US station ever licensed |
 | Aug 20 | Local (Cincinnati) | Roebling Suspension Bridge (1866) world's longest at opening; Roebling then designed the Brooklyn Bridge |
 | Aug 20 | Reds bar-bet | Johnny Vander Meer — only back-to-back no-hitters in MLB history (June 11 & 15, 1938) |
-| Aug 19 | Science | Bananas are slightly radioactive (potassium-40); "banana equivalent dose" |
-| Aug 19 | Astronomy | Venus rotates backwards; its day (243 Earth days) is longer than its year (225) |
-| Aug 19 | Geography | Vatican City smallest country, ~0.19 sq mi |
-| Aug 19 | Language | "Set" has the most OED definitions (~430) |
-| Aug 19 | Animals | A group of porcupines is a "prickle" |
-| Aug 19 | Food | Worcestershire sauce contains fermented anchovies |
-| Aug 19 | History | Harvard founded 1636, ~30 yrs before calculus was invented |
-| Aug 19 | Sports | A smooth golf ball flies about half as far as a dimpled one |
-| Aug 19 | Pop Culture | Wilhelm Scream recorded 1951 for Distant Drums; used in 400+ films |
-| Aug 19 | Did You Know | Scotland's national animal is the unicorn |
-| Aug 19 | Biology | Humans share ~60% of DNA with bananas |
-| Aug 19 | Local (Cincinnati) | Cincinnati was "Porkopolis" — biggest US pork-packing center in the 1830s–40s |
-| Aug 19 | Reds bar-bet | 1869 Cincinnati Red Stockings — first openly all-salaried pro team; undefeated (~57–0–1) |
 
 
 
@@ -1671,6 +1668,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 12 | November 12 (Scott party bodies found 1912, 11 miles from depot; Austria republic 1918; Ellis Island closes 1954, Arne Petersen last; Columbia STS-2 first crewed craft to space twice 1981; Philae comet landing 2014. Born: Stanton, Sun Yat-sen, Grace Kelly, Ende, Shawn, Neil Young, Mullally, Comăneci, Sosa, Gosling, Hathaway) |
 | Nov 11 | November 11 (Mayflower Compact signed 1620 O.S., 41 men; Washington 42nd state 1889; Armistice 11th hour 1918, Compiègne carriage; Tomb of the Unknown Soldier dedicated by Harding 1921; Whitlam dismissed and Angola independence 1975. Births: Dostoevsky, Patton, Vonnegut, Jonathan Winters, Carlos Fuentes, Stanley Tucci, Demi Moore, Calista Flockhart, DiCaprio) |
 | Nov 10 | November 10 (Stanley finds Livingstone at Ujiji 1871, traditional date; Atatürk dies 9:05 a.m. 1938; Sesame Street premieres 1969 on NET; Edmund Fitzgerald sinks, 29 crew, 1975. Also Marine Corps founded 1775, Hope Diamond donated 1958; births Luther, Goldsmith, Schiller, Lindsay, Claude Rains, Marquand, Burton, Scheider, Tim Rice, Greg Lake, Ann Reinking, Sinbad, Mackenzie Phillips, Gaiman, Tracy Morgan, Pompeo, Warren G, Brittany Murphy, Eve, Diplo, Miranda Lambert) |
 | Nov 9 | November 9 (Kristallnacht 1938, ~30,000 Jewish men sent to camps; Northeast Blackout 1965, ~30M people up to 13 hrs, Ontario relay; first Rolling Stone issue 1967, Lennon cover; Berlin Wall opens 1989, Schabowski 'immediately'. Also Cambodia independence 1953; births Turgenev, Hedy Lamarr, Agnew, Dorothy Dandridge, Anne Sexton, Carl Sagan, Bob Gibson, Mary Travers, Lou Ferrigno, Eric Dane, Nick Lachey, Sisqó) |
@@ -1728,7 +1726,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 25 | August 25 (National Park Service created 1916 — 110th anniv; Matthew Webb first to swim the English Channel 1875; Great Moon Hoax begins in the NY Sun 1835; Liberation of Paris completed 1944; Linus Torvalds announces Linux 1991 — 35th anniv; Neil Armstrong dies 2012) |
 | Aug 24 | August 24 (Vesuvius AD 79; British burn Washington 1814; Windows 95 1995; Pluto demoted 2006) |
 | Aug 20 | August 20 (8MK Detroit first commercial radio broadcast 1920 → WWJ; NFL organizing meeting in Canton OH with Jim Thorpe 1920; Viking 1 launched 1975; Prague Spring crushed by Soviet invasion 1968; Lou Gehrig's record 23rd career grand slam 1938; Darwin's natural selection first in print, Linnean Society 1858) |
-| Aug 19 | August 19 (USS Constitution beats HMS Guerrière 1812 → "Old Ironsides"; Gorbachev put under house arrest in Soviet coup 1991 — 35th anniv; Google IPO on Nasdaq at $85 in 2004; Syncom 3 first geostationary satellite 1964) |
 
 
 
@@ -1739,6 +1736,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 12 | National Happy Hour Day; National Pizza with the Works Except Anchovies Day; National Chicken Soup for the Soul Day; World Pneumonia Day; Sun Yat-sen's birthday (Taiwan) |
 | Nov 11 | Veterans Day; Remembrance Day / Armistice Day; National Sundae Day; Singles' Day (China); Pocky Day (Japan); Polish Independence Day; St. Martin's Day; Cologne Carnival opens 11:11 |
 | Nov 10 | U.S. Marine Corps Birthday (251st); Sesame Street Day; National Vanilla Cupcake Day; National Forget-Me-Not Day; National Civic Pride Day; World Science Day for Peace and Development; Atatürk Memorial Day (Turkey) |
 | Nov 9 | World Freedom Day; National Scrapple Day; World Adoption Day; British Pudding Day; Independence Day (Cambodia); Iqbal Day (Pakistan) |
@@ -1796,7 +1794,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 25 | National Banana Split Day; National Whiskey Sour Day; National Park Service Founders Day; National Kiss and Make Up Day; National Secondhand Wardrobe Day; last day of National Aviation Week; Uruguay Independence Day (1825) |
 | Aug 24 | National Waffle Day; National Peach Pie Day; National Knife Day; International Strange Music Day; Kobe Bryant Day |
 | Aug 20 | National Radio Day; National Hazy IPA Day (third Thursday in August); National Bacon Lovers Day; National Chocolate Pecan Pie Day; National Accessible Air Travel Day; World Mosquito Day; International Day of Medical Transporters |
-| Aug 19 | National Aviation Day (Orville Wright's birthday, set by FDR 1939); World Photography Day; World Humanitarian Day; International Orangutan Day; National Potato Day; National Soft Ice Cream Day; "Black Cow" Root Beer Float Day; National Hot & Spicy Food Day; Afghanistan Independence Day (1919) |
 
 
 ---
@@ -1814,6 +1811,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 12 | Formal WorldWideWeb proposal, Nov 12, 1990, with Robert Cailliau | Tim Berners-Lee |
+| Nov 12 | Chicken Soup for the Soul (1993), ~144 rejections | Jack Canfield and Mark Victor Hansen |
+| Nov 12 | Chain from Monaghan brothers buying DomiNick's, Ypsilanti 1960 | Domino's (James traded half for a VW Beetle) |
+| Nov 12 | Chip company planned at a San Jose Denny's, 1993 | Nvidia (Huang, Malachowsky, Priem) |
+| Nov 12 | Original name of Art Rooney's 1933 Pittsburgh NFL team | Pittsburgh Pirates (Steelers from 1940) |
+| Nov 12 | Founder who named the Bengals in 1967 | Paul Brown (Browns named for him) |
 | Nov 11 | Company founded 1999 in Jack Ma's Hangzhou apartment; made 11/11 Singles' Day a shopping event from 2009 | Alibaba |
 | Nov 11 | "Poppy Lady" who started remembrance poppy custom, 1918 | Moina Michael (University of Georgia) |
 | Nov 11 | Two towns claiming the ice-cream sundae | Two Rivers, WI (1881) and Ithaca, NY (1892) |
@@ -2155,12 +2158,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Microsoft founded where/when | Albuquerque, New Mexico, 1975 (near MITS/Altair 8800) |
 | Aug 20 | Three-point seat belt | Nils Bohlin, Volvo, 1959 — Volvo released the patent for free |
 | Aug 20 | First Jacuzzi whirlpool pump | Candido Jacuzzi, 1956, for his son's rheumatoid arthritis |
-| Aug 19 | Microwave oven inventor | Percy Spencer (Raytheon, 1945) — chocolate bar melted near a magnetron |
-| Aug 19 | Riveted blue jeans patent | 1873 — Levi Strauss with tailor Jacob Davis of Reno |
-| Aug 19 | Nintendo founded / original product | 1889, Kyoto — hanafuda playing cards |
-| Aug 19 | Velcro inventor / inspiration | George de Mestral — burdock burrs on his dog, 1941; patented 1955 |
-| Aug 19 | Harley-Davidson founded | 1903, Milwaukee (William Harley + Davidson brothers) |
-| Aug 19 | Kroger founded (Local) | Barney Kroger, Cincinnati, 1883, with $372 of savings |
 
 
 
@@ -2171,6 +2168,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 12 | A Song for Mama | Boyz II Men | 1997 |
+| Nov 12 | It's Five O'Clock Somewhere | Alan Jackson & Jimmy Buffett | 2003 |
+| Nov 12 | Grace Kelly | MIKA | 2007 |
+| Nov 12 | Snow (Hey Oh) | Red Hot Chili Peppers | 2006 |
+| Nov 12 | Unknown Legend | Neil Young | 1992 |
 | Nov 11 | Single Ladies (Put a Ring on It) | Beyoncé | 2008 |
 | Nov 11 | American Soldier | Toby Keith | 2003 |
 | Nov 11 | My Heart Will Go On | Céline Dion | 1997 |
@@ -2505,12 +2507,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Last Resort | Papa Roach | 2000 |
 | Aug 20 | Maps | Yeah Yeah Yeahs | 2003 |
 | Aug 20 | Paper Planes | M.I.A. | 2007 |
-| Aug 19 | Come As You Are | Nirvana | 1991 |
-| Aug 19 | Sabotage | Beastie Boys | 1994 |
-| Aug 19 | No Diggity | Blackstreet feat. Dr. Dre & Queen Pen | 1996 |
-| Aug 19 | Karma Police | Radiohead | 1997 |
-| Aug 19 | Last Nite | The Strokes | 2001 |
-| Aug 19 | Feel Good Inc. | Gorillaz feat. De La Soul | 2005 |
 
 ---
 
@@ -2683,23 +2679,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-
-## August 19, 2026 (v48)
-
-### Reds
-| Aug 19 | Record | 60–66, 5th NL Central, 18.0 GB (Brewers 78–48), .476, 7.5 back of last NL WC; L1 streak; 4–6 last 10; last 5 L,L,L,W,L. Split DH with STL Aug 17 (L 1–2, W 6–5), shut out 3–0 Aug 18. Today: Cardinals at Reds 6:40 PM ET. Source: MLB Stats API |
-
-### Box Office
-| Aug 19 | #1 | Spider-Man: Brand New Day — $70,711,990 weekend (-51%), $786.5M domestic in 17 days, past $2.02B worldwide (highest-grossing Spider-Man ever). Fun facts used: $47M opening Monday = biggest single Monday in history (beat Black Panther 2018); $1B in six days, 2nd-fastest ever; dir. Destin Daniel Cretton. Behind: The Odyssey $23.6M, The End of Oak Street $21.0M (new), PAW Patrol: The Dino Movie $20.3M (new). Weekend total $163.1M / 61 titles |
-| Aug 19 | Coming Aug 21–23 | Mutiny (Jason Statham); Insidious: Out of the Further (Lin Shaye, Brandon Perea); Spa Weekend (Palm Springs comedy); The Magic Faraway Tree (Garfield/Foy/Coughlan) |
-
-### Sports / Deaths / Current Events
-| Aug 19 | Sports | Tennis (LOCAL): Cincinnati Open Aug 13–23, Lindner Family Tennis Center, Mason — Mon R32: Zverev d. Atmane 7-6(4) 7-6(6); Rafael Jodar d. Tabilo 6-2 6-1 (3 games lost); Fils upset Lehecka; de Minaur, Cobolli, Mensik, Tommy Paul through; Fonseca withdrew injured; semis Aug 22, final Aug 23. NFL (LOCAL): Bengals host Chicago Bears preseason Wk2 Sat Aug 22, 7:00 PM ET at Paycor. MLB: Brewers 78-48 best record; Rays 75-49 lead AL; Dodgers 11-5 over Rockies Mon w/ 2 Ohtani HRs; AL Central four teams within 5.5. Golf: BMW Championship Aug 20-23 at Bellerive CC, St. Louis (top 50 → top 30). WNBA: Fever offense surging into playoffs (Clark/Mitchell); first-ever Fever trip to Toronto Tempo Aug 18. NASCAR: Joey Logano won Cook Out 400 at Richmond Aug 15 (2nd of 2026). Soccer: Premier League 2026-27 opens Fri Aug 21; Arsenal 3-0 Man City Community Shield Aug 16 |
-| Aug 19 | Deaths | O.J. Brigance (56, Ravens/Dolphins LB, first tackle of Super Bowl XXXV, only man to win both a Grey Cup and Super Bowl, ALS complications Aug 17); Laura Cardoso (98, Brazilian actress, ~7 decades, Aug 18); Fulvio Lucisano (98, Italian film producer, Aug 18); Mike Bailey (84, English footballer/manager — Charlton, Wolves, England — dementia complications Aug 17); Vedrana Rudan (76, Croatian journalist/novelist, Aug 18); Abdelaziz Guerda (79, Algerian actor/stage director, Aug 17) |
-| Aug 19 | Current Events | Meta child-safety trial opened Aug 18 in Oakland (state AGs allege Facebook/Instagram designed to addict minors). Florida primaries Aug 18 — Angie Nixon, democratic socialist, won the Democratic US Senate primary. US–Iran 60-day MOU expired with no deal; White House won't extend. Oman oil spill now spread across 2,000+ sq km and fouling beaches. Tropical Storm Lala damaged homes on Hawaii's Big Island; flooding across Midwest/Appalachia, heat alerts in the South. Border-wall construction in Big Bend National Park paused pending on-the-ground review |
-
-
----
 
 ## August 20, 2026 (v49)
 
@@ -2716,23 +2695,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 20 | Current Events | Trump: "no talks or conversations" with Tehran, US naval blockade of Iranian ports remains in full force (mines cleared, other shipping passing); threatened to bomb Oman over its Iran/Hormuz shipping deal. Hormuz traffic slowed again Tuesday. 50% tariff increase on Canadian goods paused three days after Carney call. Israeli strikes killed at least seven Palestinians in Gaza. Sanctions imposed on ICC President and Senior Prosecutor. San Diego Padres staffer in ICE custody after Texas airport arrest. Meta child-safety trial (opened Aug 18, Oakland) ongoing |
 
 
-
-## August 19, 2026 (v48)
-
-### Reds
-| Aug 19 | Record | 60–66, 5th NL Central, 18.0 GB (Brewers 78–48), .476, 7.5 back of last NL WC; L1 streak; 4–6 last 10; last 5 L,L,L,W,L. Split DH with STL Aug 17 (L 1–2, W 6–5), shut out 3–0 Aug 18. Today: Cardinals at Reds 6:40 PM ET. Source: MLB Stats API |
-
-### Box Office
-| Aug 19 | #1 | Spider-Man: Brand New Day — $70,711,990 weekend (-51%), $786.5M domestic in 17 days, past $2.02B worldwide (highest-grossing Spider-Man ever). Fun facts used: $47M opening Monday = biggest single Monday in history (beat Black Panther 2018); $1B in six days, 2nd-fastest ever; dir. Destin Daniel Cretton. Behind: The Odyssey $23.6M, The End of Oak Street $21.0M (new), PAW Patrol: The Dino Movie $20.3M (new). Weekend total $163.1M / 61 titles |
-| Aug 19 | Coming Aug 21–23 | Mutiny (Jason Statham); Insidious: Out of the Further (Lin Shaye, Brandon Perea); Spa Weekend (Palm Springs comedy); The Magic Faraway Tree (Garfield/Foy/Coughlan) |
-
-### Sports / Deaths / Current Events
-| Aug 19 | Sports | Tennis (LOCAL): Cincinnati Open Aug 13–23, Lindner Family Tennis Center, Mason — Mon R32: Zverev d. Atmane 7-6(4) 7-6(6); Rafael Jodar d. Tabilo 6-2 6-1 (3 games lost); Fils upset Lehecka; de Minaur, Cobolli, Mensik, Tommy Paul through; Fonseca withdrew injured; semis Aug 22, final Aug 23. NFL (LOCAL): Bengals host Chicago Bears preseason Wk2 Sat Aug 22, 7:00 PM ET at Paycor. MLB: Brewers 78-48 best record; Rays 75-49 lead AL; Dodgers 11-5 over Rockies Mon w/ 2 Ohtani HRs; AL Central four teams within 5.5. Golf: BMW Championship Aug 20-23 at Bellerive CC, St. Louis (top 50 → top 30). WNBA: Fever offense surging into playoffs (Clark/Mitchell); first-ever Fever trip to Toronto Tempo Aug 18. NASCAR: Joey Logano won Cook Out 400 at Richmond Aug 15 (2nd of 2026). Soccer: Premier League 2026-27 opens Fri Aug 21; Arsenal 3-0 Man City Community Shield Aug 16 |
-| Aug 19 | Deaths | O.J. Brigance (56, Ravens/Dolphins LB, first tackle of Super Bowl XXXV, only man to win both a Grey Cup and Super Bowl, ALS complications Aug 17); Laura Cardoso (98, Brazilian actress, ~7 decades, Aug 18); Fulvio Lucisano (98, Italian film producer, Aug 18); Mike Bailey (84, English footballer/manager — Charlton, Wolves, England — dementia complications Aug 17); Vedrana Rudan (76, Croatian journalist/novelist, Aug 18); Abdelaziz Guerda (79, Algerian actor/stage director, Aug 17) |
-| Aug 19 | Current Events | Meta child-safety trial opened Aug 18 in Oakland (state AGs allege Facebook/Instagram designed to addict minors). Florida primaries Aug 18 — Angie Nixon, democratic socialist, won the Democratic US Senate primary. US–Iran 60-day MOU expired with no deal; White House won't extend. Oman oil spill now spread across 2,000+ sq km and fouling beaches. Tropical Storm Lala damaged homes on Hawaii's Big Island; flooding across Midwest/Appalachia, heat alerts in the South. Border-wall construction in Big Bend National Park paused pending on-the-ground review |
-
-
----
 
 ## August 20, 2026 (v49)
 
@@ -3489,4 +3451,18 @@ MLB: Sal Stewart NL ROY (9th Red, first since India 2021); McGonigle AL ROY (28 
 ### Notes
 Run fired Wednesday Nov 11, 2026 (~12:02 UTC); header dated Wednesday, November 11, 2026. Nov 11 not previously used for This Day in History. This log was built from the Nov 10 run's unpublished pending log (which included the Nov 10 rows); the Nov 10 sheet was published to the archive in this run. 5 songs: Spotify IDs from artist/album embed pages (IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push and GitHub API refused by the session git proxy; pushed from the connected device shell. Pruned 48 table rows and 1 per-run sections dated before Aug 19.
 
-_Last updated: November 11, 2026_
+## November 12, 2026 (v106)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Thu Nov 12 (through MNF Week 9; TNF WSH at NYG not yet played): Buffalo Bills 400.0 yds/g (3,200 total, 8 GP, 6th in total); top 5 Bills / Bears 398.7 (3,588, 9 GP, No. 1 total) / Lions 395.9 (3,167, 8) / Chiefs 392.4 (3,139, 8) / Rams 390.6 (3,515, 9). Bengals 383.9 yds/g 6th, 3,071 total 11th, 6–2 (tied with PIT atop AFC North; PIT won Week 3 30–27). Next: Sun Nov 15 vs PIT 8:20 p.m. EST, NBC SNF, White Bengal uniforms.
+
+### Box Office
+Weekend Nov 6–8 (same frame): #1 Godzilla Minus Zero $31.6M (~$63M worldwide). Fun fact used: 39th Godzilla film; star Ryunosuke Kamiki voiced Taki in Your Name; NYFF premiere. Coming Nov 13–15: Ebenezer (forecast ~$20–27M), Ghost Soldier (Caviezel, dir. William Eubank, opened Wed Nov 11), How to Rob a Bank, Paper Tiger (limited).
+
+### Sports / Deaths / Current Events
+MLB: unanimous Cy Youngs Jacob Misiorowski (MIL, 16–5, 1.80, 252 K) and Cam Schlittler (NYY, 1.95); MVP finalists AL Álvarez/Caminero/Witt, NL Ohtani/Crow-Armstrong/Turang, announced Nov 12. NCAA hoops: Michigan State 79–73 Duke, Kansas 89–69 Kentucky (Champions Classic). NBA: Spurs 10 straight (10–2), Lakers 11–2, Celtics 10–2, Bucks 1–11. NHL: Kucherov hat trick, TB 8–3 BUF; EDM 14–3–3. Tennis: Andreeva d. Sabalenka 6–4, 6–0; Nosková d. Gauff 6–3, 6–3 (WTA Finals). Golf: Austin Championship. MLS: FC Cincinnati at Orlando Nov 19. Deaths: Anthony Clark 62, Irma P. Hall 91, Dick Hoak 86; also Jim Herd 87, Bunker Roy 81, G. William Whitehurst 101. News: Colom wins MS Senate; Flatbush building collapse (at least 5 dead); House blocks Hegseth impeachment; Nvidia board reportedly moving to oust Jensen Huang; nor'easter first snow; COP31 Antalya; Spain general strike.
+
+### Notes
+Run fired Thursday Nov 12, 2026 (~12:02 UTC); header dated Thursday, November 12, 2026. Nov 12 not previously used for This Day in History. 5 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push refused by the session git proxy; pushed from the connected device shell.
+
+_Last updated: November 12, 2026_
