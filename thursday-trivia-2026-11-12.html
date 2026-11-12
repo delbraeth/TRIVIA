@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 12, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Thursday, November 12, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 12</a>
+  <a href="./thursday-trivia-2026-11-11.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 11</a>
+  <a href="./thursday-trivia-2026-11-10.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 10</a>
+  <a href="./thursday-trivia-2026-11-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 9</a>
+  <a href="./thursday-trivia-2026-11-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 6</a>
+  <a href="./thursday-trivia-2026-11-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 5</a>
+  <a href="./thursday-trivia-2026-11-04.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 4</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">400.0</div>
+      <div class="nfl-team">Buffalo Bills — yards per game</div>
+      <div class="nfl-sub">3,200 total yards (6th in total) · 8 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Buffalo Bills</strong> — 400.0/g &nbsp;<span style="color:#777;">(3,200 yds, 8 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 398.7/g &nbsp;<span style="color:#777;">(3,588 yds, 9 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Detroit Lions</strong> — 395.9/g &nbsp;<span style="color:#777;">(3,167 yds, 8 GP)</span></li>
+        <li><span class="tag">4</span><strong>Kansas City Chiefs</strong> — 392.4/g &nbsp;<span style="color:#777;">(3,139 yds, 8 GP)</span></li>
+        <li><span class="tag">5</span><strong>Los Angeles Rams</strong> — 390.6/g &nbsp;<span style="color:#777;">(3,515 yds, 9 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">Through Week 9. No change since Monday night. Thursday night's Commanders–Giants game hasn't been played yet.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>383.9 yards per game, 6th</strong> in the NFL. <strong>3,071 total yards, 11th</strong>. Record: <strong>6–2</strong>, tied with Pittsburgh for first in the AFC North. The Steelers won the first meeting 30–27 in Week 3.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 15 vs. Pittsburgh Steelers, 8:20 p.m. EST</strong> <span style="font-weight:400;">(Sunday Night Football on NBC, Paycor Stadium; the Bengals wear their all-white "White Bengal" uniforms)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Thursday morning. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 6–8</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Godzilla Minus Zero</strong> (GKIDS) — <strong>$31.6M opening</strong>, about $63M worldwide</li>
+        <li>#2 The Cat in the Hat — $20.5M &nbsp;|&nbsp; #3 Drummer Boy — $9.3M</li>
+        <li>#4 You Can See Everything — $8.8M &nbsp;|&nbsp; #5 Ramayana: Rise of a Legend — $8.6M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> <em>Minus Zero</em> is the <strong>39th Godzilla film</strong>. Its star, <strong>Ryunosuke Kamiki</strong>, who plays former kamikaze pilot Kōichi Shikishima, is also the Japanese voice of Taki in the anime hit <em>Your Name</em> (2016). The film had its premiere at the New York Film Festival in September.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 13–15)</h3>
+        <ul>
+          <li><strong>Ebenezer</strong> (Paramount): Ti West directs Johnny Depp as Scrooge in a gothic version of <em>A Christmas Carol</em>, with Ian McKellen and Rupert Grint. It's forecast to open at about $20–27M, which could knock Godzilla out of first.</li>
+          <li><strong>Ghost Soldier</strong> (Sony, opened Wednesday for Veterans Day): William Eubank directs Jim Caviezel as a former Special Forces soldier who fights a company trying to take his neighbors' land.</li>
+          <li><strong>How to Rob a Bank</strong> (Amazon MGM): David Leitch's heist comedy with Nicholas Hoult and Zoë Kravitz. The robbers livestream their heists.</li>
+          <li><strong>Paper Tiger</strong> (limited; wide Nov 20): James Gray directs Adam Driver and Scarlett Johansson in a crime drama about two brothers and the Russian mob.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span>⚾ <strong>Both Cy Young votes were unanimous.</strong> In the NL, the Brewers' <strong>Jacob Misiorowski</strong> went 16–5 with a 1.80 ERA and 252 strikeouts. He also started the clinching Game 5 of the World Series. The Yankees' <strong>Cam Schlittler</strong> won the AL award with a 1.95 ERA. <strong>MVPs are announced tonight at 7 p.m. ET</strong> on MLB Network. The AL finalists are Yordan Álvarez, Junior Caminero and Bobby Witt Jr. The NL finalists are Shohei Ohtani, Pete Crow-Armstrong and Brice Turang.</li>
+        <li><span class="tag">NFL</span>🐅 The <strong>Bengals and Steelers are both 6–2</strong> going into Sunday night's game for first place in the AFC North. Pittsburgh is mourning <strong>Dick Hoak</strong>, who spent 45 years with the team (see Deaths). Tonight on TNF: Commanders at Giants, 8:15 p.m. on Prime Video.</li>
+        <li><span class="tag">NCAA</span>🏀 At the Champions Classic in Chicago, <strong>No. 5 Michigan State beat No. 2 Duke 79–73</strong>. Duke made 20 of 60 shots and missed its first eight threes. <strong>No. 15 Kansas beat No. 24 Kentucky 89–69</strong>. In football, Cincinnati plays at Iowa State on Saturday at noon.</li>
+        <li><span class="tag">NBA</span><strong>The Spurs have won 10 straight</strong> and are 10–2. Wembanyama scored 32 in Wednesday's 124–119 win over Chicago. The <strong>Lakers are 11–2</strong> after Luka Dončić scored 32 against Milwaukee, which is now 1–11. The Celtics (10–2) beat Toronto, and James Harden scored 32 as Cleveland beat the Knicks.</li>
+        <li><span class="tag">NHL</span><strong>Nikita Kucherov had a hat trick</strong> in Tampa Bay's 8–3 rout of Buffalo. Edmonton (14–3–3) beat Philadelphia in overtime. Carolina plays Seattle in Helsinki today.</li>
+        <li><span class="tag">Tennis</span>At the WTA Finals in Indian Wells, <strong>Mirra Andreeva beat Aryna Sabalenka 6–4, 6–0</strong>. She won the last 11 games and is in the semifinals. Sabalenka has to beat Elina Svitolina on Friday to advance. <strong>Linda Nosková beat Coco Gauff 6–3, 6–3</strong> and became the first player into the semis. The ATP Finals in Turin start Sunday.</li>
+        <li><span class="tag">Golf</span>The <strong>Austin Championship</strong> starts today at Barton Creek in Texas. It's one of the last events of the PGA Tour's fall season.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati plays its wild-card game at Orlando City</strong> on Thursday, Nov 19.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Anthony Clark</strong>, 62 (Nov 10). He played Greg Warner in all 122 episodes of CBS's <strong><em>Yes, Dear</em></strong> and starred in NBC's <em>Boston Common</em>. He also hosted <em>Last Comic Standing</em>. His co-star Mike O'Malley announced his death.</li>
+        <li><strong>Irma P. Hall</strong>, 91. A Dallas schoolteacher who <strong>became famous after 60</strong>, she played Mama Joe in <strong><em>Soul Food</em></strong> (1997). She won a Jury Prize at Cannes for the Coen brothers' <em>The Ladykillers</em> (2004).</li>
+        <li><strong>Dick Hoak</strong>, 86 (announced Nov 11). He spent <strong>45 years with the Steelers</strong>: a Pro Bowl running back from 1961 to 1970, then running backs coach from 1972 to 2006. He won <strong>five Super Bowl rings</strong> and coached both Franco Harris and Jerome Bettis.</li>
+        <li><strong>Stacy Keach</strong>, 85 (Nov 10). He played the title role in <em>Mike Hammer</em> and Ken Titus on <em>Titus</em>.</li>
+        <li><strong>Bob Boone</strong>, 78 (Nov 9). 🔴 A catcher with seven Gold Gloves who won the 1980 World Series with the Phillies. He managed the Reds from 2001 to 2003.</li>
+        <li style="color:#666;">Also: Jim Herd, 87, the TV executive who ran WCW wrestling in its early years; Bunker Roy, 81, founder of India's Barefoot College; G. William Whitehurst, 101, nine-term Virginia congressman; Hubert "Geese" Ausbie, 88, Harlem Globetrotters; Richard Lloyd, 75, guitarist for Television; Tommy Walsh, 69, from <em>Ground Force</em>; Gary Fisketjon, 72, book editor.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 12</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1912</strong> — A search party found the tent holding the frozen bodies of <strong>Robert Falcon Scott</strong> and two companions in Antarctica. They had died in March, about <strong>11 miles from a supply depot</strong>, on the way back from the South Pole.</li>
+        <li><strong>1918</strong> — The day after the Armistice, <strong>Austria declared itself a republic</strong>, ending more than 600 years of Habsburg rule.</li>
+        <li><strong>1954</strong> — <strong>Ellis Island closed</strong>. About 12 million immigrants passed through it from 1892 on. The last person released was a Norwegian sailor, Arne Petersen.</li>
+        <li><strong>1981</strong> — <strong>Columbia (STS-2)</strong> launched, and it became the <strong>first crewed spacecraft to go to space twice</strong>.</li>
+        <li><strong>2014</strong> — The European Space Agency's <strong>Philae</strong> made the first landing on a comet, 67P/Churyumov–Gerasimenko. Its harpoons didn't fire, so it bounced twice before stopping.</li>
+        <li style="color:#666;">Born today: Elizabeth Cady Stanton (1815), Sun Yat-sen (1866), Grace Kelly (1929), Michael Ende (1929), Wallace Shawn (1943), Neil Young (1945), Megan Mullally (1958), Nadia Comăneci (1961), Sammy Sosa (1968), Ryan Gosling (1980), Anne Hathaway (1982).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 12</h3>
+        <ul>
+          <li>🎉 National Happy Hour Day · National Pizza with the Works Except Anchovies Day · National Chicken Soup for the Soul Day</li>
+          <li>🎉 World Pneumonia Day · Sun Yat-sen's birthday (Taiwan)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>🗳️ <strong>Democrat Scott Colom beat Sen. Cindy Hyde-Smith in Mississippi</strong>, and Hyde-Smith conceded. It's the first time a Democrat has won a U.S. Senate race in Mississippi since 1982.</li>
+        <li>🏚️ A <strong>three-story building in Flatbush, Brooklyn, collapsed</strong> into the construction site next door on Wednesday afternoon. At least five people died and about 19 were injured. The city ordered all work at the site stopped.</li>
+        <li>🏛️ <strong>House Republicans blocked Rep. Massie's attempt to impeach</strong> Defense Secretary Pete Hegseth, in a vote that was almost entirely along party lines.</li>
+        <li>💻 <strong>Nvidia's board is reported to be preparing to remove CEO Jensen Huang</strong> after reports of two extramarital relationships. One was with an executive at a major customer that is under U.S. investigation. Shares fell about 8% after hours.</li>
+        <li>❄️ A <strong>nor'easter</strong> is bringing rain to the Northeast today and the season's first wet snow to the Appalachians and the mountains of New England and upstate New York from Thursday through Saturday.</li>
+        <li>🌍 The <strong>COP31 climate summit opened in Antalya, Turkey</strong>, with 91 national leaders. Trump and Xi did not attend. In <strong>Spain, millions joined a general strike</strong> over rents, which are up 87% in 10 years while wages are up 28%. Spain holds snap elections on Nov 29.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🗳️ Scott Colom just won a U.S. Senate seat in Mississippi. What is Mississippi's capital?</span><br><span class="a">Jackson (named for Andrew Jackson)</span></p>
+      <p><span class="q">🇨🇳 Sun Yat-sen was born today in 1866 in a village in China's Guangdong province. What is Guangdong's capital?</span><br><span class="a">Guangzhou (once called Canton in English)</span></p>
+      <p><span class="q">🇦🇹 Austria became a republic on this date in 1918. What is the capital of its Alpine state of Tyrol, which hosted the Winter Olympics in 1964 and 1976?</span><br><span class="a">Innsbruck</span></p>
+      <p><span class="q">🇪🇸 About 55,000 people marched in Barcelona during Spain's general strike. Barcelona is the capital of which autonomous region?</span><br><span class="a">Catalonia</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Before <em>Yes, Dear</em>, Anthony Clark played Boyd Pritchett, a Virginian who follows his sister to college in a big city. Which NBC sitcom was it (1996–97)?</span><br><span class="a"><em>Boston Common</em></span></p>
+      <p><span class="q">Ryan Gosling, born today in 1980, played the title role as a teenage demigod in which 1998–99 Fox Kids series?</span><br><span class="a"><em>Young Hercules</em> (a prequel to Kevin Sorbo's <em>Hercules</em>)</span></p>
+      <p><span class="q">Megan Mullally, born today in 1958, won two Emmys playing which rich, cocktail-loving assistant on <em>Will &amp; Grace</em>?</span><br><span class="a">Karen Walker</span></p>
+      <p><span class="q">Wallace Shawn, born today in 1943, played Zek, the Grand Nagus of the Ferengi, on which Star Trek series?</span><br><span class="a"><em>Star Trek: Deep Space Nine</em></span></p>
+      <p><span class="q">Anne Hathaway, born today in 1982, got her first big TV role as Meghan Green on which Fox family drama (1999–2000)?</span><br><span class="a"><em>Get Real</em> (Jesse Eisenberg played her brother)</span></p>
+      <p><span class="q">Which 1977–82 CBS drama took a sitcom character and made him a Los Angeles newspaper editor in an hour-long series?</span><br><span class="a"><em>Lou Grant</em> (Ed Asner, from <em>The Mary Tyler Moore Show</em>)</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Born today in 1815, which suffragist wrote the "Declaration of Sentiments" for the 1848 Seneca Falls Convention?</span><br><span class="a">Elizabeth Cady Stanton (it begins "all men and women are created equal")</span></p>
+      <p><span class="q">Born today in 1929, which German author wrote <em>The NeverEnding Story</em> (1979) and <em>Momo</em>?</span><br><span class="a">Michael Ende</span></p>
+      <p><span class="q">Apsley Cherry-Garrard was in the search party that found Scott's tent on this date in 1912. What is the title of his famous 1922 book about the expedition?</span><br><span class="a"><em>The Worst Journey in the World</em></span></p>
+      <p><span class="q">Irma P. Hall won a Cannes prize for a 2004 Coen brothers remake of which 1955 Ealing comedy that starred Alec Guinness?</span><br><span class="a"><em>The Ladykillers</em></span></p>
+      <p><span class="q">Born on Nov 12 (in 1648 or 1651), which nun and poet of colonial Mexico was called the "Tenth Muse"?</span><br><span class="a">Sor Juana Inés de la Cruz</span></p>
+      <p><span class="q">Born today in 1915, which French critic wrote the 1967 essay "The Death of the Author"?</span><br><span class="a">Roland Barthes</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">On Nov 12, 1990, which CERN scientist and Robert Cailliau published a formal proposal for a hypertext project called "WorldWideWeb"?</span><br><span class="a">Tim Berners-Lee</span></p>
+      <p><span class="q">It's Chicken Soup for the Soul Day. Which two motivational speakers published the first <em>Chicken Soup for the Soul</em> in 1993 after about 144 publishers turned it down?</span><br><span class="a">Jack Canfield and Mark Victor Hansen</span></p>
+      <p><span class="q">Pizza with the Works Day: which chain began in 1960 when brothers Tom and James Monaghan bought "DomiNick's" in Ypsilanti, Michigan?</span><br><span class="a">Domino's (James later traded his half for a Volkswagen Beetle)</span></p>
+      <p><span class="q">In 1993, Jensen Huang, Chris Malachowsky and Curtis Priem planned which chip company at a Denny's in San Jose?</span><br><span class="a">Nvidia</span></p>
+      <p><span class="q">When Art Rooney founded Pittsburgh's NFL team in 1933, what was it called?</span><br><span class="a">The Pittsburgh Pirates (renamed the Steelers in 1940)</span></p>
+      <p><span class="q">Ahead of Sunday's game: which coach and team founder named the Bengals in 1967, reviving the name of an earlier Cincinnati pro team?</span><br><span class="a">Paul Brown (the Browns are also named after him)</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Sports</span>At the 1976 Montreal Olympics, <strong>Nadia Comăneci</strong> (born today in 1961) scored the first perfect 10 in gymnastics. The scoreboard showed <strong>"1.00"</strong> because it could only display three digits.</li>
+        <li><span class="tag">Baseball</span><strong>Sammy Sosa</strong> (born today in 1968) is the only player with <strong>three 60-homer seasons</strong>: 66 in 1998, 63 in 1999 and 64 in 2001. He didn't lead the league in any of those years.</li>
+        <li><span class="tag">Baseball</span>Misiorowski's fastball averaged <strong>100.6 mph</strong>. In June he threw a 105.5 mph pitch, the fastest by a starting pitcher in the Statcast era.</li>
+        <li><span class="tag">Football</span>Dick Hoak is the <strong>only assistant coach who worked under both Chuck Noll and Bill Cowher</strong>.</li>
+        <li><span class="tag">Football</span>🐅 The Bengals first wore the all-white "White Bengal" uniforms against Miami in 2022. They're <strong>5–1 in white helmets</strong>.</li>
+        <li><span class="tag">Drinks</span>The phrase <strong>"happy hour"</strong> comes from the U.S. Navy in the 1910s, when it meant scheduled entertainment on board ship, such as boxing matches and movies. It came to mean drinking during Prohibition.</li>
+        <li><span class="tag">Weather</span>A <strong>nor'easter</strong> is named for its strong winds from the northeast, which blow in off the Atlantic as the storm moves up the coast.</li>
+        <li><span class="tag">History</span>Grace Kelly (born today in 1929) won the Best Actress Oscar for <em>The Country Girl</em> in 1955 and married Prince Rainier III of Monaco the next year, which <strong>ended her film career at age 26</strong>.</li>
+        <li><span class="tag">Space</span>Philae lost power about <strong>60 hours</strong> after landing, because it had come to rest in a shadow where its solar panels got little sun. It briefly woke up again in June 2015.</li>
+        <li><span class="tag">Politics</span>Mississippi's last Democratic senator was <strong>John Stennis</strong>, who served from 1947 to 1989.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">A Song for Mama</div>
+          <div class="song-meta">Boyz II Men · 1997 · <em>Soul Food</em> soundtrack (Irma P. Hall played Mama Joe in the film; Babyface wrote the song)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/a-song-for-mama/1440664619?i=1440665035" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">It's Five O'Clock Somewhere</div>
+          <div class="song-meta">Alan Jackson &amp; Jimmy Buffett · 2003 · Greatest Hits Vol. 2 (for National Happy Hour Day; Buffett's first No. 1 hit)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7KysI43rsjlhjTeWO6ePUq" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/its-five-oclock-somewhere-with-jimmy-buffett/270220161?i=270220272" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Grace Kelly</div>
+          <div class="song-meta">MIKA · 2007 · Life in Cartoon Motion (Grace Kelly born today 1929; No. 1 in the UK)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/grace-kelly/1440763481?i=1440763492" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Snow (Hey Oh)</div>
+          <div class="song-meta">Red Hot Chili Peppers · 2006 · Stadium Arcadium (for the nor'easter's first snow)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/snow-hey-oh/945562992?i=945568999" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Unknown Legend</div>
+          <div class="song-meta">Neil Young · 1992 · Harvest Moon (Neil Young born today 1945; written about his wife Pegi)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5IFFNFylEfKq5FvOuZUTBa" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/unknown-legend/72796976?i=72796793" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
