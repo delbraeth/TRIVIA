@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 13, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Friday, November 13, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-13.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 13</a>
+  <a href="./thursday-trivia-2026-11-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 12</a>
+  <a href="./thursday-trivia-2026-11-11.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 11</a>
+  <a href="./thursday-trivia-2026-11-10.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 10</a>
+  <a href="./thursday-trivia-2026-11-09.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 9</a>
+  <a href="./thursday-trivia-2026-11-06.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 6</a>
+  <a href="./thursday-trivia-2026-11-05.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 5</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">400.0</div>
+      <div class="nfl-team">Buffalo Bills — yards per game</div>
+      <div class="nfl-sub">3,200 total yards (7th in total) · 8 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Buffalo Bills</strong> — 400.0/g &nbsp;<span style="color:#777;">(3,200 yds, 8 GP)</span></li>
+        <li><span class="tag">2</span><strong>Chicago Bears</strong> — 398.7/g &nbsp;<span style="color:#777;">(3,588 yds, 9 GP — No. 1 in total yards)</span></li>
+        <li><span class="tag">3</span><strong>Detroit Lions</strong> — 395.9/g &nbsp;<span style="color:#777;">(3,167 yds, 8 GP)</span></li>
+        <li><span class="tag">4</span><strong>Kansas City Chiefs</strong> — 392.4/g &nbsp;<span style="color:#777;">(3,139 yds, 8 GP)</span></li>
+        <li><span class="tag">5</span><strong>Los Angeles Rams</strong> — 390.6/g &nbsp;<span style="color:#777;">(3,515 yds, 9 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">The top five didn't change after Thursday night's game, which Washington won 24–21 at the Giants. Both of those teams moved ahead of Buffalo and Cincinnati in total yards.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>383.9 yards per game, 6th</strong> in the NFL. <strong>3,071 total yards, 13th</strong> (down from 11th, after the Giants and Commanders passed them Thursday). Record: <strong>6–2</strong>, tied with Pittsburgh for first in the AFC North.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 15 vs. Pittsburgh Steelers, 8:20 p.m. EST</strong> <span style="font-weight:400;">(Sunday Night Football on NBC, Paycor Stadium. Then Monday, Nov 23 at Washington, 8:15 p.m. EST on ESPN)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Friday morning. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 6–8</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Godzilla Minus Zero</strong> (GKIDS) — <strong>$30.6M opening</strong> (final figure; the Sunday estimate was $31.6M). <strong>$39.1M</strong> in the U.S. and Canada through Wednesday.</li>
+        <li>#2 The Cat in the Hat — $20.0M &nbsp;|&nbsp; #3 Drummer Boy — $9.4M</li>
+        <li>#4 Ramayana — $8.9M &nbsp;|&nbsp; #5 You Can See Everything — $8.4M ($79.4M total)</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> Even with the lower final figure, it's still the <strong>biggest North American opening ever for a non-English international film</strong>. It made <strong>$3.1M on Veterans Day</strong>, the best first Wednesday ever for a foreign-language live-action film. One scene was shot on <strong>Nov 3, "Godzilla Day" in Japan</strong>, the anniversary of the original 1954 film's release.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 13–15)</h3>
+        <ul>
+          <li><strong>Ebenezer</strong> (Paramount, PG-13, opens today): Ti West directs Johnny Depp as Scrooge, with Ian McKellen as Marley, Tramell Tillman as the Ghost of Christmas Present and Rupert Grint as Bob Cratchit. It cost about $38M and has a split <strong>55% on Rotten Tomatoes</strong>.</li>
+          <li><strong>How to Rob a Bank</strong> (Amazon MGM): David Leitch's heist comedy with Nicholas Hoult and Zoë Kravitz. The robbers livestream their heists.</li>
+          <li><strong>Ghost Soldier</strong> (Sony): Jim Caviezel plays a former Special Forces soldier defending his neighbors' land. It opened Wednesday.</li>
+          <li><strong>Paper Tiger</strong> (limited; wide Nov 20): James Gray's crime drama with Adam Driver and Scarlett Johansson.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLB</span>⚾ <strong>Both MVPs were unanimous.</strong> The Cubs' <strong>Pete Crow-Armstrong</strong> beat Shohei Ohtani for the NL award: 45 HR, 41 steals and a major-league-best 9.8 WAR. 🔴 The Reds' <strong>Elly De La Cruz finished 4th</strong>. The Astros' <strong>Yordan Álvarez</strong> won in the AL. He hit .316 with 42 HR and led the majors in average, on-base and slugging, but finished <strong>one homer short of the Triple Crown</strong>.</li>
+        <li><span class="tag">NFL</span><strong>Commanders 24, Giants 21</strong> on Thursday night. Jayden Daniels threw two interceptions and Washington still won. 🐅 On Sunday night, the <strong>Bengals (6–2) host the Steelers (6–2)</strong> for first place in the AFC North.</li>
+        <li><span class="tag">NBA</span>🏀 <strong>Cade Cunningham scored a career-high 52</strong> with 11 assists in Detroit's 144–140 double-overtime win over Washington. Philadelphia (10–3) beat Toronto without LeBron James.</li>
+        <li><span class="tag">NHL</span>🏒 <strong>Carolina beat Seattle 4–1 in Helsinki</strong> to open the Global Series. Finland's Sebastian Aho scored twice at home. Matt Boldy had a hat trick for Minnesota (14–3–4), and Florida came back from three goals down to beat Detroit 5–4.</li>
+        <li><span class="tag">NCAA</span>The CFP committee has <strong>Georgia No. 1, then Utah, Alabama and UCLA</strong>. 🐾 <strong>Cincinnati (5–4) plays at Iowa State on Saturday at noon.</strong> Memphis beat USF 52–41 Thursday.</li>
+        <li><span class="tag">Tennis</span>At the WTA Finals, <strong>Jessica Pegula beat Linda Nosková</strong> and knocked out <strong>Coco Gauff</strong>. Sabalenka and Svitolina play today for the last semifinal spot. The semis are Saturday and the final is Sunday, the same day the ATP Finals start in Turin.</li>
+        <li><span class="tag">Golf</span>⛳ <strong>Trace Crowe shot a career-best 62</strong> to lead the Austin Championship by two. He's 117th in the FedEx Cup Fall standings and trying to keep his Tour card. Blades Brown, 19, shot 65 a week after winning in Mexico.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati plays its wild-card game at Orlando City</strong> on Thursday, Nov 19.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Stacy Keach</strong>, 85 (Nov 10). He played detective <strong>Mike Hammer</strong> on TV, Ken Titus on <em>Titus</em>, and the boxer in John Huston's <em>Fat City</em>. He was a Tony nominee.</li>
+        <li><strong>Anthony Clark</strong>, 62 (Nov 10). He played Greg Warner on CBS's <strong><em>Yes, Dear</em></strong>.</li>
+        <li><strong>Richard Posner</strong>, 87 (Nov 10). He was a federal appeals judge on the 7th Circuit from 1981 to 2017 and a founder of the <strong>"law and economics"</strong> movement. He's often called the most-cited legal scholar of the 20th century.</li>
+        <li><strong>Marsha Linehan</strong>, 83 (Nov 10). The psychologist who created <strong>dialectical behavior therapy (DBT)</strong>.</li>
+        <li><strong>JoBe Cerny</strong>, 78 (died Oct 30, announced Nov 10). For decades he was the <strong>voice of the Pillsbury Doughboy</strong>, giggle included.</li>
+        <li><strong>Bob Boone</strong>, 78 (Nov 9). 🔴 Reds manager from 2001 to 2003, a catcher with seven Gold Gloves, a 1980 World Series champion, and Aaron Boone's father.</li>
+        <li><strong>Dick Hoak</strong>, 86 (Nov 11). He spent 45 years with the Steelers, as a player and then a coach, and won five Super Bowl rings.</li>
+        <li style="color:#666;">Also: Irma P. Hall, 91 (<em>Soul Food</em>); Tony Richards, 69, W.A.S.P.'s original drummer; Brian Ahern, 81, producer of Emmylou Harris and Anne Murray; Dai Henwood, 48, New Zealand comedian; Alexander Darchiev, 66, Russia's ambassador to the U.S.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 13</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1927</strong> — The <strong>Holland Tunnel</strong> opened under the Hudson between New York and New Jersey. It was the first mechanically ventilated underwater tunnel for cars.</li>
+        <li><strong>1940</strong> — Disney's <strong><em>Fantasia</em></strong> premiered at the Broadway Theatre in New York, in "Fantasound," an early stereo system.</li>
+        <li><strong>1956</strong> — In <strong>Browder v. Gayle</strong>, the U.S. Supreme Court affirmed that segregated buses in Montgomery were unconstitutional. The Montgomery bus boycott ended about five weeks later.</li>
+        <li><strong>1982</strong> — The <strong>Vietnam Veterans Memorial</strong> was dedicated in Washington. Its black granite wall now lists more than 58,000 names.</li>
+        <li><strong>1985</strong> — The <strong>Nevado del Ruiz</strong> volcano erupted in Colombia, and mudflows buried the town of <strong>Armero</strong>. About 23,000 people died.</li>
+        <li style="color:#666;">Born today: St. Augustine (354), Edwin Booth (1833), Robert Louis Stevenson (1850), Louis Brandeis (1856), Garry Marshall (1934), Jean Seberg (1938), Whoopi Goldberg (1955), Jimmy Kimmel (1967), Steve Zahn (1967), Gerard Butler (1969).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 13</h3>
+        <ul>
+          <li>🎉 <strong>Friday the 13th</strong> · World Kindness Day · Sadie Hawkins Day</li>
+          <li>🎉 National Indian Pudding Day · National Hug a Musician Day · Symphonic Metal Day · Canterbury Anniversary Day (New Zealand)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>💻 <strong>Jensen Huang resigned as Nvidia's CEO and left its board</strong> on Thursday, after 33 years in charge. Reports of affairs had raised national-security questions, including one with a woman alleged to have worked for Chinese intelligence. <strong>CFO Colette Kress is interim CEO</strong>. At one point Thursday the stock was down more than 14%, and the company reports earnings Tuesday.</li>
+        <li>🏚️ The death toll from Wednesday's <strong>Brooklyn building collapse rose to eight</strong>, including two children.</li>
+        <li>🗳️ <strong>Scott Colom's Mississippi Senate win</strong> is still the big election story. In Alaska, <strong>Mary Peltola leads Sen. Dan Sullivan</strong> by about 2,500 votes, and ranked-choice tabulation could start Nov 18.</li>
+        <li>🕊️ Russia and Ukraine <strong>agreed in principle to a prisoner exchange</strong> at talks in Abu Dhabi, which could involve 1,000 to 1,500 people on each side. Witkoff and Kushner went on to Moscow.</li>
+        <li>🛢️ Iran says the <strong>Strait of Hormuz</strong> stays closed until the U.S. meets its conditions. Brent crude is above $90.</li>
+        <li>🎮 Pre-loading opened for <strong><em>Grand Theft Auto VI</em></strong> ahead of its Nov 19 release.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🌋 Armero, which was destroyed in 1985, was in which Colombian department, and what is that department's capital?</span><br><span class="a">Tolima. Its capital is Ibagué, Colombia's "musical capital."</span></p>
+      <p><span class="q">🚌 Browder v. Gayle (1956) ended bus segregation in which state capital?</span><br><span class="a">Montgomery, Alabama</span></p>
+      <p><span class="q">🇳🇿 It's Canterbury Anniversary Day in New Zealand. What is the main city and seat of the Canterbury region?</span><br><span class="a">Christchurch. New Zealand's national capital is Wellington.</span></p>
+      <p><span class="q">🐾 The Bearcats play at Iowa State in Ames on Saturday. What is Iowa's capital?</span><br><span class="a">Des Moines</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Whoopi Goldberg was born today in 1955. Which bartender did she play in Ten Forward on <em>Star Trek: The Next Generation</em>?</span><br><span class="a">Guinan</span></p>
+      <p><span class="q">Before his late-night show, Jimmy Kimmel (born today in 1967) co-hosted which Comedy Central show with Adam Carolla, starting in 1999? It ended each episode with women bouncing on trampolines.</span><br><span class="a"><em>The Man Show</em></span></p>
+      <p><span class="q"><em>Happy Days</em> creator Garry Marshall (born today in 1934) played network boss Stan Lansing on which CBS sitcom?</span><br><span class="a"><em>Murphy Brown</em></span></p>
+      <p><span class="q">In which syndicated 1987–90 horror series did cousins Micki and Ryan try to recover cursed antiques sold from their late uncle's shop, "Curious Goods"? The show had nothing to do with Jason.</span><br><span class="a"><em>Friday the 13th: The Series</em></span></p>
+      <p><span class="q">Tracy Scoggins (born today in 1953) played Monica Colby on <em>Dynasty</em> and which 1985–87 spinoff?</span><br><span class="a"><em>The Colbys</em></span></p>
+      <p><span class="q">For World Kindness Day: what did Fred Rogers change into at the start of every episode of <em>Mister Rogers' Neighborhood</em>?</span><br><span class="a">A zip-up cardigan sweater and sneakers. His mother knitted many of the sweaters.</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Born today in 354 in North Africa, which bishop of Hippo wrote <em>Confessions</em> and <em>The City of God</em>?</span><br><span class="a">St. Augustine. Its most famous line is "Grant me chastity and continence, but not yet."</span></p>
+      <p><span class="q">Which Yale undergraduate, at age 21, won the 1981 competition to design the Vietnam Veterans Memorial?</span><br><span class="a">Maya Lin</span></p>
+      <p><span class="q">Sadie Hawkins Day, when women ask men out, began in which cartoonist's comic strip in 1937?</span><br><span class="a">Al Capp, in <em>Li'l Abner</em></span></p>
+      <p><span class="q">Born today in 1833, he was America's most famous 19th-century Hamlet and once saved young Robert Todd Lincoln from being hit by a train. Who was he?</span><br><span class="a">Edwin Booth, the brother of John Wilkes Booth</span></p>
+      <p><span class="q">Which photojournalist's picture of 13-year-old Omaira Sánchez trapped in the Armero mud won World Press Photo of the Year?</span><br><span class="a">Frank Fournier (1986)</span></p>
+      <p><span class="q">Jean Seberg (born today in 1938) sold the <em>New York Herald Tribune</em> on Paris streets in which 1960 Jean-Luc Godard film?</span><br><span class="a"><em>Breathless</em> (<em>À bout de souffle</em>), with Jean-Paul Belmondo</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">The Holland Tunnel (1927) is named for which chief engineer, who died in 1924 before it was finished?</span><br><span class="a">Clifford Holland</span></p>
+      <p><span class="q">Which Chicago ad agency, also known for the Jolly Green Giant and Tony the Tiger, created the Pillsbury Doughboy in 1965?</span><br><span class="a">Leo Burnett. The Doughboy's official name is "Poppin' Fresh."</span></p>
+      <p><span class="q">In 1984, which 19-year-old started a computer company called "PC's Limited" in his University of Texas dorm room in Austin?</span><br><span class="a">Michael Dell (Dell Inc.)</span></p>
+      <p><span class="q">Del Casher and Brad Plunkett created the first wah-wah guitar pedal in 1966. Which jazz trumpeter's name did Vox put on it?</span><br><span class="a">Clyde McCoy (the "Clyde McCoy Wah-Wah")</span></p>
+      <p><span class="q">Yordan Álvarez's Astros started in 1962 under what name?</span><br><span class="a">The Houston Colt .45s. They became the Astros in 1965, when the Astrodome opened.</span></p>
+      <p><span class="q">Which psychologist developed dialectical behavior therapy (DBT) in the 1980s and 1990s?</span><br><span class="a">Marsha Linehan, who died this week</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Calendar</span>Today is <strong>2026's third Friday the 13th</strong>, after February and March. Three is the most a year can have. The next one is Aug 13, 2027.</li>
+        <li><span class="tag">Words</span>Fear of Friday the 13th is called <strong>paraskevidekatriaphobia</strong>, or friggatriskaidekaphobia. Fear of the number 13 by itself is triskaidekaphobia.</li>
+        <li><span class="tag">Movies</span>In the original <em>Friday the 13th</em> (1980), <strong>the killer is Jason's mother, Mrs. Voorhees</strong> (Betsy Palmer). Jason doesn't wear the hockey mask until <em>Part III</em> (1982).</li>
+        <li><span class="tag">Baseball</span>Crow-Armstrong is only the <strong>seventh player in the 40–40 club</strong> (40 HR and 40 steals in a season).</li>
+        <li><span class="tag">Baseball</span>Álvarez is the <strong>third Astros MVP</strong>, after Jeff Bagwell (1994) and José Altuve (2017). He played only 48 games in 2025 and 158 this year.</li>
+        <li><span class="tag">Food</span><strong>Indian pudding</strong> is a New England dessert of cornmeal, which colonists called "Indian meal," baked for hours with milk and molasses.</li>
+        <li><span class="tag">Business</span>Colette Kress has been Nvidia's CFO since 2013. In that time, yearly revenue went from about <strong>$4.1 billion to $215.9 billion</strong>.</li>
+        <li><span class="tag">Hockey</span>Sebastian Aho, who scored twice in Helsinki, was born in Rauma, Finland. A <strong>different Sebastian Aho</strong>, a Swedish defenseman, also plays in the NHL.</li>
+        <li><span class="tag">Golf</span>Miles Russell, a <strong>high school senior</strong>, shot 67 in the first round in Austin.</li>
+        <li><span class="tag">Geography</span>Nevado del Ruiz is <strong>about 17,450 feet</strong> tall. The 1985 disaster is the deadliest eruption since Mount Pelée in 1902.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Friday I'm in Love</div>
+          <div class="song-meta">The Cure · 1992 · <em>Wish</em> (for Friday the 13th, on a Friday)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/263aNAQCeFSWipk896byo6" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/friday-im-in-love/301011929?i=301011936" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Hands</div>
+          <div class="song-meta">Jewel · 1998 · <em>Spirit</em> (for World Kindness Day: "In the end, only kindness matters")</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/615auKcis6sGDrHk6UTeog" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/hands/1576800270?i=1576800571" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Travelin' Soldier</div>
+          <div class="song-meta">The Chicks (as Dixie Chicks) · 2002 · <em>Home</em> (a Vietnam-era love story; the Vietnam Veterans Memorial was dedicated today in 1982)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2reJIueYQgSXO55OCHnuQO" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/travelin-soldier/192677147?i=192677220" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Austin</div>
+          <div class="song-meta">Blake Shelton · 2001 · <em>Blake Shelton</em> (his debut single and first No. 1; for the Austin Championship)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/austin/663117762?i=663118389" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">I Believe</div>
+          <div class="song-meta">Fantasia · 2004 · <em>Free Yourself</em> (her <em>American Idol</em> winner's single; Disney's <em>Fantasia</em> premiered today in 1940)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2zZJnAlhgvW6DERn1tu3fb" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/i-believe/275765355?i=275765624" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
