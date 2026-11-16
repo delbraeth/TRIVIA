@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 16 | Oklahoma | Oklahoma City (statehood Nov 16, 1907; Guthrie first capital until 1910) |
+| Nov 16 | Cartagena is capital of which department (Colombia) | Bolívar (Independence of Cartagena observed) |
+| Nov 16 | Sint Eustatius | Oranjestad (same name as Aruba's capital; First Salute Nov 16, 1776) |
+| Nov 16 | Cajamarca region (Peru) | Cajamarca (Atahualpa captured Nov 16, 1532) |
 | Nov 13 | Tolima (Colombia) | Ibagué ("musical capital of Colombia"; Armero destroyed by Nevado del Ruiz mudflows Nov 13, 1985) |
 | Nov 13 | Alabama | Montgomery (Browder v. Gayle affirmed Nov 13, 1956, ending bus segregation) |
 | Nov 13 | Canterbury region (New Zealand) | Christchurch (Canterbury Anniversary Day; NZ capital Wellington) |
@@ -265,6 +269,11 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 16 | The Cosby Show (1984–92) | Denise Huxtable | Lisa Bonet (born Nov 16, 1967; spun off to A Different World) |
+| Nov 16 | Make Room for Daddy / The Danny Thomas Show (1953–64) | Linda Williams | Angela Cartwright (Brigitta in The Sound of Music film) |
+| Nov 16 | Logan's Run (1977–78 CBS series) | Jessica 6 | Heather Menzies (Louisa in The Sound of Music film; Gregory Harrison as Logan 5) |
+| Nov 16 | All That (1994–2005) "Good Burger" sketch | Ed | Kel Mitchell (National Fast Food Day) |
+| Nov 16 | The Iron Horse (1966–68) | Ben Calhoun | Dale Robertson (Oklahoma-born; won railroad in poker game) |
 | Nov 13 | Star Trek: The Next Generation (1987–94) | Guinan (Ten Forward bartender) | Whoopi Goldberg (born Nov 13, 1955) |
 | Nov 13 | The Man Show (1999–2004) | Co-host | Jimmy Kimmel (born Nov 13, 1967; with Adam Carolla; trampoline ending) |
 | Nov 13 | Murphy Brown (1988–98) | Network president Stan Lansing | Garry Marshall (born Nov 13, 1934; Happy Days creator) |
@@ -622,6 +631,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 16 | First musical to win Pulitzer for Drama (1932), co-written by George S. Kaufman (born Nov 16, 1889) | Of Thee I Sing (with Morrie Ryskind; Gershwins) |
+| Nov 16 | José Saramago (born Nov 16, 1922; Nobel 1998) novel of 'white blindness' epidemic | Blindness (1995) |
+| Nov 16 | 'Father of the Blues' (born Nov 16, 1873) 1914 standard | W.C. Handy — St. Louis Blues |
+| Nov 16 | The Sound of Music (Broadway Nov 16, 1959) source memoir | Maria von Trapp, The Story of the Trapp Family Singers (1949); last Rodgers & Hammerstein |
+| Nov 16 | Iceland's only Nobel literature laureate (1955), Independent People | Halldór Laxness (Icelandic Language Day) |
+| Nov 16 | Sunrise on the Reaping (2025) District 12 tribute, 50th Games / Second Quarter Quell | Haymitch Abernathy |
 | Nov 13 | Confessions / City of God author, bishop of Hippo (born Nov 13, 354) | St. Augustine ("Grant me chastity and continence, but not yet") |
 | Nov 13 | Vietnam Veterans Memorial designer, Yale student aged 21 (dedicated Nov 13, 1982) | Maya Lin |
 | Nov 13 | Sadie Hawkins Day comic strip creator (1937) | Al Capp, Li'l Abner |
@@ -981,6 +996,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 16 | Space | Arecibo message 1,679 bits = 23 × 73 (primes); aimed at M13 ~25,000 ly |
+| Nov 16 | Space | Starship ~400 ft tallest/most powerful rocket; tower arms 'chopsticks', 'Mechazilla' |
+| Nov 16 | History | Original 'Sooners' jumped the gun in Oklahoma's 1889 Land Run |
+| Nov 16 | History | Atahualpa ransom: room ~22×17 ft filled once with gold, twice with silver |
+| Nov 16 | Holidays | Mexican Revolution Day: Nov 20, 1910, Madero's Plan of San Luis Potosí; observed 3rd Monday |
+| Nov 16 | Culture | International Flamenco Day Nov 16 — UNESCO Intangible Cultural Heritage inscription Nov 16, 2010 |
+| Nov 16 | Language | Icelandic patronymics (Jónsdóttir/Jónsson); phone book by first name |
+| Nov 16 | Words | Koumpounophobia — fear of buttons (National Button Day) |
+| Nov 16 | Tennis | Andreeva youngest WTA Finals champ since Sharapova (17, 2004); prize Mercedes, no license |
+| Nov 16 | Food | White Castle slider holes added 1954 to steam-cook without flipping |
 | Nov 13 | Calendar | 2026 has three Friday the 13ths (Feb, Mar, Nov) — the max; next Aug 13, 2027 |
 | Nov 13 | Words | Paraskevidekatriaphobia / friggatriskaidekaphobia; triskaidekaphobia |
 | Nov 13 | Movies | Friday the 13th (1980) killer is Mrs. Voorhees (Betsy Palmer); hockey mask first in Part III (1982) |
@@ -1665,6 +1690,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 16 | November 16 (Pizarro captures Atahualpa at Cajamarca 1532; First Salute at Sint Eustatius to Andrew Doria 1776; Oklahoma 46th state 1907; The Sound of Music opens on Broadway, Mary Martin 1959; Arecibo message 1974; Artemis I launch 2022. Born: Tiberius, W.C. Handy, George S. Kaufman, Burgess Meredith, Saramago, Achebe, Helgenberger, Gooden, Diana Krall, Lisa Bonet, Martha Plimpton, Maggie Gyllenhaal, Oksana Baiul, Pete Davidson) |
 | Nov 13 | November 13 (Holland Tunnel opens 1927; Fantasia premieres in Fantasound 1940; Browder v. Gayle affirmed 1956; Vietnam Veterans Memorial dedicated 1982; Nevado del Ruiz/Armero ~23,000 dead 1985. Born: Augustine, Edwin Booth, R.L. Stevenson, Brandeis, Garry Marshall, Seberg, Whoopi Goldberg, Kimmel, Steve Zahn, Gerard Butler) |
 | Nov 12 | November 12 (Scott party bodies found 1912, 11 miles from depot; Austria republic 1918; Ellis Island closes 1954, Arne Petersen last; Columbia STS-2 first crewed craft to space twice 1981; Philae comet landing 2014. Born: Stanton, Sun Yat-sen, Grace Kelly, Ende, Shawn, Neil Young, Mullally, Comăneci, Sosa, Gosling, Hathaway) |
 | Nov 11 | November 11 (Mayflower Compact signed 1620 O.S., 41 men; Washington 42nd state 1889; Armistice 11th hour 1918, Compiègne carriage; Tomb of the Unknown Soldier dedicated by Harding 1921; Whitlam dismissed and Angola independence 1975. Births: Dostoevsky, Patton, Vonnegut, Jonathan Winters, Carlos Fuentes, Stanley Tucci, Demi Moore, Calista Flockhart, DiCaprio) |
@@ -1733,6 +1759,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 16 | National Fast Food Day; National Button Day; International Day for Tolerance; Oklahoma Statehood Day; Icelandic Language Day; International Flamenco Day; Odd Socks Day (UK); Mexican Revolution Day observed; Independence of Cartagena observed; Statia Day |
 | Nov 13 | Friday the 13th; World Kindness Day; Sadie Hawkins Day; National Indian Pudding Day; National Hug a Musician Day; Symphonic Metal Day; Canterbury Anniversary Day (NZ) |
 | Nov 12 | National Happy Hour Day; National Pizza with the Works Except Anchovies Day; National Chicken Soup for the Soul Day; World Pneumonia Day; Sun Yat-sen's birthday (Taiwan) |
 | Nov 11 | Veterans Day; Remembrance Day / Armistice Day; National Sundae Day; Singles' Day (China); Pocky Day (Japan); Polish Independence Day; St. Martin's Day; Cologne Carnival opens 11:11 |
@@ -1808,6 +1835,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 16 | First fast-food hamburger chain, Wichita 1921 (Billy Ingram & Walter Anderson) | White Castle |
+| Nov 16 | Free webmail launched July 4, 1996 (Sabeer Bhatia & Jack Smith), became Outlook.com | Hotmail; Microsoft bought 1997 ~$400M |
+| Nov 16 | First low-loss optical fiber 1970 (Maurer, Keck, Schultz) | Corning |
+| Nov 16 | 12 regional Federal Reserve Banks opened Nov 16 of what year | 1914 (Act signed Dec 23, 1913) |
+| Nov 16 | SpaceX founded / first privately developed liquid-fueled rocket to orbit (2008) | 2002; Falcon 1 |
+| Nov 16 | AI company founded 2021 by ex-OpenAI siblings (IPO week of Nov 16) | Anthropic — Dario & Daniela Amodei |
 | Nov 13 | Holland Tunnel (opened Nov 13, 1927) namesake engineer, died 1924 | Clifford Holland |
 | Nov 13 | Pillsbury Doughboy created 1965 (JoBe Cerny voice died) | Leo Burnett agency; "Poppin' Fresh" |
 | Nov 13 | "PC's Limited" 1984, UT Austin dorm room | Michael Dell (Dell Inc.) |
@@ -2165,6 +2198,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 16 | Wind It Up | Gwen Stefani | 2006 |
+| Nov 16 | It Ain't Over 'Til It's Over | Lenny Kravitz | 1991 |
+| Nov 16 | Fancy | Reba McEntire | 1990 |
+| Nov 16 | Whenever, Wherever | Shakira | 2001 |
+| Nov 16 | Hoppípolla | Sigur Rós | 2005 |
+| Nov 16 | The Look of Love | Diana Krall | 2001 |
 | Nov 13 | Friday I'm in Love | The Cure | 1992 |
 | Nov 13 | Hands | Jewel | 1998 |
 | Nov 13 | Travelin' Soldier | The Chicks (Dixie Chicks) | 2002 |
@@ -2673,26 +2712,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-
-
-
-## August 20, 2026 (v49)
-
-### Reds
-
-### Box Office
-
-### Sports / Deaths / Current Events
-
-
-
-## August 20, 2026 (v49)
-
-### Reds
-
-### Box Office
-
-### Sports / Deaths / Current Events
 
 
 
@@ -3463,4 +3482,18 @@ MLB: unanimous MVPs Pete Crow-Armstrong (CHC; 45 HR, 41 SB, 9.8 WAR; Ohtani 2nd,
 ### Notes
 Run fired Friday Nov 13, 2026 (~12:02 UTC); header dated Friday, November 13, 2026. Nov 13 not previously used for This Day in History. 5 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Gone Till November (Wyclef) dropped — no verifiable Spotify ID. Pruned Aug 20 rows from the main tables (12-week window).
 
-_Last updated: November 13, 2026_
+## November 16, 2026 (v108)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Mon Nov 16 (through SNF Week 10; MNF LAC at BAL pending, cannot change top 5 or Bengals ranks): Detroit Lions 407.6 yds/g (3,668 total, 9 GP, 3rd in total); top 5 Lions / 49ers 407.2 (3,665, 9) / Chiefs 401.0 (3,609, 9) / Bills 399.7 (3,597, 9) / Bears 398.7 (3,588, 9, bye). Rams No. 1 total 3,966 (10 GP, 396.6/g 6th). Bengals 395.3 yds/g 7th, 3,558 total 9th, 7–2 after 38–18 SNF win vs PIT (Burrow 35/44, 409, 4 TD; Chase 11-231; 487 yds). Next: Mon Nov 23 at WSH 8:15 p.m. EST, ESPN; then Sun Nov 29 vs NO 1 p.m. CBS. ESPN rank arrays matched.
+
+### Box Office
+Weekend Nov 13–15 (Rotten Tomatoes/Screen Daily): #1 Ebenezer $19.0M ($42M worldwide, $38M budget); Cat in the Hat $11.4M ($38.2M); Godzilla Minus Zero $8.3M ($48.8M); Ramayana $5.5M ($24.1M); You Can See Everything $5.4M ($89.0M). Fun fact used: Depp's first big starring role since Pirates (2017); below Zemeckis' A Christmas Carol ($30.0M, 2009) and Scrooged (~$37M adjusted). Coming Nov 20–22: Hunger Games: Sunrise on the Reaping (forecasts $55M–$100M+), Paper Tiger wide, I Play Rocky wide; Thanksgiving: Hexed, Focker-in-Law, Cliff Booth (IMAX).
+
+### Sports / Deaths / Current Events
+NFL: CIN 38–18 PIT; DET 35–10 NE in Munich (St. Brown lederhosen, Gibbs 153); SF 46–40 DAL (Purdy 389, McCaffrey 161 rec). NCAA: Iowa State 41–13 Cincinnati (Flora 216; UC 5–5); Georgia 48–21 Mizzou; Utah 40–39 Arizona; OSU 28–19 NU; Louisville 16–14 UNC brawl. Hoops: Cincinnati 95–72 Dayton; Xavier 81–63 Miss. St.; Memphis 98–78 No. 10 Louisville. NBA: Spurs 12 straight (12–2), Lakers 12–2 (Dončić 43), Rockets held Trae Young (WSH) scoreless, Bucks 1–13. NHL: CAR swept Helsinki; McDavid 22-game points streak, tied Gretzky fastest to 40 assists; Gauthier 9-game goal streak. Tennis: Andreeva won WTA Finals d. Svitolina 7–5, 6–3; ATP Finals Zverev d. Jodar, Shelton d. Fils. Golf: Austin Championship Monday finish, Crowe −14 leads. MLB: QO deadline Nov 17, CBA expires Dec 1; Sal Stewart NL ROY earned Reds PPI pick. MLS: FCC at Orlando Nov 19. Deaths: Richard Sterban 83, Dan Hicks 64, Brian Tracy 82, Hwang Jang-lee 81, Jesse Mashburn 93, Jim McDermott 89, Tim Holden 69, Bill Watters 83, Freeman Johnson 106; also Dino Sani, Guðjón Þórðarson, Pierre Bellocq, Michael John Roberts, Regina Torné. News: FAA nationwide ground stop Fri Nov 13 3:54–8:15 p.m. ET (L3Harris router at copper-to-fiber upgrade site; 17 of 22 centers; 9,000+ Fri, 5,000+ Sat cancellations); SpaceX Flight 15 — first Starship upper-stage chopsticks catch (Ship 42), booster diverted to Gulf; Anthropic IPO expected this week (Nasdaq ANT, $70–78, $61B raise, ~$1.2T); Peltola leads Sullivan 50.1–46.1; Boebert lost to Eileen Laubacher; Nvidia fallout (second affair, Lutnick scrutiny); Microsoft 365 outage Thu; Russia–Ukraine prisoner exchange preparations; GTA VI Nov 19.
+
+### Notes
+Run fired Monday Nov 16, 2026 (~12:02 UTC); header dated Monday, November 16, 2026. Nov 16 not previously used for This Day in History. TV card has 5 questions. 6 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push refused by the session git proxy. Pruned the Aug 20 per-run sections (12-week window; no table rows older than Aug 24 remained).
+
+_Last updated: November 16, 2026_
