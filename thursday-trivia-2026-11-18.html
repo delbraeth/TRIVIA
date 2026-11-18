@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 18, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Wednesday, November 18, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-18.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 18</a>
+  <a href="./thursday-trivia-2026-11-17.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 17</a>
+  <a href="./thursday-trivia-2026-11-16.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 16</a>
+  <a href="./thursday-trivia-2026-11-13.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 13</a>
+  <a href="./thursday-trivia-2026-11-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 12</a>
+  <a href="./thursday-trivia-2026-11-11.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 11</a>
+  <a href="./thursday-trivia-2026-11-10.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 10</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">407.6</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">3,668 total yards (3rd in total) · 9 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 407.6/g &nbsp;<span style="color:#777;">(3,668 yds, 9 GP)</span></li>
+        <li><span class="tag">2</span><strong>San Francisco 49ers</strong> — 407.2/g &nbsp;<span style="color:#777;">(3,665 yds, 9 GP)</span></li>
+        <li><span class="tag">3</span><strong>Kansas City Chiefs</strong> — 401.0/g &nbsp;<span style="color:#777;">(3,609 yds, 9 GP)</span></li>
+        <li><span class="tag">4</span><strong>Buffalo Bills</strong> — 399.7/g &nbsp;<span style="color:#777;">(3,597 yds, 9 GP)</span></li>
+        <li><span class="tag">5</span><strong>Chicago Bears</strong> — 398.7/g &nbsp;<span style="color:#777;">(3,588 yds, 9 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">The <strong>Rams lead in total yards (3,966)</strong> but have played 10 games, and they're 6th per game (396.6). The Lions lost DE <strong>Aidan Hutchinson to a torn ACL</strong>, which he suffered celebrating a sack in Munich.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>395.3 yards per game, 7th</strong> in the NFL. <strong>3,558 total yards, 9th</strong>. Record: <strong>7–2</strong>, first in the AFC North.
+      </div>
+      <div class="next-row">Next: <strong>Monday, Nov 23 at Washington Commanders, 8:15 p.m. EST</strong> <span style="font-weight:400;">(Monday Night Football on ESPN. Then Sunday, Nov 29 vs. New Orleans, 1:00 p.m. EST on CBS)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Wednesday morning. Week 10 is complete, so the numbers are the same as Tuesday's. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 13–15</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Ebenezer</strong> (Paramount) — <strong>$19.0M opening</strong>. Ti West directs Johnny Depp as Scrooge in a PG-13, horror-tinged version of <em>A Christmas Carol</em>.</li>
+        <li>#2 The Cat in the Hat — $11.3M ($38.1M total) &nbsp;|&nbsp; #3 Godzilla Minus Zero — $8.5M ($49.1M)</li>
+        <li>#4 Ramayana: Rise of a Legend — $5.8M ($24.4M) &nbsp;|&nbsp; #5 You Can See Everything — $5.5M ($89.0M)</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> <strong>Ian McKellen</strong> (Gandalf) plays Jacob Marley's ghost, and <strong>Rupert Grint</strong> (Ron Weasley) plays Bob Cratchit. <em>Severance</em>'s <strong>Tramell Tillman</strong> is the Ghost of Christmas Present. Ti West is best known for the horror trilogy <em>X</em>, <em>Pearl</em> and <em>MaXXXine</em>, all starring Mia Goth.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 20–22)</h3>
+        <ul>
+          <li><strong>The Hunger Games: Sunrise on the Reaping</strong> (Lionsgate, PG-13): the young-Haymitch prequel, with Joseph Zada, Ralph Fiennes as Snow and Elle Fanning as Effie. Deadline reports its presales are ahead of <em>Wicked</em>'s, and it's tracking around <strong>$80M+</strong>. <em>Ballad of Songbirds and Snakes</em> opened to $44M in 2023.</li>
+          <li><strong>I Play Rocky</strong> (Amazon MGM, wide): Peter Farrelly's film about the making of <em>Rocky</em> (1976), with Anthony Ippolito as Sylvester Stallone.</li>
+          <li><strong>Paper Tiger</strong> (Neon, expanding): James Gray's crime drama with Miles Teller, Adam Driver and Scarlett Johansson.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">NFL</span>🐅 <strong>Bengals 38, Steelers 18</strong> on Sunday night. Joe Burrow threw for 409 yards and 4 TDs, and Ja'Marr Chase had 231 receiving yards. Lions DE <strong>Aidan Hutchinson tore his ACL</strong> celebrating a sack in Munich. Patriots QB <strong>Drake Maye</strong> (ankle) could miss the rest of the season.</li>
+        <li><span class="tag">NCAA</span>🏈 <strong>CFP rankings (Tuesday):</strong> 1 Georgia, 2 Utah (10–0), 3 Alabama, 4 UCLA (10–0), 5 Texas. 🐾 <strong>Cincinnati</strong> (5–5) hosts <strong>Colorado Saturday at noon</strong> (ESPN+). Needs one more win to be bowl-eligible.</li>
+        <li><span class="tag">Hoops</span>🏀 <strong>Xavier 75, Cleveland State 67</strong>. <strong>Dayton 88, Central Michigan 63</strong>. Ohio State and Kentucky both won big Monday.</li>
+        <li><span class="tag">NBA</span><strong>Detroit 105, San Antonio 93</strong>. That <strong>ended the Spurs' 12-game winning streak</strong>. Cade Cunningham scored 27. The <strong>Lakers (13–2) beat Charlotte 118–114 in OT</strong> as <strong>Quentin Grimes scored 47</strong>. Brice Sensabaugh scored 40 as Utah routed the Clippers 132–107.</li>
+        <li><span class="tag">NHL</span>🏒 Connor McDavid has a <strong>point in all 22 games this season</strong>. Edmonton beat Florida 5–2 Tuesday. St. Louis outlasted Anaheim 8–6.</li>
+        <li><span class="tag">Tennis</span>🎾 <strong>ATP Finals, Turin:</strong> <strong>Alexander Zverev beat Ben Shelton 6–2, 7–6</strong>, the first player into the semifinals (2–0, hasn't dropped a set).</li>
+        <li><span class="tag">MLB</span>⚾ <strong>Qualifying offers ($23.15M):</strong> David Bednar (Yankees) and Ryan Jeffers (Twins) accepted. Randy Arozarena, Seiya Suzuki, Trevor Rogers, Brandon Lowe and Adrián Morejón turned them down and are free agents.</li>
+        <li><span class="tag">MLS</span>🟠 <strong>FC Cincinnati at Orlando City</strong>, wild-card round, <strong>Thursday 7:30 p.m. EST</strong> on Apple TV.</li>
+        <li><span class="tag">Golf</span>⛳ Chad Ramey won the Austin Championship at −20 Monday.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>"Cowboy" Bill Watts</strong>, 87 (Nov 17). A Hall of Fame wrestler and promoter who ran Mid-South Wrestling/UWF and later WCW. He played college football at Oklahoma before wrestling.</li>
+        <li><strong>Peter Storey</strong>, 81 (announced Nov 17). Arsenal's tough-tackling midfielder on the club's 1970–71 Double-winning team. He played 19 times for England.</li>
+        <li><strong>John Christ</strong>, 61 (Nov 15). Original guitarist for <strong>Danzig</strong>, including "Mother" (1988).</li>
+        <li><strong>Dan Carney</strong>, 95 (Nov 13). <strong>Co-founded Pizza Hut</strong> in Wichita in 1958 with his brother Frank.</li>
+        <li><strong>Richard Sterban</strong>, 83 (Nov 14). The Oak Ridge Boys' bass voice on "Elvira."</li>
+        <li><strong>Ken St. Andre</strong>, 79 (Nov 15). Designed the role-playing game <em>Tunnels &amp; Trolls</em> (1975) and the 1988 video game <em>Wasteland</em>.</li>
+        <li style="color:#666;">Also: Ken Sanders, 85, AL saves leader for the 1971 Brewers; Yuri Lyapkin, 81, Soviet hockey Olympic champion (1976); Dino Sani, 94, member of Brazil's 1958 World Cup team; Hwang Jang-lee, 81, villain in <em>Drunken Master</em>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 18</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1883</strong> — The <strong>"Day of Two Noons."</strong> U.S. and Canadian railroads switched from dozens of local times to <strong>four standard time zones</strong>. Many towns saw noon twice as clocks were reset. Congress didn't make time zones law until 1918.</li>
+        <li><strong>1928</strong> — <strong><em>Steamboat Willie</em> premiered</strong> at the Colony Theatre in New York. It made Mickey Mouse a star and was one of the first cartoons with synchronized sound. Disney counts Nov 18 as Mickey's birthday.</li>
+        <li><strong>1963</strong> — Bell introduced the <strong>Touch-Tone push-button phone</strong>, first offered in Carnegie and Greensburg, Pennsylvania. It had 10 buttons. The * and # keys came later.</li>
+        <li style="color:#666;">Born today: Alan Shepard (1923), Margaret Atwood (1939), Linda Evans (1942), Kevin Nealon (1953), Elizabeth Perkins (1960), Owen Wilson (1968), Chloë Sevigny (1974).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 18</h3>
+        <ul>
+          <li>🎉 <strong>Mickey Mouse's Birthday</strong> · <strong>National Apple Cider Day</strong> · National Vichyssoise Day · Push-Button Phone Day</li>
+          <li>🎉 <strong>Oman National Day</strong> · <strong>Latvia Independence (Proclamation) Day</strong> (1918) · <strong>Morocco Independence Day</strong> · International Day of Islamic Art</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>🗳️ <strong>The AP called Alaska for Democrat Mary Peltola</strong> over Sen. Dan Sullivan. She got 50.1%, so there was no ranked-choice count. It was the <strong>last Senate race of the midterms to be called</strong>, and Democrats will have 56 seats. Peltola, who is Yup'ik, becomes Alaska's first Native U.S. senator.</li>
+        <li>💹 <strong>The Anthropic IPO prices tonight and starts trading Thursday</strong> on Nasdaq as <strong>ANT</strong>. The range is $70–$78 for 825 million shares. Orders reportedly run about six times the shares offered. With a $26B private placement, it could top <strong>SpaceX's $85.7B IPO record</strong> from June.</li>
+        <li>💻 <strong>Nvidia's board said it won't bring back Jensen Huang</strong>, who resigned Nov 12. The company reported earnings that beat expectations in its first quarter without him as CEO.</li>
+        <li>📱 Apple confirmed an <strong>iCloud outage</strong> that affected Apple Pay and the App Store. It's the latest in a run of big outages after the FAA ground stop and the Chase payments glitch.</li>
+        <li>🩺 The U.S. has <strong>lost its measles elimination status</strong> after 26 years.</li>
+        <li>⛽ AAA says the national average for gas is <strong>below $4 a gallon</strong> for the first time since July.</li>
+        <li>🎮 <strong><em>Grand Theft Auto VI</em></strong> comes out Thursday.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇨🇦 Not Montreal: what's the capital of Quebec?</span><br><span class="a">Quebec City. It's the only walled city in North America north of Mexico.</span></p>
+      <p><span class="q">🇦🇺 What's the capital of the island state of Tasmania?</span><br><span class="a">Hobart. It's Australia's second-oldest capital, founded in 1804.</span></p>
+      <p><span class="q">🇩🇪 Which city, home of Oktoberfest, is the capital of Bavaria?</span><br><span class="a">Munich</span></p>
+      <p><span class="q">🇮🇹 What's the capital of Sicily, the largest island in the Mediterranean?</span><br><span class="a">Palermo. Not Catania, which sits below Mount Etna.</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">🦃 On <em>WKRP in Cincinnati</em> (1978–82), who played the burned-out DJ Dr. Johnny Fever? (The Thanksgiving turkey-drop episode ends with "As God is my witness, I thought turkeys could fly.")</span><br><span class="a">Howard Hesseman. Gordon Jump's Mr. Carlson delivers the turkey line.</span></p>
+      <p><span class="q">Who played Det. Sonny Crockett, who wore pastel T-shirts under his jackets and lived on a sailboat with a pet alligator, on <em>Miami Vice</em> (1984–89)?</span><br><span class="a">Don Johnson. The alligator's name was Elvis.</span></p>
+      <p><span class="q">Which actress played mystery writer Jessica Fletcher of Cabot Cove, Maine, for 12 seasons of <em>Murder, She Wrote</em> (1984–96)?</span><br><span class="a">Angela Lansbury</span></p>
+      <p><span class="q">On <em>Sanford and Son</em> (1972–77), who played junk dealer Fred G. Sanford, who often faked heart attacks ("This is the big one, Elizabeth!")?</span><br><span class="a">Redd Foxx. Demond Wilson played his son, Lamont.</span></p>
+      <p><span class="q">"We can rebuild him." Who played astronaut Steve Austin on <em>The Six Million Dollar Man</em> (1974–78)?</span><br><span class="a">Lee Majors. Lindsay Wagner starred in the spin-off, <em>The Bionic Woman</em>.</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">Disney's 1942 film was based on <em>Bambi, a Life in the Woods</em> (1923). Who wrote the novel?</span><br><span class="a">Felix Salten, an Austrian writer</span></p>
+      <p><span class="q">"Carlo Collodi" was the pen name of Carlo Lorenzini. Which wooden boy did he create in 1883?</span><br><span class="a">Pinocchio. Collodi was the Tuscan village where his mother was born.</span></p>
+      <p><span class="q">Which Australian-born author created <em>Mary Poppins</em> (1934) and famously disliked Disney's 1964 film?</span><br><span class="a">P. L. Travers (Pamela Lyndon Travers, born Helen Lyndon Goff)</span></p>
+      <p><span class="q">Which painter made <em>The Starry Night</em> (1889) from his room at the asylum in Saint-Rémy-de-Provence?</span><br><span class="a">Vincent van Gogh. The painting hangs at MoMA in New York.</span></p>
+      <p><span class="q">Beethoven set whose 1785 poem in the finale of his Ninth Symphony? Its melody is now the European anthem.</span><br><span class="a">Friedrich Schiller, "Ode to Joy" ("An die Freude")</span></p>
+      <p><span class="q">Who narrates <em>The Great Gatsby</em>? He's Daisy's cousin and Gatsby's neighbor on West Egg.</span><br><span class="a">Nick Carraway</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">Today in 1963, the Bell System introduced which phone that replaced the rotary dial?</span><br><span class="a">The Touch-Tone push-button phone, first offered in Carnegie and Greensburg, Pennsylvania</span></p>
+      <p><span class="q">Which Canadian railway engineer proposed worldwide standard time zones in 1879, reportedly after missing a train in Ireland because of a misprinted timetable?</span><br><span class="a">Sir Sandford Fleming</span></p>
+      <p><span class="q">Frenchman André Cassagnes invented "L'Écran Magique." An Ohio toy company sold it from 1960 under what name?</span><br><span class="a">Etch A Sketch, from the Ohio Art Company of Bryan, Ohio</span></p>
+      <p><span class="q">Englishman William Addis started selling the first mass-produced bristle toothbrushes around 1780. Where did he come up with the idea?</span><br><span class="a">In prison. He drilled holes in a bone saved from dinner and tied bristles into it.</span></p>
+      <p><span class="q">Ben Cohen and Jerry Greenfield opened their first ice-cream shop in 1978 in a renovated gas station in which city?</span><br><span class="a">Burlington, Vermont. They'd learned from a $5 correspondence course from Penn State.</span></p>
+      <p><span class="q">In 1892, Dr. Washington Sheffield of New London, Connecticut, was the first to sell toothpaste in what?</span><br><span class="a">A collapsible metal tube. Before that it came in jars.</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Pop Culture</span><strong>Mickey Mouse's first spoken words</strong> were <strong>"Hot dogs! Hot dogs!"</strong> in <em>The Karnival Kid</em> (1929).</li>
+        <li><span class="tag">Film</span>The title <strong><em>Steamboat Willie</em></strong> spoofs <strong>Buster Keaton's <em>Steamboat Bill, Jr.</em></strong>, released earlier in 1928.</li>
+        <li><span class="tag">Law</span>The original <em>Steamboat Willie</em> Mickey <strong>entered the U.S. public domain on Jan 1, 2024</strong>, after 95 years.</li>
+        <li><span class="tag">Pop Culture</span>Walt Disney first wanted to name his mouse <strong>Mortimer</strong>. His wife, Lillian, talked him into <strong>Mickey</strong>.</li>
+        <li><span class="tag">History</span>Before standard time, <strong>every town set its own clock by the sun</strong>. Railroads were juggling dozens of local times, so noon in Chicago and noon in Pittsburgh were different moments.</li>
+        <li><span class="tag">Tech</span>A phone keypad puts <strong>1-2-3 on the top row</strong>, but a calculator puts <strong>7-8-9 on top</strong>. Bell's testing found the phone layout led to fewer dialing mistakes.</li>
+        <li><span class="tag">Food</span><strong>Vichyssoise</strong>, the cold potato-leek soup, has a French name but was created in <strong>New York</strong>, by chef Louis Diat at the Ritz-Carlton around 1917.</li>
+        <li><span class="tag">Food</span><strong>Johnny Appleseed</strong> (John Chapman) planted apple nurseries across Ohio and Indiana. Most of his apples were for cider, not eating.</li>
+        <li><span class="tag">Holiday</span><strong>Riga, Latvia</strong>, claims the <strong>first decorated Christmas tree</strong>, in 1510. Latvia celebrates its 1918 independence proclamation today.</li>
+        <li><span class="tag">Geography</span><strong>Oman's Dhofar region</strong> grows <strong>frankincense</strong>. Its "Land of Frankincense" sites are on the UNESCO World Heritage list.</li>
+        <li><span class="tag">Football</span>🦃 The <strong>Detroit Lions have hosted a Thanksgiving game every year since 1934</strong>, except during World War II (1939–44).</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Killing Me Softly With His Song</div>
+          <div class="song-meta">Fugees · 1996 · <em>The Score</em> (a cover of Roberta Flack's 1973 hit, with Lauryn Hill singing lead)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1054461710" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">One Week</div>
+          <div class="song-meta">Barenaked Ladies · 1998 · <em>Stunt</em> (their only U.S. No. 1, and it lasted exactly one week)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1391134555" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Bills, Bills, Bills</div>
+          <div class="song-meta">Destiny's Child · 1999 · <em>The Writing's on the Wall</em> (the group's first Hot 100 No. 1)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/266809619" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Graduation (Friends Forever)</div>
+          <div class="song-meta">Vitamin C · 1999 · <em>Vitamin C</em> (built on Pachelbel's Canon in D)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/45V4Mk7vZV2b9JfSWuUX9m" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/281708631" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Ms. Jackson</div>
+          <div class="song-meta">OutKast · 2000 · <em>Stankonia</em> (André 3000's apology to Erykah Badu's mother)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1536684150" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">It Wasn't Me</div>
+          <div class="song-meta">Shaggy feat. Rikrok · 2000 · <em>Hot Shot</em> (a No. 1 hit in the U.S. and the U.K.)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1449315876" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
