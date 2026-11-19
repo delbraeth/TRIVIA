@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 19, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+
+</head>
+
+
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Thursday, November 19, 2026</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-19.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 19</a>
+  <a href="./thursday-trivia-2026-11-18.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 18</a>
+  <a href="./thursday-trivia-2026-11-17.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 17</a>
+  <a href="./thursday-trivia-2026-11-16.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 16</a>
+  <a href="./thursday-trivia-2026-11-13.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 13</a>
+  <a href="./thursday-trivia-2026-11-12.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 12</a>
+  <a href="./thursday-trivia-2026-11-11.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 11</a>
+</div>
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">407.6</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">3,668 total yards (3rd in total) · 9 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 407.6/g &nbsp;<span style="color:#777;">(3,668 yds, 9 GP)</span></li>
+        <li><span class="tag">2</span><strong>San Francisco 49ers</strong> — 407.2/g &nbsp;<span style="color:#777;">(3,665 yds, 9 GP)</span></li>
+        <li><span class="tag">3</span><strong>Kansas City Chiefs</strong> — 401.0/g &nbsp;<span style="color:#777;">(3,609 yds, 9 GP)</span></li>
+        <li><span class="tag">4</span><strong>Buffalo Bills</strong> — 399.7/g &nbsp;<span style="color:#777;">(3,597 yds, 9 GP)</span></li>
+        <li><span class="tag">5</span><strong>Chicago Bears</strong> — 398.7/g &nbsp;<span style="color:#777;">(3,588 yds, 9 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">The <strong>Rams lead in total yards (3,966)</strong> because they've played 10 games. Per game they're 6th (396.6). Week 11 starts tonight: <strong>Colts at Texans, 8:15 p.m. EST</strong> on Prime Video.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>395.3 yards per game, 7th</strong> in the NFL. <strong>3,558 total yards, 9th</strong>. Record: <strong>7–2</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Monday, Nov 23 at Washington Commanders, 8:15 p.m. EST</strong> <span style="font-weight:400;">(Monday Night Football on ESPN. Then Sunday, Nov 29 vs. New Orleans, 1:00 p.m. EST)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Thursday morning before TNF. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 13–15</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>Ebenezer</strong> (Paramount) — <strong>$19.0M opening</strong>, $42M worldwide. Ti West's horror-tinged <em>A Christmas Carol</em>, with Johnny Depp as Scrooge.</li>
+        <li>#2 The Cat in the Hat — $11.4M ($38.2M total) &nbsp;|&nbsp; #3 Godzilla Minus Zero — $8.3M (~$49M)</li>
+        <li>#4 Ramayana: Rise of a Legend — $5.5M ($24.1M) &nbsp;|&nbsp; #5 You Can See Everything — $5.4M ($89M)</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> Audiences gave <em>Ebenezer</em> an <strong>A– CinemaScore</strong>, and <strong>half of ticket buyers said Depp was the main reason</strong> they went. The film cost $38M to make, and Paramount spent about $50M marketing it. Also: <em>Ramayana</em> is about to become the <strong>highest-grossing Indian film ever in the U.S. and Canada</strong>.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Nov 20–22)</h3>
+        <ul>
+          <li><strong>The Hunger Games: Sunrise on the Reaping</strong> (Lionsgate, PG-13): previews start tonight. It's the young-Haymitch prequel, with Joseph Zada, Ralph Fiennes as President Snow and Elle Fanning as Effie. It's projected to open to <strong>$80M+</strong>.</li>
+          <li><strong>I Play Rocky</strong> (Amazon MGM): Peter Farrelly's film about how Sylvester Stallone got <em>Rocky</em> (1976) made. Anthony Ippolito plays Stallone.</li>
+          <li><strong>Paper Tiger</strong> (Neon, expanding): James Gray crime drama with Miles Teller, Adam Driver and Scarlett Johansson.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">MLS</span>⚽ <strong>FC Cincinnati plays at Orlando City TONIGHT, 7:30 p.m. EST</strong> (Apple TV). It's the Eastern Conference <strong>Wild Card</strong> match, so the loser's season ends.</li>
+        <li><span class="tag">NFL</span>🐅 The <strong>Bengals (7–2)</strong> don't play until <strong>Monday night at Washington</strong>. They're coming off a 38–18 win over Pittsburgh. <strong>TNF tonight:</strong> Colts at Texans.</li>
+        <li><span class="tag">NCAA</span>🐾 <strong>Cincinnati (5–5) hosts Colorado Saturday at noon</strong> (ESPN+). It's Colorado's first trip to Nippert Stadium. Deion Sanders' Buffaloes won the 2024 meeting 34–23 in Boulder. A win makes UC bowl-eligible. Next: at BYU, Nov 28.</li>
+        <li><span class="tag">Hoops</span>🏀 <strong>Cincinnati 91, Youngstown State 54</strong> (Wednesday). <strong>Xavier hosts Iowa Friday at 7:30</strong>. Dayton plays Utah Friday.</li>
+        <li><span class="tag">NBA</span>Wednesday: <strong>Heat 137, Bucks 130</strong>. Giannis Antetokounmpo had 27 points, 13 rebounds and 9 assists for Miami against his old team. <strong>Grizzlies 124, Cavaliers 121</strong>, despite 34 from Donovan Mitchell. <strong>Wizards 103, Raptors 99</strong>: Anthony Davis had 25 and 14, and rookie AJ Dybantsa had 23 and 12.</li>
+        <li><span class="tag">NHL</span><strong>Connor McDavid</strong> became the first player this season to reach <strong>50 points</strong>. <strong>Mark Scheifele</strong> passed Dale Hawerchuk as the <strong>Jets' all-time points leader</strong> (933). <strong>Jamie Benn</strong> scored his <strong>1,000th career point</strong>.</li>
+        <li><span class="tag">Tennis</span>🎾 ATP Finals (Turin): <strong>Carlos Alcaraz beat Daniil Medvedev 6–2, 6–4</strong> to reach the semifinals. Alexander Zverev also qualified. <strong>Frances Tiafoe</strong> beat Flavio Cobolli 7–6, 6–0 and still has a chance. The final is Sunday.</li>
+        <li><span class="tag">Golf</span>⛳ The <strong>RSM Classic</strong> at Sea Island, Georgia, starts today. It's the <strong>last PGA Tour event of 2026</strong>, and it decides who keeps their Tour card. <strong>Brooks Koepka</strong> is making his first start since August. Sami Välimäki is the defending champion.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li><strong>Larry Poindexter</strong>, 66 (Nov 18). Actor and singer on <em>Days of Our Lives</em>, <em>General Hospital</em> and <em>S.W.A.T.</em> He had been hit by a car and died while awaiting surgery.</li>
+        <li><strong>"Cowboy" Bill Watts</strong>, 87 (Nov 17). Hall of Fame wrestler and promoter who ran Mid-South Wrestling and later WCW.</li>
+        <li><strong>Lance Broadway</strong>, 43 (Nov 17). A 2005 first-round pick of the White Sox who pitched for Chicago, the Mets and Toronto, then worked as an actor.</li>
+        <li><strong>Fred Mitchell</strong>, 78 (Nov 17). Longtime Chicago Tribune sports columnist.</li>
+        <li><strong>Mike Wise</strong>, 62 (Nov 14). Sports columnist for the Washington Post and ESPN's The Undefeated.</li>
+        <li><strong>Richard Sterban</strong>, 83 (Nov 14). The Oak Ridge Boys' bass voice ("oom-papa-mow-mow" on "Elvira").</li>
+        <li style="color:#666;">Also: Dan Carney, 95, Pizza Hut co-founder; Peter Storey, 81, Arsenal Double winner (1971); Ken St. Andre, 79, creator of <em>Tunnels &amp; Trolls</em>; John Christ, 61, Danzig guitarist; Corrado Augias, 91, Italian journalist and TV host.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 19</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1493</strong> — On his second voyage, <strong>Columbus landed on Puerto Rico</strong>. He named it San Juan Bautista. Puerto Rico marks today as <strong>Discovery Day</strong>.</li>
+        <li><strong>1863</strong> — <strong>Lincoln gave the Gettysburg Address</strong> at the dedication of the Soldiers' National Cemetery. It was about <strong>272 words</strong> and took about two minutes. The main speaker, <strong>Edward Everett</strong>, had just spoken for about two hours.</li>
+        <li><strong>1969</strong> — <strong>Apollo 12</strong>'s Pete Conrad and Alan Bean landed in the Ocean of Storms, close to the Surveyor 3 probe. That same day, <strong>Pelé scored his 1,000th goal</strong>, a penalty kick against Vasco da Gama at the Maracanã.</li>
+        <li><strong>1977</strong> — <strong>Anwar Sadat</strong> became the first Arab leader to make an official visit to Israel. He addressed the Knesset the next day.</li>
+        <li style="color:#666;">Born today: James A. Garfield (1831), Tommy Dorsey (1905), Indira Gandhi (1917), Larry King (1933), Dick Cavett (1936), Ted Turner (1938), Calvin Klein (1942), Allison Janney (1959), Meg Ryan (1961), Jodie Foster (1962), Jack Dorsey (1976), Kerri Strug (1977).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 19</h3>
+        <ul>
+          <li>🎉 <strong>National Play Monopoly Day</strong> · <strong>National Carbonated Beverage with Caffeine Day</strong></li>
+          <li>🎉 <strong>World Toilet Day</strong> (UN) · <strong>International Men's Day</strong> · <strong>Discovery of Puerto Rico Day</strong> · <strong>Monaco National Day</strong></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>💹 <strong>Anthropic priced its IPO at $83 a share</strong>, above its $70–$78 range. It raised <strong>$81.3 billion</strong>, the <strong>largest IPO on record</strong>, topping SpaceX. The company is valued at about <strong>$1.5 trillion</strong>, and shares <strong>start trading today on Nasdaq as ANT</strong>. Orders reportedly totaled nearly $500 billion.</li>
+        <li>🚀 <strong>Voyager 1 is now one light-day from Earth.</strong> It crossed the line Wednesday at 10:16 a.m. UTC, about <strong>16 billion miles</strong> away. A command sent today won't arrive until tomorrow. It launched in 1977.</li>
+        <li>🌏 <strong>President Trump is in China</strong> for trade talks and a summit with <strong>Xi Jinping and Vladimir Putin</strong>.</li>
+        <li>🏛️ After winning the House in the midterms, <strong>House Democrats nominated Hakeem Jeffries for Speaker</strong>.</li>
+        <li>✈️ <strong>Homeland Security Secretary Mullin</strong> faced questions in Congress about the recent run of tech outages, including last Friday's nationwide FAA ground stop.</li>
+        <li>🎤 <strong>Paris Hilton</strong> is lobbying for a federal law against sexual deepfakes.</li>
+        <li>🎮 <strong><em>Grand Theft Auto VI</em> comes out today</strong>, more than 12 years after <em>GTA V</em>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇵🇷 Columbus reached it on Nov 19, 1493. What's the capital of Puerto Rico?</span><br><span class="a">San Juan, founded in 1521. Its original name was Puerto Rico ("rich port"). The names later swapped.</span></p>
+      <p><span class="q">🇱🇰 Colombo is Sri Lanka's biggest city. What's the official (legislative) capital?</span><br><span class="a">Sri Jayawardenepura Kotte, a suburb of Colombo</span></p>
+      <p><span class="q">🇨🇦 What's the capital of Nunavut, Canada's newest territory (1999)?</span><br><span class="a">Iqaluit. It was called Frobisher Bay until 1987.</span></p>
+      <p><span class="q">🇹🇿 Not Dar es Salaam: what's the official capital of Tanzania?</span><br><span class="a">Dodoma</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">Before he became a movie star, who played Dr. Phillip Chandler on the Boston hospital drama <em>St. Elsewhere</em> (1982–88)?</span><br><span class="a">Denzel Washington</span></p>
+      <p><span class="q">Who played scheming Abby Cunningham (later Ewing), the cul-de-sac's troublemaker on the <em>Dallas</em> spin-off <em>Knots Landing</em> (1979–93)?</span><br><span class="a">Donna Mills</span></p>
+      <p><span class="q">On the Western sitcom <em>F Troop</em> (1965–67), who played bumbling Cpl. Randolph Agarn, partner to Forrest Tucker's Sgt. O'Rourke?</span><br><span class="a">Larry Storch</span></p>
+      <p><span class="q">Which actress played Endora, Samantha's mother, who could never get Darrin's name right ("Durwood"), on <em>Bewitched</em> (1964–72)?</span><br><span class="a">Agnes Moorehead. She had also been in <em>Citizen Kane</em> (1941).</span></p>
+      <p><span class="q">On TV's <em>The Odd Couple</em> (1970–75), who played fussy photographer Felix Unger opposite Jack Klugman's Oscar Madison?</span><br><span class="a">Tony Randall</span></p>
+      <p><span class="q">On <em>Gunsmoke</em> (1955–75), who played Miss Kitty Russell, owner of the Long Branch Saloon in Dodge City, for 19 seasons?</span><br><span class="a">Amanda Blake</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q">"Call me Ishmael." That's the first line of which 1851 novel?</span><br><span class="a"><em>Moby-Dick</em>, by Herman Melville</span></p>
+      <p><span class="q">"In a hole in the ground there lived a…" Finish the 1937 first line and name the author.</span><br><span class="a">"…hobbit." J. R. R. Tolkien, <em>The Hobbit</em></span></p>
+      <p><span class="q">Which American painted <em>Nighthawks</em> (1942), with late-night customers in a brightly lit corner diner?</span><br><span class="a">Edward Hopper. It hangs at the Art Institute of Chicago.</span></p>
+      <p><span class="q">Holly Golightly first appeared in which author's 1958 novella, years before Audrey Hepburn played her?</span><br><span class="a">Truman Capote, <em>Breakfast at Tiffany's</em></span></p>
+      <p><span class="q">Which author, interviewed on PBS this week, wrote <em>Pachinko</em> (2017), about a Korean family in Japan?</span><br><span class="a">Min Jin Lee</span></p>
+      <p><span class="q">Which Czech composer wrote Symphony No. 9, "From the New World," which premiered at Carnegie Hall in 1893?</span><br><span class="a">Antonín Dvořák</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">Anthropic starts trading today on Nasdaq. In what year did Nasdaq open as the world's first electronic stock market?</span><br><span class="a">1971 (February 8)</span></p>
+      <p><span class="q">Before Rockstar, <em>Grand Theft Auto</em> (1997) was made by DMA Design, a studio in which Scottish city?</span><br><span class="a">Dundee. DMA also made <em>Lemmings</em>.</span></p>
+      <p><span class="q">For Caffeine Beverage Day: pharmacist Charles Alderton created which soda in 1885 at Morrison's Old Corner Drug Store in Waco, Texas?</span><br><span class="a">Dr Pepper. It's a year older than Coca-Cola.</span></p>
+      <p><span class="q">Brothers Barney and Ally Hartman of Knoxville, Tennessee, created which soda in the 1940s as a whiskey mixer? Its name was slang for moonshine.</span><br><span class="a">Mountain Dew</span></p>
+      <p><span class="q">For World Toilet Day: who got the first patent for a flush toilet, in 1775? (It wasn't Thomas Crapper.)</span><br><span class="a">Alexander Cumming, a Scottish watchmaker. His S-shaped trap kept sewer smells out.</span></p>
+      <p><span class="q">Phil Knight and his Oregon track coach founded which company in 1964 as Blue Ribbon Sports?</span><br><span class="a">Nike, with coach Bill Bowerman. The Swoosh was designed in 1971 by student Carolyn Davidson, who was paid $35.</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Space</span>A <strong>light-day is about 16 billion miles</strong> (25.9 billion km). <strong>Voyager 1</strong> just became the first spacecraft that far from Earth, after 49 years of flight.</li>
+        <li><span class="tag">Pop Culture</span><strong>Haymitch Abernathy</strong> won the <strong>50th Hunger Games</strong>, a "Quarter Quell" that had <strong>48 tributes</strong> instead of the usual 24.</li>
+        <li><span class="tag">Games</span>The Monopoly man was called <strong>"Rich Uncle Pennybags"</strong> until 1999, when he was renamed <strong>"Mr. Monopoly."</strong> He has never worn a monocle, though many people remember one.</li>
+        <li><span class="tag">History</span>🦃 <strong>Sarah Josepha Hale</strong>, who wrote "Mary Had a Little Lamb," lobbied for 17 years for a national Thanksgiving. <strong>Lincoln proclaimed one in 1863</strong>.</li>
+        <li><span class="tag">Sports</span>🏀 The <strong>Cincinnati Royals' Oscar Robertson</strong> averaged a <strong>triple-double for a whole season</strong> (1961–62). Nobody did it again until Russell Westbrook in 2016–17.</li>
+        <li><span class="tag">Tech</span><strong>Bluetooth</strong> is named for 10th-century Danish king <strong>Harald "Bluetooth" Gormsson</strong>. Its logo combines his initials in Norse runes.</li>
+        <li><span class="tag">Food</span>The <strong>kiwi fruit</strong> was once known as the <strong>"Chinese gooseberry."</strong> New Zealand exporters renamed it after the kiwi bird in 1959.</li>
+        <li><span class="tag">Science</span>Plants make <strong>caffeine</strong> as a <strong>natural pesticide</strong>. It can paralyze or kill insects that eat the leaves.</li>
+        <li><span class="tag">Geography</span><strong>Puerto Ricans have been U.S. citizens since 1917</strong> (the Jones Act). People living on the island still <strong>can't vote in the general election for president</strong>.</li>
+        <li><span class="tag">Oddity</span>🚽 <strong>World Toilet Day</strong> was started by Singapore's <strong>World Toilet Organization</strong> (founded 2001). The UN made it official in 2013.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Wonderwall</div>
+          <div class="song-meta">Oasis · 1995 · <em>(What's the Story) Morning Glory?</em> (the first '90s song to reach 1 billion Spotify streams)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1517447333" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">No Diggity</div>
+          <div class="song-meta">Blackstreet feat. Dr. Dre &amp; Queen Pen · 1996 · <em>Another Level</em> (built on Bill Withers' "Grandma's Hands." It ended "Macarena"'s 14-week run at No. 1.)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1440908981" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Hypnotize</div>
+          <div class="song-meta">The Notorious B.I.G. · 1997 · <em>Life After Death</em> (his first Hot 100 No. 1, which came after his death. It samples Herb Alpert's "Rise.")</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/217613319" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Barbie Girl</div>
+          <div class="song-meta">Aqua · 1997 · <em>Aquarium</em> (Mattel sued over it and lost. The judge ruled it a parody and told both sides to "chill.")</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1442555475" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Since U Been Gone</div>
+          <div class="song-meta">Kelly Clarkson · 2004 · <em>Breakaway</em> (written by Max Martin and Dr. Luke. It won her a Grammy.)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/275765380" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Boulevard of Broken Dreams</div>
+          <div class="song-meta">Green Day · 2004 · <em>American Idiot</em> (Grammy Record of the Year)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/song/1161539476" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
