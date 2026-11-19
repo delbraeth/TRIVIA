@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 19 | Puerto Rico | San Juan (Columbus landed Nov 19, 1493; city originally named Puerto Rico, names swapped) |
+| Nov 19 | Sri Lanka (legislative capital) | Sri Jayawardenepura Kotte (Colombo is largest city) |
+| Nov 19 | Nunavut (Canada) | Iqaluit (Frobisher Bay until 1987; territory created 1999) |
+| Nov 19 | Tanzania | Dodoma (not Dar es Salaam) |
 | Nov 18 | Quebec (Canada) | Quebec City (only walled city north of Mexico) |
 | Nov 18 | Tasmania (Australia) | Hobart (founded 1804) |
 | Nov 18 | Bavaria (Germany) | Munich |
@@ -254,10 +258,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 27 | Colombia | Bogotá (~8,660 ft elevation) |
 | Aug 27 | Jordan | Amman (built on seven hills; Roman-era Philadelphia) |
 | Aug 27 | Papua New Guinea | Port Moresby |
-| Aug 26 | Croatia | Zagreb |
-| Aug 26 | Paraguay | Asunción (founded 1537, one of South America's oldest cities) |
-| Aug 26 | Malaysia | Kuala Lumpur (Putrajaya is administrative seat) |
-| Aug 26 | Senegal | Dakar (finish of the old Paris–Dakar Rally) |
 
 
 
@@ -269,6 +269,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 19 | St. Elsewhere (1982–88) | Dr. Phillip Chandler | Denzel Washington |
+| Nov 19 | Knots Landing (1979–93) | Abby Cunningham (Ewing) | Donna Mills |
+| Nov 19 | F Troop (1965–67) | Cpl. Randolph Agarn | Larry Storch (Forrest Tucker as Sgt. O'Rourke) |
+| Nov 19 | Bewitched (1964–72) | Endora | Agnes Moorehead |
+| Nov 19 | The Odd Couple (1970–75) | Felix Unger | Tony Randall (Jack Klugman as Oscar) |
+| Nov 19 | Gunsmoke (1955–75) | Miss Kitty Russell | Amanda Blake |
 | Nov 18 | WKRP in Cincinnati (1978–82) | Dr. Johnny Fever | Howard Hesseman (turkey-drop line by Gordon Jump) |
 | Nov 18 | Miami Vice (1984–89) | Det. Sonny Crockett | Don Johnson (alligator Elvis) |
 | Nov 18 | Murder, She Wrote (1984–96) | Jessica Fletcher | Angela Lansbury |
@@ -611,12 +617,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 27 | Three's Company (1977–84) | Jack Tripper | John Ritter |
 | Aug 27 | Family Ties (1982–89) | Alex P. Keaton | Michael J. Fox |
 | Aug 27 | Homicide: Life on the Street (1993–99) | Det. Frank Pembleton | Andre Braugher |
-| Aug 26 | The Honeymooners (1955–56) | Ed Norton | Art Carney |
-| Aug 26 | Perry Mason (1957–66) | Perry Mason | Raymond Burr |
-| Aug 26 | The Waltons (1972–81) | John-Boy Walton | Richard Thomas |
-| Aug 26 | Charlie's Angels (1976–81) | Sabrina Duncan | Kate Jackson |
-| Aug 26 | The A-Team (1983–87) | B.A. Baracus | Mr. T (Laurence Tureaud) |
-| Aug 26 | The X-Files (1993–2002) | Dana Scully | Gillian Anderson |
 
 
 
@@ -630,6 +630,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 19 | "Call me Ishmael" first line | Moby-Dick — Herman Melville (1851) |
+| Nov 19 | "In a hole in the ground there lived a hobbit" first line | The Hobbit — J. R. R. Tolkien (1937) |
+| Nov 19 | Nighthawks (1942) painter | Edward Hopper (Art Institute of Chicago) |
+| Nov 19 | Holly Golightly creator (1958 novella) | Truman Capote, Breakfast at Tiffany's |
+| Nov 19 | Pachinko (2017) author | Min Jin Lee |
+| Nov 19 | Symphony No. 9 "From the New World" (Carnegie Hall 1893) | Antonín Dvořák |
 | Nov 18 | Bambi, a Life in the Woods (1923) author | Felix Salten |
 | Nov 18 | Pinocchio (1883) creator, pen name | Carlo Collodi (Carlo Lorenzini; mother's village) |
 | Nov 18 | Mary Poppins (1934) author | P. L. Travers (born Helen Lyndon Goff) |
@@ -977,12 +983,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 27 | To Kill a Mockingbird (1960) author | Harper Lee (Pulitzer 1961) |
 | Aug 27 | Waiting for Godot (1953) playwright | Samuel Beckett |
 | Aug 27 | The Color Purple (1982) author | Alice Walker |
-| Aug 26 | The Bell Jar (1963) author | Sylvia Plath (pen name Victoria Lucas) |
-| Aug 26 | Guernica (1937) painter | Pablo Picasso |
-| Aug 26 | "Rhapsody in Blue" (1924) composer | George Gershwin |
-| Aug 26 | Catch-22 (1961) author | Joseph Heller |
-| Aug 26 | The Thinker / The Kiss sculptor | Auguste Rodin |
-| Aug 26 | "Because I could not stop for Death" poet | Emily Dickinson |
 
 
 
@@ -995,6 +995,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 19 | Space | Voyager 1 one light-day (~16B miles / 25.9B km) from Earth, Nov 18, 2026 |
+| Nov 19 | Pop Culture | Haymitch won 50th Hunger Games, Quarter Quell with 48 tributes |
+| Nov 19 | Games | Rich Uncle Pennybags renamed Mr. Monopoly 1999; no monocle |
+| Nov 19 | History | Sarah Josepha Hale ("Mary Had a Little Lamb") lobbied 17 yrs for Thanksgiving; Lincoln 1863 |
+| Nov 19 | Sports | Oscar Robertson (Cincinnati Royals) averaged triple-double 1961–62; next Westbrook 2016–17 |
+| Nov 19 | Tech | Bluetooth named for King Harald "Bluetooth" Gormsson; logo = runic initials |
+| Nov 19 | Food | Kiwifruit formerly "Chinese gooseberry," renamed by NZ exporters 1959 |
+| Nov 19 | Science | Caffeine is a natural plant pesticide |
+| Nov 19 | Geography | Puerto Ricans US citizens since 1917 Jones Act; island residents can't vote for president |
+| Nov 19 | Oddity | World Toilet Day started by World Toilet Organization (Singapore, 2001); UN official 2013 |
 | Nov 18 | Pop Culture | Mickey's first spoken words "Hot dogs!" in The Karnival Kid (1929) |
 | Nov 18 | Film | Steamboat Willie title spoofs Buster Keaton's Steamboat Bill, Jr. (1928) |
 | Nov 18 | Law | Steamboat Willie Mickey entered US public domain Jan 1, 2024 |
@@ -1659,19 +1669,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 27 | Pop Culture | Mario debuted as "Jumpman" in Donkey Kong (1981) — a carpenter, not a plumber |
 | Aug 27 | Local (Cincinnati) | Abandoned subway under Central Parkway — 2+ mi of 1920s tunnels, never used |
 | Aug 27 | Reds bar-bet | Oldest pro franchise — Reds traditionally open every season at home |
-| Aug 26 | Science | Octopuses have three hearts and blue blood (hemocyanin) |
-| Aug 26 | Geography | Parts of Atacama Desert have no recorded rainfall ever |
-| Aug 26 | Space | Apollo footprints on the Moon will last millions of years |
-| Aug 26 | Animals | A group of giraffes is a "tower" |
-| Aug 26 | Body | Roughly as many bacterial cells as human cells (~1.3:1) |
-| Aug 26 | Food | Ripe cranberries bounce — sorted with "bounce boards" |
-| Aug 26 | Language | "Pineapple" meant pine cone first; fruit named for resemblance |
-| Aug 26 | History | Reagan was a Rock River lifeguard credited with 77 rescues |
-| Aug 26 | Sports | NFL was the American Professional Football Association until 1922 |
-| Aug 26 | Pop Culture | Windows XP "Bliss" wallpaper is an unretouched Sonoma County photo |
-| Aug 26 | Did You Know | Peanut butter can be turned into diamond under extreme pressure |
-| Aug 26 | Local (Cincinnati) | Over-the-Rhine has one of the largest intact Italianate collections in the US |
-| Aug 26 | Reds bar-bet | Reds were first MLB team to fly to a road game — Cincinnati→Chicago, June 8, 1934 |
 
 
 
@@ -1683,6 +1680,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 19 | November 19 (Columbus lands on Puerto Rico 1493; Gettysburg Address 1863, ~272 words, Everett spoke ~2 hrs; Apollo 12 lands, Conrad & Bean, Ocean of Storms 1969, same day Pelé's 1,000th goal vs Vasco da Gama; Sadat visits Israel 1977. Born: Garfield, Tommy Dorsey, Indira Gandhi, Larry King, Dick Cavett, Ted Turner, Calvin Klein, Allison Janney, Meg Ryan, Jodie Foster, Jack Dorsey, Kerri Strug) |
 | Nov 18 | November 18 (Day of Two Noons 1883, railroad standard time; Steamboat Willie premiere 1928, Colony Theatre; Touch-Tone phone 1963, Carnegie & Greensburg PA) |
 | Nov 17 | November 17 (Elizabeth I accession 1558, Accession Day; Suez Canal opens 1869, Empress Eugénie on L'Aigle, de Lesseps; Heidi Game 1968, Raiders 43–32 Jets; Nixon 'I'm not a crook' 1973 at Disney's Contemporary Resort; Velvet Revolution begins 1989) |
 | Nov 16 | November 16 (Pizarro captures Atahualpa at Cajamarca 1532; First Salute at Sint Eustatius to Andrew Doria 1776; Oklahoma 46th state 1907; The Sound of Music opens on Broadway, Mary Martin 1959; Arecibo message 1974; Artemis I launch 2022. Born: Tiberius, W.C. Handy, George S. Kaufman, Burgess Meredith, Saramago, Achebe, Helgenberger, Gooden, Diana Krall, Lisa Bonet, Martha Plimpton, Maggie Gyllenhaal, Oksana Baiul, Pete Davidson) |
@@ -1741,7 +1739,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 31 | August 31 (Princess Diana dies in Paris crash 1997 — 29th anniv, Pont de l'Alma tunnel; Gdańsk Agreement signed 1980 creating Solidarity; Charleston SC earthquake ~M7.0 1886, 60+ dead; Malaya independence / Merdeka Day 1957) |
 | Aug 28 | August 28 (March on Washington / MLK "I Have a Dream" 1963 — 63rd anniv, ~250,000 marchers, Mahalia Jackson's "Tell them about the dream"; first radio commercial on WEAF NYC 1922 — Queensboro Realty, $50 for 10 min; Hurricane Katrina hits Cat 5 and New Orleans issues first-ever mandatory evacuation 2005) |
 | Aug 27 | August 27 (Battle of Brooklyn 1776 — 250th anniv; Edwin Drake first US oil well, Titusville PA 1859; Kellogg–Briand Pact signed 1928; Brian Epstein found dead 1967; LBJ born 1908) |
-| Aug 26 | August 26 (19th Amendment certified 1920 — Women's Equality Day, 106th anniv; first large-scale hydroelectric plant at Niagara Falls 1895; Jimi Hendrix opens Electric Lady Studios 1970; "Hey Jude" tops UK chart 1968) |
 
 
 
@@ -1752,6 +1749,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 19 | National Play Monopoly Day; National Carbonated Beverage with Caffeine Day; World Toilet Day; International Men's Day; Discovery of Puerto Rico Day; Monaco National Day |
 | Nov 18 | Mickey Mouse's Birthday; National Apple Cider Day; National Vichyssoise Day; Push-Button Phone Day; Oman National Day; Latvia Proclamation Day; Morocco Independence Day; International Day of Islamic Art |
 | Nov 17 | National Homemade Bread Day; National Take a Hike Day; National Baklava Day; National Butter Day; International Students' Day; World Prematurity Day; National Entrepreneurs' Day; National Unfriend Day; Electronic Greeting Card Day; The Little Mermaid Day |
 | Nov 16 | National Fast Food Day; National Button Day; International Day for Tolerance; Oklahoma Statehood Day; Icelandic Language Day; International Flamenco Day; Odd Socks Day (UK); Mexican Revolution Day observed; Independence of Cartagena observed; Statia Day |
@@ -1810,7 +1808,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 31 | National Trail Mix Day; National Eat Outside Day; National Matchmaker Day; National South Carolina Day; National Diatomaceous Earth Day; Love Litigating Lawyers Day; Merdeka Day (Malaysia, 1957); National Heroes Day (Philippines) |
 | Aug 28 | National Thoughtful Day; Rainbow Bridge Remembrance Day; National Red Wine Day; National Power Rangers Day; National Bow Tie Day; National Cherry Turnover Day |
 | Aug 27 | National Just Because Day; National Petroleum Day; National Banana Lovers Day; National Pots de Crème Day; World Rock Paper Scissors Day; Tarzan Day; International Lottery Day; Lyndon Baines Johnson Day (Texas); Moldova Independence Day (1991); Be Kind to Humankind Week |
-| Aug 26 | National Dog Day; Women's Equality Day; National Cherry Popsicle Day; National Toilet Paper Day; National Webmistress Day; Make Your Own Luck Day |
 
 
 ---
@@ -1828,6 +1825,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 19 | Year Nasdaq opened as first electronic stock market | 1971 (Feb 8) |
+| Nov 19 | Studio that made original Grand Theft Auto (1997) | DMA Design, Dundee, Scotland (also Lemmings) |
+| Nov 19 | Soda created 1885 by Charles Alderton in Waco, TX | Dr Pepper (a year older than Coca-Cola) |
+| Nov 19 | Soda created 1940s by Barney & Ally Hartman, Knoxville, as whiskey mixer | Mountain Dew (slang for moonshine) |
+| Nov 19 | First flush toilet patent (1775) | Alexander Cumming, S-trap (not Thomas Crapper) |
+| Nov 19 | Company founded 1964 as Blue Ribbon Sports | Nike — Phil Knight & Bill Bowerman; Swoosh by Carolyn Davidson for $35 (1971) |
 | Nov 18 | Phone introduced Nov 18, 1963 by Bell System | Touch-Tone push-button phone (Carnegie & Greensburg PA) |
 | Nov 18 | Proposed worldwide standard time zones, 1879 | Sir Sandford Fleming (missed train in Ireland) |
 | Nov 18 | L'Écran Magique / Ohio Art 1960 | Etch A Sketch, André Cassagnes; Bryan, Ohio |
@@ -2175,12 +2178,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 27 | Implantable pacemaker | Wilson Greatbatch, 1958 — wrong-sized resistor accident |
 | Aug 27 | IKEA founded | 1943, Ingvar Kamprad age 17; name = initials + Elmtaryd + Agunnaryd |
 | Aug 27 | Ivory Soap (Local) | P&G 1879; Harley Procter named it from Psalm 45:8; "99 44/100% pure" |
-| Aug 26 | Slinky | Richard James, 1943 Navy engineer; ship stabilizer spring; Gimbels 1945 |
-| Aug 26 | Amazon founded | 1994, Jeff Bezos, Bellevue WA garage; first name choice "Cadabra" |
-| Aug 26 | WD-40 name | "Water Displacement, 40th formula" — Rocket Chemical Co., 1953 |
-| Aug 26 | Super Soaker | Lonnie Johnson, NASA/JPL engineer, 1982 heat-pump accident; launched 1990 |
-| Aug 26 | Band-Aid | Earle Dickson, J&J, 1920, for his accident-prone wife |
-| Aug 26 | Skyline Chili (Local) | 1949, Nicholas Lambrinides, Price Hill; named for the Cincinnati skyline view |
 
 
 
@@ -2191,6 +2188,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 19 | Wonderwall | Oasis | 1995 |
+| Nov 19 | No Diggity | Blackstreet feat. Dr. Dre & Queen Pen | 1996 |
+| Nov 19 | Hypnotize | The Notorious B.I.G. | 1997 |
+| Nov 19 | Barbie Girl | Aqua | 1997 |
+| Nov 19 | Since U Been Gone | Kelly Clarkson | 2004 |
+| Nov 19 | Boulevard of Broken Dreams | Green Day | 2004 |
 | Nov 18 | Killing Me Softly With His Song | Fugees | 1996 |
 | Nov 18 | One Week | Barenaked Ladies | 1998 |
 | Nov 18 | Bills, Bills, Bills | Destiny's Child | 1999 |
@@ -2529,12 +2532,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Aug 27 | How You Remind Me | Nickelback |
 | Aug 27 | Hot in Herre | Nelly |
 | Aug 27 | Chasing Cars | Snow Patrol |
-| Aug 26 | Loser | Beck | 1994 |
-| Aug 26 | Waterfalls | TLC | 1995 |
-| Aug 26 | Bitter Sweet Symphony | The Verve | 1997 |
-| Aug 26 | Seven Nation Army | The White Stripes | 2003 |
-| Aug 26 | Mr. Brightside | The Killers | 2004 |
-| Aug 26 | Rehab | Amy Winehouse | 2006 |
 
 ---
 
@@ -2706,26 +2703,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-
-
-## August 26, 2026 (v52)
-
-| Item | Detail |
-|------|--------|
-| Reds | 62–71 .466, 5th NL Central, 19.5 GB (Brewers 81–51); L3 streak; 3–7 last 10; last 5 (oldest→newest) L-W-L-L-L; @ SF Giants 3:45 PM ET. Verified via MLB Stats API. |
-| Reds angle | 22–14 in one-run games, 9–4 in extras — they lose the blowouts, not the close ones. |
-| Box Office | Spider-Man: Brand New Day #1 4th weekend $39.0M (Aug 21–23); $854.9M domestic in 24 days; $2.2B+ WW. Fresh angle used: $2B in 17 days (2nd-fastest behind Endgame's 11) + outgrossed every other 2026 release's full run in 7 days. #2 Insidious: Out of the Further $25.1M debut; #3 The Odyssey $19.7M ($539M). |
-| Coming weekend | Aug 28–30: The Dog Stars (Ridley Scott); Coyote vs. ACME; Buddy; Cliffhanger (reboot). |
-| MLB | Brewers 81–51 best record in baseball, +5.5 on Cubs in NL Central. JJ Bleday cycle Aug 22 (8th in Reds history). |
-| NFL | Cutdown to 53 Sun Aug 30 6 PM ET; waivers Mon Aug 31 1 PM ET. Bengals: traded No. 10 pick for NT Dexter Lawrence, signed Jonathan Allen + Boye Mafe, re-signed Joe Flacco. |
-| NBA | Allen Robinson retired on his 33rd birthday (Aug 25); Klay Thompson to Miami after clearing waivers; DeRozan 1-yr in Denver; Shaedon Sharpe out ~6 months (meniscus). |
-| Tennis | US Open mixed doubles began Aug 25 — all doubles-specialist teams lost Day 1; Svitolina/Monfils beat No. 1s Siniáková/Patten. Singles main draw Aug 30. |
-| Golf | Tour Championship / FedExCup finale tees off Thu Aug 27 at East Lake. Scheffler No. 1 in standings; Fleetwood defending. |
-| NCAA | Ohio State preseason AP No. 1 (9th time), then Oregon, Georgia, Notre Dame, Texas. FCS opens Thu Aug 27; Week 0 Sat Aug 29 — UNC vs TCU in Dublin; No. 14 USC hosts San Jose State. |
-| MLS | Messi at 923 career goals; Inter Miami 2nd in East. |
-| Deaths | **Dolly Parton, 80 (Aug 25)** — Queen of Country, died in Nashville after a brief battle with cancer; private family funeral. James Lew (73, Aug 23, stunt coordinator, Emmy for Luke Cage). Michael Wright (69, Aug 19, The Five Heartbeats). Nikki Ross (52, Aug 14, Houston gospel singer). |
-| Current events | Dolly Parton tributes dominate the cycle; Iran defiant on new US sanctions while pursuing diplomacy via Oman/Pakistan; Canada retaliating in trade dispute after talks collapsed; Trump opened border to Mexican beef amid supply pinch; primaries in three states — Lindsey Graham's sister won the SC nomination to succeed him. |
-| NOTE | Executed Wednesday Aug 26, 2026 (task again fired off-Thursday). Box-office weekend frame is still Aug 21–23 (third consecutive sheet on that frame) — used entirely new angles ($854.9M domestic/24 days, $2B in 17 days vs Endgame's 11) rather than repeating v50/v51 facts. |
 
 
 ## August 27, 2026 (v53)
@@ -3480,4 +3457,18 @@ NFL: Hutchinson torn ACL (sack celebration, Munich); Drake Maye ankle, could mis
 ### Notes
 Run fired Wednesday Nov 18, 2026 (~12:02 UTC); header dated Wednesday, November 18, 2026. Nov 18 not previously used for This Day in History. Built from the Nov 17 run's local log (Nov 17 sheet and log had not reached the repo); Nov 17 sheet published to the archive in this run. TV card has 5 questions. 6 songs: Spotify IDs from artist embed pages (artist IDs via MusicBrainz url-rels), all oEmbed-verified; Apple IDs from the iTunes Search API. Cloud git push refused by the session git proxy. Pruned 44 table rows and 1 per-run sections dated before Aug 26.
 
-_Last updated: November 18, 2026_
+## November 19, 2026 (v111)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Thu Nov 19 before TNF (Week 10 complete; unchanged from Nov 17–18): Detroit Lions 407.6 yds/g (3,668 total, 9 GP, 3rd in total); top 5 Lions / 49ers 407.2 (3,665, 9) / Chiefs 401.0 (3,609, 9) / Bills 399.7 (3,597, 9) / Bears 398.7 (3,588, 9). Rams No. 1 total 3,966 (10 GP, 396.6/g 6th). Bengals 395.3 yds/g 7th, 3,558 total 9th, 7–2. Next: Mon Nov 23 at WSH 8:15 p.m. EST, ESPN; then Sun Nov 29 vs NO 1 p.m. TNF Nov 19: IND at HOU 8:15 p.m. EST, Prime Video. ESPN rank arrays matched.
+
+### Box Office
+Weekend Nov 13–15 (same frame; TheWrap): #1 Ebenezer $19.0M ($42M WW); Cat in the Hat $11.4M ($38.2M); Godzilla Minus Zero $8.3M (~$49M); Ramayana $5.5M ($24.1M); You Can See Everything $5.4M ($89M). Fun fact used: A– CinemaScore, 50% of audiences cited Depp as main reason, $38M budget + ~$50M marketing; Ramayana about to become top-grossing Indian film in US/Canada. Coming Nov 20–22: Hunger Games: Sunrise on the Reaping (previews Thu, $80M+ projected), I Play Rocky, Paper Tiger expanding.
+
+### Sports / Deaths / Current Events
+MLS: FC Cincinnati at Orlando City, East Wild Card, Thu Nov 19 7:30 p.m. EST Apple TV. NCAA FB: UC (5–5) hosts Colorado Sat noon ESPN+ (Colorado's first trip to Nippert; CU won 34–23 in 2024); at BYU Nov 28. Hoops: UC 91–54 Youngstown St. (Nov 18); Xavier hosts Iowa Fri 7:30; Dayton vs Utah Fri. NBA Nov 18: MIA 137–130 MIL (Giannis 27-13-9 for Heat); MEM 124–121 CLE (D. Mitchell 34); WSH 103–99 TOR (A. Davis 25/14, Dybantsa 23/12); CHI 137–107 BKN; PHI 121–116 ORL. NHL: McDavid first to 50 points; Scheifele passed Hawerchuk as Jets points leader (933); Jamie Benn 1,000th point. Tennis: ATP Finals Alcaraz d. Medvedev 6–2 6–4 into SF; Tiafoe d. Cobolli 7–6(6) 6–0; Zverev qualified earlier. Golf: RSM Classic begins Nov 19, FedExCup Fall finale, Koepka first start since August, Välimäki defending. MLB skipped (no verified fresh item). Deaths: Larry Poindexter 66 (Nov 18), Bill Watts 87, Lance Broadway 43, Fred Mitchell 78, Mike Wise 62, Richard Sterban 83; also Dan Carney, Peter Storey, Ken St. Andre, John Christ, Corrado Augias. News: Anthropic IPO priced $83 (above $70–78), $81.3B raised, largest IPO on record (topping SpaceX), ~$1.5T, trades Nov 19 Nasdaq ANT, ~$500B orders; Voyager 1 reached one light-day Nov 18 10:16 UTC; Trump in China for Xi/Putin summit; House Democrats nominated Jeffries for Speaker; DHS Secretary Mullin questioned on tech outages/FAA ground stop; Paris Hilton deepfake bill push; GTA VI release Nov 19.
+
+### Notes
+Run fired Thursday Nov 19, 2026 (~15:06 UTC; scheduled 12:01 UTC); header dated Thursday, November 19, 2026. Nov 19 not previously used for This Day in History. 6 songs: Spotify artist IDs from Wikidata P1902 (MusicBrainz returned 503), track IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search/Lookup API. Cloud git push refused by the session git proxy (repo not in authorized set); pushed from the connected device shell. Pruned 43 table rows and 1 per-run sections dated before Aug 27.
+
+_Last updated: November 19, 2026_
