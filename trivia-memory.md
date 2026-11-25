@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 25 | Uruguay | Montevideo (Estadio Centenario, 1930 World Cup final, Uruguay 4–2 Argentina) |
+| Nov 25 | Western Australia (Australia) | Perth (most isolated major city) |
+| Nov 25 | Ghana | Accra (first sub-Saharan colony to win independence, 1957) |
+| Nov 25 | Northern Territory (Australia) | Darwin (named for Charles Darwin; HMS Beagle 1839) |
 | Nov 24 | Jordan | Amman (Philadelphia in Roman times) |
 | Nov 24 | Cambodia | Phnom Penh (Mekong / Tonlé Sap confluence) |
 | Nov 24 | Kentucky | Frankfort (Zachary Taylor born Nov 24, 1784, raised near Louisville) |
@@ -250,10 +254,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 3 | Georgia (country) | Tbilisi ("warm place," named for sulfur hot springs) |
 | Sep 3 | Laos | Vientiane (on the Mekong, across from Thailand) |
 | Sep 3 | Chad | N'Djamena (founded 1900 as Fort-Lamy; renamed 1973) |
-| Sep 1 | Portugal | Lisbon (older than Rome; rebuilt after the 1755 earthquake) |
-| Sep 1 | Argentina | Buenos Aires ("good airs"; residents are porteños) |
-| Sep 1 | Kyrgyzstan | Bishkek (Frunze 1926–1991; named for a kumis churn paddle) |
-| Sep 1 | Madagascar | Antananarivo ("city of the thousand") |
 
 
 
@@ -265,6 +265,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 25 | The Rockford Files (1974–80) | Joseph "Rocky" Rockford | Noah Beery Jr. |
+| Nov 25 | Dark Shadows (1966–71) | Barnabas Collins | Jonathan Frid |
+| Nov 25 | Dallas (1978–91) | J.R. Ewing | Larry Hagman (mother Mary Martin) |
+| Nov 25 | Rawhide (1959–65) | Rowdy Yates | Clint Eastwood |
+| Nov 25 | Room 222 (1969–74) | Pete Dixon | Lloyd Haynes |
+| Nov 25 | Wiseguy (1987–90) | Vinnie Terranova | Ken Wahl |
 | Nov 24 | Three's Company (1977–84) | Jack Tripper | John Ritter (son of Tex Ritter) |
 | Nov 24 | The Golden Girls (1985–92) | Sophia Petrillo | Estelle Getty (younger than Bea Arthur) |
 | Nov 24 | Kojak (1973–78) | Lt. Theo Kojak | Telly Savalas (lollipops, "Who loves ya, baby?") |
@@ -601,12 +607,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 3 | Laverne & Shirley (1976–83) | Lenny Kosnowski | Michael McKean |
 | Sep 3 | Remington Steele (1982–87) | Laura Holt | Stephanie Zimbalist |
 | Sep 3 | Picket Fences (1992–96) | Sheriff Jimmy Brock | Tom Skerritt |
-| Sep 1 | The Addams Family (1964–66) | Gomez Addams | John Astin |
-| Sep 1 | Lost in Space (1965–68) | Dr. Zachary Smith | Jonathan Harris |
-| Sep 1 | The Bob Newhart Show (1972–78) | Dr. Bob Hartley | Bob Newhart |
-| Sep 1 | Fantasy Island (1977–84) | Mr. Roarke | Ricardo Montalbán |
-| Sep 1 | Cagney & Lacey (1982–88) | Det. Mary Beth Lacey | Tyne Daly |
-| Sep 1 | NYPD Blue (1993–2005) | Det. Andy Sipowicz | Dennis Franz |
 
 
 
@@ -620,6 +620,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 25 | Longest-running play, opened Nov 25, 1952 | The Mousetrap — Agatha Christie (Attenborough original Trotter) |
+| Nov 25 | Shakespeare's shortest play (Stanley Wells died) | The Comedy of Errors |
+| Nov 25 | "Happy families are all alike…" opener | Anna Karenina — Leo Tolstoy |
+| Nov 25 | Sea of Fertility tetralogy author, died Nov 25, 1970 | Yukio Mishima |
+| Nov 25 | Boléro (premiered Nov 22, 1928, Paris Opéra) | Maurice Ravel |
+| Nov 25 | Latex-puppet satire by Peter Fluck & Roger Law | Spitting Image (1984–96) |
 | Nov 24 | Darwin book published Nov 24, 1859 | On the Origin of Species (John Murray, 1,250 first printing) |
 | Nov 24 | King of Ragtime, Maple Leaf Rag / The Entertainer, born Nov 24, 1868 (trad.) | Scott Joplin (special Pulitzer 1976) |
 | Nov 24 | How to Win Friends and Influence People (1936), born Nov 24, 1888 | Dale Carnegie (originally Carnagey) |
@@ -961,12 +967,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 3 | Jane Eyre (1847) author | Charlotte Brontë (pen name Currer Bell) |
 | Sep 3 | The Sound and the Fury (1929) author | William Faulkner (title from Macbeth) |
 | Sep 3 | "Whistler's Mother" real title | Arrangement in Grey and Black No. 1 (1871) — James McNeill Whistler |
-| Sep 1 | "It was the best of times, it was the worst of times" opener | A Tale of Two Cities (1859) — Charles Dickens |
-| Sep 1 | The Great Wave off Kanagawa (c.1831) printmaker | Katsushika Hokusai (Thirty-six Views of Mount Fuji) |
-| Sep 1 | Carmen (1875) composer | Georges Bizet (died three months after the premiere) |
-| Sep 1 | Don Quixote (1605) author | Miguel de Cervantes |
-| Sep 1 | "Do not go gentle into that good night" poet | Dylan Thomas (villanelle for his dying father) |
-| Sep 1 | Beloved (1987) author / first Black woman Nobel laureate in Literature | Toni Morrison (Pulitzer 1988, Nobel 1993) |
 
 
 
@@ -979,6 +979,15 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 25 | History | White Ship sank Nov 25, 1120; William Adelin drowned; led to the Anarchy |
+| Nov 25 | Baseball | DiMaggio (born Nov 25, 1914) 56-game streak 1941, then 16 more straight |
+| Nov 25 | Food | Wishbone = furcula, fused collarbones |
+| Nov 25 | History | Andrew Carnegie (born Nov 25, 1835) funded 2,509 libraries, 1,689 in US |
+| Nov 25 | Words | "Black Friday" popularized by Philadelphia police 1950s–60s |
+| Nov 25 | Parade | Snoopy has the most Macy's balloon appearances |
+| Nov 25 | Parade | Macy's parade canceled 1942–44, rubber/helium for WWII |
+| Nov 25 | Geography | Canada has more lakes than the rest of the world combined |
+| Nov 25 | Music | Bono's Band Aid line "thank God it's them instead of you" |
 | Nov 24 | Science | "Survival of the fittest" coined by Herbert Spencer 1864; Darwin adopted it in 5th edition 1869 |
 | Nov 24 | Mystery | D.B. Cooper ransom: Brian Ingram, 8, found $5,800 on Columbia River beach 1980; FBI ended active probe 2016 |
 | Nov 24 | Science | Lucy ~40% skeleton, ~3.5 ft; Ethiopian name Dinkinesh ("you are marvelous") |
@@ -1620,20 +1629,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 3 | Weather | Petrichor — coined 1964 by two Australian scientists; geosmin |
 | Sep 3 | Local (Cincinnati) | Findlay Market (1855) — oldest continuously operated public market in Ohio |
 | Sep 3 | Reds bar-bet | Team officially named the "Cincinnati Redlegs" 1953–1958 during the Red Scare |
-| Sep 1 | Science | Mpemba effect — hot water can freeze faster than cold |
-| Sep 1 | Space | Olympus Mons ~2.5× Everest's height, roughly the footprint of Arizona |
-| Sep 1 | Geography | The Sahara is about the size of the contiguous US (~3.5M sq mi) |
-| Sep 1 | Animals | Sea otters hold hands while sleeping so they don't drift apart |
-| Sep 1 | Body | You're ~half an inch taller in the morning (spinal disc compression) |
-| Sep 1 | Food | Apples float because ~25% of their volume is air |
-| Sep 1 | Language | "Nerd" first appeared in print in Dr. Seuss's If I Ran the Zoo (1950) |
-| Sep 1 | History | Cleopatra lived closer to the Moon landing than to the Great Pyramid |
-| Sep 1 | Sports | The Olympic torch relay was invented for the 1936 Berlin Games |
-| Sep 1 | Pop Culture | The Hollywood sign read HOLLYWOODLAND until 1949 |
-| Sep 1 | Weather | Lightning is ~5× hotter than the Sun's surface (~50,000°F) |
-| Sep 1 | Math | Birthday paradox — 23 people gives ~50% odds of a shared birthday |
-| Sep 1 | Local (Cincinnati) | Spring Grove Cemetery — 2nd largest in the US (~733 acres), registered arboretum |
-| Sep 1 | Reds bar-bet | Pete Rose holds MLB records for hits (4,256), games (3,562) and at-bats (14,053) |
 
 
 
@@ -1645,6 +1640,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 25 | November 25 (Missionary Ridge 1863; Einstein field equations to Prussian Academy 1915; JFK funeral, John Jr. salute on 3rd birthday 1963; Band Aid records 'Do They Know It's Christmas?' 1984. Born: Carnegie, Benz, John XXIII, DiMaggio, Pinochet) |
 | Nov 24 | November 24 (Origin of Species published 1859, 1,250 copies; Jack Ruby shoots Oswald on live TV 1963; D.B. Cooper hijacks Northwest Orient Flight 305, $200,000, 1971; Lucy found at Hadar, Ethiopia by Johanson & Gray 1974. Born: Spinoza, Sterne, Zachary Taylor, Collodi, Toulouse-Lautrec, Scott Joplin, Dale Carnegie, William F. Buckley Jr., Katherine Heigl. Died: Freddie Mercury 1991) |
 | Nov 23 | November 23 (first jukebox, Palais Royale Saloon SF 1889; first Life magazine 1936; Doctor Who premieres 1963, Hartnell, "An Unearthly Child"; PRC takes UN Security Council seat 1971. Born: Franklin Pierce, Billy the Kid, Manuel de Falla, Boris Karloff, Harpo Marx, Vincent Cassel, Miley Cyrus. Died: Roald Dahl 1990) |
 | Nov 19 | November 19 (Columbus lands on Puerto Rico 1493; Gettysburg Address 1863, ~272 words, Everett spoke ~2 hrs; Apollo 12 lands, Conrad & Bean, Ocean of Storms 1969, same day Pelé's 1,000th goal vs Vasco da Gama; Sadat visits Israel 1977. Born: Garfield, Tommy Dorsey, Indira Gandhi, Larry King, Dick Cavett, Ted Turner, Calvin Klein, Allison Janney, Meg Ryan, Jodie Foster, Jack Dorsey, Kerri Strug) |
@@ -1702,7 +1698,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 7 | September 7 (last known thylacine "Benjamin" dies at Hobart's Beaumaris Zoo 1936 — 90th anniv, basis of Australia's National Threatened Species Day; ESPN launches from Bristol CT 1979, first broadcast SportsCenter, founder Bill Rasmussen; "Uncle Sam" first in print in the Troy Post 1813, from meatpacker Samuel Wilson; Elizabeth I born at Greenwich 1533) |
 | Sep 4 | September 4 (Odoacer deposes Romulus Augustulus 476 — 1,550th anniv, traditional fall of Western Rome; Los Angeles founded by 44 pobladores 1781 — 245th; George Eastman patents roll-film camera & trademarks KODAK 1888; Little Rock Nine blocked by Arkansas National Guard 1957 AND Ford unveils the Edsel on "E-Day" the same day; System of a Down's Toxicity released 2001 — 25th) |
 | Sep 3 | September 3 (Treaty of Paris signed 1783 — 243rd anniv; Britain & France declare war on Germany 1939; Viking 2 lands on Mars 1976 — 50th anniv; Sweden's "Dagen H" left-to-right driving switch 1967) |
-| Sep 1 | September 1 (Germany invades Poland 1939 — 87th anniv; Titanic wreck found by Ballard/Argo 1985; Bobby Fischer becomes world chess champion in Reykjavík 1972; Emma Nutt becomes first female telephone operator, Boston 1878) |
 
 
 
@@ -1713,6 +1708,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 25 | National Parfait Day; Shopping Reminder Day; International Day for the Elimination of Violence against Women; Suriname Independence Day |
 | Nov 24 | National Sardines Day; Celebrate Your Unique Talent Day; Evolution Day; D.B. Cooper Day |
 | Nov 23 | National Espresso Day; National Cashew Day; Eat a Cranberry Day; Fibonacci Day |
 | Nov 19 | National Play Monopoly Day; National Carbonated Beverage with Caffeine Day; World Toilet Day; International Men's Day; Discovery of Puerto Rico Day; Monaco National Day |
@@ -1770,7 +1766,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 7 | Labor Day (first Monday in September); National Beer Lover's Day; Salami Day; National Acorn Squash Day; National Grandma Moses Day; National Neither Snow Nor Rain Day; National Threatened Species Day (Australia); Mouthguard Day; National Feel the Love Day |
 | Sep 4 | National Wildlife Day; National Newspaper Carrier Day; National Macadamia Nut Day; National Spice Blend Day; National Blood Donation Day; National Food Bank Day; National Lazy Mom's Day; National Chianti Day; National College Colors Day (Friday before Labor Day); World Sexual Health Day; National Waffle Week |
 | Sep 3 | National Welsh Rarebit Day; U.S. Bowling League Day; Skyscraper Day (Louis Sullivan's birthday); National Waffle Week (first full week of September) |
-| Sep 1 | National Forgiveness Day; National Burnt Ends Day; National Cherry Popover Day; National No Rhyme (Nor Reason) Day; National Chicken Boy Day; Emma M. Nutt Day; Ginger Cat Appreciation Day; American Chess Day; National Hotel Employee Day |
 
 
 ---
@@ -1788,6 +1783,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 25 | Benz Patent-Motorwagen 1886 (Benz born Nov 25, 1844) | Karl Benz; Bertha's 66-mile drive 1888, fuel from Wiesloch pharmacy |
+| Nov 25 | Cool Whip 1966 | William A. Mitchell, General Foods (also Pop Rocks) |
+| Nov 25 | Ziploc bag 1968 | Dow Chemical |
+| Nov 25 | Hershey Chocolate Company | Milton Hershey, 1894, Lancaster PA; Kisses 1907 |
+| Nov 25 | Band-Aid ~1920 | Earle Dickson, Johnson & Johnson |
+| Nov 25 | Bundt pan 1950 | H. David Dalquist, Nordic Ware; Tunnel of Fudge 1966 Bake-Off |
 | Nov 24 | Barbed wire patent (Nov 24, 1874) | Joseph Glidden, DeKalb IL |
 | Nov 24 | Early Macy's parade giant balloon, 1927 (first parade 1924 had Central Park Zoo animals) | Felix the Cat |
 | Nov 24 | Brand named by a tester's wife, 1919 stand mixer | KitchenAid (Hobart Manufacturing) |
@@ -2129,12 +2130,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 3 | Hasbro founded | 1923, Providence RI, Hassenfeld Brothers; coined "action figure" for G.I. Joe, 1964 |
 | Sep 3 | Stay-tab beverage can | Daniel Cudzik, Reynolds Metals, 1975; replaced Ermal Fraze's 1959 detachable pull-tab |
 | Sep 3 | Fifth Third Bank name (Local) | 1908 Cincinnati merger of Fifth National and Third National banks |
-| Sep 1 | Kevlar | Stephanie Kwolek, DuPont, 1965; 5× stronger than steel by weight |
-| Sep 1 | Starbucks founded | 1971 Pike Place Market, Seattle; named for Moby-Dick's first mate; sold beans only for a decade |
-| Sep 1 | Bubble gum / Dubble Bubble | Walter Diemer, Fleer accountant, 1928; pink was the only dye left on the shelf |
-| Sep 1 | Monopoly | Lizzie Magie's The Landlord's Game, patented 1904; Darrow sold to Parker Bros 1935, Magie paid $500 |
-| Sep 1 | Integrated circuit | Jack Kilby (TI, 1958) & Robert Noyce (Fairchild); Kilby Nobel 2000 |
-| Sep 1 | Cincinnati Bengals founded (Local) | Paul Brown, 1967 — the man fired by the Browns, the team named for him |
 
 
 
@@ -2145,6 +2140,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 25 | Losing My Religion | R.E.M. | 1991 |
+| Nov 25 | No Rain | Blind Melon | 1993 |
+| Nov 25 | Basket Case | Green Day | 1994 |
+| Nov 25 | Interstate Love Song | Stone Temple Pilots | 1994 |
+| Nov 25 | How Bizarre | OMC | 1995 |
+| Nov 25 | Everlong | Foo Fighters | 1997 |
 | Nov 24 | Jump | Kris Kross | 1992 |
 | Nov 24 | You Gotta Be | Des'ree | 1994 |
 | Nov 24 | Give Me One Reason | Tracy Chapman | 1995 |
@@ -2477,12 +2478,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 | Sep 3 | Slide | The Goo Goo Dolls | 1998 |
 | Sep 3 | Smooth | Santana feat. Rob Thomas | 1999 |
 | Sep 3 | Toxic | Britney Spears | 2003 |
-| Sep 1 | Enter Sandman | Metallica | 1991 |
-| Sep 1 | Say It Ain't So | Weezer | 1994 |
-| Sep 1 | Sex and Candy | Marcy Playground | 1997 |
-| Sep 1 | All the Small Things | blink-182 | 1999 |
-| Sep 1 | Bring Me to Life | Evanescence feat. Paul McCoy | 2003 |
-| Sep 1 | Hey There Delilah | Plain White T's | 2006 |
 
 ---
 
@@ -2657,18 +2652,6 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 
 
-
-## September 1, 2026 (v56)
-
-| Item | Detail |
-|------|--------|
-| Reds | 65–73 (.471), 5th NL Central, 20.0 GB behind Milwaukee (85–53). Streak L1, Last 10 4–6. Last 5: W 10–9 @SF (8/26), W 10–8 @CHC (8/28), L 5–17 @CHC (8/29), W 7–5 @CHC (8/30), L 0–5 vs SD (8/31). Today: vs San Diego, 6:40 p.m. ET at GABP. Source: MLB Stats API. |
-| Box office | Spider-Man: Brand New Day, $22.5M weekend ending Aug 30 — fifth straight #1, first since Avatar: Fire and Ash. Domestic ~$892M, #1 film of 2026. The Odyssey passed Deadpool & Wolverine as top R-rated film ever (~$1.35B WW). |
-| Coming this weekend | Onslaught (A24, Adam Wingard); Mayday (Ryan Reynolds/Kenneth Branagh); Cars 20th-anniversary re-release; Dark Hollow (VOD). |
-| Sports | US Open R1 — Alcaraz back from wrist injury beats Safiullin; Sabalenka beats Osorio chasing a 3-peat; Tsitsipas upsets No. 10 Arthur Fils; Sinner out, Djokovic already gone. Golf — Scheffler wins Tour Championship + 2nd FedEx Cup, passes Tiger for career earnings. NFL — cutdown to 53 (1,100+ released; Levis, Neal, Wills cut); season opens Sept 9 Seahawks–Patriots SB rematch; Bengals 3–0 preseason, open vs Tampa Bay. NCAA Week 0 — NAIA Louisiana Christian beats D-I Northwestern State 42–37, a first. MLS — Nashville 4, FC Cincinnati 0 (Aug 29). |
-| Deaths | Peter Cullen 85 (Aug 26, Optimus Prime/Eeyore); Michel Fano 96 (Aug 31); Miguel Zavaleta 71 (Aug 31, Suéter); Stjepan "Jimmy" Stanić 97 (Aug 30); Tony Mundine 75 (Aug 30); Franco Fontana 92 (Aug 29). Carryover: Dolly Parton, King Harald V, Tim Curry. |
-| Current events | John Ternus takes over as Apple CEO today, ending Tim Cook's 15-year run. Las Vegas jury convicts Duane "Keffe D" Davis of orchestrating Tupac Shakur's 1996 killing. Army Secretary Dan Driscoll stepping down. Dow −0.7% to 53,185.90. US–Iran conflict month seven — Larak Island strike Aug 30, Iranian missiles at two Jordan bases. |
-| NOTE | Ran Tuesday Sept 1 (scheduled task continues to fire on non-Thursdays). September 1 had never been used for This Day in History. Box office frame is unchanged from v55 (Aug 28–30) since the next weekend's numbers land Sept 6 — refreshed the angle and added the Sept 4–6 slate instead. Pruned run-detail sections v22–v25 (June 9–12) as older than 12 weeks. |
 
 
 ## September 3, 2026 (v57)
@@ -3412,4 +3395,18 @@ MLS: FCC leads Nashville 1–0, Game 2 Sat Nov 28 6:30 p.m. TQL. NCAA: UC (6–5
 ### Notes
 Run fired Tuesday Nov 24, 2026 (~12:02 UTC); header dated Tuesday, November 24, 2026. Nov 24 not previously used for This Day in History. 6 songs: Spotify artist IDs from Wikidata P1902, track IDs from artist embed pages, all oEmbed-verified; Apple IDs from the iTunes Search API. Pruned 43 table rows and 1 per-run sections dated before Sep 1.
 
-_Last updated: November 24, 2026_
+## November 25, 2026 (v114)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Wed Nov 25 (no games since MNF; unchanged from Nov 24): Detroit Lions 405.6 yds/g (4,056 total, 10 GP, 2nd in total); top 5 Lions / Chiefs 405.1 (4,051) / Bills 402.6 (4,026) / 49ers 401.5 (4,015) / Rams 396.6 (3,966). Cowboys No. 1 total 4,232 (11 GP, 8th per game). Bengals 388.9 yds/g 7th, 3,889 total 8th, 7–3. Next: Sun Nov 29 vs NO 1 p.m. EST (ESPN schedule API). ESPN rank arrays matched.
+
+### Box Office
+Weekend Nov 20–22: #1 Sunrise on the Reaping $119.3M; Monday $12.9M (franchise first-Monday record over Catching Fire $12.3M); $132.2M domestic / $237.2M WW through Monday. Fun fact used: Joseph Zada as young Haymitch; Francis Lawrence directed 5 of 6. Coming Nov 25–29: Focker-In-Law, Hexed, Hershey, Paper Tiger expansion.
+
+### Sports / Deaths / Current Events
+NFL Thanksgiving slate; CFP rankings Nov 24: Georgia, Utah, Texas, Notre Dame; Tennessee 9→5, Alabama 3→6, UCLA 4→9, BYU 10. UC at BYU Sat 3:30 Fox. FCC–Nashville Game 2 Sat 6:30. NBA Cup: Tatum 41, BOS 131–116 WAS; Flagg 24 pts 12 ast, DAL 120–101 at DEN; DET 104–86 ORL. NHL: VGK 5–3 at EDM (Eichel 2, Marner 600 pts, Bouchard fastest Oilers D to 40). Deaths: Molly Meldrum 83; Peter Fluck 85; Sir Stanley Wells 96; E.J. Carroll 66; Phumzile Mlambo-Ngcuka 71; Tommy Mars 75; also Georges Khodr, Gilbert Bauvin, Ricardo Acuña, A. Samad Said. News: Democrats 258 House seats (Chuck Hubbard beat Virginia Foxx by ~330 after recount); turkeys Freedom and Feathers pardoned; Macy's 100th parade wind watch; AAA 81.5M travelers.
+
+### Notes
+Run fired Wednesday Nov 25, 2026 (~12:02 UTC); header dated Wednesday, November 25, 2026. Nov 25 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API. Pruned 44 table rows and 1 per-run section dated Sep 1.
+
+_Last updated: November 25, 2026_
