@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia Night — November 26, 2026</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#f0f2f5; color:#1a1a2e; line-height:1.45; padding-bottom:40px; }
+  header { background:linear-gradient(135deg,#5b2a86,#9b1d64); color:#fff; padding:18px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  header h1 { font-size:26px; letter-spacing:0.5px; }
+  header .date { font-size:14px; opacity:0.9; margin-top:3px; font-weight:600; }
+  .wrap { max-width:1180px; margin:0 auto; padding:18px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:16px; }
+  .card { background:#fff; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-top:5px solid #ccc; }
+  .card h2 { font-size:16px; padding:11px 16px; background:#fafafa; border-bottom:1px solid #eee; display:flex; align-items:center; gap:8px; }
+  .card .body { padding:12px 16px; font-size:14px; }
+  .card .body p { margin-bottom:7px; }
+  .card .body .q { font-weight:600; }
+  .card .body .a { color:#9b1d64; font-weight:700; }
+  ul { list-style:none; }
+  li { padding:5px 0; border-bottom:1px solid #f3f3f3; font-size:13.5px; }
+  li:last-child { border-bottom:none; }
+  .tag { display:inline-block; font-size:10px; font-weight:700; text-transform:uppercase; color:#fff; background:#9b1d64; padding:1px 6px; border-radius:3px; margin-right:6px; letter-spacing:0.5px; }
+  .reds { border-top-color:#c6011f; } .reds h2 { color:#c6011f; }
+  .nfl { border-top-color:#fb4f14; } .nfl h2 { color:#c13d0c; }
+  .box { border-top-color:#e8a317; } .box h2 { color:#b87800; }
+  .sports { border-top-color:#1565c0; } .sports h2 { color:#1565c0; }
+  .deaths { border-top-color:#555; } .deaths h2 { color:#444; }
+  .history { border-top-color:#2e7d32; } .history h2 { color:#2e7d32; }
+  .news { border-top-color:#00838f; } .news h2 { color:#00838f; }
+  .cap { border-top-color:#6a1b9a; } .cap h2 { color:#6a1b9a; }
+  .tv { border-top-color:#ad1457; } .tv h2 { color:#ad1457; }
+  .arts { border-top-color:#4527a0; } .arts h2 { color:#4527a0; }
+  .founded { border-top-color:#00695c; } .founded h2 { color:#00695c; }
+  .gen { border-top-color:#37474f; } .gen h2 { color:#37474f; }
+  .music { border-top-color:#1db954; } .music h2 { color:#179443; }
+  .reds-rec { font-size:46px; font-weight:800; color:#c6011f; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-rec { font-size:46px; font-weight:800; color:#fb4f14; text-align:center; line-height:1; margin:6px 0 2px; }
+  .nfl-team { text-align:center; font-size:15px; font-weight:700; color:#1a1a2e; margin-bottom:2px; }
+  .nfl-sub { text-align:center; font-size:13px; color:#555; margin-bottom:10px; }
+  .bengals-box { background:#fff8f4; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; font-size:13px; margin-top:10px; }
+  .next-row { background:#fff6f0; border:1px solid #f7cdb4; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#a33a08; margin-top:10px; }
+  .today-row { background:#fff4f4; border:1px solid #f2c9c9; border-radius:8px; padding:9px 12px; text-align:center; font-size:13.5px; font-weight:600; color:#8a0f1c; }
+  .sub { border-top:1px dashed #ddd; margin-top:12px; padding-top:10px; }
+  .sub h3 { font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#b87800; margin-bottom:6px; }
+  .song-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px dashed rgba(0,0,0,0.12);gap:8px;}
+  .song-row:last-of-type{border-bottom:none;}
+  .song-info{flex:1;min-width:0;}
+  .song-title{font-weight:700;font-size:14px;color:#1a1a2e;}
+  .song-meta{font-size:12px;color:rgba(0,0,0,0.55);margin-top:1px;}
+  .song-links{display:flex;gap:6px;flex-shrink:0;}
+  .song-links a{text-decoration:none;font-size:11px;font-weight:700;padding:4px 9px;border-radius:4px;white-space:nowrap;}
+  .song-links a.spotify{background:#1db954;color:#fff;}
+  .song-links a.apple{background:#fa233b;color:#fff;}
+  @media print { body { background:#fff; } .card { break-inside:avoid; box-shadow:none; border:1px solid #ddd; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🎯 Trivia Night</h1>
+    <div class="date">Reference Sheet — Thursday, November 26, 2026 · Happy Thanksgiving 🦃</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <a href="https://delbraeth.github.io/TRIVIA/states" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">STATES</a>
+    <a href="https://delbraeth.github.io/TRIVIA/presidents" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">PRESIDENTS</a>
+    <a href="https://delbraeth.github.io/tribond/" target="_blank" style="color:#fff; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.3); padding:6px 12px; border-radius:6px; text-decoration:none; font-size:13px; font-weight:700; letter-spacing:1px;">TRIBOND</a>
+    <div style="font-size: 24px;">🍺</div>
+  </div>
+</header>
+<!-- ARCHIVE-NAV -->
+<div style="background:rgba(0,0,0,0.35); padding:5px 24px; display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+  <span style="font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1.2px; color:rgba(255,255,255,0.4);">Archive</span>
+  <a href="./index.html" style="color:#fff; background:rgba(255,255,255,0.22); border:1px solid rgba(255,255,255,0.4); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:700; white-space:nowrap;">Today</a>
+  <a href="./thursday-trivia-2026-11-26.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 26</a>
+  <a href="./thursday-trivia-2026-11-25.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 25</a>
+  <a href="./thursday-trivia-2026-11-24.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 24</a>
+  <a href="./thursday-trivia-2026-11-23.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 23</a>
+  <a href="./thursday-trivia-2026-11-19.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 19</a>
+  <a href="./thursday-trivia-2026-11-18.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 18</a>
+  <a href="./thursday-trivia-2026-11-17.html" style="color:rgba(255,255,255,0.75); background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15); padding:2px 9px; border-radius:4px; text-decoration:none; font-size:11px; font-weight:600; white-space:nowrap;">Nov 17</a>
+</div>
+
+
+<div class="wrap">
+<div class="grid">
+
+  <div class="card nfl">
+    <h2>🏈 NFL — Most Total Offense</h2>
+    <div class="body">
+      <div class="nfl-rec">405.6</div>
+      <div class="nfl-team">Detroit Lions — yards per game</div>
+      <div class="nfl-sub">4,056 total yards (3rd in total) · 10 games played</div>
+      <ul>
+        <li><span class="tag">1</span><strong>Detroit Lions</strong> — 405.6/g &nbsp;<span style="color:#777;">(4,056 yds, 10 GP)</span></li>
+        <li><span class="tag">2</span><strong>Kansas City Chiefs</strong> — 405.1/g &nbsp;<span style="color:#777;">(4,051 yds, 10 GP)</span></li>
+        <li><span class="tag">3</span><strong>Buffalo Bills</strong> — 402.6/g &nbsp;<span style="color:#777;">(4,026 yds, 10 GP)</span></li>
+        <li><span class="tag">4</span><strong>San Francisco 49ers</strong> — 401.5/g &nbsp;<span style="color:#777;">(4,015 yds, 10 GP)</span></li>
+        <li><span class="tag">5</span><strong>Los Angeles Rams</strong> — 395.2/g &nbsp;<span style="color:#777;">(4,347 yds, 11 GP)</span></li>
+      </ul>
+      <p style="font-size:12px;color:#777;margin-top:4px;">The <strong>Rams now lead in total yards (4,347)</strong> after last night's 26–13 win over Green Bay, but they've played 11 games. All of the top 3 play today: the No. 1 Lions host the Bears, and the No. 2 Chiefs visit the No. 3 Bills tonight.</p>
+      <div class="bengals-box">
+        <strong>🐅 Bengals:</strong> <strong>388.9 yards per game, 7th</strong> in the NFL. <strong>3,889 total yards, 8th</strong> (10 games). Record: <strong>7–3</strong>.
+      </div>
+      <div class="next-row">Next: <strong>Sunday, Nov 29 vs. New Orleans Saints, 1:00 p.m. EST</strong> <span style="font-weight:400;">(CBS, at Paycor Stadium)</span></div>
+      <p style="font-size:11.5px;color:#777;margin-top:8px;">Source: ESPN team-stats endpoint (own offense only, splitId 0), pulled Thursday morning before the Thanksgiving games. ESPN's rank column matches.</p>
+    </div>
+  </div>
+
+  <div class="card box">
+    <h2>🎬 Box Office — Weekend of Nov 20–22</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">#1</span><strong>The Hunger Games: Sunrise on the Reaping</strong> (Lionsgate) — <strong>$119.3M opening</strong>. It made <strong>$16M on Tuesday</strong>, more than Monday's $12.8M; both are franchise records for those days. <strong>$148.2M after five days.</strong></li>
+        <li>#2 I Play Rocky — $9.3M &nbsp;|&nbsp; #3 Ebenezer — $7.7M</li>
+        <li>#4 The Cat in the Hat — $6.9M &nbsp;|&nbsp; #5 Godzilla Minus Zero — $2.7M</li>
+      </ul>
+      <p style="margin-top:9px;"><strong>Fun fact:</strong> By Sunday it's expected to pass the <strong>$166.3M lifetime total</strong> of the last prequel, <em>The Ballad of Songbirds &amp; Snakes</em> (2023), in just 10 days. It has an <strong>A– CinemaScore</strong> and 94% on Rotten Tomatoes.</p>
+      <div class="sub">
+        <h3>Coming This Weekend (Thanksgiving, Nov 25–29)</h3>
+        <ul>
+          <li><strong>Hexed</strong> (Disney Animation): Hailee Steinfeld and Rashida Jones voice witch daughter and mother. Tuesday previews were <strong>$2.1M</strong>, beating <em>Encanto</em>'s $1.5M in 2021. Five-day forecast: $35–40M.</li>
+          <li><strong>Focker-In-Law</strong> (Universal): Ben Stiller and Robert De Niro return, with Ariana Grande. Forecasts run $36–45M over five days. Critics: 28% on Rotten Tomatoes.</li>
+          <li><strong>Hershey</strong> (Angel Studios, today): Finn Wittrock as Milton Hershey, about 2,275 theaters.</li>
+          <li><strong>The Further Mis-Adventures of Cliff Booth</strong> (Netflix, about 250 IMAX screens only): David Fincher directs Brad Pitt from a Quentin Tarantino script. Rated R, 82% on RT.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card sports">
+    <h2>🏆 Sports — Past 7 Days</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">NFL</span>🦃 <strong>Today:</strong> Bears at Lions (1:00 p.m. EST, CBS) · Eagles at Cowboys (4:30, Fox) · Chiefs at Bills (8:20, NBC). <strong>Black Friday:</strong> Broncos at Steelers, 3:00 p.m., Prime Video. 🐅 Bengals (7–3) host the Saints Sunday at 1:00.</li>
+        <li><span class="tag">NFL</span>🎥 In the <strong>first NFL game ever played on Thanksgiving Eve</strong> (on Netflix), the <strong>Rams beat the Packers 26–13</strong>. <strong>Blake Corum ran 32 times for 184 yards</strong>, and L.A. held the ball for 40:40. Rams 7–4, five straight wins.</li>
+        <li><span class="tag">MLB</span>⚾ <strong>MLB sued the players' union in federal court Wednesday</strong>, asking a judge to rule that a lockout is legal. The league says it expects to <strong>lock out players when the labor deal expires at 11:59 p.m. ET Dec 1</strong>. The fight is over the owners' proposed <strong>salary cap</strong>, the first since 1994; the union called the suit "completely frivolous."</li>
+        <li><span class="tag">NCAA</span>🏈 🐾 <strong>Cincinnati (6–5) plays at No. 10 BYU Saturday, 3:30 p.m. EST on Fox</strong>, in Provo. It's rivalry weekend: CFP top four are Georgia, Utah, Texas and Notre Dame.</li>
+        <li><span class="tag">MLS</span>⚽ <strong>FC Cincinnati leads Nashville 1–0</strong> in the best-of-three first round. <strong>Game 2 is Saturday, 6:30 p.m. EST at TQL Stadium</strong>; a win clinches the series.</li>
+        <li><span class="tag">NBA</span>🏀 NBA Cup Wednesday: <strong>LeBron James had his first triple-double as a 76er</strong> (25 pts, 12 ast, 10 reb) as Philly (15–4) beat Miami 111–104. <strong>Victor Wembanyama scored 44 with 16 rebounds</strong>, but the Spurs lost 116–111 to Portland. <strong>Karl-Anthony Towns has a double-double in all 17 games</strong> this season as the Knicks won their sixth straight.</li>
+        <li><span class="tag">NHL</span>🏒 <strong>Washington scored four goals in 2:48</strong> late in the third to beat Philadelphia 7–3 and end a five-game skid. Buffalo's <strong>Rasmus Dahlin scored 17 seconds in</strong> as the Sabres beat the Rangers 5–1.</li>
+        <li><span class="tag">Tennis</span>🎾 The <strong>Davis Cup Final 8</strong> is on in Bologna, Italy, through Sunday. Czechia knocked out Canada 2–0 in the quarterfinals.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card deaths">
+    <h2>🕯️ Notable Deaths — Past Week</h2>
+    <div class="body">
+      <ul>
+        <li>🏈 <strong>Martha Firestone Ford</strong>, 101 (Nov 24). Principal owner of the Detroit Lions from 2014 to 2020, after her husband William Clay Ford Sr. died. She was a granddaughter of tire maker Harvey Firestone. Her Lions host the Bears today.</li>
+        <li>📸 <strong>Veruschka</strong> (Vera von Lehndorff), 87 (Nov 25). Often called the first German supermodel. She played herself in the famous photo-shoot scene of Antonioni's <em>Blow-Up</em> (1966).</li>
+        <li>🥁 <strong>Michael Giles</strong>, 84 (Nov 23). Co-founded King Crimson in 1968 and played drums on <em>In the Court of the Crimson King</em>.</li>
+        <li>💿 <strong>James Russell</strong>, 95 (Nov 25). Physicist who invented optical digital recording in the late 1960s, the idea behind the compact disc.</li>
+        <li>📖 <strong>Kitty Hart-Moxon</strong>, 99 (Nov 25). Auschwitz survivor who wrote <em>I Am Alive</em> and went back to the camp with a TV crew for the 1979 documentary <em>Kitty: Return to Auschwitz</em>.</li>
+        <li>🎙️ <strong>Jay Jacobs</strong>, 88 (Nov 25). Basketball broadcaster, born in Morgantown, W.Va.</li>
+        <li style="color:#666;">Also reported: Pete Edochie, 79, Nigerian actor; Joe Wallach, 103, TV executive; Lydon Murtha, 41, former NFL offensive tackle; Amos Horev, 102, Israeli general and Technion president; Hikmet Çetin, 89, Turkish deputy prime minister.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card history">
+    <h2>📜 This Day in History — November 26</h2>
+    <div class="body">
+      <ul>
+        <li><strong>1789</strong> — <strong>The first national Thanksgiving</strong> under the Constitution. George Washington proclaimed Thursday, Nov 26, 1789, a day of "public thanksgiving and prayer."</li>
+        <li><strong>1942</strong> — <strong><em>Casablanca</em> premiered</strong> at New York's Hollywood Theatre, rushed out weeks after the Allies landed in North Africa and captured the real Casablanca.</li>
+        <li><strong>1965</strong> — <strong>France launched Astérix-1</strong> from Hammaguir, Algeria, becoming the third country, after the USSR and the U.S., to put a satellite in orbit with its own rocket.</li>
+        <li><strong>2018</strong> — <strong>NASA's InSight lander touched down on Mars</strong> on the flat plain Elysium Planitia, to study marsquakes and the planet's interior.</li>
+        <li style="color:#666;">Born today: Eugène Ionesco (1909), Charles Schulz (1922), Robert Goulet (1933), Rich Little (1938), Tina Turner (1939).</li>
+      </ul>
+      <div class="sub">
+        <h3 style="color:#2e7d32;">🎉 National Days — Nov 26</h3>
+        <ul>
+          <li>🎉 <strong>Thanksgiving Day</strong> · <strong>National Cake Day</strong> · <strong>National Dog Show</strong> (NBC, after the parade)</li>
+          <li>🎉 <strong>National Day of Mourning</strong> (held on Cole's Hill in Plymouth, Mass., since 1970) · <strong>Constitution Day in India</strong> (adopted Nov 26, 1949)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card news">
+    <h2>📰 Current Events</h2>
+    <div class="body">
+      <ul>
+        <li>🎈 <strong>The 100th Macy's Thanksgiving Day Parade</strong> runs this morning, 8:30 a.m.–noon ET on NBC and Peacock. New balloons include Bluey and Hello Kitty. Wind and rain could ground the giant balloons.</li>
+        <li>⚖️ <strong>The International Court of Justice ruled that Myanmar committed genocide against the Rohingya</strong>, the case brought by The Gambia in 2019.</li>
+        <li>⚖️ <strong>A New York federal jury convicted Huawei</strong> and three subsidiaries of bank fraud and of conspiring to steal trade secrets.</li>
+        <li>🛢️ <strong>Houthi drones hit Saudi Arabia's Ras Tanura refinery</strong> (over 500,000 barrels a day), setting it on fire. Separately, <strong>Iran says two tankers hit naval mines</strong> in the Strait of Hormuz.</li>
+        <li>🚀 <strong>China's Shenzhou-24 carried Pakistan's Muhammad Zeeshan Ali</strong>, the first foreign astronaut to visit China's Tiangong space station.</li>
+        <li>🌊 <strong>Record high tides hit California</strong> Wednesday: about 8.2 feet at Los Angeles and Santa Barbara. Surf knocked the end off a pier in Pacifica.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card cap">
+    <h2>🌍 Capitals</h2>
+    <div class="body">
+      <p><span class="q">🇹🇷 Happy Turkey Day! What's the capital of Turkey? It isn't Istanbul. Atatürk moved the capital there in 1923.</span><br><span class="a">Ankara</span></p>
+      <p><span class="q">🇧🇿 Hurricane Hattie wrecked Belize City in 1961, so Belize built a new capital about 50 miles inland. What is it?</span><br><span class="a">Belmopan</span></p>
+      <p><span class="q">🇰🇬 Kyrgyzstan's capital was called Frunze in Soviet times. What's it called now?</span><br><span class="a">Bishkek</span></p>
+      <p><span class="q">🇸🇳 Which capital sits on the Cap-Vert peninsula, the westernmost point of mainland Africa, and was the finish line of the original Paris–Dakar Rally?</span><br><span class="a">Dakar, Senegal</span></p>
+    </div>
+  </div>
+
+  <div class="card tv">
+    <h2>📺 Classic TV — Actors &amp; Roles</h2>
+    <div class="body">
+      <p><span class="q">"Oh, the pain, the pain!" Who played the scheming stowaway Dr. Zachary Smith on <em>Lost in Space</em> (1965–68)?</span><br><span class="a">Jonathan Harris</span></p>
+      <p><span class="q">Who played Gomez, Morticia's adoring husband, on ABC's <em>The Addams Family</em> (1964–66)?</span><br><span class="a">John Astin</span></p>
+      <p><span class="q">Who played the white-suited host Mr. Roarke on <em>Fantasy Island</em> (1977–84)? Hervé Villechaize played Tattoo ("De plane! De plane!").</span><br><span class="a">Ricardo Montalbán</span></p>
+      <p><span class="q">On <em>Cagney &amp; Lacey</em> (1981–88), who played the married detective Mary Beth Lacey? She won four Emmys for the role.</span><br><span class="a">Tyne Daly (Sharon Gless played Christine Cagney)</span></p>
+      <p><span class="q">Who played Steven Keaton, the ex-hippie dad of Michael J. Fox's Alex, on <em>Family Ties</em> (1982–89)?</span><br><span class="a">Michael Gross</span></p>
+      <p><span class="q">Deep cut: who played forest ranger Rick Marshall, the dad of Will and Holly, on Sid and Marty Krofft's <em>Land of the Lost</em> (1974–76)?</span><br><span class="a">Spencer Milligan</span></p>
+    </div>
+  </div>
+
+  <div class="card arts">
+    <h2>🎨 Arts &amp; Literature</h2>
+    <div class="body">
+      <p><span class="q"><em>Alice's Adventures in Wonderland</em> was published on Nov 26, 1865. What was "Lewis Carroll"'s real name?</span><br><span class="a">Charles Lutwidge Dodgson, an Oxford math lecturer</span></p>
+      <p><span class="q">Charles Schulz was born on this date in 1922. In <em>A Charlie Brown Thanksgiving</em> (1973), what do Snoopy and Woodstock serve for dinner?</span><br><span class="a">Buttered toast, popcorn, pretzel sticks and jelly beans</span></p>
+      <p><span class="q">Eugène Ionesco, born Nov 26, 1909, wrote which absurdist play in which a whole town turns into a horned animal?</span><br><span class="a"><em>Rhinoceros</em> (1959)</span></p>
+      <p><span class="q">"Christmas won't be Christmas without any presents," grumbled Jo. Which novel opens with this line?</span><br><span class="a"><em>Little Women</em>, Louisa May Alcott</span></p>
+      <p><span class="q">In Longfellow's poem <em>The Courtship of Miles Standish</em>, Priscilla Mullins asks, "Why don't you speak for yourself, John?" Which Pilgrim is she asking?</span><br><span class="a">John Alden (she later married him)</span></p>
+      <p><span class="q">Which poet wrote "O Captain! My Captain!" mourning Abraham Lincoln, the president who made Thanksgiving a national holiday?</span><br><span class="a">Walt Whitman</span></p>
+    </div>
+  </div>
+
+  <div class="card founded">
+    <h2>🏭 Founded &amp; Invented</h2>
+    <div class="body">
+      <p><span class="q">Ready for the post-dinner nap? Which recliner company did cousins Edward Knabusch and Edwin Shoemaker start in Monroe, Michigan, in the late 1920s? Its name came from a contest.</span><br><span class="a">La-Z-Boy</span></p>
+      <p><span class="q">Which fizzy tablet did Miles Laboratories of Elkhart, Indiana, launch in 1931? Its mascot, Speedy, came along in 1951.</span><br><span class="a">Alka-Seltzer</span></p>
+      <p><span class="q">The NFL was founded in 1920 as the American Professional Football Association, in Canton, Ohio. What kind of business did the founders meet in?</span><br><span class="a">A car dealership: Ralph Hay's Hupmobile showroom</span></p>
+      <p><span class="q"><em>The Toll of the Sea</em>, released Nov 26, 1922, starring Anna May Wong, was the first general-release feature film shot in which color process?</span><br><span class="a">Technicolor (its two-color process)</span></p>
+      <p><span class="q">Corning scientist S. Donald Stookey discovered glass-ceramic by accident in 1953 when a furnace overheated. Which oven-to-table cookware came from it in 1958?</span><br><span class="a">CorningWare</span></p>
+      <p><span class="q">S. Duncan Black and Alonzo Decker founded Black &amp; Decker in 1910 in which city? (It later made the Dustbuster.)</span><br><span class="a">Baltimore</span></p>
+    </div>
+  </div>
+
+  <div class="card gen">
+    <h2>🧩 General Trivia</h2>
+    <div class="body">
+      <ul>
+        <li><span class="tag">Animals</span>🦃 The fleshy flap that hangs over a turkey's beak is the <strong>snood</strong>; the red skin under its chin is the <strong>wattle</strong>. Only males (<strong>toms</strong>) gobble.</li>
+        <li><span class="tag">Animals</span>🦃 <strong>Wild turkeys can fly</strong>, in short bursts up to about 55 mph, and they sleep in trees. Farm-raised broad-breasted turkeys are too heavy to fly.</li>
+        <li><span class="tag">Food</span>🥧 <strong>Minnesota raises more turkeys than any other state</strong>, about 40 million a year.</li>
+        <li><span class="tag">Science</span>😴 Turkey doesn't have much more <strong>tryptophan</strong> than chicken. The post-dinner sleepiness comes mostly from eating a huge, carb-heavy meal.</li>
+        <li><span class="tag">History</span>🌽 <strong>Squanto (Tisquantum)</strong> could speak English with the Pilgrims because he had been kidnapped in 1614 and taken to Spain and England.</li>
+        <li><span class="tag">History</span>🦌 At the 1621 harvest feast, <strong>Massasoit arrived with about 90 Wampanoag men</strong>, more than the 50 or so colonists. They brought <strong>five deer</strong>, and the celebration lasted three days.</li>
+        <li><span class="tag">History</span>🪨 <strong>Plymouth Rock split in two in 1774</strong> when townspeople tried to move it. The "1620" carved on it was added in 1880.</li>
+        <li><span class="tag">Music</span>🔔 <strong>"Jingle Bells"</strong> (James Lord Pierpont, 1857) was the <strong>first song played in space</strong>. Gemini 6 astronauts Wally Schirra and Tom Stafford played it on a harmonica and bells in December 1965.</li>
+        <li><span class="tag">TV</span>🐕 <strong>The National Dog Show</strong> is put on by the Kennel Club of Philadelphia, which dates to 1879. NBC has aired it after the Macy's parade since 2002.</li>
+        <li><span class="tag">Music</span>🎤 <strong>Tina Turner</strong>, born on this date in 1939, was born <strong>Anna Mae Bullock</strong>. Her small Tennessee hometown inspired her 1973 hit <strong>"Nutbush City Limits."</strong></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card music">
+    <h2>🎵 Song &amp; Artist (1990–2010)</h2>
+    <div class="body">
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Thnks fr th Mmrs</div>
+          <div class="song-meta">Fall Out Boy · 2007 · <em>Infinity on High</em> (yes, the title has no vowels)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/thnks-fr-th-mmrs/1440786414?i=1440787031" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Home</div>
+          <div class="song-meta">Michael Bublé · 2005 · <em>It's Time</em> (written about being homesick on tour)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/0W5zybHvTGLSkpTATdqgb7" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/home/668403225?i=668403671" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Ride Wit Me</div>
+          <div class="song-meta">Nelly feat. City Spud · 2001 · <em>Country Grammar</em> ("Hey, must be the money!")</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/ride-wit-me-feat-city-spud/1440782396?i=1440782622" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Float On</div>
+          <div class="song-meta">Modest Mouse · 2004 · <em>Good News for People Who Love Bad News</em> (the band's breakthrough hit)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/float-on/201257412?i=201257515" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Chasing Cars</div>
+          <div class="song-meta">Snow Patrol · 2006 · <em>Eyes Open</em> (broke big after the <em>Grey's Anatomy</em> Season 2 finale)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/chasing-cars/1442491560?i=1442491770" target="_blank">Apple</a>
+        </div>
+      </div>
+      <div class="song-row">
+        <div class="song-info">
+          <div class="song-title">Hey There Delilah</div>
+          <div class="song-meta">Plain White T's · 2006 · <em>All That We Needed</em> (No. 1 in 2007; written for runner Delilah DiCrescenzo)</div>
+        </div>
+        <div class="song-links">
+          <a class="spotify" href="https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH" target="_blank">Spotify</a>
+          <a class="apple" href="https://music.apple.com/us/album/hey-there-delilah/1443174061?i=1443175247" target="_blank">Apple</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
