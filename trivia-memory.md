@@ -22,6 +22,10 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 26 | Turkey (Thanksgiving tie-in) | Ankara (capital since 1923, not Istanbul) |
+| Nov 26 | Belize | Belmopan (built inland after Hurricane Hattie 1961) |
+| Nov 26 | Kyrgyzstan | Bishkek (Soviet-era Frunze) |
+| Nov 26 | Senegal | Dakar (Cap-Vert peninsula, westernmost mainland Africa; Paris–Dakar Rally) |
 | Nov 25 | Uruguay | Montevideo (Estadio Centenario, 1930 World Cup final, Uruguay 4–2 Argentina) |
 | Nov 25 | Western Australia (Australia) | Perth (most isolated major city) |
 | Nov 25 | Ghana | Accra (first sub-Saharan colony to win independence, 1957) |
@@ -265,6 +269,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Show | Character | Actor |
 |------|------|-----------|-------|
+| Nov 26 | Lost in Space (1965–68) | Dr. Zachary Smith | Jonathan Harris |
+| Nov 26 | The Addams Family (1964–66) | Gomez Addams | John Astin |
+| Nov 26 | Fantasy Island (1977–84) | Mr. Roarke | Ricardo Montalbán (Hervé Villechaize as Tattoo) |
+| Nov 26 | Cagney & Lacey (1981–88) | Mary Beth Lacey | Tyne Daly (Sharon Gless as Christine Cagney) |
+| Nov 26 | Family Ties (1982–89) | Steven Keaton | Michael Gross |
+| Nov 26 | Land of the Lost (1974–76) | Rick Marshall | Spencer Milligan |
 | Nov 25 | The Rockford Files (1974–80) | Joseph "Rocky" Rockford | Noah Beery Jr. |
 | Nov 25 | Dark Shadows (1966–71) | Barnabas Collins | Jonathan Frid |
 | Nov 25 | Dallas (1978–91) | J.R. Ewing | Larry Hagman (mother Mary Martin) |
@@ -620,6 +630,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Topic / Question | Answer |
 |------|-----------------|--------|
+| Nov 26 | Alice's Adventures in Wonderland published Nov 26, 1865; Lewis Carroll's real name | Charles Lutwidge Dodgson |
+| Nov 26 | A Charlie Brown Thanksgiving (1973) menu (Schulz born Nov 26, 1922) | Toast, popcorn, pretzel sticks, jelly beans |
+| Nov 26 | Ionesco (born Nov 26, 1909) play where townspeople become animals | Rhinoceros (1959) |
+| Nov 26 | First line "Christmas won't be Christmas without any presents" | Little Women — Louisa May Alcott |
+| Nov 26 | "Why don't you speak for yourself, John?" (Courtship of Miles Standish, Longfellow) | John Alden |
+| Nov 26 | "O Captain! My Captain!" (Lincoln elegy) | Walt Whitman |
 | Nov 25 | Longest-running play, opened Nov 25, 1952 | The Mousetrap — Agatha Christie (Attenborough original Trotter) |
 | Nov 25 | Shakespeare's shortest play (Stanley Wells died) | The Comedy of Errors |
 | Nov 25 | "Happy families are all alike…" opener | Anna Karenina — Leo Tolstoy |
@@ -979,6 +995,16 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Category | Topic/Fact |
 |------|----------|-----------|
+| Nov 26 | Animals | Turkey snood (over beak) vs wattle (under chin); only toms gobble |
+| Nov 26 | Animals | Wild turkeys fly up to ~55 mph, roost in trees; broad-breasted can't fly |
+| Nov 26 | Food | Minnesota top turkey-producing state (~40M/yr) |
+| Nov 26 | Science | Tryptophan myth — turkey ≈ chicken; drowsiness from big carb meal |
+| Nov 26 | History | Squanto (Tisquantum) kidnapped 1614, taken to Spain and England |
+| Nov 26 | History | 1621 feast: Massasoit with ~90 Wampanoag men, ~50 colonists, five deer, three days |
+| Nov 26 | History | Plymouth Rock split 1774 when moved; "1620" carved 1880 |
+| Nov 26 | Music | Jingle Bells (Pierpont 1857) first song played in space, Gemini 6, Dec 1965 |
+| Nov 26 | TV | National Dog Show, Kennel Club of Philadelphia (1879), on NBC since 2002 |
+| Nov 26 | Music | Tina Turner (born Nov 26, 1939) = Anna Mae Bullock; Nutbush City Limits |
 | Nov 25 | History | White Ship sank Nov 25, 1120; William Adelin drowned; led to the Anarchy |
 | Nov 25 | Baseball | DiMaggio (born Nov 25, 1914) 56-game streak 1941, then 16 more straight |
 | Nov 25 | Food | Wishbone = furcula, fused collarbones |
@@ -1640,6 +1666,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Calendar Date Used for "This Day in History" |
 |------|----------------------------------------------|
+| Nov 26 | November 26 (Washington's first national Thanksgiving under the Constitution 1789; Casablanca premieres at NYC Hollywood Theatre 1942; France launches Astérix-1 from Hammaguir, third nation 1965; InSight lands on Mars, Elysium Planitia 2018. Born: Ionesco, Schulz, Goulet, Rich Little, Tina Turner) |
 | Nov 25 | November 25 (Missionary Ridge 1863; Einstein field equations to Prussian Academy 1915; JFK funeral, John Jr. salute on 3rd birthday 1963; Band Aid records 'Do They Know It's Christmas?' 1984. Born: Carnegie, Benz, John XXIII, DiMaggio, Pinochet) |
 | Nov 24 | November 24 (Origin of Species published 1859, 1,250 copies; Jack Ruby shoots Oswald on live TV 1963; D.B. Cooper hijacks Northwest Orient Flight 305, $200,000, 1971; Lucy found at Hadar, Ethiopia by Johanson & Gray 1974. Born: Spinoza, Sterne, Zachary Taylor, Collodi, Toulouse-Lautrec, Scott Joplin, Dale Carnegie, William F. Buckley Jr., Katherine Heigl. Died: Freddie Mercury 1991) |
 | Nov 23 | November 23 (first jukebox, Palais Royale Saloon SF 1889; first Life magazine 1936; Doctor Who premieres 1963, Hartnell, "An Unearthly Child"; PRC takes UN Security Council seat 1971. Born: Franklin Pierce, Billy the Kid, Manuel de Falla, Boris Karloff, Harpo Marx, Vincent Cassel, Miley Cyrus. Died: Roald Dahl 1990) |
@@ -1708,6 +1735,7 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | National Days |
 |------|--------------|
+| Nov 26 | Thanksgiving Day; National Cake Day; National Dog Show; National Day of Mourning (Cole's Hill, since 1970); Constitution Day (India) |
 | Nov 25 | National Parfait Day; Shopping Reminder Day; International Day for the Elimination of Violence against Women; Suriname Independence Day |
 | Nov 24 | National Sardines Day; Celebrate Your Unique Talent Day; Evolution Day; D.B. Cooper Day |
 | Nov 23 | National Espresso Day; National Cashew Day; Eat a Cranberry Day; Fibonacci Day |
@@ -1783,6 +1811,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Question | Answer |
 |------|----------|--------|
+| Nov 26 | La-Z-Boy recliner | Edward Knabusch & Edwin Shoemaker, Monroe MI, late 1920s; name from contest |
+| Nov 26 | Alka-Seltzer 1931 | Miles Laboratories, Elkhart IN; Speedy 1951 |
+| Nov 26 | NFL founded 1920 as APFA | Ralph Hay's Hupmobile dealership, Canton OH |
+| Nov 26 | The Toll of the Sea (Nov 26, 1922, Anna May Wong) | First general-release two-color Technicolor feature |
+| Nov 26 | CorningWare 1958 | S. Donald Stookey glass-ceramic accident 1953 (furnace overheated) |
+| Nov 26 | Black & Decker 1910 | Baltimore (S. Duncan Black, Alonzo Decker); Dustbuster 1979 |
 | Nov 25 | Benz Patent-Motorwagen 1886 (Benz born Nov 25, 1844) | Karl Benz; Bertha's 66-mile drive 1888, fuel from Wiesloch pharmacy |
 | Nov 25 | Cool Whip 1966 | William A. Mitchell, General Foods (also Pop Rocks) |
 | Nov 25 | Ziploc bag 1968 | Dow Chemical |
@@ -2140,6 +2174,12 @@ _Tracks previously used questions to avoid repetition. Updated automatically eac
 
 | Week | Song | Artist | Year |
 |------|------|--------|------|
+| Nov 26 | Thnks fr th Mmrs | Fall Out Boy | 2007 |
+| Nov 26 | Home | Michael Bublé | 2005 |
+| Nov 26 | Ride Wit Me | Nelly feat. City Spud | 2001 |
+| Nov 26 | Float On | Modest Mouse | 2004 |
+| Nov 26 | Chasing Cars | Snow Patrol | 2006 |
+| Nov 26 | Hey There Delilah | Plain White T's | 2006 |
 | Nov 25 | Losing My Religion | R.E.M. | 1991 |
 | Nov 25 | No Rain | Blind Melon | 1993 |
 | Nov 25 | Basket Case | Green Day | 1994 |
@@ -3409,4 +3449,19 @@ NFL Thanksgiving slate; CFP rankings Nov 24: Georgia, Utah, Texas, Notre Dame; T
 ### Notes
 Run fired Wednesday Nov 25, 2026 (~12:02 UTC); header dated Wednesday, November 25, 2026. Nov 25 not previously used for This Day in History. Cloud git push refused by the proxy; pushed from the connected device shell. 6 songs: Spotify IDs from artist embed pages (artist IDs via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API. Pruned 44 table rows and 1 per-run section dated Sep 1.
 
-_Last updated: November 25, 2026_
+
+## November 26, 2026 (v115)
+
+### NFL
+ESPN byteam 2026, splitId 0, pulled Thu Nov 26 before the Thanksgiving games (after Wed Netflix GB at LAR, Rams 26–13): Detroit Lions 405.6 yds/g (4,056 total, 10 GP, 3rd in total); top 5 Lions / Chiefs 405.1 (4,051, 10) / Bills 402.6 (4,026, 10) / 49ers 401.5 (4,015, 10) / Rams 395.2 (4,347, 11, No. 1 total). Cowboys 2nd total 4,232 (11 GP, 8th per game). Bengals 388.9 yds/g 7th, 3,889 total 8th, 7–3. Next: Sun Nov 29 vs NO 1 p.m. EST, CBS. Black Friday DEN at PIT 3 p.m. Prime. ESPN rank arrays matched.
+
+### Box Office
+Weekend Nov 20–22: #1 Sunrise on the Reaping $119.3M; Mon $12.8M, Tue $16M (franchise records); $148.2M five days (Gold Derby via Yahoo, Nov 25). Fun fact used: expected to pass Ballad of Songbirds & Snakes lifetime $166.3M by Sunday; A– CinemaScore, 94% RT. Hexed $2.1M Tue previews (beat Encanto $1.5M), 5-day forecast $35–40M; Focker-In-Law $36–45M; Hershey 2,275 theaters; Cliff Booth Netflix ~250 IMAX.
+
+### Sports / Deaths / Current Events
+NFL: Rams 26–13 GB, first Thanksgiving Eve game (Netflix), Corum 32-184, Rams 7–4, 5 straight; Thanksgiving CHI at DET, PHI at DAL, KC at BUF. MLB: MLB sued MLBPA Nov 25 seeking ruling lockout is legal; lockout expected 11:59 p.m. ET Dec 1; salary cap dispute; $1M minimum offer. NCAA: UC (6–5) at No. 10 BYU Sat 3:30 p.m. EST Fox. MLS: FCC leads Nashville 1–0, Game 2 Sat 6:30 TQL. NBA Nov 25: LeBron first 76ers triple-double (25/12/10), PHI 15–4 d. MIA 111–104; Wembanyama 44/16 in 116–111 loss to POR; Towns double-double in all 17 games, Knicks 6 straight; Bucks 2–17. NHL: WSH 4 goals in 2:48, 7–3 over PHI; Dahlin goal at 0:17, BUF 5–1 NYR. Tennis: Davis Cup Final 8 Bologna Nov 24–29, Czechia d. Canada 2–0. Deaths: Martha Firestone Ford 101 (Nov 24), Veruschka 87 (Nov 25), Michael Giles 84 (Nov 23), James Russell 95 (Nov 25), Kitty Hart-Moxon 99, Jay Jacobs 88; also Pete Edochie, Joe Wallach, Lydon Murtha, Amos Horev, Hikmet Çetin. News: ICJ ruled Myanmar committed genocide against Rohingya; Huawei convicted by NY federal jury; Houthi drones hit Ras Tanura refinery; Iran says two tankers hit mines in Hormuz; Shenzhou-24 with Pakistan's Muhammad Zeeshan Ali, first foreign astronaut on Tiangong; California record high tides, Pacifica pier damaged; Macy's 100th parade.
+
+### Notes
+Run fired Thursday Nov 26, 2026 (~12:02 UTC); header dated Thursday, November 26, 2026 (Thanksgiving). Nov 26 not previously used for This Day in History. 6 songs: Spotify IDs from artist embed pages (Plain White T's artist ID via Wikidata P1902), all oEmbed-verified; Apple IDs from the iTunes Search API (via device shell; cloud iTunes calls returned 403). Deaths sourced from dead-people.com listing (Wikipedia pages not yet updated). Cloud git push refused by the session git proxy; pushed from the connected device shell. No table rows older than 12 weeks to prune.
+
+_Last updated: November 26, 2026_
